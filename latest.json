@@ -2,20 +2,21 @@
   "date": "2026-09-25",
   "stats": {
     "scanned": 15750,
-    "passed": 2488,
+    "passed": 1844,
     "deep": 120,
-    "calls": 211,
-    "monthCalls": 211,
+    "calls": 240,
+    "monthCalls": 451,
     "budget": 10000,
     "tossed": {
-      "stablecoin or gold token": 257,
-      "most tokens not released yet (big unlocks coming)": 310,
-      "too little trading to sell out of": 12155,
-      "wrapped or staked copy of another coin": 31,
-      "suspicious, fake-looking trading volume": 137,
+      "stablecoin or gold token": 252,
+      "most tokens not released yet (big unlocks coming)": 296,
+      "memecoin or other sector you excluded": 6727,
+      "too little trading to sell out of": 6138,
+      "wrapped or staked copy of another coin": 26,
+      "suspicious, fake-looking trading volume": 95,
       "no market cap data": 372,
-      "looks abandoned (Telegram silent, no code updates)": 20,
-      "no centralized exchange listing": 16
+      "looks abandoned (Telegram silent, no code updates)": 5,
+      "no centralized exchange listing": 19
     },
     "warning": null
   },
@@ -24,22 +25,24 @@
       "id": "automata",
       "name": "Automata",
       "symbol": "ata",
-      "score": 54,
-      "price": 0.00077736,
-      "marketCap": 755030,
-      "volume24h": 533669,
+      "score": 58,
+      "price": 0.00076133,
+      "marketCap": 738982,
+      "volume24h": 521029,
+      "week": 8.7137,
       "why": [
-        "tiny market cap ($755K) — lots of room to grow",
+        "tiny market cap ($739K) — lots of room to grow",
         "healthy trading for its size (71% of its value traded in a day)",
-        "price up on the day (+14.6%) and the week (+8.8%)",
+        "price up on the day (+9.7%) and the week (+8.7%)",
         "100% below its all-time high, but still actively traded",
-        "valued at $755K vs a typical $11.97M for \"Restaking\" coins"
+        "valued at $739K vs a typical $11.97M for \"Restaking\" coins"
       ],
       "flags": [],
       "exchanges": [
         "WEEX",
         "KuCoin",
-        "Gate"
+        "Gate",
+        "Azbit"
       ],
       "homepage": "https://www.ata.network/",
       "xHandle": "automatanetwork",
@@ -58,118 +61,20 @@
       "commits": null
     },
     {
-      "id": "three-ws",
-      "name": "three.ws",
-      "symbol": "three",
-      "score": 53,
-      "price": 0.00083265,
-      "marketCap": 832818,
-      "volume24h": 780123,
-      "why": [
-        "tiny market cap ($833K) — lots of room to grow",
-        "healthy trading for its size (94% of its value traded in a day)",
-        "price up on the day (+10.6%) and the week (+4.5%)",
-        "95% below its all-time high, but still actively traded",
-        "valued at $833K vs a typical $14.80M for \"Artificial Intelligence (AI)\" coins"
-      ],
-      "flags": [],
-      "exchanges": [
-        "LBank",
-        "KCEX"
-      ],
-      "homepage": "https://three.ws/",
-      "xHandle": "trythreews",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Artificial Intelligence (AI)",
-        "Solana Ecosystem",
-        "Pump.fun Ecosystem",
-        "AI Agent Launchpad"
-      ],
-      "commits": null
-    },
-    {
-      "id": "liveart",
-      "name": "LiveArt",
-      "symbol": "art",
-      "score": 53,
-      "price": 0.00020135,
-      "marketCap": 124870,
-      "volume24h": 45865,
-      "why": [
-        "tiny market cap ($125K) — lots of room to grow",
-        "healthy trading for its size (37% of its value traded in a day)",
-        "price up on the day (+0.1%) and the week (+0.8%)",
-        "100% below its all-time high, but still actively traded",
-        "valued at $125K vs a typical $1.60M for \"NFT\" coins"
-      ],
-      "flags": [],
-      "exchanges": [
-        "KuCoin",
-        "Gate"
-      ],
-      "homepage": "https://liveart.io/",
-      "xHandle": "liveartX",
-      "tgId": "LiveArtX",
-      "tgMembers": 64885,
-      "website": "ok",
-      "categories": [
-        "NFT",
-        "BNB Chain Ecosystem",
-        "Real World Assets (RWA)",
-        "Base Ecosystem"
-      ],
-      "commits": null
-    },
-    {
-      "id": "italian-brainrot",
-      "name": "Italian Brainrot",
-      "symbol": "italianrot",
-      "score": 53,
-      "price": 0.00010998,
-      "marketCap": 109928,
-      "volume24h": 36050,
-      "why": [
-        "tiny market cap ($110K) — lots of room to grow",
-        "healthy trading for its size (33% of its value traded in a day)",
-        "price up on the day (+4.8%) and the week (+0.0%)",
-        "99% below its all-time high, but still actively traded",
-        "valued at $110K vs a typical $1.47M for \"Solana Meme\" coins"
-      ],
-      "flags": [],
-      "exchanges": [
-        "KCEX",
-        "CEX.IO"
-      ],
-      "homepage": "https://www.tiktok.com/discover/animal-brainrot-italy",
-      "xHandle": null,
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Solana Ecosystem",
-        "Meme",
-        "Solana Meme",
-        "Pump.fun Ecosystem"
-      ],
-      "commits": null
-    },
-    {
       "id": "taraxa",
       "name": "Taraxa",
       "symbol": "tara",
-      "score": 52,
-      "price": 0.00003122,
-      "marketCap": 190650,
-      "volume24h": 58236,
+      "score": 55,
+      "price": 0.0000315,
+      "marketCap": 192917,
+      "volume24h": 58332,
+      "week": 6.3559,
       "why": [
-        "tiny market cap ($191K) — lots of room to grow",
-        "healthy trading for its size (31% of its value traded in a day)",
-        "price up on the day (+12.9%) and the week (+3.9%)",
+        "tiny market cap ($193K) — lots of room to grow",
+        "healthy trading for its size (30% of its value traded in a day)",
+        "price up on the day (+12.1%) and the week (+6.4%)",
         "100% below its all-time high, but still actively traded",
-        "valued at $191K vs a typical $10.00M for \"Gaming Blockchains\" coins"
+        "valued at $193K vs a typical $10.00M for \"Gaming Blockchains\" coins"
       ],
       "flags": [],
       "exchanges": [
@@ -194,114 +99,18 @@
       "commits": null
     },
     {
-      "id": "expert_money",
-      "name": "EXPERT_MONEY",
-      "symbol": "expert",
-      "score": 52,
-      "price": 0.00023635,
-      "marketCap": 160706,
-      "volume24h": 92688,
-      "why": [
-        "tiny market cap ($161K) — lots of room to grow",
-        "healthy trading for its size (58% of its value traded in a day)",
-        "price up on the day (+0.8%) and the week (+3.3%)",
-        "95% below its all-time high, but still actively traded",
-        "valued at $161K vs a typical $1.47M for \"Solana Meme\" coins"
-      ],
-      "flags": [],
-      "exchanges": [
-        "KCEX"
-      ],
-      "homepage": "https://www.experttoken.xyz",
-      "xHandle": "expertmoneytkn",
-      "tgId": "Expert_Money_Chat",
-      "tgMembers": 990,
-      "website": "ok",
-      "categories": [
-        "Solana Ecosystem",
-        "Meme",
-        "Solana Meme",
-        "Pump.fun Ecosystem"
-      ],
-      "commits": null
-    },
-    {
-      "id": "petunia",
-      "name": "Petunia",
-      "symbol": "petunia",
-      "score": 52,
-      "price": 0.00002525,
-      "marketCap": 25178,
-      "volume24h": 24659,
-      "why": [
-        "tiny market cap ($25K) — lots of room to grow",
-        "healthy trading for its size (98% of its value traded in a day)",
-        "price up on the day (+5.8%) and the week (+8.3%)",
-        "100% below its all-time high, but still actively traded",
-        "valued at $25K vs a typical $15.27M for \"Meme\" coins"
-      ],
-      "flags": [
-        "website is down"
-      ],
-      "exchanges": [
-        "SecondBTC"
-      ],
-      "homepage": "https://www.petuniasol.com/",
-      "xHandle": "petuniameme",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "dead",
-      "categories": [
-        "Solana Ecosystem",
-        "Meme",
-        "Pump.fun Ecosystem"
-      ],
-      "commits": null
-    },
-    {
-      "id": "top-network",
-      "name": "TOP AI Network",
-      "symbol": "top",
-      "score": 52,
-      "price": 0.00006958,
-      "marketCap": 1063081,
-      "volume24h": 299662,
-      "why": [
-        "tiny market cap ($1.06M) — lots of room to grow",
-        "healthy trading for its size (28% of its value traded in a day)",
-        "price up on the day (+0.0%) and the week (+0.4%)",
-        "100% below its all-time high, but still actively traded",
-        "valued at $1.06M vs a typical $5.51M for \"Infrastructure\" coins"
-      ],
-      "flags": [],
-      "exchanges": [
-        "HTX",
-        "MEXC"
-      ],
-      "homepage": "https://www.topnetwork.org/",
-      "xHandle": null,
-      "tgId": "topnetwork_top",
-      "tgMembers": 1732,
-      "website": "ok",
-      "categories": [
-        "Infrastructure",
-        "Smart Contract Platform",
-        "Layer 1 (L1)"
-      ],
-      "commits": null
-    },
-    {
       "id": "donut-2",
       "name": "Donut",
       "symbol": "donut",
-      "score": 51,
-      "price": 0.00433004,
-      "marketCap": 89822,
-      "volume24h": 25531,
+      "score": 54,
+      "price": 0.00433023,
+      "marketCap": 89785,
+      "volume24h": 25542,
+      "week": 2.5223,
       "why": [
         "tiny market cap ($90K) — lots of room to grow",
         "healthy trading for its size (28% of its value traded in a day)",
-        "price up on the day (+0.8%) and the week (+2.6%)",
+        "price up on the day (+0.3%) and the week (+2.5%)",
         "99% below its all-time high, but still actively traded",
         "valued at $90K vs a typical $42.97M for \"Decentralized Finance (DeFi)\" coins"
       ],
@@ -321,84 +130,18 @@
       "commits": null
     },
     {
-      "id": "goblincoin",
-      "name": "GoblinCoin",
-      "symbol": "goblin",
-      "score": 49,
-      "price": 0.00019096,
-      "marketCap": 134326,
-      "volume24h": 31619,
-      "why": [
-        "tiny market cap ($134K) — lots of room to grow",
-        "healthy trading for its size (24% of its value traded in a day)",
-        "price up on the day (+15.8%) and the week (+8.6%)",
-        "99% below its all-time high, but still actively traded",
-        "valued at $134K vs a typical $1.47M for \"Solana Meme\" coins"
-      ],
-      "flags": [],
-      "exchanges": [
-        "KCEX"
-      ],
-      "homepage": "https://goblincoin.org/",
-      "xHandle": "goblinpump",
-      "tgId": "goblinonpump",
-      "tgMembers": 98,
-      "website": "ok",
-      "categories": [
-        "Solana Ecosystem",
-        "Meme",
-        "Solana Meme",
-        "Pump.fun Ecosystem"
-      ],
-      "commits": null
-    },
-    {
-      "id": "illusion-of-life",
-      "name": "Illusion of Life",
-      "symbol": "spark",
-      "score": 49,
-      "price": 0.00012097,
-      "marketCap": 120914,
-      "volume24h": 26969,
-      "why": [
-        "tiny market cap ($121K) — lots of room to grow",
-        "healthy trading for its size (22% of its value traded in a day)",
-        "price up on the day (+6.2%) and the week (+1.7%)",
-        "100% below its all-time high, but still actively traded",
-        "valued at $121K vs a typical $1.47M for \"Solana Meme\" coins"
-      ],
-      "flags": [
-        "website is down"
-      ],
-      "exchanges": [
-        "KCEX"
-      ],
-      "homepage": "https://www.illusionoflife.inc",
-      "xHandle": "sparkboinkboink",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "dead",
-      "categories": [
-        "Solana Ecosystem",
-        "Meme",
-        "Dog-Themed",
-        "Solana Meme",
-        "Pump.fun Ecosystem"
-      ],
-      "commits": null
-    },
-    {
       "id": "staynex",
       "name": "STAYNEX",
       "symbol": "stay",
-      "score": 49,
+      "score": 52,
       "price": 0.00000439,
-      "marketCap": 174419,
-      "volume24h": 68907,
+      "marketCap": 174426,
+      "volume24h": 68910,
+      "week": 23.5672,
       "why": [
         "tiny market cap ($174K) — lots of room to grow",
         "healthy trading for its size (40% of its value traded in a day)",
-        "price up on the day (+5.2%) and the week (+23.2%)",
+        "price up on the day (+4.9%) and the week (+23.6%)",
         "99% below its all-time high, but still actively traded",
         "valued at $174K vs a typical $7.21M for \"Tourism\" coins"
       ],
@@ -412,7 +155,7 @@
       "homepage": "https://www.staynex.vip/",
       "xHandle": "staynexcom",
       "tgId": "officialstaynex",
-      "tgMembers": 49603,
+      "tgMembers": 49597,
       "website": "ok",
       "categories": [
         "Artificial Intelligence (AI)",
@@ -423,47 +166,117 @@
       "commits": null
     },
     {
-      "id": "ancient8",
-      "name": "Ancient8",
-      "symbol": "a8",
-      "score": 47,
-      "price": 0.00577251,
-      "marketCap": 3717126,
-      "volume24h": 2303730,
+      "id": "axt-bstocks-tokenized-stock",
+      "name": "AXT (bStocks Tokenized Stock)",
+      "symbol": "axtib",
+      "score": 52,
+      "price": 79.92,
+      "marketCap": 4203044,
+      "volume24h": 2091860,
+      "week": 15.875,
       "why": [
-        "tiny market cap ($3.72M) — lots of room to grow",
-        "healthy trading for its size (62% of its value traded in a day)",
-        "price up on the day (+0.1%) and the week (+15.5%)",
-        "99% below its all-time high, but still actively traded"
+        "tiny market cap ($4.20M) — lots of room to grow",
+        "healthy trading for its size (50% of its value traded in a day)",
+        "price up on the day (+3.0%) and the week (+15.9%)",
+        "valued at $4.20M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
       ],
       "flags": [],
       "exchanges": [
-        "HTX",
-        "Bithumb",
-        "Coinbase Exchange",
-        "Bybit",
-        "Toobit",
-        "Bitget",
-        "Gate",
-        "BitKan",
-        "Mudrex"
+        "LBank",
+        "KCEX",
+        "Binance",
+        "BingX"
       ],
-      "homepage": "https://ancient8.gg/",
-      "xHandle": null,
+      "homepage": "https://www.binance.com/bstocks-landing",
+      "xHandle": "binance",
       "tgId": null,
       "tgMembers": null,
       "website": "ok",
       "categories": [
-        "Smart Contract Platform",
-        "Gaming (GameFi)",
-        "Play To Earn",
-        "Guild and Scholarship",
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
+        "Tokenized Stocks",
+        "Real World Assets (RWA)",
+        "bStocks Ecosystem"
+      ],
+      "commits": null
+    },
+    {
+      "id": "asml-holding-nv-ondo-tokenized-stock",
+      "name": "ASML Holding NV (Ondo Tokenized Stock)",
+      "symbol": "asmlon",
+      "score": 52,
+      "price": 1749.98,
+      "marketCap": 3335735,
+      "volume24h": 1694573,
+      "week": 5.6599,
+      "why": [
+        "tiny market cap ($3.34M) — lots of room to grow",
+        "healthy trading for its size (51% of its value traded in a day)",
+        "price up on the day (+0.9%) and the week (+5.7%)",
+        "valued at $3.34M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
+      ],
+      "flags": [],
+      "exchanges": [
+        "LBank",
+        "KCEX",
+        "MEXC",
+        "Ondo Stocks"
+      ],
+      "homepage": "https://app.ondo.finance/assets/asmlon",
+      "xHandle": "ondofinance",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
+        "Solana Ecosystem",
+        "Tokenized Stocks",
         "Ethereum Ecosystem",
-        "Layer 2 (L2)",
-        "Gaming Blockchains",
-        "Pantera Capital Portfolio",
-        "Ancient8 Ecosystem",
-        "Optimism Superchain Ecosystem"
+        "Real World Assets (RWA)",
+        "Ondo Tokenized Assets"
+      ],
+      "commits": null
+    },
+    {
+      "id": "bitcoinos",
+      "name": "BitcoinOS",
+      "symbol": "bos",
+      "score": 51,
+      "price": 0.00002674,
+      "marketCap": 271872,
+      "volume24h": 75867,
+      "week": 22.1231,
+      "why": [
+        "tiny market cap ($272K) — lots of room to grow",
+        "healthy trading for its size (28% of its value traded in a day)",
+        "price up on the day (+14.1%) and the week (+22.1%)",
+        "100% below its all-time high, but still actively traded",
+        "valued at $272K vs a typical $5.51M for \"Infrastructure\" coins"
+      ],
+      "flags": [
+        "only 48% of tokens released so far — future unlocks could weigh on price"
+      ],
+      "exchanges": [
+        "Toobit",
+        "KuCoin",
+        "Kraken",
+        "Gate",
+        "BitKan"
+      ],
+      "homepage": "https://bitcoinos.build/",
+      "xHandle": "BTC_OS",
+      "tgId": "BitcoinOS_Build",
+      "tgMembers": 25122,
+      "website": "ok",
+      "categories": [
+        "Infrastructure",
+        "Smart Contract Platform",
+        "BNB Chain Ecosystem",
+        "Ethereum Ecosystem",
+        "Zero Knowledge (ZK)",
+        "Governance"
       ],
       "commits": null
     },
@@ -471,14 +284,15 @@
       "id": "world-of-dypians",
       "name": "World of Dypians",
       "symbol": "wod",
-      "score": 47,
-      "price": 0.00531828,
-      "marketCap": 3262666,
-      "volume24h": 1664383,
+      "score": 50,
+      "price": 0.00539532,
+      "marketCap": 3296218,
+      "volume24h": 1712208,
+      "week": 69.2679,
       "why": [
-        "tiny market cap ($3.26M) — lots of room to grow",
-        "healthy trading for its size (51% of its value traded in a day)",
-        "price up on the day (+13.2%) and the week (+73.0%)",
+        "tiny market cap ($3.30M) — lots of room to grow",
+        "healthy trading for its size (52% of its value traded in a day)",
+        "price up on the day (+12.9%) and the week (+69.3%)",
         "98% below its all-time high, but still actively traded"
       ],
       "flags": [],
@@ -495,7 +309,7 @@
       "homepage": "https://www.worldofdypians.com/",
       "xHandle": "worldofdypians",
       "tgId": "worldofdypians",
-      "tgMembers": 195649,
+      "tgMembers": 195634,
       "website": "ok",
       "categories": [
         "Gaming (GameFi)",
@@ -508,37 +322,257 @@
       "commits": null
     },
     {
-      "id": "nietzschean-penguin",
-      "name": "Nietzschean Penguin",
-      "symbol": "penguin",
-      "score": 46,
-      "price": 0.00076543,
-      "marketCap": 765346,
-      "volume24h": 459305,
+      "id": "microsoft-bstocks-tokenized-stock",
+      "name": "Microsoft (bStocks Tokenized Stock)",
+      "symbol": "msftb",
+      "score": 50,
+      "price": 516.98,
+      "marketCap": 3083366,
+      "volume24h": 1552242,
+      "week": 4.3939,
       "why": [
-        "tiny market cap ($765K) — lots of room to grow",
-        "healthy trading for its size (60% of its value traded in a day)",
-        "price up on the day (+1.3%) and the week (+0.9%)",
-        "100% below its all-time high, but still actively traded"
+        "tiny market cap ($3.08M) — lots of room to grow",
+        "healthy trading for its size (50% of its value traded in a day)",
+        "price up on the day (+4.0%) and the week (+4.4%)",
+        "valued at $3.08M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
       ],
       "flags": [],
       "exchanges": [
         "LBank",
-        "Toobit",
-        "KCEX",
-        "Gate",
-        "Bitrue"
+        "Binance"
       ],
-      "homepage": "https://www.penguinonsol.com/",
-      "xHandle": "NietzscheanSol_",
+      "homepage": "https://www.bstocks.finance/en/",
+      "xHandle": "binance",
       "tgId": null,
       "tgMembers": null,
       "website": "ok",
       "categories": [
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
+        "Tokenized Stocks",
+        "Real World Assets (RWA)",
+        "bStocks Ecosystem"
+      ],
+      "commits": null
+    },
+    {
+      "id": "proshares-ultrapro-qqq-bstocks-tokenized-stock",
+      "name": "ProShares UltraPro QQQ (bStocks Tokenized Stock)",
+      "symbol": "tqqqb",
+      "score": 50,
+      "price": 79.57,
+      "marketCap": 2125551,
+      "volume24h": 1411323,
+      "week": 11.2195,
+      "why": [
+        "tiny market cap ($2.13M) — lots of room to grow",
+        "healthy trading for its size (66% of its value traded in a day)",
+        "price up on the day (+1.4%) and the week (+11.2%)",
+        "valued at $2.13M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
+      ],
+      "flags": [],
+      "exchanges": [
+        "LBank",
+        "Binance"
+      ],
+      "homepage": "https://www.binance.com/bstocks-landing",
+      "xHandle": "binance",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
+        "Tokenized Stocks",
+        "Real World Assets (RWA)",
+        "bStocks Ecosystem"
+      ],
+      "commits": null
+    },
+    {
+      "id": "western-digital-bstocks-tokenized-stock",
+      "name": "Western Digital (bStocks Tokenized Stock)",
+      "symbol": "wdcb",
+      "score": 50,
+      "price": 457.29,
+      "marketCap": 2053282,
+      "volume24h": 1235407,
+      "week": 3.6687,
+      "why": [
+        "tiny market cap ($2.05M) — lots of room to grow",
+        "healthy trading for its size (60% of its value traded in a day)",
+        "price up on the day (+0.6%) and the week (+3.7%)",
+        "valued at $2.05M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
+      ],
+      "flags": [],
+      "exchanges": [
+        "LBank",
+        "Binance"
+      ],
+      "homepage": "https://www.bstocks.finance/en/",
+      "xHandle": "binance",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
+        "Tokenized Stocks",
+        "Real World Assets (RWA)",
+        "bStocks Ecosystem"
+      ],
+      "commits": null
+    },
+    {
+      "id": "sk-hynix-ondo-tokenized",
+      "name": "SK Hynix (Ondo Tokenized)",
+      "symbol": "skhyon",
+      "score": 50,
+      "price": 191.2,
+      "marketCap": 1274253,
+      "volume24h": 1207841,
+      "week": 2.8354,
+      "why": [
+        "tiny market cap ($1.27M) — lots of room to grow",
+        "healthy trading for its size (95% of its value traded in a day)",
+        "price up on the day (+2.6%) and the week (+2.8%)",
+        "valued at $1.27M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
+      ],
+      "flags": [],
+      "exchanges": [
+        "LBank",
+        "Gate",
+        "MEXC",
+        "Ondo Stocks",
+        "KCEX"
+      ],
+      "homepage": "https://app.ondo.finance/",
+      "xHandle": "ondofinance",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
         "Solana Ecosystem",
-        "Meme",
-        "Solana Meme",
-        "Pump.fun Ecosystem"
+        "Tokenized Stocks",
+        "Ethereum Ecosystem",
+        "Real World Assets (RWA)",
+        "Ondo Tokenized Assets"
+      ],
+      "commits": null
+    },
+    {
+      "id": "mastercard-ondo-tokenized-stock",
+      "name": "Mastercard (Ondo Tokenized Stock)",
+      "symbol": "maon",
+      "score": 49,
+      "price": 569.61,
+      "marketCap": 1279417,
+      "volume24h": 775902,
+      "week": 0.4285,
+      "why": [
+        "tiny market cap ($1.28M) — lots of room to grow",
+        "healthy trading for its size (61% of its value traded in a day)",
+        "price up on the day (+0.7%) and the week (+0.4%)",
+        "valued at $1.28M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
+      ],
+      "flags": [],
+      "exchanges": [
+        "LBank",
+        "MEXC",
+        "Gate",
+        "Ondo Stocks"
+      ],
+      "homepage": "https://app.ondo.finance/assets/maon",
+      "xHandle": "ondofinance",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
+        "Solana Ecosystem",
+        "Tokenized Stocks",
+        "Ethereum Ecosystem",
+        "Real World Assets (RWA)",
+        "Ondo Tokenized Assets"
+      ],
+      "commits": null
+    },
+    {
+      "id": "unitedhealth-ondo-tokenized-stock",
+      "name": "UnitedHealth (Ondo Tokenized Stock)",
+      "symbol": "unhon",
+      "score": 49,
+      "price": 387.2,
+      "marketCap": 1219848,
+      "volume24h": 636996,
+      "week": 0.8677,
+      "why": [
+        "tiny market cap ($1.22M) — lots of room to grow",
+        "healthy trading for its size (52% of its value traded in a day)",
+        "price up on the day (+1.0%) and the week (+0.9%)",
+        "valued at $1.22M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
+      ],
+      "flags": [],
+      "exchanges": [
+        "LBank",
+        "Gate",
+        "BingX",
+        "Ondo Stocks"
+      ],
+      "homepage": "https://app.ondo.finance/assets/unhon",
+      "xHandle": "ondofinance",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
+        "Solana Ecosystem",
+        "Tokenized Stocks",
+        "Ethereum Ecosystem",
+        "Real World Assets (RWA)",
+        "Ondo Tokenized Assets"
+      ],
+      "commits": null
+    },
+    {
+      "id": "applied-materials-ondo-tokenized-stocks",
+      "name": "Applied Materials (Ondo Tokenized Stock)",
+      "symbol": "amaton",
+      "score": 49,
+      "price": 485.63,
+      "marketCap": 686308,
+      "volume24h": 480116,
+      "week": 11.2155,
+      "why": [
+        "tiny market cap ($686K) — lots of room to grow",
+        "healthy trading for its size (70% of its value traded in a day)",
+        "price up on the day (+2.7%) and the week (+11.2%)",
+        "valued at $686K vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
+      ],
+      "flags": [],
+      "exchanges": [
+        "LBank",
+        "KCEX",
+        "MEXC",
+        "Ondo Stocks"
+      ],
+      "homepage": "https://app.ondo.finance/",
+      "xHandle": "ondofinance",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
+        "Solana Ecosystem",
+        "Tokenized Stocks",
+        "Ethereum Ecosystem",
+        "Real World Assets (RWA)",
+        "Ondo Tokenized Assets"
       ],
       "commits": null
     },
@@ -546,10 +580,11 @@
       "id": "ac-milan-fan-token",
       "name": "AC Milan Fan Token",
       "symbol": "acm",
-      "score": 45,
-      "price": 0.283438,
-      "marketCap": 4025218,
-      "volume24h": 1055213,
+      "score": 48,
+      "price": 0.283073,
+      "marketCap": 4026896,
+      "volume24h": 1052369,
+      "week": 3.6312,
       "why": [
         "tiny market cap ($4.03M) — lots of room to grow",
         "healthy trading for its size (26% of its value traded in a day)",
@@ -582,235 +617,150 @@
       "commits": null
     },
     {
-      "id": "de-fi",
-      "name": "DeFi",
-      "symbol": "defi",
-      "score": 44,
-      "price": 0.0001192,
-      "marketCap": 500161,
-      "volume24h": 148222,
+      "id": "elizaos",
+      "name": "ElizaOS",
+      "symbol": "elizaos",
+      "score": 48,
+      "price": 0.00016536,
+      "marketCap": 1237179,
+      "volume24h": 296767,
+      "week": 3.609,
       "why": [
-        "tiny market cap ($500K) — lots of room to grow",
-        "healthy trading for its size (30% of its value traded in a day)",
-        "price up on the day (+2.8%) and the week (+10.3%)",
-        "100% below its all-time high, but still actively traded"
+        "tiny market cap ($1.24M) — lots of room to grow",
+        "healthy trading for its size (24% of its value traded in a day)",
+        "price up on the day (+3.9%) and the week (+3.6%)",
+        "98% below its all-time high, but still actively traded"
       ],
       "flags": [],
       "exchanges": [
-        "MEXC",
-        "WEEX",
-        "KuCoin"
-      ],
-      "homepage": "https://de.fi/",
-      "xHandle": "defi",
-      "tgId": "defi_ann",
-      "tgMembers": 17635,
-      "website": "ok",
-      "categories": [
-        "BNB Chain Ecosystem",
-        "Solana Ecosystem",
-        "Ethereum Ecosystem",
-        "DeFiance Capital Portfolio",
-        "Consensys Portfolio",
-        "OKX Ventures Portfolio"
-      ],
-      "commits": null
-    },
-    {
-      "id": "big-time",
-      "name": "Big Time",
-      "symbol": "bigtime",
-      "score": 44,
-      "price": 0.00856892,
-      "marketCap": 24776391,
-      "volume24h": 9421229,
-      "why": [
-        "small market cap ($24.78M)",
-        "healthy trading for its size (38% of its value traded in a day)",
-        "price up on the day (+1.5%) and the week (+13.2%)",
-        "99% below its all-time high, but still actively traded"
-      ],
-      "flags": [],
-      "exchanges": [
-        "LBank",
-        "Upbit",
-        "Binance",
-        "GroveX",
-        "Biconomy.com",
-        "WhiteBIT",
-        "OKX",
-        "Deepcoin",
-        "BVOX",
-        "CoinW",
-        "BTCC",
-        "Toobit",
-        "OrangeX",
-        "Ourbit",
-        "Bithumb",
-        "BigONE",
-        "Bitunix",
-        "HTX",
-        "MEXC",
-        "Bitvavo",
-        "BingX",
-        "Coinbase Exchange",
         "Gate",
-        "Bittime",
+        "Toobit",
+        "MEXC",
         "KCEX",
-        "Bitrue",
-        "LATOKEN",
-        "BitKan",
-        "DigiFinex",
-        "CoinUp.io",
-        "Kraken",
-        "Bitget",
-        "KuCoin",
-        "WEEX",
-        "Kanga Global",
-        "CoinEx",
-        "Mudrex"
-      ],
-      "homepage": "https://bigtime.gg/",
-      "xHandle": "playbigtime",
-      "tgId": "playbigtime",
-      "tgMembers": 7649,
-      "website": "ok",
-      "categories": [
-        "Gaming (GameFi)",
-        "Play To Earn",
-        "Ethereum Ecosystem",
-        "RPG",
-        "Alameda Research Portfolio",
-        "Circle Ventures Portfolio",
-        "OKX Ventures Portfolio",
-        "MMO"
-      ],
-      "commits": null
-    },
-    {
-      "id": "chromaway",
-      "name": "Chromia",
-      "symbol": "chr",
-      "score": 44,
-      "price": 0.02173158,
-      "marketCap": 21184066,
-      "volume24h": 6807950,
-      "why": [
-        "small market cap ($21.18M)",
-        "healthy trading for its size (32% of its value traded in a day)",
-        "price up on the day (+3.5%) and the week (+25.8%)",
-        "99% below its all-time high, but still actively traded"
-      ],
-      "flags": [],
-      "exchanges": [
-        "BitDelta",
-        "Pionex",
-        "Binance",
-        "Biconomy.com",
-        "BTCC",
         "XT.COM",
-        "BYDFi",
-        "Ourbit",
-        "WhiteBIT",
-        "Toobit",
-        "BloFin",
-        "Hibt",
-        "BitKan",
-        "MEXC",
-        "Bitvavo",
-        "KuCoin",
-        "CoinUp.io",
-        "WEEX",
-        "KCEX",
-        "Bittime",
-        "LATOKEN",
-        "Upbit Indonesia ",
-        "Upbit",
-        "Bitget",
-        "Byte Exchange",
-        "Gate",
-        "Koinpark",
-        "Bitrue",
         "Kraken",
-        "TokoCrypto",
-        "Bitlo",
-        "CoinEx",
-        "WazirX",
-        "Mudrex"
+        "BitKan",
+        "CEX.IO",
+        "Crypto.com Exchange"
       ],
-      "homepage": "https://chromia.com/",
-      "xHandle": "chromia",
-      "tgId": "hellochromia",
-      "tgMembers": 15971,
-      "website": "ok",
+      "xHandle": "ElizaEcoFund",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "missing",
       "categories": [
         "Artificial Intelligence (AI)",
-        "Smart Contract Platform",
-        "NFT",
         "BNB Chain Ecosystem",
-        "Layer 1 (L1)",
+        "Solana Ecosystem",
         "Ethereum Ecosystem",
-        "Real World Assets (RWA)",
-        "Modular Blockchain",
-        "Chromia Ecosystem",
-        "RWA Protocol"
+        "Base Ecosystem",
+        "AI Agents",
+        "Binance Alpha Spotlight",
+        "AI Framework",
+        "Made in USA",
+        "Base Native"
       ],
       "commits": null
     },
     {
-      "id": "concierge-io",
-      "name": "AVA (Travala)",
-      "symbol": "ava",
-      "score": 44,
-      "price": 0.26238,
-      "marketCap": 19511516,
-      "volume24h": 10177457,
+      "id": "rocket-lab-bstocks-tokenized-stock",
+      "name": "Rocket Lab (bStocks Tokenized Stock)",
+      "symbol": "rklbb",
+      "score": 48,
+      "price": 74.16,
+      "marketCap": 2954944,
+      "volume24h": 841678,
+      "week": 15.8223,
       "why": [
-        "small market cap ($19.51M)",
-        "healthy trading for its size (52% of its value traded in a day)",
-        "price up on the day (+2.9%) and the week (+11.0%)",
-        "96% below its all-time high, but still actively traded"
+        "tiny market cap ($2.95M) — lots of room to grow",
+        "healthy trading for its size (28% of its value traded in a day)",
+        "price up on the day (+1.3%) and the week (+15.8%)",
+        "valued at $2.95M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
+      ],
+      "flags": [],
+      "exchanges": [
+        "Binance"
+      ],
+      "homepage": "https://www.binance.com/bstocks-landing",
+      "xHandle": "binance",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
+        "Tokenized Stocks",
+        "Real World Assets (RWA)",
+        "bStocks Ecosystem"
+      ],
+      "commits": null
+    },
+    {
+      "id": "liveart",
+      "name": "LiveArt",
+      "symbol": "art",
+      "score": 48,
+      "price": 0.00020029,
+      "marketCap": 124210,
+      "volume24h": 44170,
+      "week": -0.4117,
+      "why": [
+        "tiny market cap ($124K) — lots of room to grow",
+        "healthy trading for its size (36% of its value traded in a day)",
+        "100% below its all-time high, but still actively traded",
+        "valued at $124K vs a typical $1.60M for \"NFT\" coins"
+      ],
+      "flags": [],
+      "exchanges": [
+        "KuCoin",
+        "Gate"
+      ],
+      "homepage": "https://liveart.io/",
+      "xHandle": "liveartX",
+      "tgId": "LiveArtX",
+      "tgMembers": 64885,
+      "website": "ok",
+      "categories": [
+        "NFT",
+        "BNB Chain Ecosystem",
+        "Real World Assets (RWA)",
+        "Base Ecosystem"
+      ],
+      "commits": null
+    },
+    {
+      "id": "snowflake-ondo-tokenized-stock",
+      "name": "Snowflake (Ondo Tokenized Stock)",
+      "symbol": "snowon",
+      "score": 48,
+      "price": 338.57,
+      "marketCap": 1973486,
+      "volume24h": 652234,
+      "week": 1.7374,
+      "why": [
+        "tiny market cap ($1.97M) — lots of room to grow",
+        "healthy trading for its size (33% of its value traded in a day)",
+        "price up on the day (+1.1%) and the week (+1.7%)",
+        "valued at $1.97M vs a typical $22.31M for \"Real World Assets (RWA)\" coins"
       ],
       "flags": [],
       "exchanges": [
         "LBank",
-        "Binance",
-        "Pionex",
-        "Bithumb",
-        "HTX",
-        "Toobit",
-        "Ourbit",
         "MEXC",
-        "BingX",
-        "BloFin",
-        "KCEX",
-        "WEEX",
-        "Bybit",
-        "Kraken",
-        "KuCoin",
-        "Bitvavo",
-        "Gate",
-        "Bitrue",
-        "Bitget",
-        "XBO.com",
-        "Koinpark",
-        "Bitkub",
-        "CoinEx",
-        "TokoCrypto",
-        "Mudrex",
-        "WazirX"
+        "Ondo Stocks"
       ],
-      "homepage": "https://www.travala.com",
-      "xHandle": "AVAFoundation",
-      "tgId": "avafoundation",
-      "tgMembers": 5556,
+      "homepage": "https://app.ondo.finance/assets/snowon",
+      "xHandle": "ondofinance",
+      "tgId": null,
+      "tgMembers": null,
       "website": "ok",
       "categories": [
-        "Tourism",
+        "Tokenized Assets",
+        "BNB Chain Ecosystem",
         "Solana Ecosystem",
+        "Tokenized Stocks",
         "Ethereum Ecosystem",
-        "Energi Ecosystem",
-        "YZi Labs (Prev. Binance Labs) Portfolio"
+        "Real World Assets (RWA)",
+        "Ondo Tokenized Assets"
       ],
       "commits": null
     }
