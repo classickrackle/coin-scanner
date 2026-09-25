@@ -1,0 +1,222 @@
+[
+ {
+  "d": "2026-09-25",
+  "id": "automata",
+  "name": "Automata",
+  "symbol": "ata",
+  "price": 0.00077736,
+  "mcap": 755030,
+  "score": 54,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "three-ws",
+  "name": "three.ws",
+  "symbol": "three",
+  "price": 0.00083265,
+  "mcap": 832818,
+  "score": 53,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "liveart",
+  "name": "LiveArt",
+  "symbol": "art",
+  "price": 0.00020135,
+  "mcap": 124870,
+  "score": 53,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "italian-brainrot",
+  "name": "Italian Brainrot",
+  "symbol": "italianrot",
+  "price": 0.00010998,
+  "mcap": 109928,
+  "score": 53,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "taraxa",
+  "name": "Taraxa",
+  "symbol": "tara",
+  "price": 0.00003122,
+  "mcap": 190650,
+  "score": 52,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "expert_money",
+  "name": "EXPERT_MONEY",
+  "symbol": "expert",
+  "price": 0.00023635,
+  "mcap": 160706,
+  "score": 52,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "petunia",
+  "name": "Petunia",
+  "symbol": "petunia",
+  "price": 0.00002525,
+  "mcap": 25178,
+  "score": 52,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "top-network",
+  "name": "TOP AI Network",
+  "symbol": "top",
+  "price": 0.00006958,
+  "mcap": 1063081,
+  "score": 52,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "donut-2",
+  "name": "Donut",
+  "symbol": "donut",
+  "price": 0.00433004,
+  "mcap": 89822,
+  "score": 51,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "goblincoin",
+  "name": "GoblinCoin",
+  "symbol": "goblin",
+  "price": 0.00019096,
+  "mcap": 134326,
+  "score": 49,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "illusion-of-life",
+  "name": "Illusion of Life",
+  "symbol": "spark",
+  "price": 0.00012097,
+  "mcap": 120914,
+  "score": 49,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "staynex",
+  "name": "STAYNEX",
+  "symbol": "stay",
+  "price": 0.00000439,
+  "mcap": 174419,
+  "score": 49,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "ancient8",
+  "name": "Ancient8",
+  "symbol": "a8",
+  "price": 0.00577251,
+  "mcap": 3717126,
+  "score": 47,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "world-of-dypians",
+  "name": "World of Dypians",
+  "symbol": "wod",
+  "price": 0.00531828,
+  "mcap": 3262666,
+  "score": 47,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "nietzschean-penguin",
+  "name": "Nietzschean Penguin",
+  "symbol": "penguin",
+  "price": 0.00076543,
+  "mcap": 765346,
+  "score": 46,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "ac-milan-fan-token",
+  "name": "AC Milan Fan Token",
+  "symbol": "acm",
+  "price": 0.283438,
+  "mcap": 4025218,
+  "score": 45,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "de-fi",
+  "name": "DeFi",
+  "symbol": "defi",
+  "price": 0.0001192,
+  "mcap": 500161,
+  "score": 44,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "big-time",
+  "name": "Big Time",
+  "symbol": "bigtime",
+  "price": 0.00856892,
+  "mcap": 24776391,
+  "score": 44,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "chromaway",
+  "name": "Chromia",
+  "symbol": "chr",
+  "price": 0.02173158,
+  "mcap": 21184066,
+  "score": 44,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "concierge-io",
+  "name": "AVA (Travala)",
+  "symbol": "ava",
+  "price": 0.26238,
+  "mcap": 19511516,
+  "score": 44,
+  "globalMcap": 2885989836864.2334,
+  "results": {}
+ }
+]
