@@ -361,5 +361,93 @@
   "score": 48,
   "globalMcap": 2893834526235.94,
   "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "platon-network",
+  "name": "PlatON Network",
+  "symbol": "lat",
+  "price": 0.00064505,
+  "mcap": 4589259,
+  "score": 50,
+  "globalMcap": 2892593023771.0693,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "zeus-network",
+  "name": "Zeus Network",
+  "symbol": "zeus",
+  "price": 0.00248126,
+  "mcap": 2311047,
+  "score": 50,
+  "globalMcap": 2892593023771.0693,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "direxion-mu-bull-2x-etf-bstocks-tokenized-stock",
+  "name": "Direxion MU Bull 2X ETF (bStocks Tokenized Stock)",
+  "symbol": "muub",
+  "price": 38.05,
+  "mcap": 1758228,
+  "score": 50,
+  "globalMcap": 2892593023771.0693,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "vaneck-semiconductor-etf-bstocks-tokenized-stock",
+  "name": "VanEck Semiconductor ETF (bStocks Tokenized Stock)",
+  "symbol": "smhb",
+  "price": 606.55,
+  "mcap": 1357397,
+  "score": 50,
+  "globalMcap": 2892593023771.0693,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "dragonx-2",
+  "name": "DragonX",
+  "symbol": "drgx",
+  "price": 0.057985,
+  "mcap": 538717,
+  "score": 50,
+  "globalMcap": 2892593023771.0693,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "napoli-fan-token",
+  "name": "Napoli Fan Token",
+  "symbol": "nap",
+  "price": 0.210689,
+  "mcap": 1292374,
+  "score": 48,
+  "globalMcap": 2892593023771.0693,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "graphlinq-protocol",
+  "name": "GraphLinq Chain",
+  "symbol": "glq",
+  "price": 0.00074046,
+  "mcap": 251758,
+  "score": 47,
+  "globalMcap": 2892593023771.0693,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "playzap",
+  "name": "PlayZap",
+  "symbol": "pzp",
+  "price": 0.00166987,
+  "mcap": 195017,
+  "score": 47,
+  "globalMcap": 2892593023771.0693,
+  "results": {}
  }
 ]
