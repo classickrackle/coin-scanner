@@ -218,5 +218,148 @@
   "score": 44,
   "globalMcap": 2885989836864.2334,
   "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "axt-bstocks-tokenized-stock",
+  "name": "AXT (bStocks Tokenized Stock)",
+  "symbol": "axtib",
+  "price": 79.92,
+  "mcap": 4203044,
+  "score": 52,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "asml-holding-nv-ondo-tokenized-stock",
+  "name": "ASML Holding NV (Ondo Tokenized Stock)",
+  "symbol": "asmlon",
+  "price": 1749.98,
+  "mcap": 3335735,
+  "score": 52,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "bitcoinos",
+  "name": "BitcoinOS",
+  "symbol": "bos",
+  "price": 0.00002674,
+  "mcap": 271872,
+  "score": 51,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "microsoft-bstocks-tokenized-stock",
+  "name": "Microsoft (bStocks Tokenized Stock)",
+  "symbol": "msftb",
+  "price": 516.98,
+  "mcap": 3083366,
+  "score": 50,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "proshares-ultrapro-qqq-bstocks-tokenized-stock",
+  "name": "ProShares UltraPro QQQ (bStocks Tokenized Stock)",
+  "symbol": "tqqqb",
+  "price": 79.57,
+  "mcap": 2125551,
+  "score": 50,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "western-digital-bstocks-tokenized-stock",
+  "name": "Western Digital (bStocks Tokenized Stock)",
+  "symbol": "wdcb",
+  "price": 457.29,
+  "mcap": 2053282,
+  "score": 50,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "sk-hynix-ondo-tokenized",
+  "name": "SK Hynix (Ondo Tokenized)",
+  "symbol": "skhyon",
+  "price": 191.2,
+  "mcap": 1274253,
+  "score": 50,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "mastercard-ondo-tokenized-stock",
+  "name": "Mastercard (Ondo Tokenized Stock)",
+  "symbol": "maon",
+  "price": 569.61,
+  "mcap": 1279417,
+  "score": 49,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "unitedhealth-ondo-tokenized-stock",
+  "name": "UnitedHealth (Ondo Tokenized Stock)",
+  "symbol": "unhon",
+  "price": 387.2,
+  "mcap": 1219848,
+  "score": 49,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "applied-materials-ondo-tokenized-stocks",
+  "name": "Applied Materials (Ondo Tokenized Stock)",
+  "symbol": "amaton",
+  "price": 485.63,
+  "mcap": 686308,
+  "score": 49,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "elizaos",
+  "name": "ElizaOS",
+  "symbol": "elizaos",
+  "price": 0.00016536,
+  "mcap": 1237179,
+  "score": 48,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "rocket-lab-bstocks-tokenized-stock",
+  "name": "Rocket Lab (bStocks Tokenized Stock)",
+  "symbol": "rklbb",
+  "price": 74.16,
+  "mcap": 2954944,
+  "score": 48,
+  "globalMcap": 2893834526235.94,
+  "results": {}
+ },
+ {
+  "d": "2026-09-25",
+  "id": "snowflake-ondo-tokenized-stock",
+  "name": "Snowflake (Ondo Tokenized Stock)",
+  "symbol": "snowon",
+  "price": 338.57,
+  "mcap": 1973486,
+  "score": 48,
+  "globalMcap": 2893834526235.94,
+  "results": {}
  }
 ]
