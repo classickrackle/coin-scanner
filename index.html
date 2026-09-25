@@ -113,6 +113,10 @@ td.rank { color: var(--faint); width: 2.5em; text-align: left; }
 .seg button:hover { color: var(--ink); }
 .seg button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
 .seg .ct { font-family: var(--mono); font-size: 11px; opacity: .7; }
+.tag.life-alive { color: var(--good); background: color-mix(in srgb, var(--good) 14%, transparent); }
+.tag.life-quiet { color: var(--muted); background: var(--panel-2); }
+.tag.life-zombie { color: var(--warn); background: color-mix(in srgb, var(--warn) 16%, transparent); }
+.tag.life-unknown { color: var(--faint); background: transparent; border: 1px dashed var(--line); }
 .tag.band { color: var(--ink); background: var(--accent-soft); }
 .potcell { font-weight: 600; }
 .warnmark { color: var(--warn); font-family: var(--sans); font-size: 12px; margin-left: 6px; }
@@ -202,6 +206,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         <label>Chain <select id="chain"><option value="">All chains</option></select></label>
         <label>Potential <select id="minPot"><option value="0">Any</option><option value="2">2x+</option><option value="5">5x+</option><option value="10">10x+</option><option value="25">25x+</option></select></label>
         <label><input type="checkbox" id="hideExtreme"> Hide 100x+</label>
+        <label><input type="checkbox" id="hideZombie"> Hide zombies</label>
         <label><input type="checkbox" id="clean"> No warnings</label>
         <label id="agentWrap" hidden><input type="checkbox" id="agentOnly"> Agent: worth a look</label>
         <span class="count"><span id="count"></span> <button type="button" class="linkbtn" id="reset" hidden>Clear</button></span>
@@ -307,6 +312,9 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
   }
 
   const RATING = { 'worth a look': 'good', 'caution': 'warn', 'skip': 'bad' };
+  const LIFE_LABEL = { alive: 'Alive', quiet: 'Quiet', zombie: 'Zombie', dead: 'Dead', unknown: 'Unknown' };
+  const agoTxt = (d) => d == null ? null : d === 0 ? 'today' : d === 1 ? '1 day ago' : d + ' days ago';
+  const lifeTitle = (l) => [l.codeDays != null ? 'Code pushed ' + agoTxt(l.codeDays) : null, l.tgDays != null ? 'Telegram post ' + agoTxt(l.tgDays) : null].filter(Boolean).join(' · ') || 'No public code or Telegram channel to check';
   const DEFAULT_BANDS = [{ name: 'Micro', max: 10e6 }, { name: 'Small', max: 50e6 }, { name: 'Mid', max: 250e6 }, { name: 'Large', max: 1e9 }];
   let BANDS = DEFAULT_BANDS;
   const bandOf = (m) => { const b = BANDS.find((x) => m < x.max); return b ? b.name : null; };
@@ -315,12 +323,12 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     score: [(c) => c.score, -1], mcap: [(c) => c.marketCap, 1], vol: [(c) => c.volume24h, -1],
     week: [(c) => c.week ?? -1e9, -1], pot: [(c) => (c.potential ? c.potential.x : -1), -1], turnover: [(c) => c.turnover, -1], exch: [(c) => (c.exchanges || []).length, -1],
   };
-  let data = null, ratings = {}, athChecks = {}, coins = [];
+  let data = null, ratings = {}, athChecks = {}, lifeChecks = {}, coins = [], topScore = 1;
   const saved = store.get('sort');
   const state = {
     sectors: new Set(store.get('sectors') || []), chain: store.get('chain') || '',
     sort: saved && SORTS[saved.key] ? saved : { key: 'score', dir: -1 }, sel: null,
-    minPot: Number(store.get('minPot')) || 0, hideExtreme: !!store.get('hideExtreme'), size: store.get('size') || '',
+    minPot: Number(store.get('minPot')) || 0, hideExtreme: !!store.get('hideExtreme'), size: store.get('size') || '', hideZombie: !!store.get('hideZombie'),
   };
 
   function repoLink(sub) {
@@ -404,6 +412,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     if (state.sectors.size) list = list.filter((c) => c.sectors.some((s) => state.sectors.has(s)));
     if (state.chain) list = list.filter((c) => c.chains.includes(state.chain));
     if (state.size) list = list.filter((c) => c.band === state.size);
+    if (state.hideZombie) list = list.filter((c) => !(c.life && c.life.status === 'zombie'));
     if ($('clean').checked) list = list.filter((c) => !(c.flags || []).length);
     if ($('agentOnly').checked) list = list.filter((c) => ratings[c.id] === 'worth a look');
     if (state.minPot > 0) list = list.filter((c) => c.potential && c.potential.x >= state.minPot);
@@ -415,7 +424,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
 
   function renderRows() {
     const list = visible();
-    const filtered = state.sectors.size || state.chain || $('clean').checked || $('agentOnly').checked || state.minPot > 0 || state.hideExtreme || !!state.size;
+    const filtered = state.sectors.size || state.chain || $('clean').checked || $('agentOnly').checked || state.minPot > 0 || state.hideExtreme || !!state.size || state.hideZombie;
     $('count').textContent = list.length + ' of ' + coins.length;
     $('reset').hidden = !filtered;
     $('wlSub').textContent = state.sectors.size ? [...state.sectors].join(', ') : 'All sectors';
@@ -433,8 +442,8 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         '<td class="rank">' + c.rank + '</td>' +
         '<td class="l"><span class="coin"><b>' + esc(c.name) + '<span class="tk">' + esc((c.symbol || '').toUpperCase()) + '</span>' +
           (flags.length ? '<span class="warnmark" title="' + flags.length + ' warning' + (flags.length > 1 ? 's' : '') + '">⚠ ' + flags.length + '</span>' : '') + '</b>' +
-          '<span class="tags">' + (c.band ? '<span class="tag band" title="' + esc(bandRange(c.band)) + '">' + esc(c.band) + '</span>' : '') + c.sectors.slice(0, 3).map((s) => '<span class="tag">' + esc(s) + '</span>').join('') + '</span></span></td>' +
-        '<td><span class="scorecell">' + c.score + '<span class="sbar" aria-hidden="true"><i style="width:' + Math.max(0, Math.min(100, c.score)) + '%"></i></span></span></td>' +
+          '<span class="tags">' + (c.life ? '<span class="tag life-' + esc(c.life.status) + '" title="' + esc(lifeTitle(c.life)) + '">' + esc(LIFE_LABEL[c.life.status] || c.life.status) + '</span>' : '') + (c.band ? '<span class="tag band" title="' + esc(bandRange(c.band)) + '">' + esc(c.band) + '</span>' : '') + c.sectors.slice(0, 3).map((s) => '<span class="tag">' + esc(s) + '</span>').join('') + '</span></span></td>' +
+        '<td><span class="scorecell">' + c.score + '<span class="sbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.min(100, c.score / topScore * 100)).toFixed(0) + '%"></i></span></span></td>' +
         '<td>' + usd(c.marketCap) + '</td>' +
         '<td class="hide-sm">' + usd(c.volume24h) + '</td>' +
         '<td class="potcell' + (c.potential && c.potential.extreme ? ' xt' : '') + '">' + (c.potential ? fmtX(c.potential.x) : '<span class="badge none">–</span>') + '</td>' +
@@ -458,8 +467,8 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     $('detail').innerHTML =
       '<div class="dhead"><div><div class="dname">' + esc(c.name) + '<span class="tk">' + esc((c.symbol || '').toUpperCase()) + '</span></div>' +
         '<div class="dprice">' + price(c.price) + '</div></div>' +
-        '<div class="dscore"><b>' + c.score + '</b><small>score / 100</small></div></div>' +
-      '<div class="dmeter" aria-hidden="true"><i style="width:' + Math.max(0, Math.min(100, c.score)) + '%"></i></div>' +
+        '<div class="dscore"><b>' + c.score + '</b><small>points (top today: ' + topScore + ')</small></div></div>' +
+      '<div class="dmeter" aria-hidden="true"><i style="width:' + Math.max(4, Math.min(100, c.score / topScore * 100)).toFixed(0) + '%"></i></div>' +
       '<div class="kv">' +
         '<div><small>Market cap</small><b>' + usd(c.marketCap) + '</b></div>' +
         '<div><small>Traded 24h</small><b>' + usd(c.volume24h) + '</b></div>' +
@@ -467,7 +476,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         '<div><small>Turnover</small><b>' + (c.turnover * 100).toFixed(0) + '% a day</b></div>' +
         '<div><small>Telegram</small><b>' + (c.tgMembers ? c.tgMembers.toLocaleString('en-US') : 'n/a') + '</b></div>' +
         '<div><small>Agent</small><b>' + (r ? '<span class="badge ' + RATING[r] + '">' + esc(r) + '</span>' : '<span class="badge none">not rated</span>') + '</b></div>' +
-      '</div>' + potentialBlock(c) +
+      '</div>' + lifeBlock(c) + potentialBlock(c) +
       '<div class="dsec"><h3>Why it\'s here</h3><ul class="why">' + (c.why || []).map((w) => '<li>' + esc(w) + '</li>').join('') + '</ul></div>' +
       (flags.length ? '<div class="dsec"><h3>Watch out</h3><ul class="watch">' + flags.map((f) => '<li>' + esc(f) + '</li>').join('') + '</ul></div>' : '') +
       '<div class="dsec"><h3>Trades on</h3><div class="chips">' + (ex.length ? ex.map((e) => '<span class="chip">' + esc(e) + '</span>').join('') : '<p>No exchanges listed</p>') + '</div></div>' +
@@ -475,6 +484,20 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
       ((c.sectors.length || c.chains.length) ? '<div class="dsec"><h3>Sector and chain</h3><div class="chips">' + c.sectors.concat(c.chains).map((s) => '<span class="chip">' + esc(s) + '</span>').join('') + '</div></div>' : '') +
       '<div class="actions"><a class="btn primary" href="https://www.coingecko.com/en/coins/' + encodeURIComponent(c.id) + '" target="_blank" rel="noopener">Open on CoinGecko</a>' +
         links.map(([t, u]) => '<a class="btn" href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(t) + '</a>').join('') + '</div>';
+  }
+
+  function lifeBlock(c) {
+    const l = c.life;
+    if (!l) return '';
+    const ac = lifeChecks[c.id];
+    const code = l.codeDays != null ? agoTxt(l.codeDays) + (l.repo && /^https:\/\/github\.com\//.test(l.repo) ? ' · <a href="' + esc(l.repo) + '" target="_blank" rel="noopener">repo</a>' : '') : 'No public repo found';
+    return '<div class="dsec"><h3>Signs of life</h3><div class="kv">' +
+      '<div><small>Status</small><b><span class="tag life-' + esc(l.status) + '">' + esc(LIFE_LABEL[l.status] || l.status) + '</span></b></div>' +
+      '<div><small>Website</small><b class="' + (l.site === 'dead' ? 'down' : '') + '">' + (l.site === 'ok' ? 'Up' : l.site === 'dead' ? 'Down' : 'None listed') + '</b></div>' +
+      '<div><small>Last code push</small><b>' + code + '</b></div>' +
+      '<div><small>Last Telegram post</small><b>' + (l.tgDays != null ? agoTxt(l.tgDays) : 'Not visible') + '</b></div>' +
+      (ac ? '<div style="grid-column:1/-1"><small>Agent\'s life check (includes X)</small><b class="' + (/alive/i.test(ac) ? 'up' : /zombie|dead/i.test(ac) ? 'xt' : '') + '">' + esc(ac) + '</b></div>' : '') +
+      '</div></div>';
   }
 
   function potentialBlock(c) {
@@ -521,7 +544,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     el.innerHTML = '<div class="cards">' + cards.join('') + '</div>';
   }
 
-  function save() { store.set('sectors', [...state.sectors]); store.set('chain', state.chain); store.set('sort', state.sort); store.set('minPot', state.minPot); store.set('hideExtreme', state.hideExtreme); store.set('size', state.size); }
+  function save() { store.set('sectors', [...state.sectors]); store.set('chain', state.chain); store.set('sort', state.sort); store.set('minPot', state.minPot); store.set('hideExtreme', state.hideExtreme); store.set('size', state.size); store.set('hideZombie', state.hideZombie); }
 
   async function start() {
     data = await getJson('latest.json');
@@ -536,12 +559,14 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     if (!r && snap && snap.ratings) r = snap.ratings;
     ratings = (r && r.ratings) || {};
     athChecks = (r && r.athCheck) || {};
+    lifeChecks = (r && r.lifeCheck) || {};
     for (const k of Object.keys(ratings)) ratings[k] = String(ratings[k]).toLowerCase();
     if (data.stats && Array.isArray(data.stats.bands) && data.stats.bands.length) BANDS = data.stats.bands;
     coins = data.coins.map((c, i) => {
       const k = classify(c.categories);
       return { ...c, rank: i + 1, sectors: k.sectors, chains: k.chains, band: c.band || bandOf(c.marketCap), turnover: c.marketCap ? (c.volume24h || 0) / c.marketCap : 0 };
     });
+    topScore = Math.max(1, ...coins.map((c) => c.score || 0));
     renderTop(); renderFilters();
     $('agentWrap').hidden = !Object.keys(ratings).length;
     renderRows();
@@ -558,13 +583,15 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     $('minPot').value = String(state.minPot); $('hideExtreme').checked = state.hideExtreme;
     $('minPot').addEventListener('change', (e) => { state.minPot = Number(e.target.value) || 0; save(); renderRows(); });
     $('hideExtreme').addEventListener('change', (e) => { state.hideExtreme = e.target.checked; save(); renderRows(); });
+    $('hideZombie').checked = state.hideZombie;
+    $('hideZombie').addEventListener('change', (e) => { state.hideZombie = e.target.checked; save(); renderRows(); });
     $('sizes').addEventListener('click', (e) => {
       const b = e.target.closest('button'); if (!b) return;
       state.size = b.dataset.b || '';
       $('sizes').querySelectorAll('button').forEach((x) => x.setAttribute('aria-pressed', (x.dataset.b || '') === state.size));
       save(); renderRows();
     });
-    $('reset').addEventListener('click', () => { state.sectors.clear(); state.chain = ''; state.minPot = 0; state.hideExtreme = false; state.size = ''; $('minPot').value = '0'; $('hideExtreme').checked = false; $('clean').checked = false; $('agentOnly').checked = false; save(); renderFilters(); renderRows(); });
+    $('reset').addEventListener('click', () => { state.sectors.clear(); state.chain = ''; state.minPot = 0; state.hideExtreme = false; state.size = ''; state.hideZombie = false; $('hideZombie').checked = false; $('minPot').value = '0'; $('hideExtreme').checked = false; $('clean').checked = false; $('agentOnly').checked = false; save(); renderFilters(); renderRows(); });
     document.querySelector('thead').addEventListener('click', (e) => {
       const b = e.target.closest('button[data-sort]'); if (!b) return;
       const k = b.dataset.sort;
