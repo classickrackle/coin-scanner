@@ -106,6 +106,15 @@ td.rank { color: var(--faint); width: 2.5em; text-align: left; }
 .badge.warn { color: var(--warn); background: color-mix(in srgb, var(--warn) 14%, transparent); }
 .badge.bad { color: var(--bad); background: color-mix(in srgb, var(--bad) 14%, transparent); }
 .badge.none { color: var(--faint); }
+.xt { color: var(--warn); }
+.seg { display: inline-flex; flex-wrap: wrap; border: 1px solid var(--line); border-radius: 7px; overflow: hidden; }
+.seg button { font: 500 12.5px/1 var(--sans); color: var(--muted); background: var(--panel-2); border: 0; border-right: 1px solid var(--line); padding: 7px 10px; cursor: pointer; display: inline-flex; gap: 5px; align-items: center; }
+.seg button:last-child { border-right: 0; }
+.seg button:hover { color: var(--ink); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+.seg .ct { font-family: var(--mono); font-size: 11px; opacity: .7; }
+.tag.band { color: var(--ink); background: var(--accent-soft); }
+.potcell { font-weight: 600; }
 .warnmark { color: var(--warn); font-family: var(--sans); font-size: 12px; margin-left: 6px; }
 @media (max-width: 760px) { .hide-sm, .sbar { display: none; } td, thead th { padding-inline: 6px; } .coin { min-width: 110px; } td.rank { width: 1.8em; } }
 .empty { color: var(--muted); padding: 22px 14px; text-align: left; font-family: var(--sans); }
@@ -189,7 +198,10 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
       <div class="whead"><h2 id="wl-h">Watchlist</h2><span class="sub" id="wlSub"></span></div>
       <div class="tabs" id="tabs" role="group" aria-label="Filter by sector"></div>
       <div class="controls">
+        <span class="seg" id="sizes" role="group" aria-label="Filter by market cap size"></span>
         <label>Chain <select id="chain"><option value="">All chains</option></select></label>
+        <label>Potential <select id="minPot"><option value="0">Any</option><option value="2">2x+</option><option value="5">5x+</option><option value="10">10x+</option><option value="25">25x+</option></select></label>
+        <label><input type="checkbox" id="hideExtreme"> Hide 100x+</label>
         <label><input type="checkbox" id="clean"> No warnings</label>
         <label id="agentWrap" hidden><input type="checkbox" id="agentOnly"> Agent: worth a look</label>
         <span class="count"><span id="count"></span> <button type="button" class="linkbtn" id="reset" hidden>Clear</button></span>
@@ -202,7 +214,8 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
             <th><button type="button" data-sort="score">Score</button></th>
             <th><button type="button" data-sort="mcap">Mkt cap</button></th>
             <th class="hide-sm"><button type="button" data-sort="vol">24h vol</button></th>
-            <th><button type="button" data-sort="week">7d</button></th>
+            <th><button type="button" data-sort="pot" title="2.5x the all-time high, divided by today's price">Potential</button></th>
+            <th class="hide-sm"><button type="button" data-sort="week">7d</button></th>
             <th class="hide-sm"><button type="button" data-sort="turnover">Turnover</button></th>
             <th class="hide-sm"><button type="button" data-sort="exch">Exch.</button></th>
             <th class="hide-sm">Agent</th>
@@ -249,6 +262,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     return '$' + Number(n.toPrecision(3));
   };
   const price = (n) => (n == null || !isFinite(n)) ? 'n/a' : n >= 1 ? '$' + n.toLocaleString('en-US', { maximumFractionDigits: 4 }) : '$' + Number(n.toPrecision(4));
+  const fmtX = (x) => (x == null || !isFinite(x)) ? '–' : x >= 100 ? Math.round(x).toLocaleString('en-US') + 'x' : x.toFixed(1) + 'x';
   const pct = (n) => (n == null || !isFinite(n)) ? 'n/a' : (n >= 0 ? '+' : '') + n.toFixed(1) + '%';
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const safeUrl = (u) => /^https?:\/\//i.test(u || '') ? u : null;
@@ -293,15 +307,20 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
   }
 
   const RATING = { 'worth a look': 'good', 'caution': 'warn', 'skip': 'bad' };
+  const DEFAULT_BANDS = [{ name: 'Micro', max: 10e6 }, { name: 'Small', max: 50e6 }, { name: 'Mid', max: 250e6 }, { name: 'Large', max: 1e9 }];
+  let BANDS = DEFAULT_BANDS;
+  const bandOf = (m) => { const b = BANDS.find((x) => m < x.max); return b ? b.name : null; };
+  const bandRange = (name) => { const i = BANDS.findIndex((b) => b.name === name); if (i < 0) return ''; return (i ? usd(BANDS[i - 1].max) + '–' : 'under ') + usd(BANDS[i].max); };
   const SORTS = {
     score: [(c) => c.score, -1], mcap: [(c) => c.marketCap, 1], vol: [(c) => c.volume24h, -1],
-    week: [(c) => c.week ?? -1e9, -1], turnover: [(c) => c.turnover, -1], exch: [(c) => (c.exchanges || []).length, -1],
+    week: [(c) => c.week ?? -1e9, -1], pot: [(c) => (c.potential ? c.potential.x : -1), -1], turnover: [(c) => c.turnover, -1], exch: [(c) => (c.exchanges || []).length, -1],
   };
-  let data = null, ratings = {}, coins = [];
+  let data = null, ratings = {}, athChecks = {}, coins = [];
   const saved = store.get('sort');
   const state = {
     sectors: new Set(store.get('sectors') || []), chain: store.get('chain') || '',
     sort: saved && SORTS[saved.key] ? saved : { key: 'score', dir: -1 }, sel: null,
+    minPot: Number(store.get('minPot')) || 0, hideExtreme: !!store.get('hideExtreme'), size: store.get('size') || '',
   };
 
   function repoLink(sub) {
@@ -309,6 +328,11 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     const owner = onPages ? location.hostname.split('.')[0] : 'Classickrackle';
     const repo = onPages ? (location.pathname.split('/').filter(Boolean)[0] || 'coin-scanner') : 'coin-scanner';
     return 'https://github.com/' + owner + '/' + repo + (sub || '');
+  }
+
+  function bestPot() {
+    const ok = data.coins.filter((c) => c.potential && !c.potential.extreme).sort((a, b) => b.potential.x - a.potential.x);
+    return ok.length ? fmtX(ok[0].potential.x) + ' <span style="color:var(--muted);font-size:12px">' + esc((ok[0].symbol || '').toUpperCase()) + '</span>' : '–';
   }
 
   function renderTop() {
@@ -329,7 +353,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     const budgetPct = s.budget ? Math.min(100, (s.monthCalls || 0) / s.budget * 100) : 0;
     const cells = [
       ['On the list', n, 'hl'], ['Coins scanned', (s.scanned ?? 0).toLocaleString('en-US')], ['Passed filters', (s.passed ?? 0).toLocaleString('en-US')],
-      ['Checked in depth', (s.deep ?? 0).toLocaleString('en-US')], ['Median 7d move', '<span class="' + (med > 0 ? 'up' : med < 0 ? 'down' : '') + '">' + pct(med) + '</span>'],
+      ['Checked in depth', (s.deep ?? 0).toLocaleString('en-US')], ['Best potential under 100x', bestPot()], ['Median 7d move', '<span class="' + (med > 0 ? 'up' : med < 0 ? 'down' : '') + '">' + pct(med) + '</span>'],
     ];
     $('ribbon').innerHTML = cells.map(([k, v, cls]) => '<div class="cell"><small>' + k + '</small><b class="' + (cls || '') + '">' + v + '</b></div>').join('') +
       (s.budget ? '<div class="cell"><small>CoinGecko calls this month</small><b>' + (s.monthCalls || 0).toLocaleString('en-US') + ' / ' + s.budget.toLocaleString('en-US') +
@@ -368,14 +392,22 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     $('chain').innerHTML = '<option value="">All chains</option>' + [...cc.entries()].sort((a, b) => b[1] - a[1]).map(([k, v]) =>
       '<option value="' + esc(k) + '">' + esc(k) + ' (' + v + ')</option>').join('');
     $('chain').value = state.chain;
+    const bc = new Map(); coins.forEach((c) => c.band && bc.set(c.band, (bc.get(c.band) || 0) + 1));
+    if (state.size && !bc.has(state.size)) state.size = '';
+    $('sizes').innerHTML = '<button type="button" data-b="" aria-pressed="' + !state.size + '">All sizes</button>' +
+      BANDS.filter((b) => bc.has(b.name)).map((b) => '<button type="button" data-b="' + esc(b.name) + '" title="' + esc(bandRange(b.name)) + '" aria-pressed="' + (state.size === b.name) + '">' + esc(b.name) + '<span class="ct">' + bc.get(b.name) + '</span></button>').join('');
+    $('sizes').hidden = !bc.size;
   }
 
   function visible() {
     let list = coins.slice();
     if (state.sectors.size) list = list.filter((c) => c.sectors.some((s) => state.sectors.has(s)));
     if (state.chain) list = list.filter((c) => c.chains.includes(state.chain));
+    if (state.size) list = list.filter((c) => c.band === state.size);
     if ($('clean').checked) list = list.filter((c) => !(c.flags || []).length);
     if ($('agentOnly').checked) list = list.filter((c) => ratings[c.id] === 'worth a look');
+    if (state.minPot > 0) list = list.filter((c) => c.potential && c.potential.x >= state.minPot);
+    if (state.hideExtreme) list = list.filter((c) => !(c.potential && c.potential.extreme));
     const [fn, ] = SORTS[state.sort.key]; const dir = state.sort.dir;
     list.sort((a, b) => (fn(a) - fn(b)) * dir || a.rank - b.rank);
     return list;
@@ -383,7 +415,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
 
   function renderRows() {
     const list = visible();
-    const filtered = state.sectors.size || state.chain || $('clean').checked || $('agentOnly').checked;
+    const filtered = state.sectors.size || state.chain || $('clean').checked || $('agentOnly').checked || state.minPot > 0 || state.hideExtreme || !!state.size;
     $('count').textContent = list.length + ' of ' + coins.length;
     $('reset').hidden = !filtered;
     $('wlSub').textContent = state.sectors.size ? [...state.sectors].join(', ') : 'All sectors';
@@ -393,7 +425,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
       if (on) { b.setAttribute('aria-sort', state.sort.dir < 0 ? 'descending' : 'ascending'); b.insertAdjacentHTML('beforeend', '<span class="arr">' + (state.sort.dir < 0 ? '▼' : '▲') + '</span>'); }
       else b.removeAttribute('aria-sort');
     });
-    if (!list.length) { $('rows').innerHTML = '<tr><td colspan="9" class="empty">No coins match these filters. Clear a filter to see more.</td></tr>'; return; }
+    if (!list.length) { $('rows').innerHTML = '<tr><td colspan="10" class="empty">No coins match these filters. Clear a filter to see more.</td></tr>'; return; }
     if (!list.some((c) => c.id === state.sel)) state.sel = list[0].id;
     $('rows').innerHTML = list.map((c) => {
       const r = ratings[c.id], wk = c.week, flags = c.flags || [];
@@ -401,11 +433,12 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         '<td class="rank">' + c.rank + '</td>' +
         '<td class="l"><span class="coin"><b>' + esc(c.name) + '<span class="tk">' + esc((c.symbol || '').toUpperCase()) + '</span>' +
           (flags.length ? '<span class="warnmark" title="' + flags.length + ' warning' + (flags.length > 1 ? 's' : '') + '">⚠ ' + flags.length + '</span>' : '') + '</b>' +
-          (c.sectors.length ? '<span class="tags">' + c.sectors.slice(0, 3).map((s) => '<span class="tag">' + esc(s) + '</span>').join('') + '</span>' : '') + '</span></td>' +
+          '<span class="tags">' + (c.band ? '<span class="tag band" title="' + esc(bandRange(c.band)) + '">' + esc(c.band) + '</span>' : '') + c.sectors.slice(0, 3).map((s) => '<span class="tag">' + esc(s) + '</span>').join('') + '</span></span></td>' +
         '<td><span class="scorecell">' + c.score + '<span class="sbar" aria-hidden="true"><i style="width:' + Math.max(0, Math.min(100, c.score)) + '%"></i></span></span></td>' +
         '<td>' + usd(c.marketCap) + '</td>' +
         '<td class="hide-sm">' + usd(c.volume24h) + '</td>' +
-        '<td class="' + (wk > 0 ? 'up' : wk < 0 ? 'down' : '') + '">' + pct(wk) + '</td>' +
+        '<td class="potcell' + (c.potential && c.potential.extreme ? ' xt' : '') + '">' + (c.potential ? fmtX(c.potential.x) : '<span class="badge none">–</span>') + '</td>' +
+        '<td class="hide-sm ' + (wk > 0 ? 'up' : wk < 0 ? 'down' : '') + '">' + pct(wk) + '</td>' +
         '<td class="hide-sm">' + (c.turnover * 100).toFixed(0) + '%</td>' +
         '<td class="hide-sm">' + (c.exchanges || []).length + '</td>' +
         '<td class="hide-sm">' + (r ? '<span class="badge ' + RATING[r] + '">' + esc(r) + '</span>' : '<span class="badge none">–</span>') + '</td></tr>';
@@ -434,13 +467,32 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         '<div><small>Turnover</small><b>' + (c.turnover * 100).toFixed(0) + '% a day</b></div>' +
         '<div><small>Telegram</small><b>' + (c.tgMembers ? c.tgMembers.toLocaleString('en-US') : 'n/a') + '</b></div>' +
         '<div><small>Agent</small><b>' + (r ? '<span class="badge ' + RATING[r] + '">' + esc(r) + '</span>' : '<span class="badge none">not rated</span>') + '</b></div>' +
-      '</div>' +
+      '</div>' + potentialBlock(c) +
       '<div class="dsec"><h3>Why it\'s here</h3><ul class="why">' + (c.why || []).map((w) => '<li>' + esc(w) + '</li>').join('') + '</ul></div>' +
       (flags.length ? '<div class="dsec"><h3>Watch out</h3><ul class="watch">' + flags.map((f) => '<li>' + esc(f) + '</li>').join('') + '</ul></div>' : '') +
       '<div class="dsec"><h3>Trades on</h3><div class="chips">' + (ex.length ? ex.map((e) => '<span class="chip">' + esc(e) + '</span>').join('') : '<p>No exchanges listed</p>') + '</div></div>' +
+      (c.band ? '<div class="dsec"><h3>Size</h3><div class="chips"><span class="chip">' + esc(c.band) + ' cap · ' + esc(bandRange(c.band)) + '</span></div></div>' : '') +
       ((c.sectors.length || c.chains.length) ? '<div class="dsec"><h3>Sector and chain</h3><div class="chips">' + c.sectors.concat(c.chains).map((s) => '<span class="chip">' + esc(s) + '</span>').join('') + '</div></div>' : '') +
       '<div class="actions"><a class="btn primary" href="https://www.coingecko.com/en/coins/' + encodeURIComponent(c.id) + '" target="_blank" rel="noopener">Open on CoinGecko</a>' +
         links.map(([t, u]) => '<a class="btn" href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(t) + '</a>').join('') + '</div>';
+  }
+
+  function potentialBlock(c) {
+    const p = c.potential, peer = c.peer;
+    if (!p && !peer) return '<div class="dsec"><h3>Potential</h3><p>No all-time-high data for this coin yet. It fills in after the next scan.</p></div>';
+    let h = '<div class="dsec"><h3>Potential</h3><div class="kv">';
+    if (p) {
+      h += '<div><small>All-time high' + (p.athDate ? ' (' + esc(new Date(p.athDate + 'T12:00:00Z').toLocaleDateString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' })) + ')' : '') + '</small><b>' + price(p.ath) + '</b></div>' +
+        '<div><small>Target (' + p.factor + 'x ATH)</small><b>' + price(p.targetPrice) + '</b></div>' +
+        '<div><small>Multiple from here</small><b class="' + (p.extreme ? 'xt' : 'up') + '">' + fmtX(p.x) + '</b></div>' +
+        '<div><small>Would need a market cap of</small><b>' + usd(p.targetMcap) + '</b></div>';
+    }
+    const ac = athChecks[c.id];
+    if (ac) h += '<div style="grid-column:1/-1"><small>Agent\'s ATH check</small><b class="' + (/realistic/i.test(ac) ? 'up' : /unlikely/i.test(ac) ? 'down' : 'xt') + '">' + esc(ac) + '</b></div>';
+    if (peer) h += '<div style="grid-column:1/-1"><small>Catch-up to a typical "' + esc(peer.name) + '" coin (' + usd(peer.median) + ')</small><b>' + (peer.x >= 1 ? fmtX(peer.x) : 'Already bigger than typical') + '</b></div>';
+    h += '</div>';
+    if (p && p.extreme) h += '<p style="margin-top:6px">Over 100x from its target. Coins this far below their old high rarely get back, so check what happened since the peak.</p>';
+    return h + '</div>';
   }
 
   function renderScorecard(picks) {
@@ -469,24 +521,26 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     el.innerHTML = '<div class="cards">' + cards.join('') + '</div>';
   }
 
-  function save() { store.set('sectors', [...state.sectors]); store.set('chain', state.chain); store.set('sort', state.sort); }
+  function save() { store.set('sectors', [...state.sectors]); store.set('chain', state.chain); store.set('sort', state.sort); store.set('minPot', state.minPot); store.set('hideExtreme', state.hideExtreme); store.set('size', state.size); }
 
   async function start() {
     data = await getJson('latest.json');
     if ((!data || !Array.isArray(data.coins)) && snap && snap.latest) data = snap.latest;
     if (!data || !Array.isArray(data.coins)) {
       $('date').textContent = 'No list yet'; $('liveText').textContent = 'Waiting for first scan';
-      $('rows').innerHTML = '<tr><td colspan="9" class="empty">The scanner hasn\'t posted a list here yet. It runs every morning. Check back after the next run.</td></tr>';
+      $('rows').innerHTML = '<tr><td colspan="10" class="empty">The scanner hasn\'t posted a list here yet. It runs every morning. Check back after the next run.</td></tr>';
       $('pane-sc').innerHTML = '';
       return;
     }
     let r = await getJson('agent-ratings/' + data.date + '.json');
     if (!r && snap && snap.ratings) r = snap.ratings;
     ratings = (r && r.ratings) || {};
+    athChecks = (r && r.athCheck) || {};
     for (const k of Object.keys(ratings)) ratings[k] = String(ratings[k]).toLowerCase();
+    if (data.stats && Array.isArray(data.stats.bands) && data.stats.bands.length) BANDS = data.stats.bands;
     coins = data.coins.map((c, i) => {
       const k = classify(c.categories);
-      return { ...c, rank: i + 1, sectors: k.sectors, chains: k.chains, turnover: c.marketCap ? (c.volume24h || 0) / c.marketCap : 0 };
+      return { ...c, rank: i + 1, sectors: k.sectors, chains: k.chains, band: c.band || bandOf(c.marketCap), turnover: c.marketCap ? (c.volume24h || 0) / c.marketCap : 0 };
     });
     renderTop(); renderFilters();
     $('agentWrap').hidden = !Object.keys(ratings).length;
@@ -501,7 +555,16 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     });
     $('chain').addEventListener('change', (e) => { state.chain = e.target.value; save(); renderRows(); });
     ['clean', 'agentOnly'].forEach((id) => $(id).addEventListener('change', renderRows));
-    $('reset').addEventListener('click', () => { state.sectors.clear(); state.chain = ''; $('clean').checked = false; $('agentOnly').checked = false; save(); renderFilters(); renderRows(); });
+    $('minPot').value = String(state.minPot); $('hideExtreme').checked = state.hideExtreme;
+    $('minPot').addEventListener('change', (e) => { state.minPot = Number(e.target.value) || 0; save(); renderRows(); });
+    $('hideExtreme').addEventListener('change', (e) => { state.hideExtreme = e.target.checked; save(); renderRows(); });
+    $('sizes').addEventListener('click', (e) => {
+      const b = e.target.closest('button'); if (!b) return;
+      state.size = b.dataset.b || '';
+      $('sizes').querySelectorAll('button').forEach((x) => x.setAttribute('aria-pressed', (x.dataset.b || '') === state.size));
+      save(); renderRows();
+    });
+    $('reset').addEventListener('click', () => { state.sectors.clear(); state.chain = ''; state.minPot = 0; state.hideExtreme = false; state.size = ''; $('minPot').value = '0'; $('hideExtreme').checked = false; $('clean').checked = false; $('agentOnly').checked = false; save(); renderFilters(); renderRows(); });
     document.querySelector('thead').addEventListener('click', (e) => {
       const b = e.target.closest('button[data-sort]'); if (!b) return;
       const k = b.dataset.sort;
