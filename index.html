@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Coin Scanner</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⛏️</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #E6ECEF; --panel: #F7F9FA; --ink: #15212C; --muted: #56636F; --line: #C9D3D9;
+  --accent: #2A4A9C; --good: #1D6F52; --warn: #A8700C; --bad: #9E3434;
+  --font: "Archivo", "Segoe UI", system-ui, -apple-system, sans-serif;
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #18222C; --panel: #1F2B36; --ink: #E4EAEE; --muted: #93A1AD; --line: #2E3C49;
+    --accent: #8FA8F0; --good: #5FC39B; --warn: #E0AE4F; --bad: #E27C7C;
+  }
+}
+*, *::before, *::after { box-sizing: inherit; }
+html { background: var(--bg); }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 16px; line-height: 1.5;
+  font-variation-settings: "wdth" 100; -webkit-font-smoothing: antialiased; }
+.wrap { max-width: 760px; margin: 0 auto; padding: 28px 18px 64px; }
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 4px; }
+.num { font-variant-numeric: tabular-nums; }
+
+/* Hero */
+.date { color: var(--muted); font-size: 15px; margin: 0; }
+h1 { font-size: clamp(34px, 8vw, 54px); line-height: 1.02; margin: 6px 0 22px; font-weight: 780;
+  font-variation-settings: "wdth" 120; letter-spacing: -0.01em; }
+.stale { background: color-mix(in srgb, var(--warn) 14%, var(--panel)); border-left: 3px solid var(--warn);
+  padding: 10px 14px; border-radius: 0 8px 8px 0; margin: 0 0 20px; font-size: 15px; }
+
+/* The sieve: how many coins survived each stage */
+.sieve { margin: 0 0 34px; padding: 0; list-style: none; display: grid; gap: 7px; }
+.sieve li { display: grid; grid-template-columns: 1fr; gap: 3px; }
+.sieve .bar { height: 10px; border-radius: 0 5px 5px 0; background: var(--accent); transform-origin: left;
+  animation: grow .9s cubic-bezier(.2,.7,.2,1) both; }
+.sieve li:nth-child(2) .bar { opacity: .8; animation-delay: .12s; }
+.sieve li:nth-child(3) .bar { opacity: .62; animation-delay: .24s; }
+.sieve li:nth-child(4) .bar { opacity: .45; animation-delay: .36s; }
+.sieve span { font-size: 14px; color: var(--muted); }
+.sieve b { color: var(--ink); font-weight: 650; }
+@keyframes grow { from { transform: scaleX(0); } }
+@media (prefers-reduced-motion: reduce) { .sieve .bar { animation: none; } }
+
+/* Controls */
+.controls { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; margin: 0 0 14px;
+  padding-bottom: 14px; border-bottom: 1px solid var(--line); font-size: 15px; }
+.controls label { display: inline-flex; gap: 8px; align-items: center; color: var(--muted); }
+select { font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line);
+  border-radius: 6px; padding: 5px 8px; }
+input[type=checkbox] { width: 17px; height: 17px; accent-color: var(--accent); }
+
+/* Coin list */
+.coins { list-style: none; margin: 0; padding: 0; }
+.coin { border-bottom: 1px solid var(--line); }
+.coin details > summary { list-style: none; cursor: pointer; padding: 16px 4px; display: grid;
+  grid-template-columns: 2.2em 1fr auto; gap: 2px 12px; align-items: baseline; }
+.coin details > summary::-webkit-details-marker { display: none; }
+.rank { color: var(--muted); font-size: 15px; font-weight: 600; }
+.name { font-size: 20px; font-weight: 700; font-variation-settings: "wdth" 112; line-height: 1.2; min-width: 0; overflow-wrap: anywhere; }
+.sym { color: var(--muted); font-weight: 500; font-size: 15px; margin-left: 6px; font-variation-settings: "wdth" 100; }
+.score { justify-self: end; text-align: right; }
+.score strong { font-size: 22px; font-weight: 750; font-variation-settings: "wdth" 80; }
+.meter { width: 64px; height: 5px; background: var(--line); border-radius: 3px; overflow: hidden; margin-top: 2px; }
+.meter i { display: block; height: 100%; background: var(--accent); }
+.figs { grid-column: 2 / 4; display: flex; flex-wrap: wrap; gap: 2px 16px; color: var(--muted); font-size: 14.5px;
+  font-variation-settings: "wdth" 90; }
+.figs b { color: var(--ink); font-weight: 600; }
+.up { color: var(--good) !important; } .down { color: var(--bad) !important; }
+.tags { grid-column: 2 / 4; display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.tag { font-size: 13px; padding: 1px 9px; border-radius: 999px; border: 1px solid currentColor; font-weight: 600; }
+.tag.good { color: var(--good); } .tag.warn { color: var(--warn); } .tag.bad { color: var(--bad); }
+
+.more { padding: 0 4px 20px calc(2.2em + 16px); font-size: 15.5px; }
+.more h3 { font-size: 15px; font-weight: 700; margin: 14px 0 6px; }
+.more ul { margin: 0; padding: 0; list-style: none; }
+.more li { padding-left: 18px; position: relative; margin: 3px 0; max-width: 64ch; }
+.more li::before { content: ""; position: absolute; left: 2px; top: .62em; width: 7px; height: 7px; border-radius: 50%; }
+.why li::before { background: var(--good); }
+.watch li::before { background: var(--warn); }
+.exch { color: var(--muted); max-width: 64ch; }
+.links { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 12px; }
+details[open] > summary .name { color: var(--accent); }
+
+/* Scorecard */
+.section { margin-top: 48px; }
+h2 { font-size: 26px; font-weight: 760; font-variation-settings: "wdth" 115; margin: 0 0 6px; }
+.lede { color: var(--muted); margin: 0 0 18px; max-width: 60ch; }
+.card-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.result { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; }
+.result h3 { margin: 0 0 8px; font-size: 16px; font-weight: 650; }
+.result .big { font-size: 30px; font-weight: 760; font-variation-settings: "wdth" 85; line-height: 1.1; }
+.result p { margin: 4px 0 0; color: var(--muted); font-size: 14.5px; }
+.empty { color: var(--muted); }
+footer { margin-top: 48px; color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <p class="date" id="date">Loading today's list…</p>
+  <h1 id="headline">Coin Scanner</h1>
+  <div id="stale"></div>
+  <ul class="sieve" id="sieve" aria-label="How many coins made it through each stage"></ul>
+
+  <div class="controls" id="controls" hidden>
+    <label>Sort by
+      <select id="sort">
+        <option value="score">Best score</option>
+        <option value="small">Smallest market cap</option>
+        <option value="week">Biggest weekly gain</option>
+      </select>
+    </label>
+    <label><input type="checkbox" id="clean"> Only coins with no warnings</label>
+    <label id="agentWrap" hidden><input type="checkbox" id="agentOnly"> Only agent's "worth a look"</label>
+  </div>
+  <ol class="coins" id="coins"></ol>
+
+  <section class="section" id="scorecard" aria-labelledby="sc-h">
+    <h2 id="sc-h">How past picks did</h2>
+    <p class="lede">Each pick is compared with the whole crypto market over the same stretch of time.</p>
+    <div id="scoreBody"><p class="empty">Loading…</p></div>
+  </section>
+
+  <footer id="foot">A research list, not buy advice. Every coin here can still go to zero.</footer>
+</main>
+
+<script>
+(function () {
+  const $ = (id) => document.getElementById(id);
+  const bust = () => '?t=' + Date.now();
+  const usd = (n) => {
+    if (n == null || !isFinite(n)) return 'n/a';
+    if (n >= 1e9) return '$' + (n / 1e9).toFixed(2) + 'B';
+    if (n >= 1e6) return '$' + (n / 1e6).toFixed(2) + 'M';
+    if (n >= 1e3) return '$' + (n / 1e3).toFixed(0) + 'K';
+    if (n >= 1) return '$' + n.toFixed(2);
+    return '$' + Number(n.toPrecision(3));
+  };
+  const pct = (n) => (n == null || !isFinite(n)) ? 'n/a' : (n >= 0 ? '+' : '') + n.toFixed(1) + '%';
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const safeUrl = (u) => /^https?:\/\//i.test(u || '') ? u : null;
+  const getJson = (p) => fetch(p + bust()).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+
+  const RATING = { 'worth a look': 'good', 'caution': 'warn', 'skip': 'bad' };
+  let data = null, ratings = {};
+
+  function repoLink(sub) {
+    const owner = location.hostname.split('.')[0];
+    const repo = location.pathname.split('/').filter(Boolean)[0] || 'coin-scanner';
+    return 'https://github.com/' + owner + '/' + repo + (sub || '');
+  }
+
+  function renderHero() {
+    const d = new Date(data.date + 'T12:00:00Z');
+    $('date').textContent = 'List for ' + d.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', timeZone: 'UTC' });
+    const n = data.coins.length;
+    $('headline').textContent = n ? n + ' coins worth a look' : 'Nothing made the list';
+    const today = new Date().toISOString().slice(0, 10);
+    const age = Math.round((new Date(today) - new Date(data.date)) / 86400000);
+    if (age >= 2) $('stale').innerHTML = '<p class="stale">This list is ' + age + ' days old. The scanner may have stopped running. Check scanner.log on the server.</p>';
+
+    const s = data.stats || {};
+    const stages = [[s.scanned, 'coins scanned'], [s.passed, 'passed the safety filters'], [s.deep, 'checked in depth'], [n, 'made the list']];
+    const max = Math.log10(Math.max(10, s.scanned || 10));
+    $('sieve').innerHTML = stages.map(([v, label]) => {
+      const w = v > 0 ? Math.max(4, (Math.log10(v + 1) / max) * 100) : 2;
+      return '<li><div class="bar" style="width:' + Math.min(100, w).toFixed(1) + '%"></div><span><b class="num">' +
+        (v ?? 0).toLocaleString('en-US') + '</b> ' + label + '</span></li>';
+    }).join('');
+  }
+
+  function renderCoins() {
+    const sort = $('sort').value;
+    let list = data.coins.map((c, i) => ({ ...c, rank: i + 1 }));
+    if ($('clean').checked) list = list.filter((c) => !(c.flags || []).length);
+    if ($('agentOnly').checked) list = list.filter((c) => ratings[c.id] === 'worth a look');
+    if (sort === 'small') list.sort((a, b) => a.marketCap - b.marketCap);
+    if (sort === 'week') list.sort((a, b) => (b.week ?? -1e9) - (a.week ?? -1e9));
+    const top = Math.max(...data.coins.map((c) => c.score), 1);
+
+    if (!list.length) { $('coins').innerHTML = '<li class="empty" style="padding:18px 4px">No coins match these filters. Untick a box above to see more.</li>'; return; }
+
+    $('coins').innerHTML = list.map((c) => {
+      const flags = c.flags || [];
+      const r = ratings[c.id];
+      const tags = [];
+      if (r) tags.push('<span class="tag ' + RATING[r] + '">Agent: ' + esc(r) + '</span>');
+      if (flags.length) tags.push('<span class="tag warn">' + flags.length + ' warning' + (flags.length > 1 ? 's' : '') + '</span>');
+      const wk = c.week;
+      const links = [['CoinGecko', 'https://www.coingecko.com/en/coins/' + encodeURIComponent(c.id)]];
+      if (safeUrl(c.homepage)) links.push(['Website', c.homepage]);
+      if (c.xHandle) links.push(['X', 'https://x.com/' + encodeURIComponent(c.xHandle)]);
+      if (c.tgId) links.push(['Telegram' + (c.tgMembers ? ' (' + c.tgMembers.toLocaleString('en-US') + ')' : ''), 'https://t.me/' + encodeURIComponent(c.tgId)]);
+      return '<li class="coin"><details><summary>' +
+        '<span class="rank num">' + c.rank + '</span>' +
+        '<span class="name">' + esc(c.name) + '<span class="sym">' + esc((c.symbol || '').toUpperCase()) + '</span></span>' +
+        '<span class="score"><strong class="num">' + c.score + '</strong><div class="meter" aria-hidden="true"><i style="width:' + Math.max(4, (c.score / top) * 100).toFixed(0) + '%"></i></div></span>' +
+        '<span class="figs num"><span><b>' + usd(c.marketCap) + '</b> market cap</span><span><b>' + usd(c.volume24h) + '</b> traded today</span>' +
+        '<span><b class="' + (wk > 0 ? 'up' : wk < 0 ? 'down' : '') + '">' + pct(wk) + '</b> this week</span>' +
+        '<span><b>' + (c.exchanges || []).length + '</b> exchange' + ((c.exchanges || []).length === 1 ? '' : 's') + '</span></span>' +
+        (tags.length ? '<span class="tags">' + tags.join('') + '</span>' : '') +
+        '</summary><div class="more">' +
+        '<h3>Why it\'s here</h3><ul class="why">' + (c.why || []).map((w) => '<li>' + esc(w) + '</li>').join('') + '</ul>' +
+        (flags.length ? '<h3>Watch out</h3><ul class="watch">' + flags.map((f) => '<li>' + esc(f) + '</li>').join('') + '</ul>' : '') +
+        '<h3>Trades on</h3><p class="exch">' + esc((c.exchanges || []).join(', ')) + '</p>' +
+        '<div class="links">' + links.map(([t, u]) => '<a href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(t) + '</a>').join('') + '</div>' +
+        '</div></details></li>';
+    }).join('');
+  }
+
+  function renderScorecard(picks) {
+    if (!picks || !picks.length) { $('scoreBody').innerHTML = '<p class="empty">No results yet. The first 7-day results show up a week after the first full scan.</p>'; return; }
+    const groups = [['All picks', () => true], ['Agent said "worth a look"', (p) => p.agent === 'worth a look'],
+      ['Agent said "caution"', (p) => p.agent === 'caution'], ['Agent said "skip"', (p) => p.agent === 'skip']];
+    const cards = [];
+    for (const [label, test] of groups) {
+      const set = picks.filter(test);
+      if (!set.length) continue;
+      for (const h of [7, 30]) {
+        const done = set.filter((p) => p.results && p.results[h]);
+        if (!done.length) { if (label === 'All picks') cards.push('<div class="result"><h3>' + label + ', after ' + h + ' days</h3><p>Not enough time has passed yet.</p></div>'); continue; }
+        const avg = done.reduce((s, p) => s + p.results[h].ret, 0) / done.length;
+        const mk = done.filter((p) => p.results[h].mkt != null);
+        const avgM = mk.length ? mk.reduce((s, p) => s + p.results[h].mkt, 0) / mk.length : null;
+        const beat = mk.filter((p) => p.results[h].ret > p.results[h].mkt).length;
+        cards.push('<div class="result"><h3>' + label + ', after ' + h + ' days</h3><div class="big num ' + (avg >= 0 ? 'up' : 'down') + '">' + pct(avg) +
+          '</div><p class="num">Market over the same time: ' + pct(avgM) + '</p><p class="num">Beat the market ' +
+          (mk.length ? Math.round((beat / mk.length) * 100) : 0) + '% of the time, across ' + done.length + ' picks</p></div>');
+      }
+    }
+    $('scoreBody').innerHTML = '<div class="card-row">' + cards.join('') + '</div>';
+  }
+
+  async function start() {
+    data = await getJson('latest.json');
+    if (!data || !Array.isArray(data.coins)) {
+      $('date').textContent = '';
+      $('headline').textContent = 'No list yet';
+      $('coins').innerHTML = '<li class="empty">The scanner hasn\'t posted a list here yet. It runs every morning. Check back after the next run.</li>';
+      $('scoreBody').innerHTML = '';
+      return;
+    }
+    const r = await getJson('agent-ratings/' + data.date + '.json');
+    ratings = (r && r.ratings) || {};
+    for (const k of Object.keys(ratings)) ratings[k] = String(ratings[k]).toLowerCase();
+    renderHero();
+    $('controls').hidden = false;
+    $('agentWrap').hidden = !Object.keys(ratings).length;
+    renderCoins();
+    ['sort', 'clean', 'agentOnly'].forEach((id) => $(id).addEventListener('change', renderCoins));
+    renderScorecard(await getJson('history/picks.json'));
+    $('foot').innerHTML = 'A research list, not buy advice. Every coin here can still go to zero. <a href="' + repoLink('/tree/main/history') + '">Past lists</a>';
+  }
+  start();
+})();
+</script>
+</body>
+</html>
