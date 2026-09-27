@@ -455,7 +455,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -469,7 +470,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -483,7 +485,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -497,7 +500,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -511,7 +515,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -525,7 +530,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-26",
@@ -539,7 +545,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -553,7 +560,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -567,7 +575,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -581,7 +590,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -595,7 +605,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -609,7 +620,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -623,7 +635,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-26",
@@ -637,7 +650,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -651,7 +665,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -665,7 +680,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -679,7 +695,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -693,7 +710,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -707,7 +725,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -721,7 +740,8 @@
   "band": "Mid",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -735,7 +755,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -749,7 +770,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -763,7 +785,8 @@
   "band": "Mid",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -777,7 +800,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-26",
@@ -791,7 +815,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -805,7 +830,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -819,7 +845,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -833,7 +860,8 @@
   "band": "Large",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -847,7 +875,8 @@
   "band": "Large",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-26",
@@ -861,7 +890,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-26",
@@ -875,7 +905,8 @@
   "band": "Large",
   "life": "unknown",
   "globalMcap": 2895212552437.681,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-26",
@@ -889,6 +920,455 @@
   "band": "Large",
   "life": "quiet",
   "globalMcap": 2895212552437.681,
+  "results": {},
+  "agent": "worth a look"
+ },
+ {
+  "d": "2026-09-27",
+  "id": "checkmate-2",
+  "name": "Checkmate",
+  "symbol": "check",
+  "price": 0.01205265,
+  "mcap": 4323319,
+  "score": 54,
+  "athX": 22.2,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "chaingpt",
+  "name": "ChainGPT",
+  "symbol": "cgpt",
+  "price": 0.02291149,
+  "mcap": 22859546,
+  "score": 53,
+  "athX": 60.6,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "mamo",
+  "name": "Mamo",
+  "symbol": "mamo",
+  "price": 0.00759322,
+  "mcap": 4614782,
+  "score": 52,
+  "athX": 134.5,
+  "band": "Micro",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "elizaos",
+  "name": "ElizaOS",
+  "symbol": "elizaos",
+  "price": 0.00016932,
+  "mcap": 1266739,
+  "score": 52,
+  "athX": 159.2,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "epic-chain",
+  "name": "Epic Chain",
+  "symbol": "epic",
+  "price": 0.503964,
+  "mcap": 16921016,
+  "score": 52,
+  "athX": 15.9,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "recall",
+  "name": "Recall",
+  "symbol": "recall",
+  "price": 0.04832806,
+  "mcap": 13928125,
+  "score": 51,
+  "athX": 42.5,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "foxsy-ai",
+  "name": "Foxsy AI",
+  "symbol": "foxsy",
+  "price": 0.00220601,
+  "mcap": 2480967,
+  "score": 49,
+  "athX": 139.1,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "chromaway",
+  "name": "Chromia",
+  "symbol": "chr",
+  "price": 0.02291736,
+  "mcap": 22340063,
+  "score": 49,
+  "athX": 162.5,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "zentry",
+  "name": "Zentry",
+  "symbol": "zent",
+  "price": 0.00191539,
+  "mcap": 15340931,
+  "score": 49,
+  "athX": 59.1,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "tokenbot-2",
+  "name": "tokenbot",
+  "symbol": "clanker",
+  "price": 14.64,
+  "mcap": 14429360,
+  "score": 49,
+  "athX": 24.4,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "orca",
+  "name": "Orca",
+  "symbol": "orca",
+  "price": 1.84,
+  "mcap": 112112459,
+  "score": 49,
+  "athX": 27.6,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "platon-network",
+  "name": "PlatON Network",
+  "symbol": "lat",
+  "price": 0.00065917,
+  "mcap": 4689065,
+  "score": 48,
+  "athX": 5537.3,
+  "band": "Micro",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "donut-2",
+  "name": "Donut",
+  "symbol": "donut",
+  "price": 0.00434893,
+  "mcap": 90224,
+  "score": 48,
+  "athX": 310.1,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "centrifuge-2",
+  "name": "Centrifuge",
+  "symbol": "cfg",
+  "price": 0.167415,
+  "mcap": 63714831,
+  "score": 48,
+  "athX": 6,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "as-roma-fan-token",
+  "name": "AS Roma Fan Token",
+  "symbol": "asr",
+  "price": 0.907448,
+  "mcap": 8134591,
+  "score": 47,
+  "athX": 73.4,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "xpla",
+  "name": "CONX",
+  "symbol": "conx",
+  "price": 0.00634604,
+  "mcap": 6440737,
+  "score": 47,
+  "athX": 551.5,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "dolomite",
+  "name": "Dolomite",
+  "symbol": "dolo",
+  "price": 0.03268698,
+  "mcap": 16738703,
+  "score": 47,
+  "athX": 28,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "lumia",
+  "name": "Lumia",
+  "symbol": "lumia",
+  "price": 0.094356,
+  "mcap": 22542524,
+  "score": 46,
+  "athX": 66,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "threshold-network-token",
+  "name": "Threshold Network",
+  "symbol": "t",
+  "price": 0.00586985,
+  "mcap": 65466620,
+  "score": 44,
+  "athX": 96.7,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "gala",
+  "name": "GALA",
+  "symbol": "gala",
+  "price": 0.00229045,
+  "mcap": 115145395,
+  "score": 44,
+  "athX": 900.3,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "fetch-ai",
+  "name": "Artificial Superintelligence Alliance",
+  "symbol": "fet",
+  "price": 0.244635,
+  "mcap": 565421874,
+  "score": 44,
+  "athX": 35.3,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "redstone-oracles",
+  "name": "RedStone",
+  "symbol": "red",
+  "price": 0.171926,
+  "mcap": 90441085,
+  "score": 43,
+  "athX": 13.6,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "eigenlayer",
+  "name": "EigenCloud (prev. EigenLayer)",
+  "symbol": "eigen",
+  "price": 0.278769,
+  "mcap": 258554583,
+  "score": 41,
+  "athX": 50.7,
+  "band": "Large",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "arweave",
+  "name": "Arweave",
+  "symbol": "ar",
+  "price": 4.76,
+  "mcap": 312228835,
+  "score": 41,
+  "athX": 46.9,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "babylon",
+  "name": "Babylon",
+  "symbol": "baby",
+  "price": 0.01422805,
+  "mcap": 65753511,
+  "score": 40,
+  "athX": 29.2,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "siacoin",
+  "name": "Siacoin",
+  "symbol": "sc",
+  "price": 0.00114449,
+  "mcap": 56879761,
+  "score": 40,
+  "athX": 202.9,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "nillion",
+  "name": "Nillion",
+  "symbol": "nil",
+  "price": 0.108317,
+  "mcap": 55223264,
+  "score": 40,
+  "athX": 20.7,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "grass",
+  "name": "Grass",
+  "symbol": "grass",
+  "price": 0.627789,
+  "mcap": 425124264,
+  "score": 40,
+  "athX": 15.5,
+  "band": "Large",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "dash",
+  "name": "Dash",
+  "symbol": "dash",
+  "price": 70.28,
+  "mcap": 902936850,
+  "score": 39,
+  "athX": 53.1,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "injective-protocol",
+  "name": "Injective",
+  "symbol": "inj",
+  "price": 7.84,
+  "mcap": 783737814,
+  "score": 39,
+  "athX": 16.8,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "virtual-protocol",
+  "name": "Virtuals Protocol",
+  "symbol": "virtual",
+  "price": 0.806959,
+  "mcap": 531654169,
+  "score": 37,
+  "athX": 15.7,
+  "band": "Large",
+  "life": "unknown",
+  "globalMcap": 2897252559054.5176,
+  "results": {}
+ },
+ {
+  "d": "2026-09-27",
+  "id": "kamino",
+  "name": "Kamino",
+  "symbol": "kmno",
+  "price": 0.04714633,
+  "mcap": 265084914,
+  "score": 36,
+  "athX": 13.1,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2897252559054.5176,
   "results": {}
  }
 ]
