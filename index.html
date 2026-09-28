@@ -107,6 +107,9 @@ td.rank { color: var(--faint); width: 2.5em; text-align: left; }
 .badge.bad { color: var(--bad); background: color-mix(in srgb, var(--bad) 14%, transparent); }
 .badge.none { color: var(--faint); }
 .xt { color: var(--warn); }
+.wnote { margin: 0; padding: 10px 14px; color: var(--muted); font-size: 12.5px; border-bottom: 1px solid var(--line); }
+.tag.today { color: var(--accent); background: var(--accent-soft); }
+#wrows tr.nolink { cursor: default; }
 .seg { display: inline-flex; flex-wrap: wrap; border: 1px solid var(--line); border-radius: 7px; overflow: hidden; }
 .seg button { font: 500 12.5px/1 var(--sans); color: var(--muted); background: var(--panel-2); border: 0; border-right: 1px solid var(--line); padding: 7px 10px; cursor: pointer; display: inline-flex; gap: 5px; align-items: center; }
 .seg button:last-child { border-right: 0; }
@@ -117,6 +120,8 @@ td.rank { color: var(--faint); width: 2.5em; text-align: left; }
 .tag.life-quiet { color: var(--muted); background: var(--panel-2); }
 .tag.life-zombie { color: var(--warn); background: color-mix(in srgb, var(--warn) 16%, transparent); }
 .tag.life-unknown { color: var(--faint); background: transparent; border: 1px dashed var(--line); }
+.agent-sm { display: none; }
+@media (max-width: 760px) { .agent-sm { display: inline-block; } }
 .tag.band { color: var(--ink); background: var(--accent-soft); }
 .potcell { font-weight: 600; }
 .warnmark { color: var(--warn); font-family: var(--sans); font-size: 12px; margin-left: 6px; }
@@ -199,7 +204,9 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
 
   <div class="grid">
     <section class="widget" aria-labelledby="wl-h">
-      <div class="whead"><h2 id="wl-h">Watchlist</h2><span class="sub" id="wlSub"></span></div>
+      <div class="whead"><h2 id="wl-h">Today's list</h2><span class="sub" id="wlSub"></span>
+        <span class="right"><span class="seg" id="viewSeg" role="group" aria-label="Switch view"><button type="button" data-v="today" aria-pressed="true">Today</button><button type="button" data-v="watch" aria-pressed="false">Watchlist<span class="ct" id="watchCt"></span></button></span></span></div>
+      <div id="todayView">
       <div class="tabs" id="tabs" role="group" aria-label="Filter by sector"></div>
       <div class="controls">
         <span class="seg" id="sizes" role="group" aria-label="Filter by market cap size"></span>
@@ -223,10 +230,28 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
             <th class="hide-sm"><button type="button" data-sort="week">7d</button></th>
             <th class="hide-sm"><button type="button" data-sort="turnover">Turnover</button></th>
             <th class="hide-sm"><button type="button" data-sort="exch">Exch.</button></th>
-            <th class="hide-sm">Agent</th>
+            <th class="hide-sm"><button type="button" data-sort="agent" title="Worth a look first, then caution, not rated, skip">Agent</button></th>
           </tr></thead>
           <tbody id="rows"></tbody>
         </table>
+      </div>
+      </div>
+      <div id="watchView" hidden>
+        <p class="wnote">Every coin the research agent has rated "worth a look", most-flagged first. Prices update with each morning scan.</p>
+        <div class="tablewrap">
+          <table>
+            <thead><tr>
+              <th class="l">Coin</th>
+              <th><button type="button" data-wsort="times">Times</button></th>
+              <th class="hide-sm"><button type="button" data-wsort="first">First flagged</button></th>
+              <th class="hide-sm">Price then</th>
+              <th>Price now</th>
+              <th><button type="button" data-wsort="change">Change</button></th>
+              <th class="hide-sm">Latest rating</th>
+            </tr></thead>
+            <tbody id="wrows"></tbody>
+          </table>
+        </div>
       </div>
     </section>
 
@@ -322,13 +347,14 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
   const SORTS = {
     score: [(c) => c.score, -1], mcap: [(c) => c.marketCap, 1], vol: [(c) => c.volume24h, -1],
     week: [(c) => c.week ?? -1e9, -1], pot: [(c) => (c.potential ? c.potential.x : -1), -1], turnover: [(c) => c.turnover, -1], exch: [(c) => (c.exchanges || []).length, -1],
+    agent: [(c) => ({ 'worth a look': 3, 'caution': 2, 'skip': 0 }[ratings[c.id]] ?? 1), -1],
   };
-  let data = null, ratings = {}, athChecks = {}, lifeChecks = {}, coins = [], topScore = 1;
-  const saved = store.get('sort');
+  let data = null, ratings = {}, athChecks = {}, lifeChecks = {}, coins = [], topScore = 1, watch = [], ratingsDate = null;
+  const saved = store.get('sort2');
   const state = {
     sectors: new Set(store.get('sectors') || []), chain: store.get('chain') || '',
-    sort: saved && SORTS[saved.key] ? saved : { key: 'score', dir: -1 }, sel: null,
-    minPot: Number(store.get('minPot')) || 0, hideExtreme: !!store.get('hideExtreme'), size: store.get('size') || '', hideZombie: !!store.get('hideZombie'),
+    sort: saved && SORTS[saved.key] ? saved : null, sel: null,
+    minPot: Number(store.get('minPot')) || 0, hideExtreme: !!store.get('hideExtreme'), size: store.get('size') || '', hideZombie: !!store.get('hideZombie'), view: store.get('view') === 'watch' ? 'watch' : 'today', wsort: { key: 'times', dir: -1 },
   };
 
   function repoLink(sub) {
@@ -442,7 +468,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         '<td class="rank">' + c.rank + '</td>' +
         '<td class="l"><span class="coin"><b>' + esc(c.name) + '<span class="tk">' + esc((c.symbol || '').toUpperCase()) + '</span>' +
           (flags.length ? '<span class="warnmark" title="' + flags.length + ' warning' + (flags.length > 1 ? 's' : '') + '">⚠ ' + flags.length + '</span>' : '') + '</b>' +
-          '<span class="tags">' + (c.life ? '<span class="tag life-' + esc(c.life.status) + '" title="' + esc(lifeTitle(c.life)) + '">' + esc(LIFE_LABEL[c.life.status] || c.life.status) + '</span>' : '') + (c.band ? '<span class="tag band" title="' + esc(bandRange(c.band)) + '">' + esc(c.band) + '</span>' : '') + c.sectors.slice(0, 3).map((s) => '<span class="tag">' + esc(s) + '</span>').join('') + '</span></span></td>' +
+          '<span class="tags">' + (ratings[c.id] ? '<span class="badge ' + RATING[ratings[c.id]] + ' agent-sm">' + esc(ratings[c.id]) + '</span>' : '') + (c.life ? '<span class="tag life-' + esc(c.life.status) + '" title="' + esc(lifeTitle(c.life)) + '">' + esc(LIFE_LABEL[c.life.status] || c.life.status) + '</span>' : '') + (c.band ? '<span class="tag band" title="' + esc(bandRange(c.band)) + '">' + esc(c.band) + '</span>' : '') + c.sectors.slice(0, 3).map((s) => '<span class="tag">' + esc(s) + '</span>').join('') + '</span></span></td>' +
         '<td><span class="scorecell">' + c.score + '<span class="sbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.min(100, c.score / topScore * 100)).toFixed(0) + '%"></i></span></span></td>' +
         '<td>' + usd(c.marketCap) + '</td>' +
         '<td class="hide-sm">' + usd(c.volume24h) + '</td>' +
@@ -518,6 +544,57 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     return h + '</div>';
   }
 
+  function mergeWatch(w) {
+    const items = (w && Array.isArray(w.items) ? w.items : []).map((x) => ({ ...x }));
+    const byId = new Map(items.map((x) => [x.id, x]));
+    for (const c of coins) {
+      const r = ratings[c.id];
+      let x = byId.get(c.id);
+      if (x) { x.onListToday = true; x.price = c.price; x.marketCap = c.marketCap; x.band = c.band || x.band; if (r) { x.lastRating = r; x.lastRatingDate = ratingsDate; } }
+      if (r === 'worth a look' && ratingsDate === data.date) {
+        if (!x) { x = { id: c.id, name: c.name, symbol: c.symbol, times: 0, firstDate: data.date, firstPrice: c.price, price: c.price, marketCap: c.marketCap, band: c.band, onListToday: true, lastRating: r, lastRatingDate: ratingsDate }; items.push(x); byId.set(c.id, x); }
+        if (x.lastDate !== data.date) { x.times = (x.times || 0) + 1; x.lastDate = data.date; }
+      }
+      if (x && x.firstPrice > 0 && x.price != null) x.changePct = (x.price - x.firstPrice) / x.firstPrice * 100;
+    }
+    return items;
+  }
+
+  function renderWatch() {
+    $('watchCt').textContent = watch.length;
+    const k = state.wsort.key, dir = state.wsort.dir;
+    const val = { times: (x) => x.times || 0, first: (x) => x.firstDate ? Date.parse(x.firstDate) : 0, change: (x) => x.changePct ?? -1e9 }[k];
+    const list = watch.slice().sort((a, b) => (val(a) - val(b)) * dir || (b.times || 0) - (a.times || 0));
+    document.querySelectorAll('th button[data-wsort]').forEach((b) => {
+      b.querySelector('.arr')?.remove();
+      if (b.dataset.wsort === k) b.insertAdjacentHTML('beforeend', '<span class="arr">' + (dir < 0 ? '▼' : '▲') + '</span>');
+    });
+    if (!list.length) { $('wrows').innerHTML = '<tr><td colspan="7" class="empty">No coins yet. Coins show up here once the research agent rates them "worth a look".</td></tr>'; return; }
+    const ago = (d) => { const n = Math.round((Date.parse(data.date) - Date.parse(d)) / 864e5); return n <= 0 ? 'today' : n === 1 ? '1 day ago' : n + ' days ago'; };
+    $('wrows').innerHTML = list.map((x) => {
+      const ch = x.changePct;
+      return '<tr data-id="' + esc(x.id) + '" class="' + (x.onListToday ? '' : 'nolink') + '"' + (x.onListToday ? ' tabindex="0"' : '') + '>' +
+        '<td class="l"><span class="coin"><b><a href="https://www.coingecko.com/en/coins/' + encodeURIComponent(x.id) + '" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">' + esc(x.name) + '</a><span class="tk">' + esc((x.symbol || '').toUpperCase()) + '</span></b>' +
+          '<span class="tags">' + (x.onListToday ? '<span class="tag today">On today\'s list</span>' : '') + (x.band ? '<span class="tag band">' + esc(x.band) + '</span>' : '') +
+          '<span class="badge ' + (RATING[x.lastRating] || 'none') + ' agent-sm">' + esc(x.lastRating || '–') + '</span></span></span></td>' +
+        '<td>' + (x.times || 0) + 'x</td>' +
+        '<td class="hide-sm">' + (x.firstDate ? esc(ago(x.firstDate)) : '–') + '</td>' +
+        '<td class="hide-sm">' + price(x.firstPrice) + '</td>' +
+        '<td>' + price(x.price) + '</td>' +
+        '<td class="' + (ch > 0 ? 'up' : ch < 0 ? 'down' : '') + '">' + (ch == null ? '–' : pct(ch)) + '</td>' +
+        '<td class="hide-sm">' + (x.lastRating ? '<span class="badge ' + (RATING[x.lastRating] || 'none') + '">' + esc(x.lastRating) + '</span>' : '<span class="badge none">–</span>') + '</td></tr>';
+    }).join('');
+  }
+
+  function setView(v) {
+    state.view = v; save();
+    $('todayView').hidden = v !== 'today'; $('watchView').hidden = v !== 'watch';
+    $('wl-h').textContent = v === 'today' ? 'Today\'s list' : 'Watchlist';
+    $('wlSub').hidden = v !== 'today';
+    $('viewSeg').querySelectorAll('button').forEach((b) => b.setAttribute('aria-pressed', b.dataset.v === v));
+    if (v === 'watch') renderWatch();
+  }
+
   function renderScorecard(picks) {
     const el = $('pane-sc');
     if (!picks || !picks.length) { el.innerHTML = '<p class="empty" style="padding:0">No results yet. The first 7-day results show up a week after the first full scan.</p>'; return; }
@@ -544,7 +621,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     el.innerHTML = '<div class="cards">' + cards.join('') + '</div>';
   }
 
-  function save() { store.set('sectors', [...state.sectors]); store.set('chain', state.chain); store.set('sort', state.sort); store.set('minPot', state.minPot); store.set('hideExtreme', state.hideExtreme); store.set('size', state.size); store.set('hideZombie', state.hideZombie); }
+  function save() { store.set('sectors', [...state.sectors]); store.set('chain', state.chain); store.set('sort2', state.sort); store.set('minPot', state.minPot); store.set('hideExtreme', state.hideExtreme); store.set('size', state.size); store.set('hideZombie', state.hideZombie); store.set('view', state.view); }
 
   async function start() {
     data = await getJson('latest.json');
@@ -558,6 +635,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     let r = await getJson('agent-ratings/' + data.date + '.json');
     if (!r && snap && snap.ratings) r = snap.ratings;
     ratings = (r && r.ratings) || {};
+    ratingsDate = (r && r.date) || data.date;
     athChecks = (r && r.athCheck) || {};
     lifeChecks = (r && r.lifeCheck) || {};
     for (const k of Object.keys(ratings)) ratings[k] = String(ratings[k]).toLowerCase();
@@ -569,7 +647,27 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     topScore = Math.max(1, ...coins.map((c) => c.score || 0));
     renderTop(); renderFilters();
     $('agentWrap').hidden = !Object.keys(ratings).length;
+    if (!state.sort) state.sort = Object.keys(ratings).length ? { key: 'agent', dir: -1 } : { key: 'score', dir: -1 };
     renderRows();
+    let wl = await getJson('watchlist.json');
+    if (!wl && snap && snap.watchlist) wl = snap.watchlist;
+    watch = mergeWatch(wl);
+    $('watchCt').textContent = watch.length;
+    $('viewSeg').addEventListener('click', (e) => { const b = e.target.closest('button'); if (b) setView(b.dataset.v); });
+    document.querySelector('#watchView thead').addEventListener('click', (e) => {
+      const b = e.target.closest('button[data-wsort]'); if (!b) return;
+      const k = b.dataset.wsort;
+      state.wsort = state.wsort.key === k ? { key: k, dir: -state.wsort.dir } : { key: k, dir: -1 };
+      renderWatch();
+    });
+    $('wrows').addEventListener('click', (e) => {
+      if (e.target.closest('a')) return;
+      const tr = e.target.closest('tr'); if (!tr || tr.classList.contains('nolink')) return;
+      setView('today'); state.sel = tr.dataset.id;
+      $('rows').querySelectorAll('tr').forEach((x) => x.classList.toggle('sel', x.dataset.id === state.sel)); renderDetail();
+      $('detailBox').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    setView(state.view);
 
     $('tabs').addEventListener('click', (e) => {
       const b = e.target.closest('.tab'); if (!b) return;
