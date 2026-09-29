@@ -1415,7 +1415,8 @@
   "band": "Small",
   "life": "quiet",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1429,7 +1430,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1443,7 +1445,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1457,7 +1460,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-28",
@@ -1471,7 +1475,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1485,7 +1490,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1499,7 +1505,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1513,7 +1520,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1527,7 +1535,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1541,7 +1550,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1555,7 +1565,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1569,7 +1580,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1583,7 +1595,8 @@
   "band": "Micro",
   "life": "quiet",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1597,7 +1610,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1611,7 +1625,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1625,7 +1640,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1639,7 +1655,8 @@
   "band": "Micro",
   "life": "zombie",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1653,7 +1670,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1667,7 +1685,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1681,7 +1700,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1695,7 +1715,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1709,7 +1730,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1723,7 +1745,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1737,7 +1760,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1751,7 +1775,8 @@
   "band": "Small",
   "life": "zombie",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1765,7 +1790,8 @@
   "band": "Mid",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1779,7 +1805,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-28",
@@ -1793,7 +1820,8 @@
   "band": "Mid",
   "life": "zombie",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-28",
@@ -1807,7 +1835,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1821,7 +1850,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1835,7 +1865,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1849,7 +1880,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1863,7 +1895,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1877,7 +1910,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-28",
@@ -1891,7 +1925,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -1905,7 +1940,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1919,7 +1955,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1933,7 +1970,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1947,7 +1985,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-28",
@@ -1961,7 +2000,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1975,7 +2015,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -1989,7 +2030,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -2003,7 +2045,8 @@
   "band": "Large",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -2017,7 +2060,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-09-28",
@@ -2031,7 +2075,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -2045,7 +2090,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-09-28",
@@ -2059,7 +2105,8 @@
   "band": "Large",
   "life": "unknown",
   "globalMcap": 2833344337186.614,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-09-28",
@@ -2073,6 +2120,679 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2833344337186.614,
+  "results": {},
+  "agent": "caution"
+ },
+ {
+  "d": "2026-09-29",
+  "id": "magic",
+  "name": "Treasure",
+  "symbol": "magic",
+  "price": 0.052986,
+  "mcap": 17895386,
+  "score": 64,
+  "athX": 298.2,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "rio-defi",
+  "name": "RioDeFi",
+  "symbol": "rfuel",
+  "price": 0.00088972,
+  "mcap": 306553,
+  "score": 61,
+  "athX": 733.2,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "hippo-protocol",
+  "name": "Hippo Protocol",
+  "symbol": "hp",
+  "price": 0.0097928,
+  "mcap": 14320882,
+  "score": 58,
+  "athX": 17.3,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "streamflow",
+  "name": "Streamflow",
+  "symbol": "stream",
+  "price": 0.00989832,
+  "mcap": 1441633,
+  "score": 56,
+  "athX": 45.5,
+  "band": "Micro",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "404-gen",
+  "name": "404—GEN",
+  "symbol": "sn17",
+  "price": 2.86,
+  "mcap": 16462714,
+  "score": 56,
+  "athX": 13.4,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "moonft",
+  "name": "Moonft",
+  "symbol": "mtc",
+  "price": 0.00105835,
+  "mcap": 111405,
+  "score": 54,
+  "athX": 37629.3,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "gamebuild",
+  "name": "GameBuild",
+  "symbol": "game",
+  "price": 0.00105549,
+  "mcap": 20602117,
+  "score": 54,
+  "athX": 21.8,
+  "band": "Small",
+  "life": "quiet",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "lumia",
+  "name": "Lumia",
+  "symbol": "lumia",
+  "price": 0.088482,
+  "mcap": 21137390,
+  "score": 54,
+  "athX": 70.4,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "infinit",
+  "name": "INFINIT",
+  "symbol": "in",
+  "price": 0.03781179,
+  "mcap": 13047308,
+  "score": 54,
+  "athX": 21,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "checkmate-2",
+  "name": "Checkmate",
+  "symbol": "check",
+  "price": 0.01208844,
+  "mcap": 4342348,
+  "score": 53,
+  "athX": 22.2,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "celo",
+  "name": "Celo",
+  "symbol": "celo",
+  "price": 0.117303,
+  "mcap": 71069817,
+  "score": 53,
+  "athX": 209.3,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "revuto",
+  "name": "Revuto",
+  "symbol": "revu",
+  "price": 0.0017629,
+  "mcap": 321047,
+  "score": 52,
+  "athX": 340.6,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "ast-fun",
+  "name": "ast.fun",
+  "symbol": "ast",
+  "price": 0.00079482,
+  "mcap": 794837,
+  "score": 51,
+  "athX": 40.2,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "gunz",
+  "name": "Gunz",
+  "symbol": "gun",
+  "price": 0.00299214,
+  "mcap": 10542642,
+  "score": 51,
+  "athX": 96.1,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "dia-data",
+  "name": "DIA",
+  "symbol": "dia",
+  "price": 0.163989,
+  "mcap": 19625606,
+  "score": 51,
+  "athX": 87.4,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "tokenbot-2",
+  "name": "tokenbot",
+  "symbol": "clanker",
+  "price": 14.33,
+  "mcap": 14139808,
+  "score": 50,
+  "athX": 24.9,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "foxsy-ai",
+  "name": "Foxsy AI",
+  "symbol": "foxsy",
+  "price": 0.00225844,
+  "mcap": 2540116,
+  "score": 49,
+  "athX": 135.9,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "eywa",
+  "name": "EYWA",
+  "symbol": "eywa",
+  "price": 0.00055882,
+  "mcap": 369447,
+  "score": 49,
+  "athX": 981.3,
+  "band": "Micro",
+  "life": "quiet",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "graphlinq-protocol",
+  "name": "GraphLinq Chain",
+  "symbol": "glq",
+  "price": 0.00072512,
+  "mcap": 246526,
+  "score": 49,
+  "athX": 667.5,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "xai-blockchain",
+  "name": "Xai",
+  "symbol": "xai",
+  "price": 0.00940267,
+  "mcap": 19842575,
+  "score": 49,
+  "athX": 422.8,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "alien-worlds",
+  "name": "Alien Worlds",
+  "symbol": "tlm",
+  "price": 0.00154633,
+  "mcap": 10880208,
+  "score": 49,
+  "athX": 1195.9,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "centrifuge-2",
+  "name": "Centrifuge",
+  "symbol": "cfg",
+  "price": 0.161928,
+  "mcap": 61604083,
+  "score": 49,
+  "athX": 6.2,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "blocklords",
+  "name": "BLOCKLORDS",
+  "symbol": "lrds",
+  "price": 0.01750062,
+  "mcap": 951394,
+  "score": 48,
+  "athX": 295.7,
+  "band": "Micro",
+  "life": "zombie",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "reinforced-ai",
+  "name": "ReinforcedAI",
+  "symbol": "sn92",
+  "price": 0.465589,
+  "mcap": 356370,
+  "score": 48,
+  "athX": 39.8,
+  "band": "Micro",
+  "life": "zombie",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "platon-network",
+  "name": "PlatON Network",
+  "symbol": "lat",
+  "price": 0.00065585,
+  "mcap": 4667834,
+  "score": 48,
+  "athX": 5565.3,
+  "band": "Micro",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "aztec",
+  "name": "Aztec",
+  "symbol": "aztec",
+  "price": 0.01909691,
+  "mcap": 56304651,
+  "score": 48,
+  "athX": 5.2,
+  "band": "Mid",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "plume",
+  "name": "Plume",
+  "symbol": "plume",
+  "price": 0.01853846,
+  "mcap": 122502009,
+  "score": 47,
+  "athX": 33.4,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "echelon-prime",
+  "name": "Echelon Prime",
+  "symbol": "prime",
+  "price": 0.248269,
+  "mcap": 15932514,
+  "score": 46,
+  "athX": 282,
+  "band": "Small",
+  "life": "zombie",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "tellor",
+  "name": "Tellor Tributes",
+  "symbol": "trb",
+  "price": 19.65,
+  "mcap": 55381546,
+  "score": 46,
+  "athX": 75.5,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "iota",
+  "name": "IOTA",
+  "symbol": "iota",
+  "price": 0.055483,
+  "mcap": 258499265,
+  "score": 46,
+  "athX": 236.6,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "xdce-crowd-sale",
+  "name": "XDC Network",
+  "symbol": "xdc",
+  "price": 0.03663168,
+  "mcap": 730765603,
+  "score": 46,
+  "athX": 13.2,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "virtual-protocol",
+  "name": "Virtuals Protocol",
+  "symbol": "virtual",
+  "price": 0.818748,
+  "mcap": 539124729,
+  "score": 45,
+  "athX": 15.5,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "syrup",
+  "name": "Maple Finance",
+  "symbol": "syrup",
+  "price": 0.248679,
+  "mcap": 290381195,
+  "score": 45,
+  "athX": 6.6,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "bio-protocol",
+  "name": "Bio Protocol",
+  "symbol": "bio",
+  "price": 0.0313405,
+  "mcap": 67249551,
+  "score": 44,
+  "athX": 70.9,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "gala",
+  "name": "GALA",
+  "symbol": "gala",
+  "price": 0.00232779,
+  "mcap": 117134146,
+  "score": 44,
+  "athX": 885.9,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "livepeer",
+  "name": "Livepeer",
+  "symbol": "lpt",
+  "price": 1.73,
+  "mcap": 85916877,
+  "score": 42,
+  "athX": 143.1,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "allora",
+  "name": "Allora",
+  "symbol": "allo",
+  "price": 0.290964,
+  "mcap": 72820923,
+  "score": 42,
+  "athX": 13.7,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "thorchain",
+  "name": "THORChain",
+  "symbol": "rune",
+  "price": 0.785475,
+  "mcap": 258123724,
+  "score": 42,
+  "athX": 66.4,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "grass",
+  "name": "Grass",
+  "symbol": "grass",
+  "price": 0.688822,
+  "mcap": 482021122,
+  "score": 42,
+  "athX": 14.1,
+  "band": "Large",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "linea",
+  "name": "Linea",
+  "symbol": "linea",
+  "price": 0.00296782,
+  "mcap": 72788374,
+  "score": 41,
+  "athX": 39.3,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "arweave",
+  "name": "Arweave",
+  "symbol": "ar",
+  "price": 4.34,
+  "mcap": 284689752,
+  "score": 41,
+  "athX": 51.4,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "eigenlayer",
+  "name": "EigenCloud (prev. EigenLayer)",
+  "symbol": "eigen",
+  "price": 0.262544,
+  "mcap": 243411894,
+  "score": 39,
+  "athX": 53.8,
+  "band": "Mid",
+  "life": "unknown",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "arkham",
+  "name": "Arkham",
+  "symbol": "arkm",
+  "price": 0.130076,
+  "mcap": 92758599,
+  "score": 39,
+  "athX": 76.5,
+  "band": "Mid",
+  "life": "quiet",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "fetch-ai",
+  "name": "Artificial Superintelligence Alliance",
+  "symbol": "fet",
+  "price": 0.228251,
+  "mcap": 527538496,
+  "score": 39,
+  "athX": 37.8,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "lido-dao",
+  "name": "Lido DAO",
+  "symbol": "ldo",
+  "price": 0.463605,
+  "mcap": 384566602,
+  "score": 38,
+  "athX": 39.4,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "midnight-3",
+  "name": "Midnight",
+  "symbol": "night",
+  "price": 0.02992089,
+  "mcap": 496961841,
+  "score": 35,
+  "athX": 9.9,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "optimism",
+  "name": "Optimism",
+  "symbol": "op",
+  "price": 0.132124,
+  "mcap": 303827687,
+  "score": 34,
+  "athX": 91.6,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
+  "results": {}
+ },
+ {
+  "d": "2026-09-29",
+  "id": "injective-protocol",
+  "name": "Injective",
+  "symbol": "inj",
+  "price": 7.57,
+  "mcap": 757116013,
+  "score": 34,
+  "athX": 17.4,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2869181072013.882,
   "results": {}
  }
 ]
