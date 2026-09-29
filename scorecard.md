@@ -1,4 +1,4 @@
-# Scorecard — updated 2026-09-28
+# Scorecard — updated 2026-09-29
 
 How the scanner's picks did after 7 and 30 days, compared with the whole crypto market over the same stretch.
 
