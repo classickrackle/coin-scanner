@@ -8,7 +8,13 @@
   "mcap": 755030,
   "score": 54,
   "globalMcap": 2885989836864.2334,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 3.113100751260678,
+    "mkt": 1.9352117559637172,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -20,7 +26,13 @@
   "mcap": 3262666,
   "score": 47,
   "globalMcap": 2885989836864.2334,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 8.029099633716164,
+    "mkt": 1.9352117559637172,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -32,7 +44,13 @@
   "mcap": 24776391,
   "score": 44,
   "globalMcap": 2885989836864.2334,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 9.564332494643413,
+    "mkt": 1.9352117559637172,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -44,7 +62,13 @@
   "mcap": 21184066,
   "score": 44,
   "globalMcap": 2885989836864.2334,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 7.8924311992041085,
+    "mkt": 1.9352117559637172,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -56,7 +80,13 @@
   "mcap": 195017,
   "score": 47,
   "globalMcap": 2892593023771.0693,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 3.360141807446082,
+    "mkt": 1.7025149161106423,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -70,7 +100,13 @@
   "athX": 22.1,
   "band": "Micro",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -2.628720883090685,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "worth a look"
  },
  {
@@ -84,7 +120,13 @@
   "athX": 90.6,
   "band": "Small",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 0.0967087522995902,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -98,7 +140,13 @@
   "athX": 89.8,
   "band": "Small",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 2.2329318275823073,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "worth a look"
  },
  {
@@ -112,7 +160,13 @@
   "athX": 456.9,
   "band": "Small",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -2.5752924231083885,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -126,7 +180,13 @@
   "athX": 1184,
   "band": "Small",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 3.948396184134717,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -140,7 +200,13 @@
   "athX": 1631.9,
   "band": "Small",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -4.271872772279572,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -154,7 +220,13 @@
   "athX": 13.4,
   "band": "Micro",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -3.3333333333333326,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -168,7 +240,13 @@
   "athX": 135.3,
   "band": "Micro",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 1.4367880787246934,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -182,7 +260,13 @@
   "athX": 32.7,
   "band": "Mid",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -2.617016413363582,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "worth a look"
  },
  {
@@ -196,7 +280,13 @@
   "athX": 6.3,
   "band": "Mid",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -4.146118837235846,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -210,7 +300,13 @@
   "athX": 18.6,
   "band": "Large",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 31.066306619211637,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -224,7 +320,13 @@
   "athX": 74.1,
   "band": "Mid",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 0.15191230787561238,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -238,7 +340,13 @@
   "athX": 96.6,
   "band": "Mid",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -4.179264165800111,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -252,7 +360,13 @@
   "athX": 35.7,
   "band": "Large",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -3.7656574362204154,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -266,7 +380,13 @@
   "athX": 13.4,
   "band": "Mid",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -0.5309470373155323,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "worth a look"
  },
  {
@@ -280,7 +400,13 @@
   "athX": 53.5,
   "band": "Mid",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -1.2993950047164637,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "worth a look"
  },
  {
@@ -294,7 +420,13 @@
   "athX": 16.1,
   "band": "Large",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 3.3957925760309093,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -308,7 +440,13 @@
   "athX": 38.7,
   "band": "Large",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -2.272480156572809,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "worth a look"
  },
  {
@@ -322,7 +460,13 @@
   "athX": 37.2,
   "band": "Large",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -6.956324738701558,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -336,7 +480,13 @@
   "athX": 83.5,
   "band": "Large",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -8.404446285556466,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -350,7 +500,13 @@
   "athX": 16,
   "band": "Large",
   "globalMcap": 2897853298273.557,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -8.505467800729038,
+    "mkt": 1.517901310456149,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "worth a look"
  },
  {
@@ -365,7 +521,13 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2885251419496.366,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -0.5859759700610478,
+    "mkt": 1.9612998570730955,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -380,7 +542,13 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2885251419496.366,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 0.34582132564842105,
+    "mkt": 1.9612998570730955,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -395,7 +563,13 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2885251419496.366,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 0.5454467519663941,
+    "mkt": 1.9612998570730955,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -410,7 +584,13 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2885251419496.366,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 17.476578477822358,
+    "mkt": 1.9612998570730955,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -425,7 +605,13 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2885251419496.366,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 5.35714285714286,
+    "mkt": 1.9612998570730955,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "worth a look"
  },
  {
@@ -440,7 +626,13 @@
   "band": "Large",
   "life": "unknown",
   "globalMcap": 2885251419496.366,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -1.705115879767416,
+    "mkt": 1.9612998570730955,
+    "on": "2026-10-02"
+   }
+  },
   "agent": "worth a look"
  },
  {
@@ -3575,7 +3767,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-10-01",
@@ -3589,7 +3782,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3603,7 +3797,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3617,7 +3812,8 @@
   "band": "Mid",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-10-01",
@@ -3631,7 +3827,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3645,7 +3842,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-10-01",
@@ -3659,7 +3857,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-01",
@@ -3673,7 +3872,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-01",
@@ -3687,7 +3887,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3701,7 +3902,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3715,7 +3917,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-01",
@@ -3729,7 +3932,8 @@
   "band": "Small",
   "life": "quiet",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3743,7 +3947,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-01",
@@ -3757,7 +3962,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-10-01",
@@ -3771,7 +3977,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3785,7 +3992,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3799,7 +4007,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3813,7 +4022,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3827,7 +4037,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3841,7 +4052,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3855,7 +4067,8 @@
   "band": "Small",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3869,7 +4082,8 @@
   "band": "Small",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3883,7 +4097,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3897,7 +4112,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3911,7 +4127,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-01",
@@ -3925,7 +4142,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-01",
@@ -3939,7 +4157,8 @@
   "band": "Small",
   "life": "quiet",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -3953,7 +4172,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-10-01",
@@ -3967,7 +4187,8 @@
   "band": "Mid",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-01",
@@ -3981,7 +4202,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-10-01",
@@ -3995,7 +4217,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4009,7 +4232,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4023,7 +4247,8 @@
   "band": "Mid",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4037,7 +4262,8 @@
   "band": "Micro",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-01",
@@ -4051,7 +4277,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-10-01",
@@ -4065,7 +4292,8 @@
   "band": "Micro",
   "life": "unknown",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4079,7 +4307,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4093,7 +4322,8 @@
   "band": "Mid",
   "life": "quiet",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4107,7 +4337,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4121,7 +4352,8 @@
   "band": "Mid",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4135,7 +4367,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4149,7 +4382,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-10-01",
@@ -4163,7 +4397,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4177,7 +4412,8 @@
   "band": "Mid",
   "life": "zombie",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4191,7 +4427,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-01",
@@ -4205,7 +4442,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-01",
@@ -4219,7 +4457,8 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
-  "results": {}
+  "results": {},
+  "agent": "worth a look"
  },
  {
   "d": "2026-10-01",
@@ -4233,6 +4472,679 @@
   "band": "Large",
   "life": "alive",
   "globalMcap": 2862512825516.2207,
+  "results": {},
+  "agent": "worth a look"
+ },
+ {
+  "d": "2026-10-02",
+  "id": "cookie",
+  "name": "Cookie DAO",
+  "symbol": "cookie",
+  "price": 0.0130877,
+  "mcap": 10513516,
+  "score": 69,
+  "athX": 143.9,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "superfarm",
+  "name": "SuperVerse",
+  "symbol": "super",
+  "price": 0.224343,
+  "mcap": 146349031,
+  "score": 69,
+  "athX": 52.8,
+  "band": "Mid",
+  "life": "zombie",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "sweatcoin",
+  "name": "SWEAT",
+  "symbol": "sweat",
+  "price": 0.00079853,
+  "mcap": 10707704,
+  "score": 68,
+  "athX": 286.4,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "magic",
+  "name": "Treasure",
+  "symbol": "magic",
+  "price": 0.0612,
+  "mcap": 20638035,
+  "score": 64,
+  "athX": 258.2,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "talus",
+  "name": "Talus",
+  "symbol": "us",
+  "price": 0.02758081,
+  "mcap": 80163720,
+  "score": 64,
+  "athX": 5.5,
+  "band": "Mid",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "recall",
+  "name": "Recall",
+  "symbol": "recall",
+  "price": 0.04878102,
+  "mcap": 13907046,
+  "score": 63,
+  "athX": 42.1,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "axie-infinity",
+  "name": "Axie Infinity",
+  "symbol": "axs",
+  "price": 1.25,
+  "mcap": 218618407,
+  "score": 63,
+  "athX": 329.8,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "lumia",
+  "name": "Lumia",
+  "symbol": "lumia",
+  "price": 0.086289,
+  "mcap": 20620915,
+  "score": 62,
+  "athX": 72.1,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "dolomite",
+  "name": "Dolomite",
+  "symbol": "dolo",
+  "price": 0.03105533,
+  "mcap": 15934044,
+  "score": 61,
+  "athX": 29.5,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "xai-blockchain",
+  "name": "Xai",
+  "symbol": "xai",
+  "price": 0.00963793,
+  "mcap": 20339406,
+  "score": 61,
+  "athX": 412.4,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "the-sandbox",
+  "name": "The Sandbox",
+  "symbol": "sand",
+  "price": 0.065845,
+  "mcap": 193164677,
+  "score": 61,
+  "athX": 318.9,
+  "band": "Mid",
+  "life": "zombie",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "stargate-finance",
+  "name": "Stargate Finance",
+  "symbol": "stg",
+  "price": 0.158538,
+  "mcap": 20129224,
+  "score": 60,
+  "athX": 65.3,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "alkimi-2",
+  "name": "ALKIMI",
+  "symbol": "alkimi",
+  "price": 0.00070776,
+  "mcap": 266249,
+  "score": 59,
+  "athX": 688.9,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "connect-token-wct",
+  "name": "WalletConnect Token",
+  "symbol": "wct",
+  "price": 0.04269402,
+  "mcap": 20051086,
+  "score": 59,
+  "athX": 78.5,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "portal-2",
+  "name": "Portal",
+  "symbol": "portal",
+  "price": 0.01791087,
+  "mcap": 15961860,
+  "score": 59,
+  "athX": 469,
+  "band": "Small",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "tokenbot-2",
+  "name": "tokenbot",
+  "symbol": "clanker",
+  "price": 14.32,
+  "mcap": 14149308,
+  "score": 57,
+  "athX": 24.9,
+  "band": "Small",
+  "life": "quiet",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "decentraland",
+  "name": "Decentraland",
+  "symbol": "mana",
+  "price": 0.105161,
+  "mcap": 205824890,
+  "score": 56,
+  "athX": 139.1,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "zksync",
+  "name": "ZKsync",
+  "symbol": "zk",
+  "price": 0.01355093,
+  "mcap": 146545185,
+  "score": 56,
+  "athX": 59.2,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "gala",
+  "name": "GALA",
+  "symbol": "gala",
+  "price": 0.00252167,
+  "mcap": 127207189,
+  "score": 56,
+  "athX": 817.7,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "midnight-3",
+  "name": "Midnight",
+  "symbol": "night",
+  "price": 0.04465333,
+  "mcap": 741649782,
+  "score": 55,
+  "athX": 6.6,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "audius",
+  "name": "Audius",
+  "symbol": "audio",
+  "price": 0.01666998,
+  "mcap": 24345606,
+  "score": 54,
+  "athX": 742.4,
+  "band": "Small",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "arkham",
+  "name": "Arkham",
+  "symbol": "arkm",
+  "price": 0.134492,
+  "mcap": 95938491,
+  "score": 54,
+  "athX": 74,
+  "band": "Mid",
+  "life": "quiet",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "hooked-protocol",
+  "name": "Hooked Protocol",
+  "symbol": "hook",
+  "price": 0.00353491,
+  "mcap": 1017166,
+  "score": 53,
+  "athX": 2878.4,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "virtual-protocol",
+  "name": "Virtuals Protocol",
+  "symbol": "virtual",
+  "price": 0.813911,
+  "mcap": 535821713,
+  "score": 53,
+  "athX": 15.6,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "qubic-network",
+  "name": "Qubic",
+  "symbol": "qubic",
+  "price": 5.89859e-7,
+  "mcap": 84457709,
+  "score": 51,
+  "athX": 53.2,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "tellor",
+  "name": "Tellor Tributes",
+  "symbol": "trb",
+  "price": 20.47,
+  "mcap": 57924814,
+  "score": 51,
+  "athX": 72.4,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "fetch-ai",
+  "name": "Artificial Superintelligence Alliance",
+  "symbol": "fet",
+  "price": 0.232251,
+  "mcap": 536645039,
+  "score": 51,
+  "athX": 37.1,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "delorean",
+  "name": "DeLorean",
+  "symbol": "dmc",
+  "price": 0.00028529,
+  "mcap": 2191253,
+  "score": 50,
+  "athX": 92.1,
+  "band": "Micro",
+  "life": "zombie",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "grass",
+  "name": "Grass",
+  "symbol": "grass",
+  "price": 0.686794,
+  "mcap": 480290281,
+  "score": 50,
+  "athX": 14.2,
+  "band": "Large",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "yearn-finance",
+  "name": "yearn.finance",
+  "symbol": "yfi",
+  "price": 2537.95,
+  "mcap": 91588017,
+  "score": 49,
+  "athX": 89.4,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "rss3",
+  "name": "RSS3",
+  "symbol": "rss3",
+  "price": 0.00394287,
+  "mcap": 3941540,
+  "score": 48,
+  "athX": 435.8,
+  "band": "Micro",
+  "life": "zombie",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "ore",
+  "name": "ORE",
+  "symbol": "ore",
+  "price": 121.21,
+  "mcap": 60577447,
+  "score": 48,
+  "athX": 29.9,
+  "band": "Mid",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "omnipair",
+  "name": "Omnipair",
+  "symbol": "omfg",
+  "price": 0.284992,
+  "mcap": 3932880,
+  "score": 47,
+  "athX": 16.3,
+  "band": "Micro",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "dimo",
+  "name": "DIMO",
+  "symbol": "dimo",
+  "price": 0.01873391,
+  "mcap": 9450025,
+  "score": 47,
+  "athX": 104.8,
+  "band": "Micro",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "alpine-f1-team-fan-token",
+  "name": "Alpine F1 Team Fan Token",
+  "symbol": "alpine",
+  "price": 0.35651,
+  "mcap": 4049282,
+  "score": 46,
+  "athX": 89.1,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "optimism",
+  "name": "Optimism",
+  "symbol": "op",
+  "price": 0.132667,
+  "mcap": 304986468,
+  "score": 46,
+  "athX": 91.2,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "the-graph",
+  "name": "The Graph",
+  "symbol": "grt",
+  "price": 0.0292286,
+  "mcap": 319877077,
+  "score": 46,
+  "athX": 242.9,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "syrup",
+  "name": "Maple Finance",
+  "symbol": "syrup",
+  "price": 0.241126,
+  "mcap": 281630524,
+  "score": 46,
+  "athX": 6.8,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "bitcoinii",
+  "name": "BitcoinII",
+  "symbol": "bc2",
+  "price": 0.141473,
+  "mcap": 349870,
+  "score": 45,
+  "athX": 33.4,
+  "band": "Micro",
+  "life": "quiet",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "juventus-fan-token",
+  "name": "Juventus Fan Token",
+  "symbol": "juv",
+  "price": 0.323787,
+  "mcap": 5311710,
+  "score": 45,
+  "athX": 292.1,
+  "band": "Micro",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "layerzero",
+  "name": "LayerZero",
+  "symbol": "zro",
+  "price": 1.84,
+  "mcap": 650661203,
+  "score": 45,
+  "athX": 10.1,
+  "band": "Large",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "injective-protocol",
+  "name": "Injective",
+  "symbol": "inj",
+  "price": 7.53,
+  "mcap": 752960989,
+  "score": 45,
+  "athX": 17.5,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "arweave",
+  "name": "Arweave",
+  "symbol": "ar",
+  "price": 4.36,
+  "mcap": 286252926,
+  "score": 45,
+  "athX": 51.2,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "streetvision-by-natix",
+  "name": "StreetVision by NATIX",
+  "symbol": "sn72",
+  "price": 0.655544,
+  "mcap": 3273845,
+  "score": 43,
+  "athX": 13.5,
+  "band": "Micro",
+  "life": "zombie",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "aptos",
+  "name": "Aptos",
+  "symbol": "apt",
+  "price": 0.820966,
+  "mcap": 715019572,
+  "score": 43,
+  "athX": 60.7,
+  "band": "Large",
+  "life": "alive",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "duckchain-token",
+  "name": "DuckChain Token",
+  "symbol": "duck",
+  "price": 0.00001995,
+  "mcap": 173736,
+  "score": 42,
+  "athX": 1538.6,
+  "band": "Micro",
+  "life": "zombie",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "steem-dollars",
+  "name": "Steem Dollars",
+  "symbol": "sbd",
+  "price": 0.647679,
+  "mcap": 6348327,
+  "score": 42,
+  "athX": 73.4,
+  "band": "Micro",
+  "life": "quiet",
+  "globalMcap": 2941839851463.148,
+  "results": {}
+ },
+ {
+  "d": "2026-10-02",
+  "id": "jito-governance-token",
+  "name": "Jito",
+  "symbol": "jto",
+  "price": 0.554161,
+  "mcap": 292469801,
+  "score": 42,
+  "athX": 27.1,
+  "band": "Large",
+  "life": "unknown",
+  "globalMcap": 2941839851463.148,
   "results": {}
  }
 ]
