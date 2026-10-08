@@ -1,860 +1,865 @@
-# Coin Scanner — 2026-10-07
+# Coin Scanner — 2026-10-08
 
-Scanned 16,000 coins · 1,359 passed the safety filters · 180 checked in depth · CoinGecko calls this run: 293 (this month: 1,966 of 10,000)
+Scanned 16,000 coins · 1,376 passed the safety filters · 180 checked in depth · CoinGecko calls this run: 251 (this month: 2,217 of 10,000)
 
 _A research list, not buy advice. Every coin here can still go to zero._
 
-## 1. Orca (ORCA) — score 75 · Mid cap
-Price $2.87 · Market cap $174.30M · 24h trading $208.34M · Week +79.8%
-Exchanges (34): Binance, Websea, Coinbase Exchange, OrangeX, LBank, WhiteBIT, BtcTurk | Kripto, Hibt, …
-Life: alive · last code push 2026-10-06
-Potential: 2.5x its all-time high ($20.33 on 2021-10-02) = $50.82, about 17.7x from here · it would need a $3.09B market cap · 0.0x to reach a typical "Automated Market Maker (AMM)" coin
+## 1. Treasure (MAGIC) — score 73 · Small cap
+Price $0.0648 · Market cap $21.84M · 24h trading $7.99M · Week +22.0%
+Exchanges (35): SAFEbit, Binance, OKX, BtcTurk | Kripto, CoinW, HTX, Bithumb, Coinbase Exchange, …
+Life: alive · last code push 2026-10-07
+Potential: 2.5x its all-time high ($6.32 on 2022-02-19) = $15.80, about 244x from here · it would need a $5.32B market cap · 0.0x to reach a typical "Metaverse" coin
 
 **Why it's here**
-- trading is 18.9x its normal level
-- price up on the day (+11.3%) and the week (+79.8%)
-- 86% below its all-time high, but still actively traded
-- climbed from #272 to #202 in size ranking over 10 days
-- on CoinGecko's trending searches
+- small market cap ($21.84M)
+- healthy trading for its size (37% of its value traded in a day)
+- price up on the day (+0.9%) and the week (+22.0%)
+- climbed from #958 to #828 in size ranking over 10 days
+- in a sector you're watching (Artificial Intelligence (AI))
 - alive: code pushed 1 day ago
-- newly listed on GroveX, Crypto.com Exchange, Bitkub
+- newly listed on SAFEbit, HTX, Bithumb
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 244x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/magic) · [Website](https://treasure.lol/)
+
+## 2. Wormhole (W) — score 73 · Mid cap
+Price $0.0159 · Market cap $104.41M · 24h trading $92.54M · Week +21.3%
+Exchanges (59): Binance, Upbit, OKX, LBank, BloFin, CoinW, Bithumb, MEXC, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($1.66 on 2024-04-03) = $4.15, about 262x from here · it would need a $27.31B market cap · 0.0x to reach a typical "Cross-chain Communication" coin
+
+**Why it's here**
+- healthy trading for its size (89% of its value traded in a day)
+- trading is 6.9x its normal level
+- price up on the day (+14.1%) and the week (+21.3%)
+- on CoinGecko's trending searches
+- alive: code pushed today
+- newly listed on BVOX, Bitkub, Kanga Global, Digital X, VALR
+
+**Watch out**
+- 2.5x its old high is 262x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/wormhole) · [Website](https://wormhole.com/) · [X](https://x.com/wormhole) · [Telegram](https://t.me/wormholecrypto) (11,906 members)
+
+## 3. Radworks (RAD) — score 72 · Small cap
+Price $0.304 · Market cap $17.97M · 24h trading $13.37M · Week +18.7%
+Exchanges (21): Binance, BTCC, BtcTurk | Kripto, LBank, Paribu, Toobit, WhiteBIT, BitKan, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($27.61 on 2021-04-15) = $69.03, about 227x from here · it would need a $4.08B market cap · 0.1x to reach a typical "DePIN" coin
+
+**Why it's here**
+- small market cap ($17.97M)
+- healthy trading for its size (74% of its value traded in a day)
+- trading is 5.2x its normal level
+- climbed from #1053 to #932 in size ranking over 10 days
+- alive: code pushed today
+- newly listed on KCEX, Crypto.com Exchange
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 227x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/radicle) · [Website](https://radworks.org/) · [X](https://x.com/radicle)
+
+## 4. Starknet (STRK) — score 70 · Large cap
+Price $0.0547 · Market cap $406.03M · 24h trading $99.82M · Week +28.5%
+Exchanges (50): Binance, OKX, BTCC, LBank, Biconomy.com, FameEX, Bybit, Gate, …
+Life: alive · last code push 2026-09-24
+Potential: 2.5x its all-time high ($4.41 on 2024-02-20) = $11.03, about 201x from here · it would need a $81.77B market cap · 0.0x to reach a typical "Bitcoin Sidechains" coin
+
+**Why it's here**
+- healthy trading for its size (25% of its value traded in a day)
+- trading is 2.1x its normal level
+- price up on the day (+9.5%) and the week (+28.5%)
+- climbed from #156 to #125 in size ranking over 10 days
+- on CoinGecko's trending searches
+- alive: code pushed 14 days ago
+- newly listed on Indodax
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 201x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/starknet) · [Website](https://starknet.io/) · [X](https://x.com/Starknet)
+
+## 5. My Neighbor Alice (ALICE) — score 69 · Small cap
+Price $0.18 · Market cap $17.86M · 24h trading $7.06M · Week +4.2%
+Exchanges (38): LBank, Pionex, Binance, Biconomy.com, BTCC, Paribu, Bithumb, XT.COM, …
+Life: quiet · last code push 2026-08-12
+Potential: 2.5x its all-time high ($40.93 on 2021-03-15) = $102.33, about 570x from here · it would need a $10.18B market cap
+
+**Why it's here**
+- small market cap ($17.86M)
+- healthy trading for its size (40% of its value traded in a day)
+- price up on the day (+1.9%) and the week (+4.2%)
+- climbed from #1049 to #936 in size ranking over 10 days
+- in a sector you're watching (Gaming (GameFi))
+- newly listed on Bithumb, WazirX
+
+**Watch out**
+- quiet: last sign of life 57 days ago
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 570x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/my-neighbor-alice) · [Website](https://www.myneighboralice.com/)
+
+## 6. WINkLink (WIN) — score 69 · Mid cap
+Price $0.0000596 · Market cap $59.26M · 24h trading $47.67M · Week +14.1%
+Exchanges (32): HTX, Binance, BitDelta, WhiteBIT, BTCC, Biconomy.com, Deepcoin, XT.COM, …
+Life: unknown
+Potential: 2.5x its all-time high ($0.00289 on 2021-04-05) = $0.00724, about 121x from here · it would need a $7.19B market cap · 0.0x to reach a typical "Oracle" coin
+
+**Why it's here**
+- healthy trading for its size (80% of its value traded in a day)
+- trading is 4.1x its normal level
+- price up on the day (+16.1%) and the week (+14.1%)
+- climbed from #537 to #421 in size ranking over 10 days
+- newly listed on Bitget, Bitkub, Mercado Bitcoin
+
+**Watch out**
+- 2.5x its old high is 121x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/wink) · [Website](https://winklink.org/#/) · [X](https://x.com/WinkLink_Oracle) · [Telegram](https://t.me/WINkLink_Oracle_official) (13,640 members)
+
+## 7. Orca (ORCA) — score 69 · Mid cap
+Price $2.64 · Market cap $160.41M · 24h trading $91.16M · Week +65.6%
+Exchanges (32): Binance, LBank, Coinbase Exchange, OrangeX, WhiteBIT, Hibt, Gate, Toobit, …
+Life: alive · last code push 2026-10-06
+Potential: 2.5x its all-time high ($20.33 on 2021-10-02) = $50.82, about 19.3x from here · it would need a $3.09B market cap · 0.0x to reach a typical "Automated Market Maker (AMM)" coin
+
+**Why it's here**
+- healthy trading for its size (57% of its value traded in a day)
+- trading is 8.0x its normal level
+- 87% below its all-time high, but still actively traded
+- climbed from #287 to #214 in size ranking over 10 days
+- alive: code pushed 2 days ago
+- newly listed on GroveX, Crypto.com Exchange
 
 **Watch out**
 - couldn't check community size (no Telegram or X follower count)
 
 [CoinGecko](https://www.coingecko.com/en/coins/orca) · [Website](https://www.orca.so/) · [X](https://x.com/orca_so)
 
-## 2. Ondo High Income Powered by BlackRock (BLKHION) — score 74 · Micro cap
-Price $5.13 · Market cap $1.73M · 24h trading $375K · Week +1.8%
-Exchanges (1): Gate
-Life: unknown
-Potential: 2.5x its all-time high ($6.03 on 2026-10-06) = $15.08, about 2.9x from here · it would need a $5.08M market cap · 13.4x to reach a typical "Real World Assets (RWA)" coin
+## 8. iExec RLC (RLC) — score 68 · Mid cap
+Price $0.739 · Market cap $64.30M · 24h trading $54.84M · Week +111.5%
+Exchanges (33): Binance, Pionex, Bithumb, BtcTurk | Kripto, BTCC, Paribu, Bitvavo, Coinbase Exchange, …
+Life: quiet · last code push 2026-09-07
+Potential: 2.5x its all-time high ($15.51 on 2021-05-10) = $38.77, about 52.5x from here · it would need a $3.37B market cap · 0.0x to reach a typical "AI Agents" coin
 
 **Why it's here**
-- tiny market cap ($1.73M) — lots of room to grow
-- healthy trading for its size (22% of its value traded in a day)
+- healthy trading for its size (85% of its value traded in a day)
+- trading is 23.1x its normal level
+- price up on the day (+0.3%) and the week (+111.5%)
+- 95% below its all-time high, but still actively traded
+- climbed from #715 to #406 in size ranking over 10 days
+- in a sector you're watching (Artificial Intelligence (AI))
+
+**Watch out**
+- already up +111.5% this week — may be late
+- quiet: last sign of life 31 days ago
+
+[CoinGecko](https://www.coingecko.com/en/coins/iexec-rlc) · [Website](http://iex.ec/) · [X](https://x.com/iEx_ec) · [Telegram](https://t.me/iexec_rlc_official) (2,898 members)
+
+## 9. Swell (SWELL) — score 62 · Micro cap
+Price $0.000813 · Market cap $4.25M · 24h trading $3.02M · Week +1.2%
+Exchanges (17): Bithumb, Coinbase Exchange, Bybit, Bitvavo, Ourbit, Bitget, Gate, Kraken, …
+Life: unknown
+Potential: 2.5x its all-time high ($0.0696 on 2024-11-09) = $0.174, about 214x from here · it would need a $908.39M market cap · 0.3x to reach a typical "Liquid Restaking Governance Tokens" coin
+
+**Why it's here**
+- tiny market cap ($4.25M) — lots of room to grow
+- healthy trading for its size (71% of its value traded in a day)
+- trading is 4.8x its normal level
+- newly listed on Upbit, Mercado Bitcoin
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 214x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/swell-network) · [Website](https://swellnetwork.io/) · [X](https://x.com/swellnetworkio)
+
+## 10. ROCK DAO (ROCK) — score 61 · Micro cap
+Price $0.000385 · Market cap $2.07M · 24h trading $1.68M · Week +17.8%
+Exchanges (1): HTX
+Life: unknown
+Potential: 2.5x its all-time high ($0.002 on 2025-11-21) = $0.005, about 13.0x from here · it would need a $26.81M market cap · 0.9x to reach a typical "Gaming (GameFi)" coin
+
+**Why it's here**
+- tiny market cap ($2.07M) — lots of room to grow
+- healthy trading for its size (81% of its value traded in a day)
+- price up on the day (+2.5%) and the week (+17.8%)
+- 81% below its all-time high, but still actively traded
+- climbed from #2665 to #2345 in size ranking over 10 days
+- in a sector you're watching (Gaming (GameFi))
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+
+[CoinGecko](https://www.coingecko.com/en/coins/rock-dao) · [Website](https://gala.com/) · [X](https://x.com/the_RockDAO)
+
+## 11. PlayZap (PZP) — score 60 · Micro cap
+Price $0.00201 · Market cap $235K · 24h trading $143K · Week +41.3%
+Exchanges (3): KuCoin, MEXC, Gate
+Life: alive · last Telegram post 2026-10-08
+Potential: 2.5x its all-time high ($0.57 on 2023-11-11) = $1.42, about 708x from here · it would need a $166.33M market cap · 0.6x to reach a typical "Arcade Games" coin
+
+**Why it's here**
+- tiny market cap ($235K) — lots of room to grow
+- healthy trading for its size (61% of its value traded in a day)
+- trading is 2.4x its normal level
+- price up on the day (+37.8%) and the week (+41.3%)
+- in a sector you're watching (Gaming (GameFi))
+- alive: Telegram post today
+
+**Watch out**
+- 2.5x its old high is 708x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/playzap) · [Website](https://www.playzap.games/) · [X](https://x.com/PlayZapGames) · [Telegram](https://t.me/playzap) (6,475 members)
+
+## 12. FC Barcelona Fan Token (BAR) — score 60 · Micro cap
+Price $0.28 · Market cap $8.05M · 24h trading $6.84M · Week -1.0%
+Exchanges (12): Pionex, Binance, BtcTurk | Kripto, Paribu, CoinW, MEXC, WEEX, Bitrue, …
+Life: unknown
+Potential: 2.5x its all-time high ($72.55 on 2021-04-21) = $181.38, about 647x from here · it would need a $5.21B market cap · 0.0x to reach a typical "Fan Token" coin
+
+**Why it's here**
+- small market cap ($8.05M)
+- healthy trading for its size (85% of its value traded in a day)
+- trading is 6.2x its normal level
+- newly listed on Upbit
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 647x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/fc-barcelona-fan-token) · [Website](https://www.socios.com/fcbarcelona/)
+
+## 13. Forta (FORT) — score 60 · Small cap
+Price $0.0185 · Market cap $12.04M · 24h trading $6.98M · Week +15.4%
+Exchanges (10): Bithumb, Coinbase Exchange, Bybit, Upbit, Gate, KuCoin, MEXC, Bitkub, …
+Life: alive · last code push 2026-10-07
+Potential: 2.5x its all-time high ($0.965 on 2022-06-15) = $2.41, about 131x from here · it would need a $1.57B market cap · 0.0x to reach a typical "Cybersecurity" coin
+
+**Why it's here**
+- small market cap ($12.04M)
+- healthy trading for its size (58% of its value traded in a day)
 - trading is 32.0x its normal level
-- price up on the day (+0.2%) and the week (+1.8%)
-- climbed from #3006 to #2515 in size ranking over 10 days
+- in a sector you're watching (Artificial Intelligence (AI))
+- alive: code pushed 1 day ago
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 131x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/forta) · [Website](https://forta.org/) · [X](https://x.com/FortaNetwork)
+
+## 14. DIA (DIA) — score 60 · Small cap
+Price $0.172 · Market cap $20.60M · 24h trading $4.40M · Week -1.3%
+Exchanges (21): Binance, WEEX, Pionex, HTX, WhiteBIT, BTCC, Coinbase Exchange, KuCoin, …
+Life: alive · last code push 2026-10-07
+Potential: 2.5x its all-time high ($5.73 on 2021-05-05) = $14.33, about 83.2x from here · it would need a $1.71B market cap · 0.1x to reach a typical "Oracle" coin
+
+**Why it's here**
+- small market cap ($20.60M)
+- healthy trading for its size (21% of its value traded in a day)
+- 97% below its all-time high, but still actively traded
 - in a sector you're watching (Real World Assets (RWA))
-- valued at $1.73M vs a typical $23.10M for "Real World Assets (RWA)" coins
+- alive: code pushed 1 day ago
+- newly listed on HTX, Crypto.com Exchange, Binance US
+
+[CoinGecko](https://www.coingecko.com/en/coins/dia-data) · [Website](https://diadata.org/) · [X](https://x.com/DIAdata_org) · [Telegram](https://t.me/DIAdata_org) (4,821 members)
+
+## 15. Synapse (SYN) — score 59 · Small cap
+Price $0.196 · Market cap $43.02M · 24h trading $13.89M · Week +18.6%
+Exchanges (24): Binance, LBank, Paribu, BTCC, Gate, Pionex, BloFin, Toobit, …
+Life: alive · last code push 2026-10-07
+Potential: 2.5x its all-time high ($4.92 on 2021-10-23) = $12.30, about 62.7x from here · it would need a $2.70B market cap · 0.1x to reach a typical "Intent" coin
+
+**Why it's here**
+- healthy trading for its size (32% of its value traded in a day)
+- price up on the day (+3.1%) and the week (+18.6%)
+- 96% below its all-time high, but still actively traded
+- alive: code pushed 1 day ago
+- newly listed on Hyperliquid
+
+[CoinGecko](https://www.coingecko.com/en/coins/synapse-2) · [Website](https://synapseprotocol.com) · [X](https://x.com/SynapseProtocol) · [Telegram](https://t.me/synapseprotocol) (3,285 members)
+
+## 16. Nillion (NIL) — score 59 · Small cap
+Price $0.0869 · Market cap $44.12M · 24h trading $14.23M · Week +0.8%
+Exchanges (16): LBank, Binance, WhiteBIT, XT.COM, KuCoin, HTX, Bitget, Kraken, …
+Life: alive · last code push 2026-10-07
+Potential: 2.5x its all-time high ($0.897 on 2025-03-24) = $2.24, about 25.8x from here · it would need a $1.14B market cap · 0.3x to reach a typical "Binance Launchpool" coin
+
+**Why it's here**
+- healthy trading for its size (32% of its value traded in a day)
+- 90% below its all-time high, but still actively traded
+- in a sector you're watching (Artificial Intelligence (AI))
+- alive: code pushed 1 day ago
+- newly listed on Upbit
+
+[CoinGecko](https://www.coingecko.com/en/coins/nillion) · [Website](https://nillion.com/) · [X](https://x.com/nillion) · [Telegram](https://t.me/nillionnetwork) (10,028 members)
+
+## 17. heyAura (ADX) — score 59 · Small cap
+Price $0.0698 · Market cap $10.36M · 24h trading $1.66M · Week +10.2%
+Exchanges (14): HTX, Binance, WEEX, Toobit, WhiteBIT, KuCoin, Biconomy.com, Bitrue, …
+Life: alive · last code push 2026-10-05
+Potential: 2.5x its all-time high ($3.49 on 2018-01-08) = $8.73, about 125x from here · it would need a $1.30B market cap · 0.0x to reach a typical "DeFAI" coin
+
+**Why it's here**
+- small market cap ($10.36M)
+- healthy trading for its size (16% of its value traded in a day)
+- price up on the day (+3.5%) and the week (+10.2%)
+- in a sector you're watching (Artificial Intelligence (AI))
+- alive: code pushed 3 days ago
+- newly listed on HTX, Bitvavo
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 125x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/adex) · [Website](https://www.heyaura.com/) · [X](https://x.com/heyAura)
+
+## 18. Mamo (MAMO) — score 58 · Micro cap
+Price $0.0079 · Market cap $4.78M · 24h trading $2.71M · Week +5.5%
+Exchanges (2): Coinbase Exchange, LBank
+Life: alive · last code push 2026-10-06
+Potential: 2.5x its all-time high ($0.409 on 2026-08-27) = $1.02, about 129x from here · it would need a $618.28M market cap · 0.0x to reach a typical "DeFAI" coin
+
+**Why it's here**
+- tiny market cap ($4.78M) — lots of room to grow
+- healthy trading for its size (57% of its value traded in a day)
+- trading is 2.1x its normal level
+- price up on the day (+3.2%) and the week (+5.5%)
+- in a sector you're watching (Artificial Intelligence (AI))
+- alive: code pushed 2 days ago
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 129x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/mamo) · [Website](https://mamo.bot) · [X](https://x.com/mamo) · [Telegram](https://t.me/MamoAIbot)
+
+## 19. Flux (FLUX) — score 58 · Small cap
+Price $0.0833 · Market cap $35.07M · 24h trading $6.51M · Week +13.3%
+Exchanges (31): GroveX, Binance, BloFin, HTX, BTCC, WhiteBIT, Toobit, Pionex, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($3.33 on 2022-01-03) = $8.32, about 100.0x from here · it would need a $3.51B market cap · 0.0x to reach a typical "Masternodes" coin
+
+**Why it's here**
+- healthy trading for its size (19% of its value traded in a day)
+- price up on the day (+6.3%) and the week (+13.3%)
+- 97% below its all-time high, but still actively traded
+- climbed from #720 to #619 in size ranking over 10 days
+- in a sector you're watching (Artificial Intelligence (AI))
+- alive: code pushed today
+
+[CoinGecko](https://www.coingecko.com/en/coins/zelcash) · [Website](https://runonflux.com) · [X](https://x.com/runonflux) · [Telegram](https://t.me/runonflux) (6,328 members)
+
+## 20. Ondo High Income Powered by BlackRock (BLKHION) — score 57 · Micro cap
+Price $5.08 · Market cap $1.87M · 24h trading $211K · Week +5.8%
+Exchanges (1): Gate
+Life: unknown
+Potential: 2.5x its all-time high ($6.03 on 2026-10-06) = $15.08, about 3.0x from here · it would need a $5.55M market cap · 12.4x to reach a typical "Real World Assets (RWA)" coin
+
+**Why it's here**
+- tiny market cap ($1.87M) — lots of room to grow
+- healthy trading for its size (11% of its value traded in a day)
+- trading is 16.1x its normal level
+- in a sector you're watching (Real World Assets (RWA))
+- valued at $1.87M vs a typical $23.10M for "Real World Assets (RWA)" coins
 
 **Watch out**
 - couldn't check community size (no Telegram or X follower count)
 
 [CoinGecko](https://www.coingecko.com/en/coins/ondo-high-income-powered-by-blackrock) · [Website](https://app.ondo.finance/) · [X](https://x.com/ondofinance)
 
-## 3. Treasure (MAGIC) — score 74 · Small cap
-Price $0.0643 · Market cap $21.71M · 24h trading $35.63M · Week +21.4%
-Exchanges (35): Binance, BtcTurk | Kripto, CoinW, OKX, OrangeX, Coinbase Exchange, SAFEbit, LBank, …
-Life: alive · last code push 2026-09-13
-Potential: 2.5x its all-time high ($6.32 on 2022-02-19) = $15.80, about 246x from here · it would need a $5.33B market cap · 0.0x to reach a typical "Metaverse" coin
-
-**Why it's here**
-- small market cap ($21.71M)
-- trading is 4.2x its normal level
-- price up on the day (+3.0%) and the week (+21.4%)
-- climbed from #971 to #839 in size ranking over 10 days
-- in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed 24 days ago
-- newly listed on SAFEbit, HTX
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 246x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/magic) · [Website](https://treasure.lol/)
-
-## 4. DIA (DIA) — score 74 · Small cap
-Price $0.162 · Market cap $19.36M · 24h trading $10.38M · Week -1.5%
-Exchanges (22): HTX, WEEX, Binance, Pionex, BTCC, Coinbase Exchange, CoinW, Ourbit, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($5.73 on 2021-05-05) = $14.33, about 88.6x from here · it would need a $1.71B market cap · 0.1x to reach a typical "Oracle" coin
-
-**Why it's here**
-- small market cap ($19.36M)
-- healthy trading for its size (54% of its value traded in a day)
-- trading is 3.7x its normal level
-- 97% below its all-time high, but still actively traded
-- in a sector you're watching (Real World Assets (RWA))
-- alive: code pushed today
-- newly listed on HTX, Crypto.com Exchange, Coinone
-
-[CoinGecko](https://www.coingecko.com/en/coins/dia-data) · [Website](https://diadata.org/) · [X](https://x.com/DIAdata_org) · [Telegram](https://t.me/DIAdata_org) (4,823 members)
-
-## 5. Forta (FORT) — score 73 · Small cap
-Price $0.0234 · Market cap $15.24M · 24h trading $14.85M · Week +46.3%
-Exchanges (9): Bithumb, Coinbase Exchange, Bybit, Gate, KuCoin, MEXC, Bitkub, Bitunix, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($0.965 on 2022-06-15) = $2.41, about 103x from here · it would need a $1.57B market cap · 0.0x to reach a typical "Cybersecurity" coin
-
-**Why it's here**
-- small market cap ($15.24M)
-- healthy trading for its size (97% of its value traded in a day)
-- trading is 68.1x its normal level
-- price up on the day (+41.3%) and the week (+46.3%)
-- climbed from #1258 to #1024 in size ranking over 10 days
-- in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed today
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 103x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/forta) · [Website](https://forta.org/) · [X](https://x.com/FortaNetwork)
-
-## 6. FC Barcelona Fan Token (BAR) — score 68 · Micro cap
-Price $0.287 · Market cap $8.24M · 24h trading $5.53M · Week +1.1%
-Exchanges (10): Pionex, Binance, BtcTurk | Kripto, CoinW, WEEX, MEXC, Bitrue, Upbit, …
-Life: unknown
-Potential: 2.5x its all-time high ($72.55 on 2021-04-21) = $181.38, about 631x from here · it would need a $5.20B market cap · 0.0x to reach a typical "Fan Token" coin
-
-**Why it's here**
-- small market cap ($8.24M)
-- healthy trading for its size (67% of its value traded in a day)
-- trading is 5.6x its normal level
-- price up on the day (+1.2%) and the week (+1.1%)
-- newly listed on Upbit
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 631x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/fc-barcelona-fan-token) · [Website](https://www.socios.com/fcbarcelona/)
-
-## 7. Swell (SWELL) — score 68 · Micro cap
-Price $0.000843 · Market cap $4.40M · 24h trading $2.53M · Week +2.2%
-Exchanges (15): Bybit, Ourbit, Coinbase Exchange, Kraken, Bitget, Gate, Bitvavo, KuCoin, …
-Life: unknown
-Potential: 2.5x its all-time high ($0.0696 on 2024-11-09) = $0.174, about 206x from here · it would need a $907.72M market cap · 0.3x to reach a typical "Liquid Restaking Governance Tokens" coin
-
-**Why it's here**
-- tiny market cap ($4.40M) — lots of room to grow
-- healthy trading for its size (57% of its value traded in a day)
-- trading is 4.0x its normal level
-- price up on the day (+5.2%) and the week (+2.2%)
-- newly listed on Upbit
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 206x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/swell-network) · [Website](https://swellnetwork.io/) · [X](https://x.com/swellnetworkio)
-
-## 8. Ondo High Growth Powered by BlackRock (BLKGRWON) — score 65 · Micro cap
-Price $5.26 · Market cap $989K · 24h trading $207K · Week +0.4%
-Exchanges (1): Gate
-Life: unknown
-Potential: 2.5x its all-time high ($5.97 on 2026-10-06) = $14.92, about 2.8x from here · it would need a $2.81M market cap · 23.4x to reach a typical "Real World Assets (RWA)" coin
-
-**Why it's here**
-- tiny market cap ($989K) — lots of room to grow
-- healthy trading for its size (21% of its value traded in a day)
-- trading is 16.8x its normal level
-- climbed from #3889 to #3038 in size ranking over 10 days
-- in a sector you're watching (Real World Assets (RWA))
-- valued at $989K vs a typical $23.10M for "Real World Assets (RWA)" coins
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-
-[CoinGecko](https://www.coingecko.com/en/coins/ondo-high-growth-powered-by-blackrock) · [Website](https://app.ondo.finance/) · [X](https://x.com/ondofinance)
-
-## 9. Api3 (API3) — score 62 · Small cap
-Price $0.318 · Market cap $46.62M · 24h trading $59.87M · Week +9.4%
-Exchanges (44): Binance, Pionex, BTCC, HTX, OKX, OrangeX, BtcTurk | Kripto, Coinbase Exchange, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($10.30 on 2021-04-06) = $25.75, about 81.0x from here · it would need a $3.78B market cap · 0.0x to reach a typical "Oracle" coin
-
-**Why it's here**
-- trading is 8.4x its normal level
-- 97% below its all-time high, but still actively traded
-- climbed from #575 to #508 in size ranking over 10 days
-- alive: code pushed today
-- newly listed on HTX, Bit2Me
-
-[CoinGecko](https://www.coingecko.com/en/coins/api3) · [Website](https://api3.org/) · [X](https://x.com/API3DAO) · [Telegram](https://t.me/API3DAO) (5,564 members)
-
-## 10. Ondo Magnificent 7 and Crypto Portfolio (MAG7XON) — score 61 · Micro cap
-Price $5.70 · Market cap $1.61M · 24h trading $160K · Week +3.4%
-Exchanges (1): Gate
-Life: unknown
-Potential: 2.5x its all-time high ($6.53 on 2026-10-06) = $16.32, about 2.9x from here · it would need a $4.62M market cap · 14.3x to reach a typical "Real World Assets (RWA)" coin
-
-**Why it's here**
-- tiny market cap ($1.61M) — lots of room to grow
-- healthy trading for its size (10% of its value traded in a day)
-- trading is 11.5x its normal level
-- climbed from #3033 to #2580 in size ranking over 10 days
-- in a sector you're watching (Real World Assets (RWA))
-- valued at $1.61M vs a typical $23.10M for "Real World Assets (RWA)" coins
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-
-[CoinGecko](https://www.coingecko.com/en/coins/ondo-magnificent-7-and-crypto-portfolio) · [Website](https://app.ondo.finance/) · [X](https://x.com/ondofinance)
-
-## 11. Livepeer (LPT) — score 61 · Mid cap
-Price $1.67 · Market cap $83.08M · 24h trading $30.45M · Week -6.6%
-Exchanges (50): Binance, Pionex, GroveX, BTCC, Biconomy.com, BtcTurk | Kripto, Websea, CoinW, …
+## 21. Livepeer (LPT) — score 57 · Mid cap
+Price $1.82 · Market cap $90.29M · 24h trading $17.44M · Week +3.6%
+Exchanges (52): GroveX, Binance, Pionex, Biconomy.com, BTCC, BloFin, Bitvavo, CoinW, …
 Life: alive · last code push 2026-10-06
-Potential: 2.5x its all-time high ($99.03 on 2021-11-09) = $247.57, about 148x from here · it would need a $12.32B market cap · 0.0x to reach a typical "DePIN" coin
+Potential: 2.5x its all-time high ($99.03 on 2021-11-09) = $247.57, about 136x from here · it would need a $12.28B market cap · 0.0x to reach a typical "DePIN" coin
 
 **Why it's here**
-- healthy trading for its size (37% of its value traded in a day)
-- trading is 2.7x its normal level
+- healthy trading for its size (19% of its value traded in a day)
+- price up on the day (+8.6%) and the week (+3.6%)
 - in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed 1 day ago
-- newly listed on Bit2Me, Crypto.com Exchange
+- alive: code pushed 2 days ago
+- newly listed on Bitbank, Bit2Me, HTX, Crypto.com Exchange, Bitkub, Poloniex
 
 **Watch out**
-- 2.5x its old high is 148x away — coins this far below their peak rarely get back
+- 2.5x its old high is 136x away — coins this far below their peak rarely get back
 
 [CoinGecko](https://www.coingecko.com/en/coins/livepeer) · [Website](https://livepeer.org/) · [X](https://x.com/Livepeer) · [Telegram](https://t.me/livepeerorg) (3,335 members)
 
-## 12. EYWA (EYWA) — score 60 · Micro cap
-Price $0.000524 · Market cap $348K · 24h trading $34K · Week +34.4%
-Exchanges (1): KuCoin
-Life: quiet · last code push 2026-03-13 · last Telegram post 2026-08-11
-Potential: 2.5x its all-time high ($0.219 on 2024-12-27) = $0.548, about 1,047x from here · it would need a $364.20M market cap · 6.3x to reach a typical "Bridge Governance Tokens" coin
+## 22. Artificial Superintelligence Alliance (FET) — score 57 · Large cap
+Price $0.232 · Market cap $535.27M · 24h trading $129.12M · Week +0.3%
+Exchanges (63): BitDelta, Binance, BTCC, GroveX, Aivora Exchange, LBank, Coinbase Exchange, OrangeX, …
+Life: alive · last code push 2026-09-17
+Potential: 2.5x its all-time high ($3.45 on 2024-03-28) = $8.63, about 37.2x from here · it would need a $19.93B market cap · 0.0x to reach a typical "AI Agents" coin
 
 **Why it's here**
-- tiny market cap ($348K) — lots of room to grow
-- healthy trading for its size (10% of its value traded in a day)
-- trading is 3.6x its normal level
-- price up on the day (+4.0%) and the week (+34.4%)
-- climbed from #5009 to #4172 in size ranking over 10 days
-- valued at $348K vs a typical $2.19M for "Bridge Governance Tokens" coins
-
-**Watch out**
-- quiet: last sign of life 57 days ago
-- 2.5x its old high is 1,047x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/eywa) · [Website](https://crosscurve.fi/) · [X](https://x.com/crosscurvefi) · [Telegram](https://t.me/CrossCurveMetaLayer) (67,132 members)
-
-## 13. Radworks (RAD) — score 60 · Small cap
-Price $0.321 · Market cap $18.96M · 24h trading $25.62M · Week +23.4%
-Exchanges (25): Binance, Bithumb, BTCC, BtcTurk | Kripto, WhiteBIT, LBank, LATOKEN, HTX, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($27.61 on 2021-04-15) = $69.03, about 215x from here · it would need a $4.08B market cap · 0.1x to reach a typical "DePIN" coin
-
-**Why it's here**
-- small market cap ($18.96M)
-- trading is 10.0x its normal level
-- climbed from #1051 to #912 in size ranking over 10 days
-- alive: code pushed today
-- newly listed on HTX, Upbit, KCEX, Indodax, Crypto.com Exchange, Binance US
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 215x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/radicle) · [Website](https://radworks.org/) · [X](https://x.com/radicle)
-
-## 14. Origin Token (OGN) — score 60 · Small cap
-Price $0.021 · Market cap $14.52M · 24h trading $9.85M · Week +1.2%
-Exchanges (29): Binance, BTCC, BtcTurk | Kripto, Bithumb, Pionex, Toobit, Coinbase Exchange, LATOKEN, …
-Life: alive · last code push 2026-10-06
-Potential: 2.5x its all-time high ($3.35 on 2021-04-08) = $8.38, about 399x from here · it would need a $5.79B market cap · 0.3x to reach a typical "Liquid Staking" coin
-
-**Why it's here**
-- small market cap ($14.52M)
-- healthy trading for its size (68% of its value traded in a day)
-- trading is 5.6x its normal level
-- alive: code pushed 1 day ago
-- newly listed on Upbit, Upbit Indonesia 
-
-**Watch out**
-- only 49% of tokens released so far — future unlocks could weigh on price
-- 2.5x its old high is 399x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/origin-protocol) · [Website](http://www.originprotocol.com) · [X](https://x.com/OriginProtocol) · [Telegram](https://t.me/originprotocol) (13,652 members)
-
-## 15. Prom (PROM) — score 60 · Mid cap
-Price $5.76 · Market cap $105.16M · 24h trading $28.64M · Week -8.9%
-Exchanges (19): Binance, DigiFinex, Pionex, Ourbit, Bitvavo, Hibt, BingX, KuCoin, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($105.94 on 2021-04-29) = $264.85, about 46.0x from here · it would need a $4.84B market cap
-
-**Why it's here**
-- healthy trading for its size (27% of its value traded in a day)
-- trading is 12.2x its normal level
-- 95% below its all-time high, but still actively traded
-- alive: code pushed today
-- newly listed on Coinone
-
-[CoinGecko](https://www.coingecko.com/en/coins/prometeus) · [Website](https://prom.io/) · [X](https://x.com/prom_io) · [Telegram](https://t.me/prom_io) (29,100 members)
-
-## 16. AS Roma Fan Token (ASR) — score 59 · Micro cap
-Price $0.879 · Market cap $7.95M · 24h trading $2.79M · Week +1.0%
-Exchanges (12): LBank, Binance, BtcTurk | Kripto, Pionex, MEXC, Bitget, Bitrue, Gate, …
-Life: unknown
-Potential: 2.5x its all-time high ($26.64 on 2020-12-29) = $66.60, about 75.8x from here · it would need a $602.34M market cap · 0.0x to reach a typical "Fan Token" coin
-
-**Why it's here**
-- small market cap ($7.95M)
-- healthy trading for its size (35% of its value traded in a day)
-- price up on the day (+0.3%) and the week (+1.0%)
-- 97% below its all-time high, but still actively traded
-- newly listed on TokoCrypto
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-
-[CoinGecko](https://www.coingecko.com/en/coins/as-roma-fan-token) · [Website](https://www.asroma.com/it) · [X](https://x.com/OfficialASRoma)
-
-## 17. Nillion (NIL) — score 59 · Small cap
-Price $0.0927 · Market cap $47.07M · 24h trading $21.02M · Week +6.9%
-Exchanges (19): LBank, Binance, DigiFinex, Bithumb, WhiteBIT, XT.COM, KuCoin, HTX, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($0.897 on 2025-03-24) = $2.24, about 24.2x from here · it would need a $1.14B market cap · 0.2x to reach a typical "Binance Launchpool" coin
-
-**Why it's here**
-- healthy trading for its size (45% of its value traded in a day)
-- 90% below its all-time high, but still actively traded
+- healthy trading for its size (24% of its value traded in a day)
+- price up on the day (+1.3%) and the week (+0.3%)
+- 93% below its all-time high, but still actively traded
 - in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed today
-- newly listed on Upbit, Coinone
+- alive: code pushed 21 days ago
+- newly listed on Kraken, Niza.io, Byte Exchange, Indodax, HTX
 
-[CoinGecko](https://www.coingecko.com/en/coins/nillion) · [Website](https://nillion.com/) · [X](https://x.com/nillion) · [Telegram](https://t.me/nillionnetwork) (10,030 members)
+[CoinGecko](https://www.coingecko.com/en/coins/fetch-ai) · [Website](https://www.superintelligence.io/) · [X](https://x.com/ASI_Alliance) · [Telegram](https://t.me/ASI_Alliance) (8,455 members)
 
-## 18. Hemi (HEMI) — score 58 · Small cap
-Price $0.00569 · Market cap $24.14M · 24h trading $11.54M · Week -7.8%
-Exchanges (11): Binance, LBank, Ourbit, Toobit, Biconomy.com, KCEX, BitKan, Gate, …
-Life: alive · last code push 2026-10-07 · last Telegram post 2025-11-12
-Potential: 2.5x its all-time high ($0.192 on 2025-09-24) = $0.479, about 84.1x from here · it would need a $2.03B market cap · 0.4x to reach a typical "Modular Blockchain" coin
-
-**Why it's here**
-- small market cap ($24.14M)
-- healthy trading for its size (48% of its value traded in a day)
-- trading is 2.5x its normal level
-- 97% below its all-time high, but still actively traded
-- alive: code pushed today
-- newly listed on Bitkub
-
-**Watch out**
-- only 42% of tokens released so far — future unlocks could weigh on price
-
-[CoinGecko](https://www.coingecko.com/en/coins/hemi) · [Website](https://hemi.xyz/) · [X](https://x.com/hemi_xyz) · [Telegram](https://t.me/hemi_news) (33,256 members)
-
-## 19. AC Milan Fan Token (ACM) — score 55 · Micro cap
-Price $0.283 · Market cap $4.07M · 24h trading $2.36M · Week -0.3%
-Exchanges (9): Binance, Pionex, BtcTurk | Kripto, MEXC, Bitrue, Gate, XT.COM, TokoCrypto, …
+## 23. Santos FC Fan Token (SANTOS) — score 56 · Micro cap
+Price $0.524 · Market cap $8.43M · 24h trading $5.37M · Week +1.0%
+Exchanges (10): Binance, Pionex, LBank, Toobit, Ourbit, BitKan, Bitrue, TokoCrypto, …
 Life: unknown
-Potential: 2.5x its all-time high ($23.20 on 2021-02-24) = $58.00, about 205x from here · it would need a $834.53M market cap · 0.1x to reach a typical "Fan Token" coin
+Potential: 2.5x its all-time high ($22.34 on 2022-09-25) = $55.85, about 107x from here · it would need a $898.83M market cap · 0.0x to reach a typical "Fan Token" coin
 
 **Why it's here**
-- tiny market cap ($4.07M) — lots of room to grow
-- healthy trading for its size (58% of its value traded in a day)
-- trading is 2.2x its normal level
-- newly listed on Gate, XT.COM, TokoCrypto
+- small market cap ($8.43M)
+- healthy trading for its size (64% of its value traded in a day)
+- trading is 8.3x its normal level
+- price up on the day (+1.8%) and the week (+1.0%)
 
 **Watch out**
 - couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 205x away — coins this far below their peak rarely get back
+- 2.5x its old high is 107x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/ac-milan-fan-token) · [Website](https://www.socios.com/)
+[CoinGecko](https://www.coingecko.com/en/coins/santos-fc-fan-token) · [Website](https://www.santosfc.com.br/en/) · [X](https://x.com/SantosFC)
 
-## 20. Bubblemaps (BMT) — score 55 · Small cap
-Price $0.0185 · Market cap $13.74M · 24h trading $3.98M · Week -3.7%
-Exchanges (26): LBank, Binance, GroveX, Bithumb, Websea, Bybit, Hibt, Toobit, …
-Life: alive · last code push 2026-10-05
-Potential: 2.5x its all-time high ($0.317 on 2025-03-18) = $0.793, about 42.9x from here · it would need a $589.46M market cap · 0.0x to reach a typical "InfoFi" coin
+## 24. Manchester City Fan Token (CITY) — score 56 · Micro cap
+Price $0.351 · Market cap $4.94M · 24h trading $3.00M · Week +0.0%
+Exchanges (13): Paribu, Binance, Pionex, MEXC, BtcTurk | Kripto, Bybit, DigiFinex, Bitrue, …
+Life: unknown
+Potential: 2.5x its all-time high ($36.19 on 2021-08-27) = $90.47, about 257x from here · it would need a $1.27B market cap · 0.1x to reach a typical "Fan Token" coin
 
 **Why it's here**
-- small market cap ($13.74M)
-- healthy trading for its size (29% of its value traded in a day)
+- tiny market cap ($4.94M) — lots of room to grow
+- healthy trading for its size (61% of its value traded in a day)
+- price up on the day (+0.1%) and the week (+0.0%)
+- newly listed on BtcTurk | Kripto
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 257x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/manchester-city-fan-token) · [Website](https://socios.com) · [X](https://x.com/socios)
+
+## 25. Beam (BEAM) — score 56 · Mid cap
+Price $0.00249 · Market cap $127.50M · 24h trading $19.62M · Week +22.5%
+Exchanges (38): Binance, LBank, Websea, OrangeX, BtcTurk | Kripto, Pionex, XT.COM, Bybit, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($0.0442 on 2024-03-10) = $0.11, about 44.4x from here · it would need a $5.66B market cap · 0.0x to reach a typical "Avalanche L1" coin
+
+**Why it's here**
+- healthy trading for its size (15% of its value traded in a day)
 - 94% below its all-time high, but still actively traded
-- alive: code pushed 2 days ago
-- newly listed on Bithumb, Upbit, HTX
+- climbed from #282 to #244 in size ranking over 10 days
+- in a sector you're watching (Gaming (GameFi))
+- alive: code pushed today
+- newly listed on HTX, Bitkub, Crypto.com Exchange
 
-[CoinGecko](https://www.coingecko.com/en/coins/bubblemaps) · [Website](https://bubblemaps.io) · [X](https://x.com/bubblemaps) · [Telegram](https://t.me/bubblemaps) (8,271 members)
+[CoinGecko](https://www.coingecko.com/en/coins/beam-2) · [Website](https://onbeam.com) · [X](https://x.com/buildonbeam) · [Telegram](https://t.me/buildonbeam) (4,240 members)
 
-## 21. Recall (RECALL) — score 55 · Small cap
-Price $0.0441 · Market cap $12.60M · 24h trading $5.77M · Week -9.7%
-Exchanges (17): CoinTR, Bithumb, Gate, Coinbase Exchange, Bybit, Toobit, DigiFinex, MEXC, …
+## 26. Zentry (ZENT) — score 55 · Small cap
+Price $0.00184 · Market cap $14.78M · 24h trading $1.94M · Week +0.7%
+Exchanges (15): HTX, Toobit, OKX, Biconomy.com, Ourbit, Bybit, Bitget, DigiFinex, …
 Life: unknown
-Potential: 2.5x its all-time high ($0.821 on 2025-10-15) = $2.05, about 46.5x from here · it would need a $586.37M market cap · 0.0x to reach a typical "AI Agents" coin
+Potential: 2.5x its all-time high ($0.0453 on 2024-05-27) = $0.113, about 61.4x from here · it would need a $907.89M market cap · 0.0x to reach a typical "Play To Earn" coin
 
 **Why it's here**
-- small market cap ($12.60M)
-- healthy trading for its size (46% of its value traded in a day)
-- 95% below its all-time high, but still actively traded
+- small market cap ($14.78M)
+- healthy trading for its size (13% of its value traded in a day)
+- trading is 9.3x its normal level
+- 96% below its all-time high, but still actively traded
 - in a sector you're watching (Artificial Intelligence (AI))
-- newly listed on Bithumb
 
 **Watch out**
-- only 29% of tokens released so far — future unlocks could weigh on price
 - couldn't check community size (no Telegram or X follower count)
 
-[CoinGecko](https://www.coingecko.com/en/coins/recall) · [Website](https://recall.network/) · [X](https://x.com/recallnet)
+[CoinGecko](https://www.coingecko.com/en/coins/zentry) · [Website](https://zentry.com) · [X](https://x.com/zentry)
 
-## 22. PHALA (PHA) — score 55 · Mid cap
-Price $0.0656 · Market cap $56.19M · 24h trading $21.35M · Week -19.1%
-Exchanges (33): BloFin, Binance, WhiteBIT, LBank, BTCC, CoinW, HTX, Pionex, …
+## 27. PHALA (PHA) — score 55 · Mid cap
+Price $0.0625 · Market cap $53.63M · 24h trading $18.34M · Week -17.2%
+Exchanges (35): BloFin, Binance, LBank, WhiteBIT, BTCC, CoinW, Hotcoin, Biconomy.com, …
 Life: unknown
-Potential: 2.5x its all-time high ($1.39 on 2021-05-14) = $3.47, about 53.0x from here · it would need a $2.98B market cap · 0.0x to reach a typical "AI Framework" coin
+Potential: 2.5x its all-time high ($1.39 on 2021-05-14) = $3.47, about 55.6x from here · it would need a $2.98B market cap · 0.0x to reach a typical "AI Framework" coin
 
 **Why it's here**
-- healthy trading for its size (38% of its value traded in a day)
-- 95% below its all-time high, but still actively traded
+- healthy trading for its size (34% of its value traded in a day)
+- 96% below its all-time high, but still actively traded
 - in a sector you're watching (Artificial Intelligence (AI))
-- newly listed on BTCC, Bithumb
+- newly listed on BTCC, Bithumb, Coinone
 
 **Watch out**
 - couldn't check community size (no Telegram or X follower count)
 
 [CoinGecko](https://www.coingecko.com/en/coins/pha) · [Website](https://phala.network/) · [X](https://x.com/PhalaNetwork)
 
-## 23. Heima (HEI) — score 54 · Small cap
-Price $0.132 · Market cap $10.78M · 24h trading $3.05M · Week -3.2%
-Exchanges (21): Binance, LBank, BTCC, CoinUp.io, Bitvavo, BloFin, Toobit, Biconomy.com, …
-Life: alive · last code push 2026-10-05
-Potential: 2.5x its all-time high ($1.25 on 2025-02-13) = $3.13, about 23.6x from here · it would need a $254.67M market cap · 1.1x to reach a typical "Binance Launchpool" coin
+## 28. Drift Protocol (DRIFT) — score 54 · Small cap
+Price $0.0197 · Market cap $14.32M · 24h trading $6.13M · Week -2.5%
+Exchanges (24): Bybit, LBank, Paribu, Coinbase Exchange, Bitvavo, Ourbit, Toobit, KuCoin, …
+Life: quiet · last code push 2026-07-27
+Potential: 2.5x its all-time high ($2.60 on 2024-11-08) = $6.50, about 330x from here · it would need a $4.72B market cap · 0.0x to reach a typical "Prediction Markets" coin
 
 **Why it's here**
-- small market cap ($10.78M)
-- healthy trading for its size (28% of its value traded in a day)
-- 89% below its all-time high, but still actively traded
-- alive: code pushed 2 days ago
-- newly listed on Azbit
-
-[CoinGecko](https://www.coingecko.com/en/coins/heima) · [Website](https://www.heima.network/) · [X](https://x.com/heimaNetwork) · [Telegram](https://t.me/heima_network) (5,089 members)
-
-## 24. Open Campus (EDU) — score 54 · Mid cap
-Price $0.0609 · Market cap $51.33M · 24h trading $34.45M · Week +15.8%
-Exchanges (26): WEEX, Pionex, Binance, BTCC, Bithumb, BloFin, CoinW, BitDelta, …
-Life: zombie · last code push 2026-05-11
-Potential: 2.5x its all-time high ($1.67 on 2023-04-29) = $4.17, about 68.5x from here · it would need a $3.52B market cap · 0.0x to reach a typical "Education" coin
-
-**Why it's here**
-- healthy trading for its size (67% of its value traded in a day)
-- trading is 10.4x its normal level
-- price up on the day (+1.1%) and the week (+15.8%)
-- 96% below its all-time high, but still actively traded
-- climbed from #561 to #470 in size ranking over 10 days
+- small market cap ($14.32M)
+- healthy trading for its size (43% of its value traded in a day)
+- trading is 3.1x its normal level
+- newly listed on Paribu, Bitget, XBO.com, Azbit
 
 **Watch out**
-- zombie: still trades, but last sign of life was 149 days ago
+- quiet: last sign of life 73 days ago
 - couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 330x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/edu-coin) · [Website](https://www.opencampus.xyz/) · [X](https://x.com/opencampus_xyz)
+[CoinGecko](https://www.coingecko.com/en/coins/drift-protocol) · [Website](https://app.drift.trade/) · [X](https://x.com/DriftProtocol)
 
-## 25. Checkmate (CHECK) — score 53 · Micro cap
-Price $0.0113 · Market cap $4.05M · 24h trading $1.30M · Week -7.5%
-Exchanges (6): HTX, MEXC, BingX, Ourbit, Coinbase Exchange, Gate
-Life: unknown
-Potential: 2.5x its all-time high ($0.107 on 2026-02-17) = $0.268, about 23.8x from here · it would need a $96.26M market cap · 0.1x to reach a typical "Gaming Utility Token" coin
-
-**Why it's here**
-- tiny market cap ($4.05M) — lots of room to grow
-- healthy trading for its size (32% of its value traded in a day)
-- trading is 2.4x its normal level
-- 89% below its all-time high, but still actively traded
-- in a sector you're watching (Gaming (GameFi))
-
-**Watch out**
-- only 36% of tokens released so far — future unlocks could weigh on price
-
-[CoinGecko](https://www.coingecko.com/en/coins/checkmate-2) · [Website](https://anichess.com/) · [X](https://x.com/AnichessGame) · [Telegram](https://t.me/anichess_community) (1,575 members)
-
-## 26. Definitive (EDGE) — score 53 · Small cap
-Price $0.122 · Market cap $32.99M · 24h trading $16.64M · Week +11.3%
-Exchanges (8): Bithumb, Coinbase Exchange, LBank, Gate, Toobit, XT.COM, Ourbit, Kraken
-Life: quiet · last code push 2026-08-05
-Potential: 2.5x its all-time high ($0.864 on 2025-08-17) = $2.16, about 17.7x from here · it would need a $584.97M market cap · 0.0x to reach a typical "Dex Aggregator" coin
+## 29. Prom (PROM) — score 54 · Mid cap
+Price $5.15 · Market cap $93.94M · 24h trading $27.10M · Week -23.9%
+Exchanges (17): Binance, DigiFinex, Pionex, Ourbit, Bitvavo, Hibt, BingX, Koinpark, …
+Life: alive · last code push 2026-10-07
+Potential: 2.5x its all-time high ($105.94 on 2021-04-29) = $264.85, about 51.4x from here · it would need a $4.83B market cap
 
 **Why it's here**
-- healthy trading for its size (50% of its value traded in a day)
-- trading is 4.8x its normal level
-- price up on the day (+5.0%) and the week (+11.3%)
-- 86% below its all-time high, but still actively traded
-
-**Watch out**
-- only 27% of tokens released so far — future unlocks could weigh on price
-- quiet: last sign of life 63 days ago
-- couldn't check community size (no Telegram or X follower count)
-
-[CoinGecko](https://www.coingecko.com/en/coins/definitive) · [Website](https://www.definitive.fi) · [X](https://x.com/DefinitiveFi)
-
-## 27. iExec RLC (RLC) — score 52 · Mid cap
-Price $0.739 · Market cap $64.33M · 24h trading $118.00M · Week +107.0%
-Exchanges (30): Binance, Pionex, BTCC, BtcTurk | Kripto, Coinbase Exchange, DigiFinex, Bitvavo, Ourbit, …
-Life: alive · last code push 2026-09-07
-Potential: 2.5x its all-time high ($15.51 on 2021-05-10) = $38.77, about 52.4x from here · it would need a $3.37B market cap · 0.0x to reach a typical "AI Agents" coin
-
-**Why it's here**
-- trading is 58.0x its normal level
+- healthy trading for its size (29% of its value traded in a day)
+- trading is 11.6x its normal level
 - 95% below its all-time high, but still actively traded
-- climbed from #699 to #406 in size ranking over 10 days
-- in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed 30 days ago
+- alive: code pushed 1 day ago
 
-**Watch out**
-- already up +107.0% this week — may be late
+[CoinGecko](https://www.coingecko.com/en/coins/prometeus) · [Website](https://prom.io/) · [X](https://x.com/prom_io) · [Telegram](https://t.me/prom_io) (29,073 members)
 
-[CoinGecko](https://www.coingecko.com/en/coins/iexec-rlc) · [Website](http://iex.ec/) · [X](https://x.com/iEx_ec) · [Telegram](https://t.me/iexec_rlc_official) (2,896 members)
-
-## 28. ReadyAI (SN33) — score 50 · Micro cap
-Price $1.12 · Market cap $5.52M · 24h trading $297K · Week -7.4%
-Exchanges (1): Subnet Tokens
-Life: alive · last code push 2026-09-24
-Potential: 2.5x its all-time high ($12.67 on 2025-07-21) = $31.68, about 28.3x from here · it would need a $156.17M market cap · 0.9x to reach a typical "Bittensor Subnets" coin
+## 30. Dolomite (DOLO) — score 53 · Small cap
+Price $0.0287 · Market cap $14.73M · 24h trading $3.82M · Week -6.1%
+Exchanges (22): LBank, SAFEbit, Binance, BigONE, BloFin, Toobit, Bitunix, MEXC, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($0.366 on 2025-08-31) = $0.916, about 31.9x from here · it would need a $469.82M market cap · 0.1x to reach a typical "Dex Aggregator" coin
 
 **Why it's here**
-- small market cap ($5.52M)
-- healthy trading for its size (5% of its value traded in a day)
-- trading is 4.8x its normal level
-- 91% below its all-time high, but still actively traded
-- in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed 13 days ago
+- small market cap ($14.73M)
+- healthy trading for its size (26% of its value traded in a day)
+- 92% below its all-time high, but still actively traded
+- alive: code pushed today
+- newly listed on SAFEbit, Bittime
+
+[CoinGecko](https://www.coingecko.com/en/coins/dolomite) · [Website](https://dolomite.io/) · [X](https://x.com/Dolomite_io) · [Telegram](https://t.me/dolomite_official) (2,479 members)
+
+## 31. GALA (GALA) — score 53 · Mid cap
+Price $0.00231 · Market cap $116.84M · 24h trading $26.11M · Week +2.0%
+Exchanges (64): GroveX, Binance, BloFin, BTCC, BitDelta, LBank, WhiteBIT, OrangeX, …
+Life: alive · last code push 2026-10-07
+Potential: 2.5x its all-time high ($0.825 on 2021-11-25) = $2.06, about 891x from here · it would need a $104.15B market cap · 0.0x to reach a typical "Gaming Platform" coin
+
+**Why it's here**
+- healthy trading for its size (22% of its value traded in a day)
+- price up on the day (+2.0%) and the week (+2.0%)
+- in a sector you're watching (Gaming (GameFi))
+- alive: code pushed 1 day ago
+- newly listed on Binance US, Giottus
 
 **Watch out**
 - couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 891x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/readyai) · [Website](https://readyai.ai/) · [X](https://x.com/ReadyAI_)
+[CoinGecko](https://www.coingecko.com/en/coins/gala) · [Website](https://gala.com/) · [X](https://x.com/GoGalaGames) · [Telegram](https://t.me/PoweredByGala)
 
-## 29. Beam (BEAM) — score 50 · Mid cap
-Price $0.00252 · Market cap $129.48M · 24h trading $13.86M · Week +25.3%
-Exchanges (39): Binance, LBank, Websea, OrangeX, Bybit, Pionex, XT.COM, CoinW, …
-Life: alive · last code push 2026-10-05
-Potential: 2.5x its all-time high ($0.0442 on 2024-03-10) = $0.11, about 43.8x from here · it would need a $5.67B market cap · 0.0x to reach a typical "Avalanche L1" coin
-
-**Why it's here**
-- healthy trading for its size (11% of its value traded in a day)
-- price up on the day (+1.1%) and the week (+25.3%)
-- 94% below its all-time high, but still actively traded
-- climbed from #276 to #246 in size ranking over 10 days
-- in a sector you're watching (Gaming (GameFi))
-- alive: code pushed 2 days ago
-
-[CoinGecko](https://www.coingecko.com/en/coins/beam-2) · [Website](https://onbeam.com) · [X](https://x.com/buildonbeam) · [Telegram](https://t.me/buildonbeam) (4,241 members)
-
-## 30. Bio Protocol (BIO) — score 50 · Mid cap
-Price $0.0286 · Market cap $61.41M · 24h trading $16.38M · Week -9.0%
-Exchanges (45): Binance, LBank, SAFEbit, OrangeX, HTX, KuCoin, OKX, WhiteBIT, …
-Life: alive · last code push 2026-10-06 · last Telegram post 2026-05-09
-Potential: 2.5x its all-time high ($0.889 on 2025-01-03) = $2.22, about 77.6x from here · it would need a $4.77B market cap · 0.0x to reach a typical "Decentralized Science (DeSci)" coin
+## 32. Jito (JTO) — score 52 · Large cap
+Price $0.567 · Market cap $300.77M · 24h trading $63.48M · Week +6.6%
+Exchanges (59): Binance, BTCC, LBank, GroveX, Biconomy.com, OKX, WhiteBIT, OrangeX, …
+Life: unknown
+Potential: 2.5x its all-time high ($6.01 on 2023-12-07) = $15.02, about 26.5x from here · it would need a $7.96B market cap · 0.0x to reach a typical "Liquid Staking Governance Tokens" coin
 
 **Why it's here**
+- healthy trading for its size (21% of its value traded in a day)
+- trading is 2.1x its normal level
+- price up on the day (+9.4%) and the week (+6.6%)
+- 91% below its all-time high, but still actively traded
+- newly listed on SAFEbit, Indodax, Bitkub
+
+[CoinGecko](https://www.coingecko.com/en/coins/jito-governance-token) · [Website](https://www.jito.network/) · [X](https://x.com/jito) · [Telegram](https://t.me/jtx_trade) (3,872 members)
+
+## 33. Inverse Finance (INV) — score 51 · Micro cap
+Price $10.67 · Market cap $7.60M · 24h trading $2.02M · Week +9.8%
+Exchanges (1): Coinbase Exchange
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($2K on 2021-03-06) = $5K, about 486x from here · it would need a $3.70B market cap · 0.1x to reach a typical "Yield Aggregator" coin
+
+**Why it's here**
+- small market cap ($7.60M)
 - healthy trading for its size (27% of its value traded in a day)
+- trading is 71.2x its normal level
+- price up on the day (+5.0%) and the week (+9.8%)
+- alive: code pushed today
+
+**Watch out**
+- 2.5x its old high is 486x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/inverse-finance) · [Website](https://inverse.finance/) · [X](https://x.com/InverseFinance) · [Telegram](https://t.me/InverseFinance) (1,453 members)
+
+## 34. Tellor Tributes (TRB) — score 51 · Mid cap
+Price $19.36 · Market cap $54.77M · 24h trading $21.78M · Week -5.6%
+Exchanges (42): Binance, OKX, BloFin, BTCC, WhiteBIT, BVOX, Biconomy.com, HTX, …
+Life: alive · last code push 2026-10-07
+Potential: 2.5x its all-time high ($593.09 on 2023-12-31) = $1K, about 76.6x from here · it would need a $4.19B market cap · 0.0x to reach a typical "Oracle" coin
+
+**Why it's here**
+- healthy trading for its size (40% of its value traded in a day)
 - 97% below its all-time high, but still actively traded
 - alive: code pushed 1 day ago
-- newly listed on SAFEbit, Bithumb
-
-[CoinGecko](https://www.coingecko.com/en/coins/bio-protocol) · [Website](https://www.bio.xyz/) · [X](https://x.com/bioprotocol) · [Telegram](https://t.me/bio_protocol) (5,274 members)
-
-## 31. Artificial Superintelligence Alliance (FET) — score 50 · Large cap
-Price $0.229 · Market cap $528.50M · 24h trading $144.70M · Week +3.7%
-Exchanges (64): Binance, BitDelta, BTCC, GroveX, OrangeX, Toobit, LBank, Coinbase Exchange, …
-Life: alive · last code push 2026-09-17
-Potential: 2.5x its all-time high ($3.45 on 2024-03-28) = $8.63, about 37.7x from here · it would need a $19.94B market cap · 0.0x to reach a typical "AI Agents" coin
-
-**Why it's here**
-- healthy trading for its size (27% of its value traded in a day)
-- 93% below its all-time high, but still actively traded
-- in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed 20 days ago
-- newly listed on Kraken, Niza.io, Byte Exchange, Bitkub, LATOKEN
-
-[CoinGecko](https://www.coingecko.com/en/coins/fetch-ai) · [Website](https://www.superintelligence.io/) · [X](https://x.com/ASI_Alliance) · [Telegram](https://t.me/ASI_Alliance) (8,460 members)
-
-## 32. Sedra Coin (SDR) — score 49 · Micro cap
-Price $0.0000051 · Market cap $135K · 24h trading $56K · Week -0.4%
-Exchanges (1): MEXC
-Life: quiet · last code push 2026-08-11
-Potential: 2.5x its all-time high ($0.0000273 on 2026-06-15) = $0.0000682, about 13.4x from here · it would need a $1.80M market cap
-
-**Why it's here**
-- tiny market cap ($135K) — lots of room to grow
-- healthy trading for its size (42% of its value traded in a day)
-- trading is 29.4x its normal level
-- 81% below its all-time high, but still actively traded
+- newly listed on Bittime, Indodax
 
 **Watch out**
-- quiet: last sign of life 57 days ago
 - couldn't check community size (no Telegram or X follower count)
 
-[CoinGecko](https://www.coingecko.com/en/coins/sedra-coin) · [Website](https://sedracoin.com) · [X](https://x.com/SedraCoin)
+[CoinGecko](https://www.coingecko.com/en/coins/tellor) · [Website](http://www.tellor.io/) · [X](https://x.com/WeAreTellor)
 
-## 33. DeLorean (DMC) — score 49 · Micro cap
-Price $0.000351 · Market cap $2.70M · 24h trading $1.87M · Week +25.5%
-Exchanges (11): HTX, Bitget, Gate, Toobit, DigiFinex, KuCoin, Bitkub, Kraken, …
-Life: zombie · last code push 2025-06-25
-Potential: 2.5x its all-time high ($0.0105 on 2025-07-01) = $0.0263, about 74.8x from here · it would need a $202.06M market cap
-
-**Why it's here**
-- tiny market cap ($2.70M) — lots of room to grow
-- healthy trading for its size (69% of its value traded in a day)
-- trading is 2.4x its normal level
-- 97% below its all-time high, but still actively traded
-- newly listed on Bit2Me
-
-**Watch out**
-- zombie: still trades, but last sign of life was 469 days ago
-
-[CoinGecko](https://www.coingecko.com/en/coins/delorean) · [Website](https://deloreanlabs.com) · [X](https://x.com/deloreanlabs) · [Telegram](https://t.me/deloreanlabs) (47,452 members)
-
-## 34. Injective (INJ) — score 49 · Large cap
-Price $7.39 · Market cap $738.80M · 24h trading $179.17M · Week -4.4%
-Exchanges (64): Binance, BitDelta, BTCC, LBank, MEXC, Ourbit, CoinW, KuCoin, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($52.62 on 2024-03-14) = $131.55, about 17.8x from here · it would need a $13.15B market cap · 0.0x to reach a typical "Real World Assets (RWA)" coin
+## 35. SN21 AdTAO (SN21) — score 50 · Micro cap
+Price $1.30 · Market cap $6.93M · 24h trading $1.76M · Week +20.6%
+Exchanges (1): Subnet Tokens
+Life: zombie · last code push 2026-01-29
+Potential: 2.5x its all-time high ($2.00 on 2026-04-01) = $5.00, about 3.8x from here · it would need a $26.66M market cap · 0.8x to reach a typical "Bittensor Subnets" coin
 
 **Why it's here**
-- healthy trading for its size (24% of its value traded in a day)
-- 86% below its all-time high, but still actively traded
-- in a sector you're watching (Real World Assets (RWA))
-- alive: code pushed today
-- newly listed on SAFEbit, XBO.com, OSL Exchange, Bitlo, Kanga Global, Digital X, WazirX
-
-[CoinGecko](https://www.coingecko.com/en/coins/injective-protocol) · [Website](https://injective.com) · [X](https://x.com/injective) · [Telegram](https://t.me/joininjective) (19,051 members)
-
-## 35. The Sandbox (SAND) — score 48 · Mid cap
-Price $0.0724 · Market cap $212.60M · 24h trading $145.35M · Week +59.2%
-Exchanges (74): Binance, BitDelta, BTCC, LBank, Poloniex, OrangeX, OKX, DigiFinex, …
-Life: zombie · last code push 2026-03-06
-Potential: 2.5x its all-time high ($8.40 on 2021-11-24) = $21.00, about 290x from here · it would need a $61.69B market cap
-
-**Why it's here**
-- healthy trading for its size (68% of its value traded in a day)
-- price up on the day (+9.8%) and the week (+59.2%)
-- climbed from #248 to #184 in size ranking over 10 days
-- in a sector you're watching (Gaming (GameFi))
-- newly listed on Bitvavo, LATOKEN, Icrypex
-
-**Watch out**
-- zombie: still trades, but last sign of life was 215 days ago
-- 2.5x its old high is 290x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/the-sandbox) · [Website](https://www.sandbox.game/en/) · [X](https://x.com/TheSandboxGame) · [Telegram](https://t.me/sandboxgame) (27,077 members)
-
-## 36. WINkLink (WIN) — score 47 · Mid cap
-Price $0.0000514 · Market cap $51.06M · 24h trading $12.88M · Week +8.8%
-Exchanges (29): HTX, BitDelta, Deepcoin, WhiteBIT, Binance, P2B, Biconomy.com, KuCoin, …
-Life: unknown
-Potential: 2.5x its all-time high ($0.00289 on 2021-04-05) = $0.00724, about 141x from here · it would need a $7.19B market cap · 0.0x to reach a typical "Oracle" coin
-
-**Why it's here**
+- small market cap ($6.93M)
 - healthy trading for its size (25% of its value traded in a day)
-- climbed from #549 to #475 in size ranking over 10 days
-- newly listed on WazirX
-
-**Watch out**
-- 2.5x its old high is 141x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/wink) · [Website](https://winklink.org/#/) · [X](https://x.com/WinkLink_Oracle) · [Telegram](https://t.me/WINkLink_Oracle_official) (13,636 members)
-
-## 37. Arkham (ARKM) — score 46 · Mid cap
-Price $0.127 · Market cap $90.31M · 24h trading $7.20M · Week -6.4%
-Exchanges (49): Binance, BTCC, Pionex, Toobit, Phemex, CoinW, LBank, WhiteBIT, …
-Life: quiet · last Telegram post 2026-09-11
-Potential: 2.5x its all-time high ($3.98 on 2024-03-09) = $9.95, about 78.6x from here · it would need a $7.10B market cap · 0.0x to reach a typical "Analytics" coin
-
-**Why it's here**
-- healthy trading for its size (8% of its value traded in a day)
-- 97% below its all-time high, but still actively traded
+- trading is 9.1x its normal level
+- price up on the day (+15.4%) and the week (+20.6%)
+- climbed from #1706 to #1475 in size ranking over 10 days
 - in a sector you're watching (Artificial Intelligence (AI))
-- newly listed on SAFEbit, Bitvavo, Crypto.com Exchange, Indodax
 
 **Watch out**
-- quiet: last sign of life 26 days ago
-
-[CoinGecko](https://www.coingecko.com/en/coins/arkham) · [Website](http://arkm.com/) · [X](https://x.com/arkham) · [Telegram](https://t.me/arkhamintelligence) (16,665 members)
-
-## 38. Collector Crypt (CARDS) — score 46 · Large cap
-Price $0.297 · Market cap $265.32M · 24h trading $16.41M · Week +61.1%
-Exchanges (13): KuCoin, OKX, BloFin, LBank, XT.COM, MEXC, Gate, Ourbit, …
-Life: quiet · last code push 2026-07-29
-Potential: 2.5x its all-time high ($0.381 on 2025-09-14) = $0.954, about 3.2x from here · it would need a $852.87M market cap
-
-**Why it's here**
-- healthy trading for its size (6% of its value traded in a day)
-- price up on the day (+1.4%) and the week (+61.1%)
-- climbed from #210 to #162 in size ranking over 10 days
-- in a sector you're watching (Real World Assets (RWA))
-- newly listed on KuCoin, XT.COM, Gate, Toobit, Bitrue
-
-**Watch out**
-- only 45% of tokens released so far — future unlocks could weigh on price
-- quiet: last sign of life 70 days ago
+- zombie: still trades, but last sign of life was 252 days ago
 - couldn't check community size (no Telegram or X follower count)
 
-[CoinGecko](https://www.coingecko.com/en/coins/collector-crypt) · [Website](https://collectorcrypt.com/) · [X](https://x.com/Collector_Crypt)
+[CoinGecko](https://www.coingecko.com/en/coins/omega-any-to-any) · [Website](https://adtao.io)
 
-## 39. Virtuals Protocol (VIRTUAL) — score 46 · Large cap
-Price $0.772 · Market cap $508.48M · 24h trading $93.97M · Week -1.9%
-Exchanges (51): HTX, Binance, Aivora Exchange, BTCC, OKX, DigiFinex, CoinUp.io, Bybit, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($5.07 on 2025-01-01) = $12.68, about 16.4x from here · it would need a $8.35B market cap · 0.0x to reach a typical "Robotics" coin
+## 36. Blum (BLUM) — score 50 · Micro cap
+Price $0.00162 · Market cap $628K · 24h trading $251K · Week +16.5%
+Exchanges (5): HTX, KCEX, Gate, CoinW, Bitrue
+Life: alive · last Telegram post 2026-10-07
+Potential: 2.5x its all-time high ($0.167 on 2025-06-27) = $0.418, about 259x from here · it would need a $162.35M market cap · 0.2x to reach a typical "Telegram Apps" coin
 
 **Why it's here**
-- healthy trading for its size (18% of its value traded in a day)
+- tiny market cap ($628K) — lots of room to grow
+- healthy trading for its size (40% of its value traded in a day)
+- trading is 2.2x its normal level
+- price up on the day (+8.4%) and the week (+16.5%)
+- alive: Telegram post 1 day ago
+
+**Watch out**
+- only 42% of tokens released so far — future unlocks could weigh on price
+- 2.5x its old high is 259x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/blum) · [Website](https://www.blum.io/) · [X](https://x.com/Blumcrypto) · [Telegram](https://t.me/blumcrypto) (13,787,306 members)
+
+## 37. aelf (ELF) — score 50 · Mid cap
+Price $0.0662 · Market cap $54.76M · 24h trading $2.05M · Week -11.3%
+Exchanges (7): HTX, Upbit, MEXC, Bithumb, Gate, Byte Exchange, CoinW
+Life: quiet · last code push 2026-09-02
+Potential: 2.5x its all-time high ($2.60 on 2018-01-08) = $6.50, about 98.1x from here · it would need a $5.37B market cap · 0.1x to reach a typical "Infrastructure" coin
+
+**Why it's here**
+- trading is 6.0x its normal level
+- 97% below its all-time high, but still actively traded
+- newly listed on HTX
+
+**Watch out**
+- quiet: last sign of life 36 days ago
+- couldn't check community size (no Telegram or X follower count)
+
+[CoinGecko](https://www.coingecko.com/en/coins/aelf) · [Website](https://aelf.com) · [X](https://x.com/aelfblockchain)
+
+## 38. Axie Infinity (AXS) — score 50 · Mid cap
+Price $1.21 · Market cap $211.42M · 24h trading $29.32M · Week +6.7%
+Exchanges (73): BloFin, Binance, Pionex, LBank, BTCC, CoinW, Websea, OrangeX, …
+Life: alive · last code push 2026-10-03 · last Telegram post 2025-10-15
+Potential: 2.5x its all-time high ($164.90 on 2021-11-06) = $412.25, about 341x from here · it would need a $72.03B market cap · 0.0x to reach a typical "Card Games" coin
+
+**Why it's here**
+- healthy trading for its size (14% of its value traded in a day)
+- price up on the day (+1.9%) and the week (+6.7%)
+- in a sector you're watching (Gaming (GameFi))
+- alive: code pushed 5 days ago
+- newly listed on SAFEbit, Cryptal, Mercado Bitcoin, BitTrade, Binance US, Young Platform
+
+**Watch out**
+- 2.5x its old high is 341x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/axie-infinity) · [Website](https://axieinfinity.com/) · [X](https://x.com/axieinfinity) · [Telegram](https://t.me/axieinfinity) (5,294 members)
+
+## 39. Foxsy AI (FOXSY) — score 49 · Micro cap
+Price $0.00271 · Market cap $3.05M · 24h trading $992K · Week +22.4%
+Exchanges (3): MEXC, Gate, Bitrue
+Life: unknown
+Potential: 2.5x its all-time high ($0.123 on 2024-07-18) = $0.307, about 113x from here · it would need a $345.07M market cap · 0.2x to reach a typical "Sports Games" coin
+
+**Why it's here**
+- tiny market cap ($3.05M) — lots of room to grow
+- healthy trading for its size (33% of its value traded in a day)
+- price up on the day (+1.3%) and the week (+22.4%)
+- in a sector you're watching (Gaming (GameFi))
+
+**Watch out**
+- 2.5x its old high is 113x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/foxsy-ai) · [Website](https://foxsy.ai/) · [X](https://x.com/foxsy_ai) · [Telegram](https://t.me/foxsyai) (17,466 members)
+
+## 40. Lido DAO (LDO) — score 49 · Large cap
+Price $0.441 · Market cap $366.05M · 24h trading $61.32M · Week +0.4%
+Exchanges (64): BitDelta, Binance, BTCC, WhiteBIT, LBank, Toobit, CoinUp.io, P2B, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($7.30 on 2021-08-20) = $18.25, about 41.4x from here · it would need a $15.14B market cap · 0.0x to reach a typical "Liquid Staking Governance Tokens" coin
+
+**Why it's here**
+- healthy trading for its size (17% of its value traded in a day)
+- price up on the day (+2.5%) and the week (+0.4%)
+- 94% below its all-time high, but still actively traded
+- alive: code pushed today
+- newly listed on SAFEbit, Icrypex, Bittime, Upbit
+
+[CoinGecko](https://www.coingecko.com/en/coins/lido-dao) · [Website](https://stake.lido.fi/) · [X](https://x.com/lidofinance) · [Telegram](https://t.me/lidofinance) (8,620 members)
+
+## 41. Raydium (RAY) — score 47 · Large cap
+Price $2.46 · Market cap $664.50M · 24h trading $218.53M · Week +28.2%
+Exchanges (57): Binance, BTCC, OKX, Hibt, XT.COM, OrangeX, LBank, BVOX, …
+Life: alive · last code push 2026-10-02
+Potential: 2.5x its all-time high ($16.83 on 2021-09-12) = $42.07, about 17.1x from here · it would need a $11.37B market cap · 0.0x to reach a typical "Automated Market Maker (AMM)" coin
+
+**Why it's here**
+- healthy trading for its size (33% of its value traded in a day)
+- trading is 3.9x its normal level
+- price up on the day (+9.0%) and the week (+28.2%)
+- 85% below its all-time high, but still actively traded
+- alive: code pushed 6 days ago
+
+**Watch out**
+- only 49% of tokens released so far — future unlocks could weigh on price
+
+[CoinGecko](https://www.coingecko.com/en/coins/raydium) · [Website](https://raydium.io/) · [X](https://x.com/Raydium) · [Telegram](https://t.me/raydiumprotocol) (26,580 members)
+
+## 42. Virtuals Protocol (VIRTUAL) — score 47 · Large cap
+Price $0.757 · Market cap $498.48M · 24h trading $62.05M · Week -5.3%
+Exchanges (55): Aivora Exchange, HTX, Binance, Upbit, Bithumb, BTCC, Bybit, WhiteBIT, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($5.07 on 2025-01-01) = $12.68, about 16.7x from here · it would need a $8.35B market cap · 0.0x to reach a typical "Robotics" coin
+
+**Why it's here**
+- healthy trading for its size (12% of its value traded in a day)
 - 85% below its all-time high, but still actively traded
 - in a sector you're watching (Artificial Intelligence (AI))
 - alive: code pushed today
-- newly listed on Indodax, BTSE
+- newly listed on BTSE, Azbit
 
-[CoinGecko](https://www.coingecko.com/en/coins/virtual-protocol) · [Website](https://www.virtuals.io/) · [X](https://x.com/virtuals_io) · [Telegram](https://t.me/virtuals) (18,619 members)
+[CoinGecko](https://www.coingecko.com/en/coins/virtual-protocol) · [Website](https://www.virtuals.io/) · [X](https://x.com/virtuals_io) · [Telegram](https://t.me/virtuals) (18,615 members)
 
-## 40. Qubic (QUBIC) — score 45 · Mid cap
-Price $5.93e-7 · Market cap $85.08M · 24h trading $1.51M · Week +5.9%
-Exchanges (7): Gate, LBank, MEXC, Bitget, XT.COM, DigiFinex, BitKan
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($0.0000126 on 2024-03-02) = $0.0000314, about 52.9x from here · it would need a $4.50B market cap · 0.0x to reach a typical "Quantum-Resistant" coin
+## 43. Pons (PONS) — score 45 · Large cap
+Price $0.383 · Market cap $260.42M · 24h trading $70.24M · Week -25.0%
+Exchanges (10): Gate, OKX, Bybit, Toobit, MEXC, Coinbase Exchange, Kraken, KCEX, …
+Life: unknown
+Potential: 2.5x its all-time high ($0.971 on 2026-09-05) = $2.43, about 6.3x from here · it would need a $1.65B market cap
 
 **Why it's here**
-- price up on the day (+1.7%) and the week (+5.9%)
-- climbed from #420 to #319 in size ranking over 10 days
-- in a sector you're watching (Artificial Intelligence (AI))
+- healthy trading for its size (27% of its value traded in a day)
+- on CoinGecko's trending searches
+- newly listed on Toobit, Coinbase Exchange
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+
+[CoinGecko](https://www.coingecko.com/en/coins/pons) · [Website](https://ponsfamily.com/) · [X](https://x.com/ponsdotfamily)
+
+## 44. Optimism (OP) — score 45 · Large cap
+Price $0.123 · Market cap $283.88M · 24h trading $74.68M · Week -4.3%
+Exchanges (59): BloFin, Binance, BTCC, Hotcoin, WEEX, OKX, CoinW, LBank, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($4.84 on 2024-03-06) = $12.10, about 98.0x from here · it would need a $27.83B market cap · 0.1x to reach a typical "Rollup" coin
+
+**Why it's here**
+- healthy trading for its size (26% of its value traded in a day)
+- 97% below its all-time high, but still actively traded
 - alive: code pushed today
+- newly listed on SAFEbit, Bitrue, Foxbit, HashKey Exchange HK, Kanga Global, Webot
 
-[CoinGecko](https://www.coingecko.com/en/coins/qubic-network) · [Website](https://qubic.org/) · [X](https://x.com/_Qubic_) · [Telegram](https://t.me/qubic_network) (18,349 members)
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
 
-## 41. Arweave (AR) — score 45 · Large cap
-Price $4.26 · Market cap $279.97M · 24h trading $19.56M · Week +0.1%
-Exchanges (32): Binance, BTCC, Pionex, CoinW, OKX, LBank, Hotcoin, XT.COM, …
-Life: alive · last code push 2026-10-06
-Potential: 2.5x its all-time high ($89.24 on 2021-11-04) = $223.10, about 52.4x from here · it would need a $14.66B market cap · 0.0x to reach a typical "Storage" coin
+[CoinGecko](https://www.coingecko.com/en/coins/optimism) · [Website](https://www.optimism.io) · [X](https://x.com/Optimism)
+
+## 45. Injective (INJ) — score 45 · Large cap
+Price $7.37 · Market cap $737.17M · 24h trading $106.80M · Week -0.5%
+Exchanges (65): BitDelta, Binance, LBank, BTCC, Hotcoin, MEXC, Ourbit, CoinW, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($52.62 on 2024-03-14) = $131.55, about 17.8x from here · it would need a $13.16B market cap · 0.0x to reach a typical "Privacy Blockchain" coin
 
 **Why it's here**
-- healthy trading for its size (7% of its value traded in a day)
+- healthy trading for its size (14% of its value traded in a day)
+- 86% below its all-time high, but still actively traded
+- in a sector you're watching (Real World Assets (RWA))
+- alive: code pushed today
+- newly listed on SAFEbit, HTX, OSL Exchange, Kanga Global, Bitlo
+
+[CoinGecko](https://www.coingecko.com/en/coins/injective-protocol) · [Website](https://injective.com) · [X](https://x.com/injective) · [Telegram](https://t.me/joininjective) (19,044 members)
+
+## 46. Aptos (APT) — score 44 · Large cap
+Price $0.778 · Market cap $678.21M · 24h trading $78.78M · Week +1.8%
+Exchanges (62): Binance, LBank, BloFin, BTCC, Websea, Pionex, Aivora Exchange, WEEX, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($19.92 on 2023-01-26) = $49.80, about 64.0x from here · it would need a $43.39B market cap
+
+**Why it's here**
+- healthy trading for its size (12% of its value traded in a day)
+- price up on the day (+1.5%) and the week (+1.8%)
+- 96% below its all-time high, but still actively traded
+- alive: code pushed today
+- newly listed on SAFEbit, BtcTurk | Kripto, Bittime, HashKey Exchange HK, Binance US
+
+[CoinGecko](https://www.coingecko.com/en/coins/aptos) · [Website](https://aptosfoundation.org) · [X](https://x.com/Aptos_Network) · [Telegram](https://t.me/AptosTG) (72,044 members)
+
+## 47. Arweave (AR) — score 44 · Large cap
+Price $4.19 · Market cap $275.34M · 24h trading $14.73M · Week -0.7%
+Exchanges (28): Binance, OKX, Pionex, CoinW, LBank, Hotcoin, Biconomy.com, Gate, …
+Life: alive · last code push 2026-10-06
+Potential: 2.5x its all-time high ($89.24 on 2021-11-04) = $223.10, about 53.2x from here · it would need a $14.66B market cap · 0.0x to reach a typical "Storage" coin
+
+**Why it's here**
+- healthy trading for its size (5% of its value traded in a day)
 - 95% below its all-time high, but still actively traded
 - in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed 1 day ago
-- newly listed on Bit2Me
+- alive: code pushed 2 days ago
+- newly listed on Crypto.com Exchange
 
 **Watch out**
 - couldn't check community size (no Telegram or X follower count)
 
 [CoinGecko](https://www.coingecko.com/en/coins/arweave) · [Website](https://arweave.org/) · [X](https://x.com/arweaveeco)
 
-## 42. LayerZero (ZRO) — score 41 · Large cap
-Price $2.13 · Market cap $849.85M · 24h trading $131.33M · Week +21.5%
-Exchanges (56): Binance, BTCC, Coinbase Exchange, Bybit, LBank, Gate, OKX, OrangeX, …
-Life: unknown
-Potential: 2.5x its all-time high ($7.47 on 2024-12-06) = $18.68, about 8.8x from here · it would need a $7.45B market cap · 0.0x to reach a typical "Cross-chain Communication" coin
-
-**Why it's here**
-- healthy trading for its size (15% of its value traded in a day)
-- climbed from #107 to #85 in size ranking over 10 days
-- on CoinGecko's trending searches
-- newly listed on Bithumb, HTX, Mudrex
-
-**Watch out**
-- only 40% of tokens released so far — future unlocks could weigh on price
-- couldn't check community size (no Telegram or X follower count)
-
-[CoinGecko](https://www.coingecko.com/en/coins/layerzero) · [Website](https://layerzero.network/) · [X](https://x.com/LayerZero_Core)
-
-## 43. Stacks (STX) — score 41 · Large cap
-Price $0.394 · Market cap $737.24M · 24h trading $41.23M · Week +23.5%
-Exchanges (45): Bullish, Binance, OKX, Coinbase Exchange, BTCC, CoinTR, KuCoin, Kraken, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($3.86 on 2024-04-01) = $9.65, about 24.5x from here · it would need a $18.07B market cap · 0.0x to reach a typical "Bitcoin Sidechains" coin
-
-**Why it's here**
-- healthy trading for its size (6% of its value traded in a day)
-- price up on the day (+3.7%) and the week (+23.5%)
-- 90% below its all-time high, but still actively traded
-- alive: code pushed today
-- newly listed on Bitfinex, Upbit Indonesia 
-
-[CoinGecko](https://www.coingecko.com/en/coins/blockstack) · [Website](http://stacks.co/) · [X](https://x.com/Stacks) · [Telegram](https://t.me/StacksChat) (7,953 members)
-
-## 44. Raydium (RAY) — score 41 · Large cap
-Price $2.26 · Market cap $608.90M · 24h trading $86.88M · Week +18.7%
-Exchanges (57): Binance, BTCC, Hibt, OKX, XT.COM, OrangeX, LBank, Deepcoin, …
-Life: alive · last code push 2026-10-02
-Potential: 2.5x its all-time high ($16.83 on 2021-09-12) = $42.07, about 18.6x from here · it would need a $11.34B market cap · 0.0x to reach a typical "Automated Market Maker (AMM)" coin
-
-**Why it's here**
-- healthy trading for its size (14% of its value traded in a day)
-- price up on the day (+3.4%) and the week (+18.7%)
-- 87% below its all-time high, but still actively traded
-- alive: code pushed 5 days ago
-- newly listed on ZebPay
-
-**Watch out**
-- only 49% of tokens released so far — future unlocks could weigh on price
-
-[CoinGecko](https://www.coingecko.com/en/coins/raydium) · [Website](https://raydium.io/) · [X](https://x.com/Raydium) · [Telegram](https://t.me/raydiumprotocol) (26,584 members)
-
-## 45. Starknet (STRK) — score 41 · Large cap
-Price $0.05 · Market cap $371.38M · 24h trading $46.78M · Week +18.3%
-Exchanges (47): OKX, Binance, BTCC, Bybit, Gate, FameEX, LBank, WhiteBIT, …
-Life: alive · last code push 2026-09-24
-Potential: 2.5x its all-time high ($4.41 on 2024-02-20) = $11.03, about 220x from here · it would need a $81.82B market cap · 0.0x to reach a typical "Bitcoin Sidechains" coin
-
-**Why it's here**
-- healthy trading for its size (13% of its value traded in a day)
-- climbed from #154 to #130 in size ranking over 10 days
-- alive: code pushed 13 days ago
-- newly listed on Indodax
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 220x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/starknet) · [Website](https://starknet.io/) · [X](https://x.com/Starknet)
-
-## 46. Lido DAO (LDO) — score 41 · Large cap
-Price $0.43 · Market cap $357.08M · 24h trading $59.63M · Week -10.5%
-Exchanges (65): BitDelta, Binance, BTCC, OKX, Bybit, Kraken, Toobit, P2B, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($7.30 on 2021-08-20) = $18.25, about 42.4x from here · it would need a $15.14B market cap · 0.0x to reach a typical "Liquid Staking Governance Tokens" coin
+## 48. Celestia (TIA) — score 43 · Large cap
+Price $0.484 · Market cap $473.56M · 24h trading $78.45M · Week +8.6%
+Exchanges (55): BitDelta, Binance, BloFin, OKX, LBank, BTCC, WhiteBIT, Coinbase Exchange, …
+Life: alive · last code push 2026-10-08
+Potential: 2.5x its all-time high ($20.85 on 2024-02-10) = $52.13, about 108x from here · it would need a $50.98B market cap · 0.0x to reach a typical "Modular Blockchain" coin
 
 **Why it's here**
 - healthy trading for its size (17% of its value traded in a day)
-- 94% below its all-time high, but still actively traded
+- price up on the day (+7.4%) and the week (+8.6%)
 - alive: code pushed today
-- newly listed on SAFEbit, CEX.IO, Mudrex, Webot, Backpack Exchange 
-
-[CoinGecko](https://www.coingecko.com/en/coins/lido-dao) · [Website](https://stake.lido.fi/) · [X](https://x.com/lidofinance) · [Telegram](https://t.me/lidofinance) (8,629 members)
-
-## 47. Grass (GRASS) — score 41 · Large cap
-Price $0.651 · Market cap $455.22M · 24h trading $37.47M · Week -8.6%
-Exchanges (39): Aivora Exchange, Bybit, LBank, OKX, Gate, HTX, KuCoin, Zoomex, …
-Life: unknown
-Potential: 2.5x its all-time high ($3.89 on 2024-11-08) = $9.72, about 14.9x from here · it would need a $6.80B market cap · 0.0x to reach a typical "DePIN" coin
-
-**Why it's here**
-- healthy trading for its size (8% of its value traded in a day)
-- 83% below its all-time high, but still actively traded
-- in a sector you're watching (Artificial Intelligence (AI))
-- newly listed on GroveX, Bit2Me, Kanga Global, Indodax
+- newly listed on SAFEbit, Bitkub
 
 **Watch out**
-- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 108x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/grass) · [Website](https://grass.io/) · [X](https://x.com/grass)
-
-## 48. Optimism (OP) — score 40 · Large cap
-Price $0.12 · Market cap $276.35M · 24h trading $81.57M · Week -10.1%
-Exchanges (60): BloFin, Binance, BTCC, WEEX, OKX, Hotcoin, CoinW, Bybit, …
-Life: alive · last code push 2026-10-07
-Potential: 2.5x its all-time high ($4.84 on 2024-03-06) = $12.10, about 101x from here · it would need a $27.83B market cap · 0.1x to reach a typical "Rollup" coin
-
-**Why it's here**
-- healthy trading for its size (30% of its value traded in a day)
-- alive: code pushed today
-- newly listed on SAFEbit, Bitkub, Bitrue, HashKey Exchange HK
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 101x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/optimism) · [Website](https://www.optimism.io) · [X](https://x.com/Optimism)
+[CoinGecko](https://www.coingecko.com/en/coins/celestia) · [Website](https://celestia.org/) · [X](https://x.com/CelestiaOrg) · [Telegram](https://t.me/CelestiaCommunity) (12,412 members)
 
 ## Thrown out today
 - memecoin or other sector you excluded: 8,618
-- too little trading to sell out of: 5,069
-- no market cap data: 323
-- most tokens not released yet (big unlocks coming): 257
-- stablecoin or gold token: 232
+- too little trading to sell out of: 5,114
+- no market cap data: 268
+- most tokens not released yet (big unlocks coming): 258
+- stablecoin or gold token: 225
 - bigger than $1.00B (above your size bands): 74
-- suspicious, fake-looking trading volume: 42
-- wrapped or staked copy of another coin: 26
-- no centralized exchange listing: 13
-- community too small (under your minimum): 6
+- suspicious, fake-looking trading volume: 40
+- wrapped or staked copy of another coin: 27
+- no centralized exchange listing: 17
+- community too small (under your minimum): 8
 - no working website or X account: 2
