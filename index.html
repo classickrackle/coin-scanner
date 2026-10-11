@@ -73,7 +73,7 @@ a { color: var(--accent); }
 .tab.more { color: var(--accent); }
 @media (max-width: 760px) {
   #rows td, #trows td { padding-block: 7px; }
-  #rows .coin .tags .tag:not(.band):not(.back):not([class*="life-"]) { display: none; }
+  #rows .coin .tags .tag:not(.band):not(.back):not(.toppick):not([class*="life-"]) { display: none; }
   .ribbon .cell { padding: 8px 12px; }
 }
 .widget { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; min-width: 0; }
@@ -180,6 +180,23 @@ td.what b { color: var(--ink); font-weight: 500; }
 .watch li::before { background: var(--warn); }
 .hist li::before { background: var(--info); }
 .news { background: var(--panel-2); border: 1px solid var(--line-soft); border-radius: 8px; padding: 9px 11px; display: grid; gap: 6px; }
+.tops { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 8px; padding: 12px 14px; }
+.top { text-align: left; font: inherit; color: var(--ink); background: var(--panel-2); border: 1px solid var(--line-soft); border-radius: 8px; padding: 11px 12px; cursor: pointer; display: grid; gap: 6px; align-content: start; }
+.top:hover { border-color: var(--accent); }
+.top .hd { display: flex; align-items: baseline; gap: 8px; }
+.top .rk { font: 600 12px var(--mono); color: var(--accent-ink); background: var(--accent); border-radius: 4px; padding: 0 6px; }
+.top .nm { font-weight: 600; font-size: 14.5px; }
+.top .tk { font: 500 12px var(--mono); color: var(--muted); }
+.top .why { font-size: 13px; color: var(--muted); line-height: 1.4; }
+.top .facts { display: flex; flex-wrap: wrap; gap: 4px 10px; font: 500 12px var(--mono); color: var(--muted); }
+.top .facts b { color: var(--ink); font-weight: 500; }
+.notop { margin: 0; padding: 12px 14px; color: var(--muted); font-size: 13.5px; }
+.case { display: grid; gap: 1px; background: var(--line-soft); border: 1px solid var(--line-soft); border-radius: 8px; overflow: hidden; }
+.case div { background: var(--panel-2); padding: 8px 10px; display: grid; gap: 2px; }
+.case small { font-size: 11.5px; color: var(--muted); }
+.case span { font-size: 13.5px; }
+.case .wrong small { color: var(--warn); }
+.tag.toppick { color: var(--accent-ink); background: var(--accent); font-weight: 600; }
 .dsec .news p { margin: 0; font-size: 13.5px; color: var(--ink); }
 .news .meta { font-size: 12px; color: var(--muted); }
 .news .sect { font-size: 12.5px; color: var(--muted); border-top: 1px solid var(--line-soft); padding-top: 6px; }
@@ -241,6 +258,11 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
 
   <section class="ribbon" aria-label="Today's scan at a glance" id="ribbon"></section>
 
+  <section class="widget" id="topBox" aria-labelledby="top-h" hidden>
+    <div class="whead"><h2 id="top-h">Agent's top picks</h2><span class="sub" id="topSub"></span></div>
+    <div id="topBody"></div>
+  </section>
+
   <div class="grid">
     <section class="widget" aria-labelledby="wl-h">
       <div class="whead"><h2 id="wl-h">New today</h2><span class="sub" id="wlSub"></span>
@@ -262,7 +284,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
           <thead id="todayHead"><tr>
             <th class="l">#</th>
             <th class="l">Coin</th>
-            <th><button type="button" data-sort="score">Score</button></th>
+            <th class="hide-sm"><button type="button" data-sort="score">Score</button></th>
             <th><button type="button" data-sort="mcap">Mkt cap</button></th>
             <th class="hide-sm"><button type="button" data-sort="athmcap" title="Market cap at its all-time-high price (today's supply unless the research agent found the real figure)">ATH mcap</button></th>
             <th class="hide-sm"><button type="button" data-sort="vol">24h vol</button></th>
@@ -406,7 +428,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
   const SORTS = {
     score: [(c) => c.score, -1], mcap: [(c) => c.marketCap, 1], vol: [(c) => c.volume24h, -1],
     week: [(c) => c.week ?? -1e9, -1], pot: [(c) => (c.potential ? c.potential.x : -1), -1], turnover: [(c) => c.turnover, -1], exch: [(c) => (c.exchanges || []).length, -1],
-    agent: [(c) => (RATING_ORDER[ratings[c.id]] ?? 1), -1],
+    agent: [(c) => (topRank[c.id] ? 10 - topRank[c.id] / 10 : 0) + (RATING_ORDER[ratings[c.id]] ?? 1), -1],
     athmcap: [(c) => athMcapOf(c).v ?? -1, -1],
     toath: [(c) => toAth(c) ?? -1, -1],
   };
@@ -433,7 +455,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     week: (x) => x.week ?? -1e9,
     rating: (x) => RATING_ORDER[x.rating] ?? 1,
   };
-  let agentNews = {}, sectorNews = {}, agentAthMcap = {};
+  let agentNews = {}, sectorNews = {}, agentAthMcap = {}, agentCases = {}, agentConv = {}, topPicks = null, topNote = '', topRank = {};
   let data = null, ratings = {}, athChecks = {}, lifeChecks = {}, coins = [], topScore = 1, tracked = [], trackById = new Map(), ratingsDate = null, trackDate = null;
   const saved = store.get('sort2');
   const savedT = store.get('tsort');
@@ -569,8 +591,8 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         '<td class="rank">' + c.rank + '</td>' +
         '<td class="l"><span class="coin"><b>' + esc(c.name) + '<span class="tk">' + esc((c.symbol || '').toUpperCase()) + '</span>' +
           (flags.length ? '<span class="warnmark" title="' + flags.length + ' warning' + (flags.length > 1 ? 's' : '') + '">⚠ ' + flags.length + '</span>' : '') + '</b>' +
-          '<span class="tags">' + (c.back ? '<span class="tag back" title="' + esc(c.back) + '">Back</span>' : '') + (r ? '<span class="badge ' + RATING[r] + ' agent-sm">' + esc(r) + '</span>' : '') + (c.life ? '<span class="tag life-' + esc(c.life.status) + '" title="' + esc(lifeTitle(c.life)) + '">' + esc(LIFE_LABEL[c.life.status] || c.life.status) + '</span>' : '') + (c.band ? '<span class="tag band" title="' + esc(bandRange(c.band)) + '">' + esc(c.band) + '</span>' : '') + c.sectors.slice(0, 3).map((s) => '<span class="tag">' + esc(s) + '</span>').join('') + '</span></span></td>' +
-        '<td><span class="scorecell">' + c.score + '<span class="sbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.min(100, c.score / topScore * 100)).toFixed(0) + '%"></i></span></span></td>' +
+          '<span class="tags">' + (topRank[c.id] ? '<span class="tag toppick">Top pick #' + topRank[c.id] + '</span>' : '') + (c.back ? '<span class="tag back" title="' + esc(c.back) + '">Back</span>' : '') + (r ? '<span class="badge ' + RATING[r] + ' agent-sm">' + esc(r) + '</span>' : '') + (c.life ? '<span class="tag life-' + esc(c.life.status) + '" title="' + esc(lifeTitle(c.life)) + '">' + esc(LIFE_LABEL[c.life.status] || c.life.status) + '</span>' : '') + (c.band ? '<span class="tag band" title="' + esc(bandRange(c.band)) + '">' + esc(c.band) + '</span>' : '') + c.sectors.slice(0, 3).map((s) => '<span class="tag">' + esc(s) + '</span>').join('') + '</span></span></td>' +
+        '<td class="hide-sm"><span class="scorecell">' + c.score + '<span class="sbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.min(100, c.score / topScore * 100)).toFixed(0) + '%"></i></span></span></td>' +
         '<td>' + usd(c.marketCap) + '</td>' +
         '<td class="hide-sm" title="' + esc(athMcapOf(c).real ? 'Real peak market cap found by the research agent' : 'At today\'s supply') + '">' + (athMcapOf(c).v != null ? usd(athMcapOf(c).v) + (athMcapOf(c).real ? '' : '<span style="color:var(--faint)">*</span>') : '<span class="badge none">–</span>') + '</td>' +
         '<td class="hide-sm">' + usd(c.volume24h) + '</td>' +
@@ -611,8 +633,8 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         '<div><small>Turnover</small><b>' + (c.turnover * 100).toFixed(0) + '% a day</b></div>' +
         '<div><small>Telegram</small><b>' + (c.tgMembers ? c.tgMembers.toLocaleString('en-US') : 'n/a') + '</b></div>' +
         '<div><small>Agent</small><b>' + (r ? '<span class="badge ' + RATING[r] + '">' + esc(r) + '</span>' : '<span class="badge none">not rated</span>') + '</b></div>' +
-      '</div>' + lifeBlock(c) + potentialBlock(c) +
-      '<div class="dsec"><h3>Why it\'s here</h3><ul class="why">' + (c.why || []).map((w) => '<li>' + esc(w) + '</li>').join('') + '</ul></div>' +
+      '</div>' + caseBlock(c.id) + lifeBlock(c) + potentialBlock(c) +
+      '<div class="dsec"><h3>Why the scanner picked it</h3><ul class="why">' + (c.why || []).map((w) => '<li>' + esc(w) + '</li>').join('') + '</ul></div>' +
       (flags.length ? '<div class="dsec"><h3>Watch out</h3><ul class="watch">' + flags.map((f) => '<li>' + esc(f) + '</li>').join('') + '</ul></div>' : '') +
       newsBlock(c.id, c.sectors) +
       (c.back && t ? historyBlock(t) : '') +
@@ -621,6 +643,35 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
       ((c.sectors.length || c.chains.length) ? '<div class="dsec"><h3>Sector and chain</h3><div class="chips">' + c.sectors.concat(c.chains).map((s) => '<span class="chip">' + esc(s) + '</span>').join('') + '</div></div>' : '') +
       '<div class="actions"><a class="btn primary" href="https://www.coingecko.com/en/coins/' + encodeURIComponent(c.id) + '" target="_blank" rel="noopener">Open on CoinGecko</a>' +
         links.map(([tx, u]) => '<a class="btn" href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(tx) + '</a>').join('') + '</div>';
+  }
+
+  // The agent's own case for a coin: upside, why it's cheap, what would prove it wrong, where it disagrees with the scanner
+  function caseBlock(id) {
+    const k = agentCases[id];
+    const conv = agentConv[id];
+    const tp = (topPicks || []).find((x) => x.id === id);
+    if (!k && !tp) return '';
+    const row = (label, text, cls) => text ? '<div' + (cls ? ' class="' + cls + '"' : '') + '><small>' + label + '</small><span>' + esc(text) + '</span></div>' : '';
+    let h = '<div class="dsec"><h3>Agent\'s case' + (conv ? ' · ' + esc(conv) + ' conviction' : '') + '</h3><div class="case">';
+    if (tp) h += row('Top pick #' + (tp.rank || topRank[id]) + ': why this one', tp.why);
+    if (k) {
+      h += row('Upside' + (k.catalystDate ? ' (' + esc(k.catalystDate) + ')' : ''), k.upside) + row('Why it\'s cheap', k.cheap) + row('Wrong if', k.wrongIf, 'wrong') + row('Vs the scanner', k.vsScanner);
+    }
+    return h + '</div></div>';
+  }
+
+  function renderTopPicks() {
+    if (topPicks == null) { $('topBox').hidden = true; return; }
+    $('topBox').hidden = false;
+    $('topSub').textContent = 'from the research agent · ' + shortDate(ratingsDate);
+    if (!topPicks.length) { $('topBody').innerHTML = '<p class="notop">No top picks today' + (topNote ? ': ' + esc(topNote) : '.') + '</p>'; return; }
+    $('topBody').innerHTML = '<div class="tops">' + topPicks.map((x) => {
+      const c = coins.find((y) => y.id === x.id) || trackById.get(x.id) || { id: x.id, name: x.id };
+      const conv = agentConv[x.id];
+      return '<button type="button" class="top" data-id="' + esc(x.id) + '"><span class="hd"><span class="rk">#' + esc(x.rank || topRank[x.id]) + '</span><span class="nm">' + esc(c.name) + '</span><span class="tk">' + esc((c.symbol || '').toUpperCase()) + '</span></span>' +
+        '<span class="facts">' + (c.band ? '<span>' + esc(c.band) + '</span>' : '') + (conv ? '<span><b>' + esc(conv) + '</b> conviction</span>' : '') + (toAth(c) != null ? '<span>To ATH <b>' + fmtX(toAth(c)) + '</b></span>' : '') + '</span>' +
+        '<span class="why">' + esc(x.why || '') + '</span></button>';
+    }).join('') + '</div>';
   }
 
   // News the research agent saved for a coin, plus its sector's news (both from today's ratings file)
@@ -681,6 +732,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         '<div><small>Signs of life</small><b>' + (t.life ? '<span class="tag life-' + esc(t.life) + '">' + esc(LIFE_LABEL[t.life] || t.life) + '</span>' : '–') + '</b></div>' +
         '<div style="grid-column:1/-1"><small>Agent\'s latest rating' + (t.ratingDate ? ' (' + esc(shortDate(t.ratingDate)) + ')' : '') + '</small><b>' + (t.rating ? '<span class="badge ' + (RATING[t.rating] || 'none') + '">' + esc(t.rating) + '</span>' : '<span class="badge none">not rated</span>') + '</b></div>' +
       '</div>' +
+      caseBlock(t.id) +
       athMcapBlock(t) +
       newsBlock(t.id, []) +
       historyBlock(t) +
@@ -798,7 +850,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
       const what = latest ? '<b>' + esc(x.changedToday ? 'Today' : shortDate(latest[0])) + ':</b> ' + esc(latest[1]) + (x.notes.length > 1 && x.notes[1][0] === latest[0] ? ' <span style="color:var(--faint)">+' + x.notes.filter((n) => n[0] === latest[0]).slice(1).length + ' more</span>' : '') : '<span style="color:var(--faint)">No changes yet</span>';
       return '<tr data-id="' + esc(x.id) + '" class="' + (x.id === state.sel ? 'sel' : '') + '" tabindex="0">' +
         '<td class="l"><span class="coin"><b>' + esc(x.name) + '<span class="tk">' + esc((x.symbol || '').toUpperCase()) + '</span></b>' +
-          '<span class="tags">' + (x.onListToday ? '<span class="tag today">' + (x.back ? 'Back on New list' : 'On New list') + '</span>' : '') + (x.changedToday && !x.onListToday ? '<span class="tag changed">Changed today</span>' : '') +
+          '<span class="tags">' + (x.topPick ? '<span class="tag toppick" title="Agent top pick on ' + esc(shortDate(x.topPick)) + '">Agent pick ' + esc(shortDate(x.topPick)) + '</span>' : '') + (x.onListToday ? '<span class="tag today">' + (x.back ? 'Back on New list' : 'On New list') + '</span>' : '') + (x.changedToday && !x.onListToday ? '<span class="tag changed">Changed today</span>' : '') +
           (x.status === 'gone' ? '<span class="tag gone">Not in market data</span>' : x.status === 'failing' ? '<span class="tag gone" title="' + esc(x.failReason || '') + '">Fails a filter</span>' : '') +
           (x.band ? '<span class="tag band">' + esc(x.band) + '</span>' : '') + (x.rating ? '<span class="badge ' + (RATING[x.rating] || 'none') + ' agent-sm">' + esc(x.rating) + '</span>' : '') + '</span>' +
           (latest ? '<span class="wsm">' + esc(x.changedToday ? 'Today' : shortDate(latest[0])) + ': ' + esc(latest[1]) + '</span>' : '') + '</span></td>' +
@@ -835,7 +887,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
   function renderScorecard(picks) {
     const el = $('pane-sc');
     if (!picks || !picks.length) { el.innerHTML = '<p class="empty" style="padding:0">No results yet. The first 7-day results show up a week after the first full scan.</p>'; return; }
-    const groups = [['All picks', () => true], ['Agent said "worth a look"', (p) => p.agent === 'worth a look'],
+    const groups = [['All picks', () => true], ['Agent\'s top picks', (p) => !!p.top], ['Agent said "worth a look"', (p) => p.agent === 'worth a look'],
       ['Agent said "caution"', (p) => p.agent === 'caution'], ['Agent said "skip"', (p) => p.agent === 'skip']];
     const cards = [];
     for (const [label, test] of groups) {
@@ -882,6 +934,11 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     agentNews = (r && r.news && typeof r.news === 'object') ? r.news : {};
     sectorNews = (r && r.sectorNews && typeof r.sectorNews === 'object') ? r.sectorNews : {};
     agentAthMcap = (r && r.athMcap && typeof r.athMcap === 'object') ? r.athMcap : {};
+    agentCases = (r && r.cases && typeof r.cases === 'object') ? r.cases : {};
+    agentConv = (r && r.conviction && typeof r.conviction === 'object') ? r.conviction : {};
+    topPicks = r && Array.isArray(r.topPicks) ? r.topPicks.filter((x) => x && x.id).sort((a, b) => (a.rank || 99) - (b.rank || 99)) : null;
+    topNote = (r && r.topPicksNote) || '';
+    topRank = {}; (topPicks || []).forEach((x, i) => { topRank[x.id] = x.rank || i + 1; });
     for (const k of Object.keys(ratings)) ratings[k] = String(ratings[k]).toLowerCase();
     if (data.stats && Array.isArray(data.stats.bands) && data.stats.bands.length) BANDS = data.stats.bands;
     coins = data.coins.map((c, i) => {
@@ -959,6 +1016,15 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     $('rows').addEventListener('click', (e) => pick(e.target.closest('tr')));
     $('rows').addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); pick(e.target.closest('tr')); } });
     renderSectorNews();
+    renderTopPicks();
+    $('topBody').addEventListener('click', (e) => {
+      const b = e.target.closest('.top'); if (!b) return;
+      const id = b.dataset.id;
+      if (coins.some((c) => c.id === id)) { setView('today'); state.sel = id; state.selFromTrack = false; }
+      else if (trackById.has(id)) { state.sel = id; state.selFromTrack = true; }
+      else return;
+      markSel(); renderDetail(); showDetails();
+    });
     ['sc', 'dr', 'fn', 'sn'].forEach((k) => $('tab-' + k).addEventListener('click', () => {
       ['sc', 'dr', 'fn', 'sn'].forEach((j) => { $('tab-' + j).setAttribute('aria-selected', j === k); $('pane-' + j).hidden = j !== k; });
     }));
