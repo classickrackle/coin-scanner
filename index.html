@@ -55,8 +55,27 @@ a { color: var(--accent); }
 
 /* Widget grid */
 .grid { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 8px; align-items: start; }
-.side { display: grid; gap: 8px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 8px); }
-@media (max-width: 1020px) { .grid { grid-template-columns: 1fr; } .side { position: static; } }
+.side { display: grid; gap: 8px; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 8px); max-height: calc(100vh - 16px); overflow-y: auto; overscroll-behavior: contain; border-radius: 10px; }
+.listscroll { max-height: calc(100vh - 170px); min-height: 360px; overflow: auto; overscroll-behavior: contain; }
+.sheet-close, .sheet-backdrop { display: none; }
+@media (max-width: 1020px) {
+  .grid { grid-template-columns: 1fr; }
+  .side { position: static; max-height: none; overflow: visible; }
+  .listscroll { max-height: none; min-height: 0; overflow: visible; }
+  #detailBox { display: none; }
+  body.sheet-open #detailBox { display: block; position: fixed; left: 0; right: 0; bottom: 0; top: calc(env(safe-area-inset-top, 0px) + 48px); z-index: 60; overflow-y: auto; overscroll-behavior: contain; border-radius: 16px 16px 0 0; padding-bottom: env(safe-area-inset-bottom, 0px); box-shadow: 0 -12px 40px rgba(0,0,0,.5); }
+  body.sheet-open #detailBox .whead { position: sticky; top: 0; background: var(--panel); z-index: 1; }
+  body.sheet-open .sheet-close { display: inline-flex; }
+  body.sheet-open .sheet-backdrop { display: block; position: fixed; inset: 0; background: rgba(5,4,10,.6); z-index: 55; }
+  body.sheet-open { overflow: hidden; }
+}
+.sheet-close { font: 600 13px var(--sans); color: var(--ink); background: var(--panel-2); border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px; cursor: pointer; margin-left: 8px; align-items: center; gap: 6px; }
+.tab.more { color: var(--accent); }
+@media (max-width: 760px) {
+  #rows td { padding-block: 7px; }
+  #rows .coin .tags .tag:not(.band):not([class*="life-"]) { display: none; }
+  .ribbon .cell { padding: 8px 12px; }
+}
 .widget { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; min-width: 0; }
 .whead { display: flex; align-items: center; gap: 8px 14px; flex-wrap: wrap; padding: 10px 14px; border-bottom: 1px solid var(--line); }
 .whead h2 { margin: 0; font-size: 13px; font-weight: 600; letter-spacing: .01em; }
@@ -218,7 +237,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         <label id="agentWrap" hidden><input type="checkbox" id="agentOnly"> Agent: worth a look</label>
         <span class="count"><span id="count"></span> <button type="button" class="linkbtn" id="reset" hidden>Clear</button></span>
       </div>
-      <div class="tablewrap">
+      <div class="tablewrap listscroll">
         <table>
           <thead><tr>
             <th class="l">#</th>
@@ -238,7 +257,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
       </div>
       <div id="watchView" hidden>
         <p class="wnote">Every coin the research agent has rated "worth a look", most-flagged first. Prices update with each morning scan.</p>
-        <div class="tablewrap">
+        <div class="tablewrap listscroll">
           <table>
             <thead><tr>
               <th class="l">Coin</th>
@@ -257,23 +276,22 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
 
     <aside class="side">
       <section class="widget" aria-labelledby="d-h" id="detailBox">
-        <div class="whead"><h2 id="d-h">Coin details</h2><span class="right sub" id="dRank"></span></div>
-        <div class="wbody" id="detail"><p class="empty" style="padding:0">Pick a coin from the watchlist.</p></div>
-      </section>
-      <section class="widget" aria-labelledby="f-h">
-        <div class="whead"><h2 id="f-h">Scan funnel</h2><span class="right sub">log scale</span></div>
-        <div class="wbody"><ul class="funnel" id="funnel"></ul><p class="budget" id="budget"></p></div>
+        <div class="whead"><h2 id="d-h">Coin details</h2><span class="right sub"><span id="dRank"></span><button type="button" class="sheet-close" id="sheetClose">Close ✕</button></span></div>
+        <div class="wbody" id="detail"><p class="empty" style="padding:0">Pick a coin from the list.</p></div>
       </section>
     </aside>
+    <div class="sheet-backdrop" id="sheetBackdrop"></div>
   </div>
 
   <section class="widget" aria-label="Results and dropped coins">
     <div class="btabs" role="tablist">
       <button type="button" class="btab" role="tab" id="tab-sc" aria-selected="true" aria-controls="pane-sc">How past picks did</button>
       <button type="button" class="btab" role="tab" id="tab-dr" aria-selected="false" aria-controls="pane-dr">Why coins were dropped</button>
+      <button type="button" class="btab" role="tab" id="tab-fn" aria-selected="false" aria-controls="pane-fn">Scan funnel</button>
     </div>
     <div class="wbody" id="pane-sc" role="tabpanel" aria-labelledby="tab-sc"><p class="empty" style="padding:0">Loading…</p></div>
     <div class="wbody" id="pane-dr" role="tabpanel" aria-labelledby="tab-dr" hidden><ul class="dropped" id="dropped"></ul></div>
+    <div class="wbody" id="pane-fn" role="tabpanel" aria-labelledby="tab-fn" hidden><ul class="funnel" id="funnel"></ul><p class="budget" id="budget"></p></div>
   </section>
 
   <footer id="foot"><span>A research list, not buy advice. Every coin here can still go to zero.</span></footer>
@@ -310,17 +328,17 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     'Stellar','Algorand','Hedera','MultiversX','Berachain','Abstract','Unichain','Starknet','Celo','Gnosis','Moonbeam','Kava','Kaia','Klaytn','Osmosis','Flow','Tezos',
     'Metis','Core','Merlin Chain','Bitlayer','opBNB','Ronin','IoTeX','Theta','VeChain','Conflux','Kaspa','Litecoin','Dogecoin','Mode','Taiko','Manta','Zora','World Chain','Soneium'];
   const CHAINS = new Set(CHAIN_NAMES.map((c) => c.toLowerCase()));
-  const NOISE = /Portfolio|Launchpool|Launchpad|Spotlight|Made in|Binance Alpha|Holdings|\bIndex\b|Native$|Ecosystem$/i;
+  const NOISE = /Portfolio|Launchpool|Launchpad|Spotlight|Made in|Binance Alpha|Holdings|\bIndex\b|Native$|Ecosystem$|Airdrop|HODLer|Megadrop|Alleged SEC|Seed\b|Listing|FTX|Coinbase/i;
   const GROUPS = [
     ['AI', /\bAI\b|DeFAI|Artificial Intelligence/i],
     ['DePIN', /DePIN|Physical Infrastructure/i],
     ['RWA', /Real World|Tokeni[sz]ed|\bRWA\b/i],
     ['Gaming', /Gaming|GameFi|\bRPG\b|\bMMO\b|Metaverse|Play To Earn|Esports|Guild|Scholarship|\bGames?\b/i],
-    ['DeFi', /DeFi|Decentralized Finance|\bDEX\b|Decentralized Exchange|Lending|Borrowing|Yield|Derivatives|Perpetual|Liquid Staking|Restaking|Stablecoin|Prediction Market/i],
-    ['Infrastructure', /Layer ?[0-3]|\bL[0-3]\b|Smart Contract|Infrastructure|Zero Knowledge|\bZK\b|Oracle|Interoperab|Cross-chain|Storage|Big Data|Directed Acyclic|\bDAG\b|Identifier|\bDID\b|Modular|Bridge|Rollup|Privacy|Compute|Cloud|Data Availability|Appchain|Proof of Work|Proof of Stake/i],
+    ['DeFi', /DeFi|Decentralized Finance|\bDEX\b|Decentralized Exchange|Lending|Borrowing|Yield|Derivatives|Perpetual|Liquid Staking|Restaking|Stablecoin|Prediction Market|Automated Market Maker|\bAMM\b|LSDFi|BTCfi|Liquidity|Aggregator|Exchange-based|Exchange Token|Perps/i],
+    ['Infrastructure', /Layer ?[0-3]|\bL[0-3]\b|Smart Contract|Infrastructure|Zero Knowledge|\bZK\b|Oracle|Interoperab|Cross-chain|Storage|Big Data|Directed Acyclic|\bDAG\b|Identifier|\bDID\b|Modular|Bridge|Rollup|Privacy|Compute|Cloud|Data Availability|Appchain|Proof of Work|Proof of Stake|Masternode|Wallet|Analytics/i],
     ['NFT', /\bNFTs?\b/i],
     ['Sports & fan tokens', /Sports|Fan Token/i],
-    ['Social', /Social|Communication|Creator/i],
+    ['Social', /Social|Communication|Creator|Telegram App|Discord/i],
     ['Payments', /Payment/i],
     ['Governance', /Governance|\bDAO\b/i],
   ];
@@ -421,8 +439,12 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     for (const x of [...state.sectors]) if (!sc.has(x)) state.sectors.delete(x);
     if (state.chain && !cc.has(state.chain)) state.chain = '';
     const sorted = [...sc.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+    const LIMIT = 8;
+    const shown = state.allSectors ? sorted : sorted.filter(([k], i) => i < LIMIT || state.sectors.has(k));
+    const hiddenN = sorted.length - shown.length;
     $('tabs').innerHTML = '<button type="button" class="tab" data-s="" aria-pressed="' + (state.sectors.size === 0) + '">All<span class="ct">' + coins.length + '</span></button>' +
-      sorted.map(([k, v]) => '<button type="button" class="tab" data-s="' + esc(k) + '" aria-pressed="' + state.sectors.has(k) + '">' + esc(k) + '<span class="ct">' + v + '</span></button>').join('');
+      shown.map(([k, v]) => '<button type="button" class="tab" data-s="' + esc(k) + '" aria-pressed="' + state.sectors.has(k) + '">' + esc(k) + '<span class="ct">' + v + '</span></button>').join('') +
+      (hiddenN > 0 ? '<button type="button" class="tab more" data-more="1">+' + hiddenN + ' more</button>' : (state.allSectors && sorted.length > LIMIT ? '<button type="button" class="tab more" data-more="0">Show fewer</button>' : ''));
     $('chain').innerHTML = '<option value="">All chains</option>' + [...cc.entries()].sort((a, b) => b[1] - a[1]).map(([k, v]) =>
       '<option value="' + esc(k) + '">' + esc(k) + ' (' + v + ')</option>').join('');
     $('chain').value = state.chain;
@@ -483,7 +505,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
 
   function renderDetail() {
     const c = coins.find((x) => x.id === state.sel);
-    if (!c) { $('detail').innerHTML = '<p class="empty" style="padding:0">Pick a coin from the watchlist.</p>'; $('dRank').textContent = ''; return; }
+    if (!c) { $('detail').innerHTML = '<p class="empty" style="padding:0">Pick a coin from the list.</p>'; $('dRank').textContent = ''; return; }
     const r = ratings[c.id], flags = c.flags || [], ex = c.exchanges || [];
     $('dRank').textContent = 'Rank #' + c.rank + ' of ' + coins.length;
     const links = [];
@@ -586,6 +608,13 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     }).join('');
   }
 
+  const isNarrow = () => window.matchMedia('(max-width: 1020px)').matches;
+  function showDetails() {
+    if (isNarrow()) { document.body.classList.add('sheet-open'); $('detailBox').scrollTop = 0; }
+    else { $('detailBox').closest('.side').scrollTop = 0; }
+  }
+  function hideDetails() { document.body.classList.remove('sheet-open'); }
+
   function setView(v) {
     state.view = v; save();
     $('todayView').hidden = v !== 'today'; $('watchView').hidden = v !== 'watch';
@@ -663,14 +692,19 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     $('wrows').addEventListener('click', (e) => {
       if (e.target.closest('a')) return;
       const tr = e.target.closest('tr'); if (!tr || tr.classList.contains('nolink')) return;
-      setView('today'); state.sel = tr.dataset.id;
-      $('rows').querySelectorAll('tr').forEach((x) => x.classList.toggle('sel', x.dataset.id === state.sel)); renderDetail();
-      $('detailBox').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      state.sel = tr.dataset.id; renderDetail();
+      $('rows').querySelectorAll('tr').forEach((x) => x.classList.toggle('sel', x.dataset.id === state.sel));
+      showDetails();
     });
     setView(state.view);
+    $('sheetClose').addEventListener('click', hideDetails);
+    $('sheetBackdrop').addEventListener('click', hideDetails);
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') hideDetails(); });
+    window.addEventListener('resize', () => { if (!isNarrow()) hideDetails(); });
 
     $('tabs').addEventListener('click', (e) => {
       const b = e.target.closest('.tab'); if (!b) return;
+      if (b.dataset.more) { state.allSectors = b.dataset.more === '1'; renderFilters(); return; }
       const s = b.dataset.s;
       if (!s) state.sectors.clear(); else state.sectors.has(s) ? state.sectors.delete(s) : state.sectors.add(s);
       $('tabs').querySelectorAll('.tab').forEach((t) => t.setAttribute('aria-pressed', t.dataset.s ? state.sectors.has(t.dataset.s) : state.sectors.size === 0));
@@ -701,12 +735,12 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
       state.sel = tr.dataset.id;
       $('rows').querySelectorAll('tr').forEach((x) => x.classList.toggle('sel', x.dataset.id === state.sel));
       renderDetail();
-      if (window.matchMedia('(max-width: 1020px)').matches) $('detailBox').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      showDetails();
     };
     $('rows').addEventListener('click', (e) => pick(e.target.closest('tr')));
     $('rows').addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); pick(e.target.closest('tr')); } });
-    ['sc', 'dr'].forEach((k) => $('tab-' + k).addEventListener('click', () => {
-      ['sc', 'dr'].forEach((j) => { $('tab-' + j).setAttribute('aria-selected', j === k); $('pane-' + j).hidden = j !== k; });
+    ['sc', 'dr', 'fn'].forEach((k) => $('tab-' + k).addEventListener('click', () => {
+      ['sc', 'dr', 'fn'].forEach((j) => { $('tab-' + j).setAttribute('aria-selected', j === k); $('pane-' + j).hidden = j !== k; });
     }));
 
     let picks = await getJson('history/picks.json');
