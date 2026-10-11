@@ -149,6 +149,7 @@ td.what b { color: var(--ink); font-weight: 500; }
 .potcell { font-weight: 600; }
 .warnmark { color: var(--warn); font-family: var(--sans); font-size: 12px; margin-left: 6px; }
 @media (max-width: 760px) { .hide-sm, .sbar { display: none; } td, thead th { padding-inline: 6px; } .coin { min-width: 110px; } td.rank { width: 1.8em; } }
+@media (max-width: 1440px) { .hide-md { display: none; } }
 .empty { color: var(--muted); padding: 22px 14px; text-align: left; font-family: var(--sans); }
 .morebar { padding: 10px 14px; border-top: 1px solid var(--line-soft); font-size: 13px; color: var(--muted); display: flex; gap: 12px; align-items: center; }
 
@@ -263,11 +264,13 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
             <th class="l">Coin</th>
             <th><button type="button" data-sort="score">Score</button></th>
             <th><button type="button" data-sort="mcap">Mkt cap</button></th>
+            <th class="hide-sm"><button type="button" data-sort="athmcap" title="Market cap at its all-time-high price (today's supply unless the research agent found the real figure)">ATH mcap</button></th>
             <th class="hide-sm"><button type="button" data-sort="vol">24h vol</button></th>
+            <th><button type="button" data-sort="toath" title="How many times the price has to grow to get back to its all-time high (ATH price ÷ today's price)">To ATH</button></th>
             <th><button type="button" data-sort="pot" title="2.5x the all-time high, divided by today's price">Potential</button></th>
             <th class="hide-sm"><button type="button" data-sort="week">7d</button></th>
-            <th class="hide-sm"><button type="button" data-sort="turnover">Turnover</button></th>
-            <th class="hide-sm"><button type="button" data-sort="exch">Exch.</button></th>
+            <th class="hide-sm hide-md"><button type="button" data-sort="turnover">Turnover</button></th>
+            <th class="hide-sm hide-md"><button type="button" data-sort="exch">Exch.</button></th>
             <th class="hide-sm"><button type="button" data-sort="agent" title="Worth a look first, then caution, not rated, skip">Agent</button></th>
           </tr></thead>
           <tbody id="rows"></tbody>
@@ -404,7 +407,25 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     score: [(c) => c.score, -1], mcap: [(c) => c.marketCap, 1], vol: [(c) => c.volume24h, -1],
     week: [(c) => c.week ?? -1e9, -1], pot: [(c) => (c.potential ? c.potential.x : -1), -1], turnover: [(c) => c.turnover, -1], exch: [(c) => (c.exchanges || []).length, -1],
     agent: [(c) => (RATING_ORDER[ratings[c.id]] ?? 1), -1],
+    athmcap: [(c) => athMcapOf(c).v ?? -1, -1],
+    toath: [(c) => toAth(c) ?? -1, -1],
   };
+  // Times the price has to grow to get back to its all-time high (works on older files too)
+  function toAth(c) {
+    const p = c.potential;
+    if (p && p.athX > 0) return p.athX;
+    if (p && p.ath > 0 && c.price > 0) return p.ath / c.price;
+    if (c.ath > 0 && c.price > 0) return c.ath / c.price;
+    return null;
+  }
+  // The research agent's real peak market cap wins over the scanner's today's-supply estimate
+  function athMcapOf(c) {
+    const a = agentAthMcap[c.id];
+    const v = a && (typeof a === 'number' ? a : a.value);
+    if (v > 0) return { v, real: true, date: a.date || null, url: a.url || null, note: a.note || null };
+    const est = c.potential ? c.potential.athMcap : c.athMcap;
+    return { v: est > 0 ? est : null, real: false };
+  }
   const TSORTS = {
     changed: (x) => (x.changed ? Date.parse(x.changed) : 0) + (x.changedToday ? 1 : 0),
     first: (x) => x.firstDate ? Date.parse(x.firstDate) : 0,
@@ -412,7 +433,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     week: (x) => x.week ?? -1e9,
     rating: (x) => RATING_ORDER[x.rating] ?? 1,
   };
-  let agentNews = {}, sectorNews = {};
+  let agentNews = {}, sectorNews = {}, agentAthMcap = {};
   let data = null, ratings = {}, athChecks = {}, lifeChecks = {}, coins = [], topScore = 1, tracked = [], trackById = new Map(), ratingsDate = null, trackDate = null;
   const saved = store.get('sort2');
   const savedT = store.get('tsort');
@@ -539,7 +560,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
       if (on) { b.setAttribute('aria-sort', state.sort.dir < 0 ? 'descending' : 'ascending'); b.insertAdjacentHTML('beforeend', '<span class="arr">' + (state.sort.dir < 0 ? '▼' : '▲') + '</span>'); }
       else b.removeAttribute('aria-sort');
     });
-    if (!list.length) { $('rows').innerHTML = '<tr><td colspan="10" class="empty">No coins match these filters. Clear a filter to see more.</td></tr>'; return; }
+    if (!list.length) { $('rows').innerHTML = '<tr><td colspan="12" class="empty">No coins match these filters. Clear a filter to see more.</td></tr>'; return; }
     const selKnown = list.some((c) => c.id === state.sel) || (state.selFromTrack && trackById.has(state.sel));
     if (!selKnown) { state.sel = list[0].id; state.selFromTrack = false; }
     $('rows').innerHTML = list.map((c) => {
@@ -551,11 +572,13 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
           '<span class="tags">' + (c.back ? '<span class="tag back" title="' + esc(c.back) + '">Back</span>' : '') + (r ? '<span class="badge ' + RATING[r] + ' agent-sm">' + esc(r) + '</span>' : '') + (c.life ? '<span class="tag life-' + esc(c.life.status) + '" title="' + esc(lifeTitle(c.life)) + '">' + esc(LIFE_LABEL[c.life.status] || c.life.status) + '</span>' : '') + (c.band ? '<span class="tag band" title="' + esc(bandRange(c.band)) + '">' + esc(c.band) + '</span>' : '') + c.sectors.slice(0, 3).map((s) => '<span class="tag">' + esc(s) + '</span>').join('') + '</span></span></td>' +
         '<td><span class="scorecell">' + c.score + '<span class="sbar" aria-hidden="true"><i style="width:' + Math.max(4, Math.min(100, c.score / topScore * 100)).toFixed(0) + '%"></i></span></span></td>' +
         '<td>' + usd(c.marketCap) + '</td>' +
+        '<td class="hide-sm" title="' + esc(athMcapOf(c).real ? 'Real peak market cap found by the research agent' : 'At today\'s supply') + '">' + (athMcapOf(c).v != null ? usd(athMcapOf(c).v) + (athMcapOf(c).real ? '' : '<span style="color:var(--faint)">*</span>') : '<span class="badge none">–</span>') + '</td>' +
         '<td class="hide-sm">' + usd(c.volume24h) + '</td>' +
+        '<td>' + (toAth(c) != null ? fmtX(toAth(c)) : '<span class="badge none">–</span>') + '</td>' +
         '<td class="potcell' + (c.potential && c.potential.extreme ? ' xt' : '') + '">' + (c.potential ? fmtX(c.potential.x) : '<span class="badge none">–</span>') + '</td>' +
         '<td class="hide-sm ' + (wk > 0 ? 'up' : wk < 0 ? 'down' : '') + '">' + pct(wk) + '</td>' +
-        '<td class="hide-sm">' + (c.turnover * 100).toFixed(0) + '%</td>' +
-        '<td class="hide-sm">' + (c.exchanges || []).length + '</td>' +
+        '<td class="hide-sm hide-md">' + (c.turnover * 100).toFixed(0) + '%</td>' +
+        '<td class="hide-sm hide-md">' + (c.exchanges || []).length + '</td>' +
         '<td class="hide-sm">' + ratingBadge(r) + '</td></tr>';
     }).join('');
     renderDetail();
@@ -650,12 +673,15 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
         '<div><small>Price then</small><b>' + price(t.firstPrice) + '</b></div>' +
         '<div><small>Market cap now</small><b>' + usd(t.marketCap) + '</b></div>' +
         '<div><small>7 days</small><b class="' + (t.week > 0 ? 'up' : t.week < 0 ? 'down' : '') + '">' + pct(t.week) + '</b></div>' +
+        (toAth(t) != null ? '<div><small>All-time high' + (t.athDate ? ' (' + esc(new Date(t.athDate + 'T12:00:00Z').toLocaleDateString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' })) + ')' : '') + '</small><b>' + price(t.ath) + '</b></div>' +
+          '<div><small>Back to the ATH</small><b class="up">' + fmtX(toAth(t)) + '</b></div>' : '') +
         '<div><small>Score when picked</small><b>' + (t.firstScore ?? '–') + '</b></div>' +
         '<div><small>Latest score' + (t.scoreDate ? ' (' + esc(shortDate(t.scoreDate)) + ')' : '') + '</small><b>' + (t.score ?? '–') + '</b></div>' +
         '<div><small>Exchanges</small><b>' + (t.exchanges ?? '–') + '</b></div>' +
         '<div><small>Signs of life</small><b>' + (t.life ? '<span class="tag life-' + esc(t.life) + '">' + esc(LIFE_LABEL[t.life] || t.life) + '</span>' : '–') + '</b></div>' +
         '<div style="grid-column:1/-1"><small>Agent\'s latest rating' + (t.ratingDate ? ' (' + esc(shortDate(t.ratingDate)) + ')' : '') + '</small><b>' + (t.rating ? '<span class="badge ' + (RATING[t.rating] || 'none') + '">' + esc(t.rating) + '</span>' : '<span class="badge none">not rated</span>') + '</b></div>' +
       '</div>' +
+      athMcapBlock(t) +
       newsBlock(t.id, []) +
       historyBlock(t) +
       (t.band ? '<div class="dsec"><h3>Size</h3><div class="chips"><span class="chip">' + esc(t.band) + ' cap · ' + esc(bandRange(t.band)) + '</span></div></div>' : '') +
@@ -677,12 +703,35 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
       '</div></div>';
   }
 
+  // ATH market cap: the agent's real peak figure when it found one, plus the today's-supply estimate
+  function athMcapBlock(c) {
+    const a = athMcapOf(c);
+    const est = c.potential ? c.potential.athMcap : c.athMcap;
+    const athDate = c.potential ? c.potential.athDate : c.athDate;
+    if (a.v == null && !(est > 0)) return '';
+    const now = c.marketCap;
+    const when = athDate ? ' (' + esc(new Date(athDate + 'T12:00:00Z').toLocaleDateString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' })) + ')' : '';
+    let h = '<div class="dsec"><h3>ATH market cap</h3><div class="kv">';
+    h += '<div><small>' + (a.real ? 'Peak market cap' : 'At ATH price') + when + '</small><b>' + usd(a.v) + '</b></div>' +
+      '<div><small>Market cap now</small><b>' + usd(now) + '</b></div>' +
+      '<div><small>Back to that market cap</small><b class="up">' + (a.v > 0 && now > 0 ? fmtX(a.v / now) : '–') + '</b></div>' +
+      '<div><small>Below its peak by</small><b class="down">' + (a.v > 0 && now > 0 ? Math.max(0, (1 - now / a.v) * 100).toFixed(0) + '%' : '–') + '</b></div>';
+    if (a.real && est > 0) h += '<div style="grid-column:1/-1"><small>At today\'s supply it would be</small><b>' + usd(est) + (est > a.v * 1.25 ? ' <span class="xt" style="font-family:var(--sans);font-size:12px">more tokens released since the peak</span>' : '') + '</b></div>';
+    h += '</div>';
+    if (a.real) h += '<p style="margin-top:6px">Found by the research agent' + (a.date ? ' (peak ' + esc(shortDate(a.date)) + ')' : '') + (safeUrl(a.url) ? ' · <a href="' + esc(a.url) + '" target="_blank" rel="noopener">Source</a>' : '') + (a.note ? ' — ' + esc(a.note) : '') + '</p>';
+    else h += '<p style="margin-top:6px">ATH price × the coins in circulation today. If many tokens were released since the peak, the real ATH market cap was lower.</p>';
+    return h + '</div>';
+  }
+
   function potentialBlock(c) {
     const p = c.potential, peer = c.peer;
     if (!p && !peer) return '<div class="dsec"><h3>Potential</h3><p>No all-time-high data for this coin yet. It fills in after the next scan.</p></div>';
-    let h = '<div class="dsec"><h3>Potential</h3><div class="kv">';
+    let h = athMcapBlock(c) + '<div class="dsec"><h3>Potential</h3><div class="kv">';
     if (p) {
       h += '<div><small>All-time high' + (p.athDate ? ' (' + esc(new Date(p.athDate + 'T12:00:00Z').toLocaleDateString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' })) + ')' : '') + '</small><b>' + price(p.ath) + '</b></div>' +
+        '<div><small>Price now</small><b>' + price(c.price) + '</b></div>' +
+        '<div><small>Back to the ATH</small><b class="up">' + fmtX(toAth(c)) + '</b></div>' +
+        '<div><small>Below the ATH by</small><b class="down">' + (toAth(c) > 0 ? Math.max(0, (1 - 1 / toAth(c)) * 100).toFixed(0) + '%' : '–') + '</b></div>' +
         '<div><small>Target (' + p.factor + 'x ATH)</small><b>' + price(p.targetPrice) + '</b></div>' +
         '<div><small>Multiple from here</small><b class="' + (p.extreme ? 'xt' : 'up') + '">' + fmtX(p.x) + '</b></div>' +
         '<div><small>Would need a market cap of</small><b>' + usd(p.targetMcap) + '</b></div>';
@@ -820,7 +869,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     if ((!data || !Array.isArray(data.coins)) && snap && snap.latest) data = snap.latest;
     if (!data || !Array.isArray(data.coins)) {
       $('date').textContent = 'No list yet'; $('liveText').textContent = 'Waiting for first scan';
-      $('rows').innerHTML = '<tr><td colspan="10" class="empty">The scanner hasn\'t posted a list here yet. It runs every morning. Check back after the next run.</td></tr>';
+      $('rows').innerHTML = '<tr><td colspan="12" class="empty">The scanner hasn\'t posted a list here yet. It runs every morning. Check back after the next run.</td></tr>';
       $('pane-sc').innerHTML = '';
       return;
     }
@@ -832,6 +881,7 @@ footer { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--muted); fon
     lifeChecks = (r && r.lifeCheck) || {};
     agentNews = (r && r.news && typeof r.news === 'object') ? r.news : {};
     sectorNews = (r && r.sectorNews && typeof r.sectorNews === 'object') ? r.sectorNews : {};
+    agentAthMcap = (r && r.athMcap && typeof r.athMcap === 'object') ? r.athMcap : {};
     for (const k of Object.keys(ratings)) ratings[k] = String(ratings[k]).toLowerCase();
     if (data.stats && Array.isArray(data.stats.bands) && data.stats.bands.length) BANDS = data.stats.bands;
     coins = data.coins.map((c, i) => {
