@@ -1,0 +1,576 @@
+{
+ "date": "2026-10-12",
+ "ratings": {
+  "plume": "caution",
+  "redstone-oracles": "caution",
+  "skale": "caution",
+  "lumiwave-protocol": "skip",
+  "lumia": "skip",
+  "metis-token": "caution",
+  "playzap": "skip",
+  "sonic-3": "caution",
+  "space-and-time": "caution",
+  "numbers-protocol": "skip",
+  "bitagent-rizzo": "skip",
+  "boson-protocol": "skip",
+  "nervos-network": "caution",
+  "vana": "caution",
+  "nym": "caution",
+  "creditcoin-2": "skip",
+  "autonolas": "skip",
+  "starknet": "caution",
+  "atlas-navi": "skip",
+  "cellframe": "skip",
+  "kled-ai": "skip",
+  "reserve-rights-token": "skip",
+  "everton-fan-token": "skip",
+  "stability-world-ai": "skip",
+  "hyperlane": "caution",
+  "dkargo": "skip",
+  "flow": "caution",
+  "aventus": "skip",
+  "ithaca-protocol": "skip",
+  "elizaos": "skip",
+  "aioz-network": "caution",
+  "big-time": "skip",
+  "chromaway": "skip",
+  "mina-protocol": "caution",
+  "story-2": "skip",
+  "sushi": "caution",
+  "nockchain": "caution",
+  "pancakeswap-token": "caution",
+  "tezos": "caution",
+  "pendle": "caution",
+  "compound-governance-token": "skip",
+  "unibase": "caution",
+  "terra-luna": "skip",
+  "ethereum-name-service": "caution",
+  "vechain": "caution",
+  "falcon-finance-ff": "caution",
+  "shuffle-2": "skip",
+  "bittorrent": "skip",
+  "magic": "skip",
+  "iexec-rlc": "caution",
+  "wormhole": "caution",
+  "metacene": "skip",
+  "render-token": "caution",
+  "gaia-2": "skip",
+  "checkmate-2": "skip",
+  "automata": "skip",
+  "ondo-high-growth-powered-by-blackrock": "caution",
+  "world-of-dypians": "caution",
+  "solmev": "skip",
+  "orbofi-ai": "skip",
+  "elixir-finance": "skip",
+  "sweatcoin": "skip",
+  "dimo": "caution"
+ },
+ "conviction": {
+  "plume": "low",
+  "redstone-oracles": "low",
+  "skale": "low",
+  "metis-token": "low",
+  "sonic-3": "low",
+  "space-and-time": "low",
+  "nervos-network": "low",
+  "vana": "low",
+  "nym": "low",
+  "starknet": "low",
+  "hyperlane": "low",
+  "flow": "low",
+  "aioz-network": "low",
+  "mina-protocol": "low",
+  "sushi": "low",
+  "nockchain": "low",
+  "pancakeswap-token": "low",
+  "tezos": "low",
+  "pendle": "medium",
+  "unibase": "low",
+  "ethereum-name-service": "low",
+  "vechain": "low",
+  "falcon-finance-ff": "low",
+  "iexec-rlc": "low",
+  "wormhole": "low",
+  "render-token": "low",
+  "ondo-high-growth-powered-by-blackrock": "low",
+  "world-of-dypians": "low",
+  "dimo": "low"
+ },
+ "cases": {
+  "plume": {
+   "upside": "RWA push: joined the DTCC tokenization working group ahead of its October 2026 service launch; new Asian exchange listings add buyers.",
+   "cheap": "Down 91% from its high with heavy supply still to unlock; market has not yet seen real asset volume on the chain.",
+   "wrongIf": "Daily trading falls back under about $20M or the DTCC tie-up yields no product by year end.",
+   "vsScanner": "Scanner score 89 is mostly a 1-day spike (+20%); I could not confirm the Bithumb listing, so I am less excited."
+  },
+  "redstone-oracles": {
+   "upside": "New listings (Bitvavo, HTX, Crypto.com) and oracle demand from DeFi/RWA apps.",
+   "cheap": "Oracle sector is dominated by Chainlink; 72% of supply still unlocking over 4 years.",
+   "wrongIf": "Price loses the listing bounce and daily trading drops under $5M.",
+   "vsScanner": "Agree with the scanner, but its listing news is unconfirmed by me."
+  },
+  "skale": {
+   "upside": "Gas-free chain with ongoing ecosystem work; +13% week.",
+   "cheap": "234x from its high; the old high is not a realistic target.",
+   "wrongIf": "Volume under $5M.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "metis-token": {
+   "upside": "Layer 2 with some activity; +12% week.",
+   "cheap": "84x from its high.",
+   "wrongIf": "Volume under $8M.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "sonic-3": {
+   "upside": "Coinone (Korea) listing and a +34% week with $278M daily volume.",
+   "cheap": "Rally already underway; the scanner itself saw no sign of life for 38 days.",
+   "wrongIf": "Volume fades under $50M a day.",
+   "vsScanner": "Scanner is fine on volume but I distrust a quiet project chasing a spike."
+  },
+  "space-and-time": {
+   "upside": "Data-for-AI/blockchain product; no dated catalyst found.",
+   "cheap": "No reason found.",
+   "wrongIf": "No product news by year end.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "nervos-network": {
+   "upside": "Bitcoin-layer-2 story (RGB++, Fiber network) and a possible treasury-use governance change.",
+   "cheap": "Volume spike of 43x came from a small India listing (WazirX); no big catalyst found.",
+   "wrongIf": "Volume returns to normal within days with price giving back the +26% week.",
+   "vsScanner": "Scanner overrates a thin listing spike."
+  },
+  "vana": {
+   "upside": "Data ownership for AI training; no dated catalyst found.",
+   "cheap": "Only 26% released: unlock overhang explains the low price.",
+   "wrongIf": "Big unlock lands without matching demand.",
+   "vsScanner": "Scanner understates the unlock risk."
+  },
+  "nym": {
+   "upside": "Privacy network; no dated catalyst.",
+   "cheap": "219x from its high.",
+   "wrongIf": "Volume under $1M.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "starknet": {
+   "upside": "Staking and upgrade work continues; BigONE listing.",
+   "cheap": "Already up 260% this month; sources I found disagree on price, and another monthly unlock (about 127M tokens) looks due 15 October.",
+   "wrongIf": "Price gives back most of the month on the 15 October unlock.",
+   "vsScanner": "Scanner flags it as late, and I agree."
+  },
+  "hyperlane": {
+   "upside": "Cross-chain messaging for new chains; staking rewards.",
+   "cheap": "Only 42% released, so unlock pressure; no news found.",
+   "wrongIf": "Daily volume falls under $2M or unlocks start hitting price.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "flow": {
+   "upside": "Established chain tied to sports/NFT apps; no dated catalyst.",
+   "cheap": "1,187x from its high: a trading range, not a cheap coin.",
+   "wrongIf": "Volume under $8M.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "aioz-network": {
+   "upside": "Decentralized storage/streaming with real use; no dated catalyst.",
+   "cheap": "Volume is only 3% of value, so nobody is trading it.",
+   "wrongIf": "Volume stays below $3M a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "mina-protocol": {
+   "upside": "ZK chain; no dated catalyst. Dropped 50% in a week, which I could not explain.",
+   "cheap": "A 50% weekly fall is a warning, not a bargain.",
+   "wrongIf": "The fall continues or volume dries up.",
+   "vsScanner": "Scanner treats a 50% drop as a screen pass; I do not."
+  },
+  "sushi": {
+   "upside": "DEX with a shrinking following; no dated catalyst.",
+   "cheap": "Market has moved to other DEXs.",
+   "wrongIf": "Volume stays under $5M.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "nockchain": {
+   "upside": "Proof-of-work chain with an active team; 7.9x from its high.",
+   "cheap": "Very thin trading ($1M/day on $63M value) so price is easily pushed.",
+   "wrongIf": "Volume stays under $1M a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "pancakeswap-token": {
+   "upside": "Large, real DEX with fee burns; no new catalyst found.",
+   "cheap": "No mispricing found: it is just far below a 2021 peak.",
+   "wrongIf": "Weekly decline continues, DEX volume share slips.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "tezos": {
+   "upside": "Established chain; no dated catalyst found.",
+   "cheap": "No reason found.",
+   "wrongIf": "Volume stays near $13M.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "pendle": {
+   "upside": "Real yield-trading product with real use; sits only 3.4x from its high, the most realistic on this list.",
+   "cheap": "Fell 11% this week with no specific reason found.",
+   "wrongIf": "Daily volume drops under $15M or the weekly slide continues past -25%.",
+   "vsScanner": "Agree with the scanner; nothing extra found."
+  },
+  "unibase": {
+   "upside": "AI memory layer, newest of the big names; only 1.8x from its high.",
+   "cheap": "Only 25% released, so heavy unlocks ahead.",
+   "wrongIf": "A large unlock; price falls under last month's low.",
+   "vsScanner": "Scanner undersells the unlock risk."
+  },
+  "ethereum-name-service": {
+   "upside": "Real product (names) with revenue; no dated catalyst.",
+   "cheap": "42% released, so unlock overhang.",
+   "wrongIf": "New unlock or falling registrations.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "vechain": {
+   "upside": "Enterprise partnerships; no dated catalyst found.",
+   "cheap": "No reason found; weekly -9.7%.",
+   "wrongIf": "Volume under $5M a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "falcon-finance-ff": {
+   "upside": "Stablecoin protocol growth.",
+   "cheap": "Only 33% released and thin trading ($8M on $380M).",
+   "wrongIf": "Unlock or stablecoin trouble.",
+   "vsScanner": "Scanner ignores thin trading for the size."
+  },
+  "iexec-rlc": {
+   "upside": "None confirmed.",
+   "cheap": "Unknown.",
+   "wrongIf": "Volume drops back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "wormhole": {
+   "upside": "None confirmed.",
+   "cheap": "Unknown.",
+   "wrongIf": "Volume drops back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "render-token": {
+   "upside": "None confirmed.",
+   "cheap": "Unknown.",
+   "wrongIf": "Volume drops back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "ondo-high-growth-powered-by-blackrock": {
+   "upside": "None confirmed.",
+   "cheap": "Unknown.",
+   "wrongIf": "Volume drops back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "world-of-dypians": {
+   "upside": "None confirmed.",
+   "cheap": "Unknown.",
+   "wrongIf": "Volume drops back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "dimo": {
+   "upside": "None confirmed.",
+   "cheap": "Unknown.",
+   "wrongIf": "Volume drops back to normal.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin has a confirmed, dated catalyst plus a believable reason it is mispriced; my searches found little recent news and several candidates already ran up hard this week.",
+ "athCheck": {
+  "plume": "stretch",
+  "redstone-oracles": "stretch",
+  "skale": "unlikely",
+  "lumiwave-protocol": "unlikely",
+  "lumia": "unlikely",
+  "metis-token": "unlikely",
+  "playzap": "unlikely",
+  "sonic-3": "unlikely",
+  "space-and-time": "stretch",
+  "numbers-protocol": "unlikely",
+  "bitagent-rizzo": "unlikely",
+  "boson-protocol": "unlikely",
+  "nervos-network": "unlikely",
+  "vana": "unlikely",
+  "nym": "unlikely",
+  "creditcoin-2": "unlikely",
+  "autonolas": "unlikely",
+  "starknet": "unlikely",
+  "atlas-navi": "unlikely",
+  "cellframe": "unlikely",
+  "kled-ai": "unlikely",
+  "reserve-rights-token": "unlikely",
+  "everton-fan-token": "unlikely",
+  "stability-world-ai": "unlikely",
+  "hyperlane": "stretch",
+  "dkargo": "unlikely",
+  "flow": "unlikely",
+  "aventus": "unlikely",
+  "ithaca-protocol": "unlikely",
+  "elizaos": "unlikely",
+  "aioz-network": "unlikely",
+  "big-time": "unlikely",
+  "chromaway": "unlikely",
+  "mina-protocol": "unlikely",
+  "story-2": "unlikely",
+  "sushi": "unlikely",
+  "nockchain": "stretch",
+  "pancakeswap-token": "unlikely",
+  "tezos": "unlikely",
+  "pendle": "realistic",
+  "compound-governance-token": "unlikely",
+  "unibase": "realistic",
+  "terra-luna": "unlikely",
+  "ethereum-name-service": "stretch",
+  "vechain": "unlikely",
+  "falcon-finance-ff": "stretch",
+  "shuffle-2": "unlikely",
+  "bittorrent": "unlikely"
+ },
+ "lifeCheck": {
+  "plume": "alive",
+  "redstone-oracles": "alive",
+  "skale": "alive",
+  "lumiwave-protocol": "unknown",
+  "lumia": "quiet",
+  "metis-token": "alive",
+  "playzap": "alive",
+  "sonic-3": "quiet",
+  "space-and-time": "alive",
+  "numbers-protocol": "alive",
+  "bitagent-rizzo": "unknown",
+  "boson-protocol": "alive",
+  "nervos-network": "alive",
+  "vana": "alive",
+  "nym": "alive",
+  "creditcoin-2": "quiet",
+  "autonolas": "unknown",
+  "starknet": "alive",
+  "atlas-navi": "unknown",
+  "cellframe": "unknown",
+  "kled-ai": "unknown",
+  "reserve-rights-token": "zombie",
+  "everton-fan-token": "unknown",
+  "stability-world-ai": "unknown",
+  "hyperlane": "alive",
+  "dkargo": "zombie",
+  "flow": "alive",
+  "aventus": "zombie",
+  "ithaca-protocol": "zombie",
+  "elizaos": "unknown",
+  "aioz-network": "alive",
+  "big-time": "zombie",
+  "chromaway": "zombie",
+  "mina-protocol": "alive",
+  "story-2": "zombie",
+  "sushi": "alive",
+  "nockchain": "alive",
+  "pancakeswap-token": "alive",
+  "tezos": "alive",
+  "pendle": "alive",
+  "compound-governance-token": "zombie",
+  "unibase": "alive",
+  "terra-luna": "alive",
+  "ethereum-name-service": "unknown",
+  "vechain": "alive",
+  "falcon-finance-ff": "alive",
+  "shuffle-2": "alive",
+  "bittorrent": "zombie"
+ },
+ "news": {
+  "plume": {
+   "text": "Joined DTCC digital-assets working group (CoinMarketCap update, undated, recent); Bithumb listing not confirmed by my search"
+  },
+  "redstone-oracles": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "skale": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "lumiwave-protocol": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "lumia": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "metis-token": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "playzap": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "sonic-3": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "space-and-time": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "numbers-protocol": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "bitagent-rizzo": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "boson-protocol": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "nervos-network": {
+   "text": "Governance talk about using the treasury share of issuance (March 2026, early stage)"
+  },
+  "vana": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "nym": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "creditcoin-2": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "autonolas": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "starknet": {
+   "text": "Monthly unlock schedule runs to March 2027 (Phemex, Oct 2026, unverified)"
+  },
+  "atlas-navi": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "cellframe": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "kled-ai": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "reserve-rights-token": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "everton-fan-token": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "stability-world-ai": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "hyperlane": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "dkargo": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "flow": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "aventus": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "ithaca-protocol": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "elizaos": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "aioz-network": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "big-time": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "chromaway": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "mina-protocol": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "story-2": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "sushi": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "nockchain": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "pancakeswap-token": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "tezos": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "pendle": {
+   "text": "No news found in the last 30 days (searches returned nothing recent) (search returned unrelated results)"
+  },
+  "compound-governance-token": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "unibase": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "terra-luna": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "ethereum-name-service": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "vechain": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "falcon-finance-ff": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "shuffle-2": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "bittorrent": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "magic": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "iexec-rlc": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "wormhole": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "metacene": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "render-token": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "gaia-2": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "checkmate-2": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "automata": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "ondo-high-growth-powered-by-blackrock": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "world-of-dypians": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "solmev": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "orbofi-ai": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "elixir-finance": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "sweatcoin": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "dimo": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  }
+ },
+ "sectorNews": {
+  "AI": "7 of today's coins (Numbers, BitAgent, Vana, Autonolas, Kled, Unibase and others) are in AI. My search found no clear AI-sector news this week; many AI small caps here are tiny, thinly traded or quiet, which hurts them. Treat the AI label as a story, not evidence.",
+  "Infrastructure": "Starknet, Hyperlane, Nockchain, RedStone and others are infrastructure. Starknet's +260% month and a monthly unlock near 15 October show how fast money has moved in and may move out. Thin-volume names here are easy to push and hard to exit.",
+  "DeFi": "Pendle, PancakeSwap, Sushi, Compound, Falcon, Reserve Rights and others are DeFi. I found no major hack or regulation news this week; mixed weekly prices (Pendle -11%, PancakeSwap -5%) mean no sector wave is helping small coins.",
+  "Gaming": "SKALE, LumiWave, PlayZap and Big Time are gaming. PlayZap's +507% month and Big Time's zombie status show hype without activity; no sector news found this week.",
+  "RWA": "Plume is the only RWA coin on the list; the DTCC tokenization service planned for October 2026 is the sector's main near-term event, though the link to Plume's price is unproven."
+ },
+ "athMcap": {}
+}
