@@ -1,0 +1,672 @@
+{
+ "date": "2026-10-13",
+ "ratings": {
+  "aergo-2": "caution",
+  "solidus-aitech": "caution",
+  "humanode": "skip",
+  "logicnet": "skip",
+  "safe-scan": "skip",
+  "lympid": "skip",
+  "unit0": "skip",
+  "leisuremeta": "caution",
+  "alien-worlds": "caution",
+  "nimiq-2": "caution",
+  "vericore": "skip",
+  "compute-horde": "caution",
+  "puffer-finance": "caution",
+  "dia-data": "caution",
+  "zentry": "caution",
+  "portal-2": "caution",
+  "stader": "skip",
+  "osmosis": "caution",
+  "euler": "caution",
+  "orderly-network": "caution",
+  "standard": "caution",
+  "cluster-protocol": "caution",
+  "banana-gun": "caution",
+  "impossible-cloud-network-token": "skip",
+  "dusk-network": "caution",
+  "amp-token": "skip",
+  "safe": "caution",
+  "safepal": "caution",
+  "zero-gravity": "caution",
+  "aleo": "caution",
+  "openledger-2": "caution",
+  "zetachain": "caution",
+  "nexpace": "caution",
+  "0x": "caution",
+  "ultima": "caution",
+  "chiliz": "caution",
+  "basic-attention-token": "caution",
+  "bitcoin-cash-sv": "skip",
+  "pieverse": "caution",
+  "curve-dao-token": "caution",
+  "sun-token": "skip",
+  "beldex": "caution",
+  "lighter": "caution",
+  "gnosis": "caution",
+  "decred": "caution",
+  "kinesis-gold": "skip",
+  "stable-2": "caution",
+  "flare-networks": "caution",
+  "origin-protocol": "caution",
+  "ondo-magnificent-7-and-crypto-portfolio": "caution",
+  "ovo-nft-platform": "skip",
+  "umbra": "caution",
+  "superfluid": "skip",
+  "rss3": "skip",
+  "revuto": "caution",
+  "streamflow": "caution",
+  "marblex": "skip",
+  "gunz": "caution",
+  "shuffle-2": "skip",
+  "compound-governance-token": "skip",
+  "nockchain": "caution",
+  "story-2": "skip",
+  "ithaca-protocol": "skip"
+ },
+ "conviction": {
+  "aergo-2": "low",
+  "solidus-aitech": "low",
+  "leisuremeta": "low",
+  "alien-worlds": "low",
+  "nimiq-2": "low",
+  "compute-horde": "low",
+  "puffer-finance": "low",
+  "dia-data": "low",
+  "zentry": "low",
+  "portal-2": "low",
+  "osmosis": "low",
+  "euler": "medium",
+  "orderly-network": "low",
+  "standard": "low",
+  "cluster-protocol": "low",
+  "banana-gun": "low",
+  "dusk-network": "low",
+  "safe": "medium",
+  "safepal": "low",
+  "zero-gravity": "low",
+  "aleo": "low",
+  "openledger-2": "low",
+  "zetachain": "low",
+  "nexpace": "low",
+  "0x": "low",
+  "ultima": "low",
+  "chiliz": "low",
+  "basic-attention-token": "low",
+  "pieverse": "low",
+  "curve-dao-token": "low",
+  "beldex": "low",
+  "lighter": "medium",
+  "gnosis": "low",
+  "decred": "low",
+  "stable-2": "low",
+  "flare-networks": "low",
+  "origin-protocol": "low",
+  "ondo-magnificent-7-and-crypto-portfolio": "low",
+  "umbra": "low",
+  "revuto": "low",
+  "streamflow": "low",
+  "gunz": "low",
+  "nockchain": "low"
+ },
+ "cases": {
+  "aergo-2": {
+   "upside": "Token was migrated/renamed (HPP), which could attract fresh interest, but I found no dated catalyst.",
+   "cheap": "Recent rebrand/migration leaves holders confused and the price far under its May 2026 high.",
+   "wrongIf": "Price keeps sliding under the post-migration range or volume dries up.",
+   "vsScanner": "Agree with the scanner that it is alive; no catalyst found."
+  },
+  "solidus-aitech": {
+   "upside": "AI-compute story, but no dated launch found.",
+   "cheap": "Peak was in March 2024 AI hype; sector rotation moved on.",
+   "wrongIf": "No product update or partner news by year-end.",
+   "vsScanner": "Scanner life says alive; I could not verify recent X activity."
+  },
+  "leisuremeta": {
+   "upside": "22x volume spike; no cause found.",
+   "cheap": "Small Korean metaverse token far below its 2023 high.",
+   "wrongIf": "Spike fades and price gives back gains.",
+   "vsScanner": "Spike without news; scanner enthusiasm not shared."
+  },
+  "alien-worlds": {
+   "upside": "Kraken listing reported by scanner; guides from July\u2013Aug 2026 say Kraken offers TLM, so the date is unclear.",
+   "cheap": "Game token down about 70-75% in a year; players left.",
+   "wrongIf": "Daily volume under $200K after the listing excitement.",
+   "vsScanner": "Listing is old news per my search; spike may be short-lived."
+  },
+  "nimiq-2": {
+   "upside": "Payments-focused chain; no dated catalyst found.",
+   "cheap": "Peak was 2021; little attention.",
+   "wrongIf": "No product or exchange news by end of year.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "compute-horde": {
+   "upside": "Bittensor subnet with 4x volume spike.",
+   "cheap": "Subnet tokens swing with TAO sentiment.",
+   "wrongIf": "Volume fades.",
+   "vsScanner": "Agree."
+  },
+  "puffer-finance": {
+   "upside": "New listings on Kraken, Bithumb, Coinone, Bitkub widen access; I could not confirm dates.",
+   "cheap": "Revenue fell to about $90K in Q3 2026 from $425K in Q2 and the token hit an all-time low in July; the market is ignoring it for a reason.",
+   "wrongIf": "Weekly volume fades back under about $1M a day or revenue keeps falling.",
+   "vsScanner": "Scanner sees a volume spike; I see a shrinking business, so I am less positive."
+  },
+  "dia-data": {
+   "upside": "HTX listing adds liquidity; oracle project with real use.",
+   "cheap": "Oracle space is crowded and DIA is a small player.",
+   "wrongIf": "Volume after the HTX listing fades within two weeks.",
+   "vsScanner": "Agree with the scanner on the listing; no larger catalyst."
+  },
+  "zentry": {
+   "upside": "Gaming/social token with an 11x volume spike; cause not found.",
+   "cheap": "Spike with no news is more likely speculation than discovery.",
+   "wrongIf": "Volume returns to normal within days.",
+   "vsScanner": "Scanner highlights the spike; I could not find a reason, so skeptical."
+  },
+  "portal-2": {
+   "upside": "Bitkub listing adds Thai access.",
+   "cheap": "Gaming-interop chain far below 2024 peak; token unlocks continue.",
+   "wrongIf": "Volume fades after the listing.",
+   "vsScanner": "Listing is regional; limited."
+  },
+  "osmosis": {
+   "upside": "Established Cosmos DEX; no dated catalyst found.",
+   "cheap": "Cosmos ecosystem has lost momentum.",
+   "wrongIf": "Daily volume under $1M or key apps leave the chain.",
+   "vsScanner": "Agree with the scanner that it is alive."
+  },
+  "euler": {
+   "upside": "Lending protocol back after 2023 hack; growing TVL reported in 2025, but I found no dated October catalyst.",
+   "cheap": "Lending sector is out of favour; token is about 12x below its mid-2025 high.",
+   "wrongIf": "Deposits keep shrinking or another exploit.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "orderly-network": {
+   "upside": "Perp-trading infrastructure; no dated catalyst.",
+   "cheap": "Competition from larger perp venues.",
+   "wrongIf": "Volume stays under $1M a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "standard": {
+   "upside": "Newly peaked in Sept 2026 so price is near highs.",
+   "cheap": "Only 1.5x from ATH: not a discount.",
+   "wrongIf": "Falls below its September range.",
+   "vsScanner": "Not a deep-value setup despite the score."
+  },
+  "cluster-protocol": {
+   "upside": "Peaked recently (Sept 2026); no catalyst found.",
+   "cheap": "Little coverage.",
+   "wrongIf": "Volume fades.",
+   "vsScanner": "Agree."
+  },
+  "banana-gun": {
+   "upside": "Trading-bot revenue tied to memecoin activity; no dated catalyst.",
+   "cheap": "Memecoin activity is slow.",
+   "wrongIf": "Revenue keeps falling.",
+   "vsScanner": "Agree."
+  },
+  "dusk-network": {
+   "upside": "Regulated-asset (RWA) chain with 2025 mainnet; no dated October catalyst found.",
+   "cheap": "Scanner says its code/posts are stale (zombie); I cannot confirm that and it conflicts with the mainnet story.",
+   "wrongIf": "Trading spike fades and no mainnet/partner news appears.",
+   "vsScanner": "Scanner says zombie; mainnet launched, so I would call it quiet rather than dead."
+  },
+  "safe": {
+   "upside": "Safenet beta launched April 2026 and the foundation targets break-even in 2026; real revenue (>$10M annualised, company-reported). A spike of 7x volume has no named cause.",
+   "cheap": "Constant selling by holders; token is a governance token that is only slowly becoming a network token.",
+   "wrongIf": "Safenet fails to gain validators or volume spike fades.",
+   "vsScanner": "Scanner sees a spike; I see a real product but no dated catalyst, so only caution."
+  },
+  "safepal": {
+   "upside": "Wallet product with real users; no dated catalyst.",
+   "cheap": "Wallet tokens rarely re-rate.",
+   "wrongIf": "Volume under $1M a day.",
+   "vsScanner": "Agree."
+  },
+  "zero-gravity": {
+   "upside": "AI data-availability chain; no dated catalyst found.",
+   "cheap": "Peak was a year ago; unlocks ongoing.",
+   "wrongIf": "Price breaks below recent lows.",
+   "vsScanner": "Agree."
+  },
+  "aleo": {
+   "upside": "Privacy L1; no dated catalyst.",
+   "cheap": "Peak was Sept 2024; supply is large.",
+   "wrongIf": "Falls below recent lows.",
+   "vsScanner": "Agree."
+  },
+  "openledger-2": {
+   "upside": "AI data project; no dated catalyst.",
+   "cheap": "Falling since its 2025 launch.",
+   "wrongIf": "Further unlocks add selling.",
+   "vsScanner": "Agree."
+  },
+  "zetachain": {
+   "upside": "Cross-chain infrastructure; no dated catalyst.",
+   "cheap": "Declined since the 2024 peak.",
+   "wrongIf": "Volume falls.",
+   "vsScanner": "Agree."
+  },
+  "nexpace": {
+   "upside": "Korean-linked token; no dated catalyst.",
+   "cheap": "Little coverage outside Korea.",
+   "wrongIf": "Volume falls.",
+   "vsScanner": "Agree."
+  },
+  "0x": {
+   "upside": "Established DEX infrastructure; no dated catalyst.",
+   "cheap": "Aggregator fees go to the company, not obviously the token.",
+   "wrongIf": "Volume falls.",
+   "vsScanner": "Agree."
+  },
+  "ultima": {
+   "upside": "Priced at $1,617, volume thin for its size.",
+   "cheap": "Odd price and thin liquidity.",
+   "wrongIf": "Volume drops.",
+   "vsScanner": "Agree."
+  },
+  "chiliz": {
+   "upside": "Sports fan-token platform; no dated catalyst.",
+   "cheap": "Declined from 2021 peak.",
+   "wrongIf": "Fan-token volumes fall.",
+   "vsScanner": "Life shown as unknown; I could not verify."
+  },
+  "basic-attention-token": {
+   "upside": "Scanner reports Upbit/Bithumb/Bitkub listings; my search found BAT already trading on Upbit and Bithumb, so the \"new\" listing is unconfirmed.",
+   "cheap": "Long-running Brave browser token; has real users but the token has drifted for years.",
+   "wrongIf": "The Korean volume spike fades within a week or Brave user growth stalls.",
+   "vsScanner": "Scanner counts listings as new; I could not verify that."
+  },
+  "pieverse": {
+   "upside": "Peaked Sept 2026, so little discount.",
+   "cheap": "New token; no history.",
+   "wrongIf": "Falls under launch range.",
+   "vsScanner": "Only 1.6x from ATH; not cheap."
+  },
+  "curve-dao-token": {
+   "upside": "Core DeFi protocol still used; no dated catalyst.",
+   "cheap": "Scanner says zombie but Curve remains a major DEX; I overrule.",
+   "wrongIf": "Volume stays low or key stablecoin departs.",
+   "vsScanner": "Disagree on zombie."
+  },
+  "beldex": {
+   "upside": "Privacy coin; no dated catalyst.",
+   "cheap": "Privacy coin delisting risk.",
+   "wrongIf": "Delisting from an exchange.",
+   "vsScanner": "Agree."
+  },
+  "lighter": {
+   "upside": "Perp DEX with revenue buybacks since Jan 2026; no dated October catalyst found.",
+   "cheap": "Large unlock schedule (half of supply locked 1 year, vesting 3 years) is an overhang.",
+   "wrongIf": "Next unlock starts selling or volume declines.",
+   "vsScanner": "Agree with the scanner that it is alive; only 2.4x from ATH."
+  },
+  "gnosis": {
+   "upside": "Established chain; no dated catalyst.",
+   "cheap": "Quiet sector.",
+   "wrongIf": "Volume falls.",
+   "vsScanner": "Agree."
+  },
+  "decred": {
+   "upside": "Long-running governance coin; no dated catalyst.",
+   "cheap": "Small following.",
+   "wrongIf": "Volume falls.",
+   "vsScanner": "Agree."
+  },
+  "stable-2": {
+   "upside": "New chain token; no dated catalyst.",
+   "cheap": "Only 1.6x from ATH.",
+   "wrongIf": "Falls below launch range.",
+   "vsScanner": "Not cheap."
+  },
+  "flare-networks": {
+   "upside": "Data oracle chain; no dated catalyst.",
+   "cheap": "Declined since 2023.",
+   "wrongIf": "Volume falls.",
+   "vsScanner": "Agree."
+  },
+  "origin-protocol": {
+   "upside": "No verified catalyst found.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades or price breaks below the level at my last check.",
+   "vsScanner": "Up 93% since pick and 55% this week; I found no cause, so chasing it is risky."
+  },
+  "ondo-magnificent-7-and-crypto-portfolio": {
+   "upside": "No verified catalyst found.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades or price breaks below the level at my last check.",
+   "vsScanner": "Was worth a look; it flickers in and out of the safety filters and I have no verified catalyst."
+  },
+  "umbra": {
+   "upside": "No verified catalyst found.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades or price breaks below the level at my last check.",
+   "vsScanner": "Was worth a look; it keeps failing and re-passing the liquidity filter and I found no dated catalyst."
+  },
+  "revuto": {
+   "upside": "No verified catalyst found.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades or price breaks below the level at my last check.",
+   "vsScanner": "Up 19% but filter status flips daily; no catalyst found."
+  },
+  "streamflow": {
+   "upside": "No verified catalyst found.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades or price breaks below the level at my last check.",
+   "vsScanner": "Was worth a look; scanner now shows life dropping to quiet and it fails the liquidity filter, so the case weakened."
+  },
+  "gunz": {
+   "upside": "No verified catalyst found.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades or price breaks below the level at my last check.",
+   "vsScanner": "New Bitfinex listing is real per scanner but the coin is down 17% since pick; no further catalyst found."
+  },
+  "nockchain": {
+   "upside": "No verified catalyst found.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades or price breaks below the level at my last check.",
+   "vsScanner": "Down 14% since pick; ranking climb unexplained."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing has a verified, dated catalyst; searches found no October 2026 news for any coin, and my own lessons say that means caution.",
+ "athCheck": {
+  "aergo-2": "stretch",
+  "solidus-aitech": "unlikely",
+  "humanode": "unlikely",
+  "logicnet": "unlikely",
+  "safe-scan": "unlikely",
+  "lympid": "unlikely",
+  "unit0": "unlikely",
+  "leisuremeta": "unlikely",
+  "alien-worlds": "unlikely",
+  "nimiq-2": "unlikely",
+  "vericore": "unlikely",
+  "compute-horde": "stretch",
+  "puffer-finance": "unlikely",
+  "dia-data": "unlikely",
+  "zentry": "stretch",
+  "portal-2": "unlikely",
+  "stader": "unlikely",
+  "osmosis": "unlikely",
+  "euler": "stretch",
+  "orderly-network": "stretch",
+  "standard": "realistic",
+  "cluster-protocol": "stretch",
+  "banana-gun": "unlikely",
+  "impossible-cloud-network-token": "stretch",
+  "dusk-network": "stretch",
+  "amp-token": "unlikely",
+  "safe": "stretch",
+  "safepal": "unlikely",
+  "zero-gravity": "stretch",
+  "aleo": "unlikely",
+  "openledger-2": "unlikely",
+  "zetachain": "unlikely",
+  "nexpace": "unlikely",
+  "0x": "unlikely",
+  "ultima": "stretch",
+  "chiliz": "unlikely",
+  "basic-attention-token": "unlikely",
+  "bitcoin-cash-sv": "unlikely",
+  "pieverse": "realistic",
+  "curve-dao-token": "unlikely",
+  "sun-token": "unlikely",
+  "beldex": "stretch",
+  "lighter": "realistic",
+  "gnosis": "stretch",
+  "decred": "stretch",
+  "kinesis-gold": "realistic",
+  "stable-2": "realistic",
+  "flare-networks": "unlikely"
+ },
+ "lifeCheck": {
+  "aergo-2": "alive",
+  "solidus-aitech": "quiet",
+  "humanode": "alive",
+  "logicnet": "zombie",
+  "safe-scan": "zombie",
+  "lympid": "zombie",
+  "unit0": "alive",
+  "leisuremeta": "quiet",
+  "alien-worlds": "quiet",
+  "nimiq-2": "alive",
+  "vericore": "zombie",
+  "compute-horde": "quiet",
+  "puffer-finance": "quiet",
+  "dia-data": "alive",
+  "zentry": "quiet",
+  "portal-2": "quiet",
+  "stader": "zombie",
+  "osmosis": "alive",
+  "euler": "alive",
+  "orderly-network": "alive",
+  "standard": "unknown",
+  "cluster-protocol": "alive",
+  "banana-gun": "quiet",
+  "impossible-cloud-network-token": "zombie",
+  "dusk-network": "quiet",
+  "amp-token": "zombie",
+  "safe": "alive",
+  "safepal": "alive",
+  "zero-gravity": "alive",
+  "aleo": "alive",
+  "openledger-2": "quiet",
+  "zetachain": "alive",
+  "nexpace": "alive",
+  "0x": "quiet",
+  "ultima": "alive",
+  "chiliz": "alive",
+  "basic-attention-token": "alive",
+  "bitcoin-cash-sv": "alive",
+  "pieverse": "unknown",
+  "curve-dao-token": "alive",
+  "sun-token": "zombie",
+  "beldex": "alive",
+  "lighter": "alive",
+  "gnosis": "alive",
+  "decred": "alive",
+  "kinesis-gold": "zombie",
+  "stable-2": "unknown",
+  "flare-networks": "alive"
+ },
+ "news": {
+  "aergo-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "solidus-aitech": {
+   "text": "No news found in the last 30 days"
+  },
+  "humanode": {
+   "text": "No news found in the last 30 days"
+  },
+  "logicnet": {
+   "text": "No news found in the last 30 days"
+  },
+  "safe-scan": {
+   "text": "No news found in the last 30 days"
+  },
+  "lympid": {
+   "text": "No news found in the last 30 days"
+  },
+  "unit0": {
+   "text": "No news found in the last 30 days"
+  },
+  "leisuremeta": {
+   "text": "No news found in the last 30 days"
+  },
+  "alien-worlds": {
+   "text": "No news found in the last 30 days"
+  },
+  "nimiq-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "vericore": {
+   "text": "No news found in the last 30 days"
+  },
+  "compute-horde": {
+   "text": "No news found in the last 30 days"
+  },
+  "puffer-finance": {
+   "text": "No news found in the last 30 days"
+  },
+  "dia-data": {
+   "text": "No news found in the last 30 days"
+  },
+  "zentry": {
+   "text": "No news found in the last 30 days"
+  },
+  "portal-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "stader": {
+   "text": "No news found in the last 30 days"
+  },
+  "osmosis": {
+   "text": "No news found in the last 30 days"
+  },
+  "euler": {
+   "text": "No news found in the last 30 days"
+  },
+  "orderly-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "standard": {
+   "text": "No news found in the last 30 days"
+  },
+  "cluster-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "banana-gun": {
+   "text": "No news found in the last 30 days"
+  },
+  "impossible-cloud-network-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "dusk-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "amp-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "safe": {
+   "text": "No news found in the last 30 days"
+  },
+  "safepal": {
+   "text": "No news found in the last 30 days"
+  },
+  "zero-gravity": {
+   "text": "No news found in the last 30 days"
+  },
+  "aleo": {
+   "text": "No news found in the last 30 days"
+  },
+  "openledger-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "zetachain": {
+   "text": "No news found in the last 30 days"
+  },
+  "nexpace": {
+   "text": "No news found in the last 30 days"
+  },
+  "0x": {
+   "text": "No news found in the last 30 days"
+  },
+  "ultima": {
+   "text": "No news found in the last 30 days"
+  },
+  "chiliz": {
+   "text": "No news found in the last 30 days"
+  },
+  "basic-attention-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "bitcoin-cash-sv": {
+   "text": "No news found in the last 30 days"
+  },
+  "pieverse": {
+   "text": "No news found in the last 30 days"
+  },
+  "curve-dao-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "sun-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "beldex": {
+   "text": "No news found in the last 30 days"
+  },
+  "lighter": {
+   "text": "No news found in the last 30 days"
+  },
+  "gnosis": {
+   "text": "No news found in the last 30 days"
+  },
+  "decred": {
+   "text": "No news found in the last 30 days"
+  },
+  "kinesis-gold": {
+   "text": "No news found in the last 30 days"
+  },
+  "stable-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "flare-networks": {
+   "text": "No news found in the last 30 days"
+  },
+  "origin-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "ondo-magnificent-7-and-crypto-portfolio": {
+   "text": "No news found in the last 30 days"
+  },
+  "ovo-nft-platform": {
+   "text": "No news found in the last 30 days"
+  },
+  "umbra": {
+   "text": "No news found in the last 30 days"
+  },
+  "superfluid": {
+   "text": "No news found in the last 30 days"
+  },
+  "rss3": {
+   "text": "No news found in the last 30 days"
+  },
+  "revuto": {
+   "text": "No news found in the last 30 days"
+  },
+  "streamflow": {
+   "text": "No news found in the last 30 days"
+  },
+  "marblex": {
+   "text": "No news found in the last 30 days"
+  },
+  "gunz": {
+   "text": "No news found in the last 30 days"
+  },
+  "shuffle-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "compound-governance-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "nockchain": {
+   "text": "No news found in the last 30 days"
+  },
+  "story-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "ithaca-protocol": {
+   "text": "No news found in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "About a third of today's coins carry an AI tag (many are Bittensor subnet tokens). I found no current-week news; the latest I found was March 2026, when AI token value was falling and gains were concentrated in micro-caps. Thin subnet tokens are mostly noise, and I treat their volume spikes as speculation.",
+  "DeFi": "Around 14 coins are DeFi. I found no current-week news; recent coverage noted record exploit losses in April 2026 and later hacks (Wasabi, Drift), which keeps risk high for smaller lenders and DEXs.",
+  "Infrastructure": "About 25 coins are chains/oracles. No current-week news found; small chains with no new users stay out of favour."
+ },
+ "athMcap": {}
+}
