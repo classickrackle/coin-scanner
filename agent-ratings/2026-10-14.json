@@ -1,0 +1,551 @@
+{
+ "date": "2026-10-14",
+ "ratings": {
+  "walrus-2": "caution",
+  "origintrail": "caution",
+  "kamino": "caution",
+  "arkham": "caution",
+  "zano": "caution",
+  "dydx-chain": "caution",
+  "digibyte": "skip",
+  "vaulta": "caution",
+  "qtum": "skip",
+  "proton": "skip",
+  "cross-2": "caution",
+  "instadapp": "caution",
+  "flock-2": "caution",
+  "delysium": "caution",
+  "certik": "skip",
+  "benqi": "caution",
+  "bitlayer-bitvm": "caution",
+  "epic-chain": "caution",
+  "omega-labs": "skip",
+  "endurance": "skip",
+  "concierge-io": "caution",
+  "gains-network": "caution",
+  "stonkbroker": "skip",
+  "quantixai": "skip",
+  "choise": "skip",
+  "gt-protocol": "skip",
+  "kyo": "caution",
+  "neural3d": "caution",
+  "archai": "skip",
+  "fc-barcelona-fan-token": "caution",
+  "neartrade-lol": "skip",
+  "quickswap": "skip",
+  "vulcan-forged": "skip",
+  "eywa": "skip",
+  "radiant-capital": "skip",
+  "saros-finance": "skip",
+  "optimism": "caution",
+  "hash-2": "caution",
+  "grass": "caution",
+  "olympus": "caution",
+  "nexo": "skip",
+  "pi-network": "skip",
+  "arena-z": "skip",
+  "ondo-high-income-powered-by-blackrock": "caution",
+  "jurassic-finance": "skip",
+  "taoillium": "skip",
+  "reinforced-ai": "skip",
+  "karrat": "skip",
+  "centrifuge-2": "caution",
+  "aleo": "caution",
+  "zero-gravity": "caution",
+  "standard": "caution",
+  "humanode": "skip",
+  "osmosis": "caution",
+  "nimiq-2": "caution",
+  "safe-scan": "skip",
+  "aergo-2": "caution"
+ },
+ "conviction": {
+  "walrus-2": "low",
+  "origintrail": "low",
+  "kamino": "low",
+  "arkham": "low",
+  "zano": "low",
+  "dydx-chain": "low",
+  "vaulta": "low",
+  "cross-2": "low",
+  "instadapp": "low",
+  "flock-2": "low",
+  "delysium": "low",
+  "benqi": "low",
+  "bitlayer-bitvm": "low",
+  "epic-chain": "low",
+  "concierge-io": "low",
+  "gains-network": "low",
+  "kyo": "low",
+  "neural3d": "low",
+  "fc-barcelona-fan-token": "low",
+  "optimism": "low",
+  "hash-2": "low",
+  "grass": "low",
+  "olympus": "low",
+  "ondo-high-income-powered-by-blackrock": "low",
+  "centrifuge-2": "low",
+  "aleo": "low",
+  "zero-gravity": "low",
+  "standard": "low",
+  "osmosis": "low",
+  "nimiq-2": "low",
+  "aergo-2": "low"
+ },
+ "cases": {
+  "walrus-2": {
+   "upside": "Real Sui-based storage project (a16z-backed) with AI-data angle; no dated catalyst found.",
+   "cheap": "Market is pricing it after a +38% week; reason for the jump is unknown.",
+   "wrongIf": "Daily volume under $60M, or price gives back the whole week.",
+   "vsScanner": "Disagree: the \"new listing\" is old (Upbit/Bithumb listed it Mar 2025) and \"zombie\" looks like a data-source miss for an active project."
+  },
+  "origintrail": {
+   "upside": "Working supply-chain/AI-knowledge product; Upbit listing is real but dated May 2026, not new.",
+   "cheap": "Listing pop already happened five months ago.",
+   "wrongIf": "Volume falls back under $10M a day.",
+   "vsScanner": "Disagree: the listing badge is stale; no fresh catalyst."
+  },
+  "kamino": {
+   "upside": "Leading Solana lending protocol with real revenue; no dated catalyst found for the new listings.",
+   "cheap": "Most of the move needs new buyers; I found no reason it is mispriced.",
+   "wrongIf": "Listings do not lift daily volume above ~$30M.",
+   "vsScanner": "Agree with the scanner on quality; listings alone are not a catalyst."
+  },
+  "arkham": {
+   "upside": "Onchain-analytics product; new minor listings only (OrangeX, Bit2Me).",
+   "cheap": "Quiet for 33 days; little reason for new attention.",
+   "wrongIf": "Volume stays under $5M a day.",
+   "vsScanner": "Listings are minor; do not read it as a breakout."
+  },
+  "zano": {
+   "upside": "Privacy L1 with active development; no dated event found.",
+   "cheap": "Privacy sector out of favor; small liquidity.",
+   "wrongIf": "Daily volume under $1M.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "dydx-chain": {
+   "upside": "Perp DEX chain with real volume; no dated catalyst.",
+   "cheap": "Market has moved to rival perp venues.",
+   "wrongIf": "Fees/volume keep shrinking over the next quarter.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "vaulta": {
+   "upside": "Rebranded EOS chain; no verified catalyst.",
+   "cheap": "Rebrand has not drawn users.",
+   "wrongIf": "Volume under $3M a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "cross-2": {
+   "upside": "Gaming L1 on Binance Alpha; no dated catalyst found.",
+   "cheap": "Down 16% on the week with no news.",
+   "wrongIf": "Volume under $1M a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "instadapp": {
+   "upside": "Fluid is an active lending/DEX protocol with real usage; no dated catalyst.",
+   "cheap": "Up 27% on the week; reason not found.",
+   "wrongIf": "Weekly gains fully reverse.",
+   "vsScanner": "Disagree with \"zombie\": looks like a stale-account flag for an active product (not verified)."
+  },
+  "flock-2": {
+   "upside": "Decentralised AI-training network; Coinone listing is from Sep 2025, Bitrue unconfirmed.",
+   "cheap": "49% of tokens still locked; unlocks can weigh.",
+   "wrongIf": "Price loses the Coinone volume or an unlock hits.",
+   "vsScanner": "Disagree: \"new listing\" is old."
+  },
+  "delysium": {
+   "upside": "AI-agent project; 3.5x volume spike but no reason found.",
+   "cheap": "Down 99% from peak with little visible activity.",
+   "wrongIf": "Volume spike fades within the week.",
+   "vsScanner": "Status unknown; numbers look better than the story."
+  },
+  "benqi": {
+   "upside": "Avalanche lending/liquid-staking protocol; no catalyst found.",
+   "cheap": "Down 18% on the week.",
+   "wrongIf": "Daily volume under $2M.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "bitlayer-bitvm": {
+   "upside": "Bitcoin-layer chain; only 26% of tokens released, so big unlocks ahead.",
+   "cheap": "Unlock overhang is the likely reason.",
+   "wrongIf": "A large unlock is announced.",
+   "vsScanner": "Unlocks are the main risk; quiet for 34 days."
+  },
+  "epic-chain": {
+   "upside": "HTX listing is real per scanner but I could not verify the date or product.",
+   "cheap": "Volume ($20M) exceeds market cap, a warning sign.",
+   "wrongIf": "Volume drops under $3M.",
+   "vsScanner": "Numbers look hyped; story unverified."
+  },
+  "concierge-io": {
+   "upside": "Travala travel-booking token with a real product; no dated catalyst.",
+   "cheap": "Volume ($40M) is more than twice market cap, unexplained.",
+   "wrongIf": "Volume drops back under $3M.",
+   "vsScanner": "Disagree with \"zombie\" (119 days): travel business is operating, but I could not confirm token news."
+  },
+  "gains-network": {
+   "upside": "Established perp DEX on Arbitrum/Polygon with real fees; no dated catalyst.",
+   "cheap": "Up 65% on the week; cause not found.",
+   "wrongIf": "Weekly gain reverses fully.",
+   "vsScanner": "Disagree with \"zombie\": likely a stale-account flag for an active product (unverified)."
+  },
+  "kyo": {
+   "upside": "Soneium-based DEX; +73% on the week, cause not found.",
+   "cheap": "Recent spike; reason unknown.",
+   "wrongIf": "Gain reverses within days.",
+   "vsScanner": "Cannot verify the story behind the spike."
+  },
+  "neural3d": {
+   "upside": "Bittensor subnet; subnet tokens rely on emissions rather than users.",
+   "cheap": "Unclear demand.",
+   "wrongIf": "Subnet loses emissions rank.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "fc-barcelona-fan-token": {
+   "upside": "Fan token with a 3.3x volume spike; no match or club event confirmed.",
+   "cheap": "Fan tokens spike around match news then fade.",
+   "wrongIf": "Volume returns under $1M a day.",
+   "vsScanner": "Spike is probably event noise."
+  },
+  "optimism": {
+   "upside": "Major Ethereum L2 with real activity; Bithumb/Foxbit/Indodax listings are minor and I found no dated event.",
+   "cheap": "Up 25% on the week; token supply keeps unlocking.",
+   "wrongIf": "Weekly gain reverses fully.",
+   "vsScanner": "Disagree: the new-listing badge is weak; big caps get small-exchange listings often."
+  },
+  "hash-2": {
+   "upside": "Provenance is a real RWA/finance chain; volume is only $40K a day on $439M cap, so price is thin.",
+   "cheap": "Almost nobody trades it, so the cap is not reliable.",
+   "wrongIf": "Volume stays under $100K a day.",
+   "vsScanner": "Cap looks inflated by thin trading."
+  },
+  "grass": {
+   "upside": "Real DePIN/AI-data network; Bybit EU and Bit2Me listings are minor.",
+   "cheap": "No dated catalyst found.",
+   "wrongIf": "Volume falls under $10M a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "olympus": {
+   "upside": "Long-running DeFi treasury project; volume only $163K a day on $298M cap.",
+   "cheap": "Thin trading; cap not reliable.",
+   "wrongIf": "Volume stays under $300K a day.",
+   "vsScanner": "Cap looks too high for its liquidity."
+  },
+  "ondo-high-income-powered-by-blackrock": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Reason unknown.",
+   "wrongIf": "Volume fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "centrifuge-2": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Reason unknown.",
+   "wrongIf": "Volume fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "aleo": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Reason unknown.",
+   "wrongIf": "Volume fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "zero-gravity": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Reason unknown.",
+   "wrongIf": "Volume fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "standard": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Reason unknown.",
+   "wrongIf": "Volume fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "osmosis": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Reason unknown.",
+   "wrongIf": "Volume fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "nimiq-2": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Reason unknown.",
+   "wrongIf": "Volume fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "aergo-2": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Reason unknown.",
+   "wrongIf": "Volume fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No dated, verified catalyst found for any coin; the scanner's listing badges were mostly old events (Walrus Mar 2025, OriginTrail May 2026, FLOCK Sep 2025).",
+ "athCheck": {
+  "walrus-2": "stretch",
+  "origintrail": "stretch",
+  "kamino": "stretch",
+  "arkham": "unlikely",
+  "zano": "stretch",
+  "dydx-chain": "unlikely",
+  "digibyte": "unlikely",
+  "vaulta": "stretch",
+  "qtum": "unlikely",
+  "proton": "unlikely",
+  "cross-2": "stretch",
+  "instadapp": "stretch",
+  "flock-2": "stretch",
+  "delysium": "unlikely",
+  "certik": "unlikely",
+  "benqi": "unlikely",
+  "bitlayer-bitvm": "stretch",
+  "epic-chain": "stretch",
+  "omega-labs": "unlikely",
+  "endurance": "unlikely",
+  "concierge-io": "unlikely",
+  "gains-network": "stretch",
+  "stonkbroker": "unlikely",
+  "quantixai": "unlikely",
+  "choise": "unlikely",
+  "gt-protocol": "unlikely",
+  "kyo": "stretch",
+  "neural3d": "stretch",
+  "archai": "unlikely",
+  "fc-barcelona-fan-token": "unlikely",
+  "neartrade-lol": "unlikely",
+  "quickswap": "unlikely",
+  "vulcan-forged": "unlikely",
+  "eywa": "unlikely",
+  "radiant-capital": "unlikely",
+  "saros-finance": "unlikely",
+  "optimism": "unlikely",
+  "hash-2": "stretch",
+  "grass": "stretch",
+  "olympus": "unlikely",
+  "nexo": "unlikely",
+  "pi-network": "unlikely"
+ },
+ "lifeCheck": {
+  "walrus-2": "alive",
+  "origintrail": "alive",
+  "kamino": "alive",
+  "arkham": "quiet",
+  "zano": "alive",
+  "dydx-chain": "alive",
+  "digibyte": "quiet",
+  "vaulta": "alive",
+  "qtum": "alive",
+  "proton": "alive",
+  "cross-2": "alive",
+  "instadapp": "alive",
+  "flock-2": "alive",
+  "delysium": "unknown",
+  "certik": "quiet",
+  "benqi": "unknown",
+  "bitlayer-bitvm": "quiet",
+  "epic-chain": "unknown",
+  "omega-labs": "zombie",
+  "endurance": "unknown",
+  "concierge-io": "quiet",
+  "gains-network": "alive",
+  "stonkbroker": "unknown",
+  "quantixai": "alive",
+  "choise": "unknown",
+  "gt-protocol": "unknown",
+  "kyo": "unknown",
+  "neural3d": "unknown",
+  "archai": "unknown",
+  "fc-barcelona-fan-token": "unknown",
+  "neartrade-lol": "unknown",
+  "quickswap": "zombie",
+  "vulcan-forged": "zombie",
+  "eywa": "zombie",
+  "radiant-capital": "zombie",
+  "saros-finance": "zombie",
+  "optimism": "alive",
+  "hash-2": "alive",
+  "grass": "alive",
+  "olympus": "alive",
+  "nexo": "zombie",
+  "pi-network": "zombie"
+ },
+ "news": {
+  "walrus-2": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "origintrail": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "kamino": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "arkham": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "zano": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "dydx-chain": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "digibyte": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "vaulta": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "qtum": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "proton": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "cross-2": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "instadapp": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "flock-2": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "delysium": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "certik": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "benqi": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "bitlayer-bitvm": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "epic-chain": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "omega-labs": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "endurance": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "concierge-io": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "gains-network": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "stonkbroker": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "quantixai": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "choise": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "gt-protocol": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "kyo": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "neural3d": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "archai": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "fc-barcelona-fan-token": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "neartrade-lol": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "quickswap": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "vulcan-forged": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "eywa": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "radiant-capital": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "saros-finance": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "optimism": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "hash-2": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "grass": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "olympus": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "nexo": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "pi-network": {
+   "text": "No news in the last 30 days that I could verify"
+  },
+  "arena-z": {
+   "text": "No news found"
+  },
+  "ondo-high-income-powered-by-blackrock": {
+   "text": "No news found"
+  },
+  "jurassic-finance": {
+   "text": "No news found"
+  },
+  "taoillium": {
+   "text": "No news found"
+  },
+  "reinforced-ai": {
+   "text": "No news found"
+  },
+  "karrat": {
+   "text": "No news found"
+  },
+  "centrifuge-2": {
+   "text": "No news found"
+  },
+  "aleo": {
+   "text": "No news found"
+  },
+  "zero-gravity": {
+   "text": "No news found"
+  },
+  "standard": {
+   "text": "No news found"
+  },
+  "humanode": {
+   "text": "No news found"
+  },
+  "osmosis": {
+   "text": "No news found"
+  },
+  "nimiq-2": {
+   "text": "No news found"
+  },
+  "safe-scan": {
+   "text": "No news found"
+  },
+  "aergo-2": {
+   "text": "No news found"
+  }
+ },
+ "sectorNews": {
+  "AI": "Searches returned no current coverage; I cannot confirm this week's AI-token news. Today's AI names (Walrus, FLOCK, Delysium, OriginTrail, Arkham, Grass and subnet tokens) have no verified dated catalyst, so treat sector heat as unconfirmed.",
+  "DeFi": "Searches returned no dated DeFi coverage for this week. Perp DEXs and Solana lending have been the active areas earlier this year (Hyperliquid, Jupiter Lend), but for small coins here (Kamino, dYdX, Gains, BENQI, Kyo, Fluid, Quickswap) I found nothing confirming new money."
+ },
+ "athMcap": {}
+}
