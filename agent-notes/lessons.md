@@ -6,3 +6,6 @@
 - 2026-10-13: Scanner 'new listing' badges can be old (BAT already trades on Upbit/Bithumb). Confirm the listing date before treating it as a catalyst.
 - 2026-10-14: Scanner "new listing" badges were old events for Walrus (Mar 2025), OriginTrail (May 2026), FLOCK (Coinone Sep 2025), Grass (Bybit Oct 2024). 4 of 4 checked were stale; verify the date before using a listing as a catalyst.
 - 2026-10-14: Centrifuge was rated worth a look on an exchange-listing story, then dropped off Upbit/Bithumb. Listing-based catalysts can reverse; re-check them every few days.
+- 2026-10-15: Of 12 coins I rated worth a look on 2026-10-08, 9 are down since first pick (average about -8%, best Celestia +10.7%, worst Arweave -22.5%); most were big-name tokens with ongoing unlocks that fell with the market. A known name or sector story is not a catalyst; do not rate worth a look without a dated event.
+- 2026-10-15: Scanner listing badges were stale again for Berachain (Feb 2025), Axelar (Jun 2025), Nillion (Mar 2025), Falcon (Sep 2025) and WalletConnect (Kraken 2025). Treat any "new exchange listing" badge as old until an announcement dated within 30 days is found.
+

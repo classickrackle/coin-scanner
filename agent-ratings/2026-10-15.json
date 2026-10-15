@@ -1,0 +1,621 @@
+{
+ "date": "2026-10-15",
+ "ratings": {
+  "melon": "caution",
+  "w-ai-parked": "caution",
+  "bifrost": "caution",
+  "acurast": "caution",
+  "axelar": "caution",
+  "de-fi": "skip",
+  "berachain-bera": "caution",
+  "matrixdock-gold": "skip",
+  "readyai": "caution",
+  "zklink": "skip",
+  "fetch-ai": "caution",
+  "stepn": "skip",
+  "macropod": "skip",
+  "fogo": "caution",
+  "spacehood": "skip",
+  "frankencoin": "caution",
+  "avalon-2": "caution",
+  "connect-token-wct": "caution",
+  "deep": "caution",
+  "orbofi-ai": "skip",
+  "dent": "skip",
+  "virtual-protocol": "caution",
+  "auction": "caution",
+  "sophon": "caution",
+  "firmachain": "caution",
+  "dymension": "skip",
+  "nillion": "caution",
+  "storj": "caution",
+  "eigenlayer": "caution",
+  "falcon-finance-ff": "caution",
+  "sei-network": "caution",
+  "portugal-national-team-fan-token": "skip",
+  "zignaly": "caution",
+  "io": "skip",
+  "airswap": "skip",
+  "four": "caution",
+  "enjincoin": "skip",
+  "algorand": "caution",
+  "rif-token": "skip",
+  "unipoly": "skip",
+  "zencash": "caution",
+  "polygon-ecosystem-token": "caution",
+  "jupiter-exchange-solana": "caution",
+  "kucoin-shares": "skip",
+  "kaspa": "caution",
+  "ithaca-protocol": "skip",
+  "uxlink": "skip",
+  "tevaera": "skip",
+  "sweatcoin": "skip",
+  "gaia-2": "skip",
+  "404-gen": "caution",
+  "syrup": "caution",
+  "arweave": "caution",
+  "jito-governance-token": "caution",
+  "puffer-finance": "caution",
+  "starknet": "caution",
+  "talus": "caution",
+  "orbio-so": "caution",
+  "choise": "skip",
+  "lighter": "caution"
+ },
+ "conviction": {
+  "melon": "low",
+  "w-ai-parked": "low",
+  "bifrost": "low",
+  "acurast": "low",
+  "axelar": "low",
+  "berachain-bera": "low",
+  "readyai": "low",
+  "fetch-ai": "low",
+  "fogo": "low",
+  "frankencoin": "low",
+  "avalon-2": "low",
+  "connect-token-wct": "low",
+  "deep": "low",
+  "virtual-protocol": "low",
+  "auction": "low",
+  "sophon": "low",
+  "firmachain": "low",
+  "nillion": "medium",
+  "storj": "low",
+  "eigenlayer": "low",
+  "falcon-finance-ff": "low",
+  "sei-network": "low",
+  "zignaly": "low",
+  "four": "low",
+  "algorand": "low",
+  "zencash": "low",
+  "polygon-ecosystem-token": "low",
+  "jupiter-exchange-solana": "low",
+  "kaspa": "low",
+  "404-gen": "low",
+  "syrup": "low",
+  "arweave": "low",
+  "jito-governance-token": "low",
+  "puffer-finance": "low",
+  "starknet": "low",
+  "talus": "low",
+  "orbio-so": "low",
+  "lighter": "low"
+ },
+ "cases": {
+  "melon": {
+   "upside": "Possible renewed interest in on-chain asset management; no dated event found.",
+   "cheap": "Tiny, thinly followed, and the project has been quiet for years; 12x volume spike on a +17% day looks like a one-off.",
+   "wrongIf": "Daily trading falls back under about $100K, or the +15% week fully reverses.",
+   "vsScanner": "Scanner's 'cheap vs RWA peers' is a size comparison, not a reason; the story is thin."
+  },
+  "w-ai-parked": {
+   "upside": "Bittensor subnet revenue/buyback trend could lift subnet tokens, but nothing dated for this one.",
+   "cheap": "Small subnet token the market mostly ignores; unclear it has paying users.",
+   "wrongIf": "Subnet token keeps losing share of emissions or trading dries up under $500K a day.",
+   "vsScanner": "Code pushed yesterday is a good sign, but I found no news; agree with caution."
+  },
+  "bifrost": {
+   "upside": "Liquid-staking demand; nothing dated found.",
+   "cheap": "Old 2021 name with unclear current traction; I could not confirm what drives the +15.6% week.",
+   "wrongIf": "The +15.6% week reverses and volume falls under $5M a day.",
+   "vsScanner": "Volume is high for its size ($25.8M on $41M) but I couldn't explain it; unknown means caution."
+  },
+  "acurast": {
+   "upside": "DePIN/AI compute narrative; was on Binance Alpha. No dated unlock end or launch found.",
+   "cheap": "Down 20% this week and only 40% of supply is out, so future unlocks weigh on the price.",
+   "wrongIf": "A large unlock lands, or price breaks the week's low with volume under $5M.",
+   "vsScanner": "Scanner flags the unlock risk; I agree it's a real concern."
+  },
+  "axelar": {
+   "upside": "A Korean exchange (Upbit) listing could add trading, but the Upbit AXL listing I can verify is June 2025, not new.",
+   "cheap": "Cross-chain plumbing has been out of favour; ATH was 50x higher.",
+   "wrongIf": "Volume spike (5.6x normal) fades within a week with no new listing news.",
+   "vsScanner": "Scanner's 'new listing' badge looks stale; I couldn't confirm anything new."
+  },
+  "berachain-bera": {
+   "upside": "Possible fresh Korean exchange access, but Upbit/Bithumb BERA debuted Feb 2025, so the badge looks old.",
+   "cheap": "Fell about 98% from its Feb 2025 peak after launch hype and heavy emissions.",
+   "wrongIf": "Price makes new lows while trading spike (4.5x) fades.",
+   "vsScanner": "Scanner's listing signal looks stale; agree numbers look alive but the story is old."
+  },
+  "readyai": {
+   "upside": "Bittensor subnet 33; a subnet buyback or revenue story could help, none dated.",
+   "cheap": "Down 19% this week; last code push 21 days ago.",
+   "wrongIf": "Volume stays under $300K a day, or price drops below this week's low.",
+   "vsScanner": "Volume spike alone isn't a reason; agree with caution."
+  },
+  "fetch-ai": {
+   "upside": "AI Alliance token; a listing on Bitkub/Mudrex is minor. No large dated catalyst found.",
+   "cheap": "Down 15% this week; AI tokens sold off, and it's a merged token with a large supply.",
+   "wrongIf": "Price falls below this week's low, or AI sector keeps bleeding.",
+   "vsScanner": "Scanner's listing badge is minor exchanges; underwhelming. Mostly agree."
+  },
+  "fogo": {
+   "upside": "New 2026 chain; no dated catalyst found and no code push for 113 days.",
+   "cheap": "Down 16% this week; likely early-hype unwind.",
+   "wrongIf": "Still no code or announcements by mid-November.",
+   "vsScanner": "Scanner marks it zombie; I can't check X, but I'd not call it healthy."
+  },
+  "frankencoin": {
+   "upside": "Decentralised stablecoin; governance token benefits from stablecoin usage but no dated catalyst.",
+   "cheap": "Small and little followed; price barely moves.",
+   "wrongIf": "Stablecoin supply keeps shrinking.",
+   "vsScanner": "Agree; steady but no catalyst."
+  },
+  "avalon-2": {
+   "upside": "BTC lending on Binance Alpha; no dated event found.",
+   "cheap": "Quiet 57 days, and 45% of tokens still to come.",
+   "wrongIf": "Another quiet month with no team posts.",
+   "vsScanner": "Agree with quiet."
+  },
+  "connect-token-wct": {
+   "upside": "WalletConnect is real infrastructure used by many wallets; Kraken/Gemini access mentioned but I couldn't date it as new (it listed on Kraken in 2025).",
+   "cheap": "Only 47% of supply is out and the price is 97% below its peak.",
+   "wrongIf": "Volume spike (3.7x) fades and unlocks add selling pressure.",
+   "vsScanner": "Real product, but the listing badge isn't verified new; agree with caution."
+  },
+  "deep": {
+   "upside": "DeepBook is a core Sui trading layer; growth depends on Sui activity.",
+   "cheap": "Only 25% of tokens out; future unlocks cap upside.",
+   "wrongIf": "Sui trading volume falls or large unlock hits.",
+   "vsScanner": "Agree; the unlock overhang is the main problem."
+  },
+  "virtual-protocol": {
+   "upside": "AI agent platform with a real product; Bilaxy/BingX listings are minor.",
+   "cheap": "Down 15% this week; agent hype faded from its Jan 2025 peak.",
+   "wrongIf": "Price loses the recent low and AI agent activity keeps dropping.",
+   "vsScanner": "Scanner's listing badge is small exchanges; agree caution."
+  },
+  "auction": {
+   "upside": "Old launchpad token; no dated catalyst found.",
+   "cheap": "Quiet and little followed; ATH 21x away.",
+   "wrongIf": "Volume under $1M a day.",
+   "vsScanner": "Agree with the scanner that it's just cheap-looking."
+  },
+  "sophon": {
+   "upside": "Layer 2 with Binance airdrop history; no dated catalyst found.",
+   "cheap": "Down 30% this week and half the supply still locked.",
+   "wrongIf": "Next unlock arrives with price still falling.",
+   "vsScanner": "Scanner shows alive; the unlock overhang is my main concern."
+  },
+  "firmachain": {
+   "upside": "Document-signing blockchain; no news found.",
+   "cheap": "Sits at 1% of its peak and little followed.",
+   "wrongIf": "No updates for another month.",
+   "vsScanner": "Agree."
+  },
+  "nillion": {
+   "upside": "Privacy-compute project with a real network; Bithumb/Bitvavo listings exist but the listings I can date are 2025, so not a fresh catalyst.",
+   "cheap": "Down about 90% from its Mar 2025 high; trading is large ($57M on $43M) so interest is real.",
+   "wrongIf": "Daily trading drops under $15M or no product usage news by December.",
+   "vsScanner": "Scanner's new-listing badge looks old; I'd not treat it as a catalyst."
+  },
+  "storj": {
+   "upside": "Decentralised storage with real customers; nothing dated.",
+   "cheap": "Overlooked, 138x from the high; old sector.",
+   "wrongIf": "Volume under $2M a day.",
+   "vsScanner": "Agree."
+  },
+  "eigenlayer": {
+   "upside": "Nebius agreed to buy Eigen AI for about $643M (reported May 1, 2026), a real validation, but the token isn't the company bought.",
+   "cheap": "About 4% of supply unlocks monthly for investors, a steady overhang.",
+   "wrongIf": "Another monthly unlock and price still below $0.20.",
+   "vsScanner": "Real project; scanner ignores unlock drag. Caution."
+  },
+  "falcon-finance-ff": {
+   "upside": "Synthetic dollar project; Upbit listing I couldn't find, Bithumb pair has little volume. Real listings were Sep 2025.",
+   "cheap": "Only 33% of tokens out and 86% below the high.",
+   "wrongIf": "Price slides while unlocks continue.",
+   "vsScanner": "The 'new listing' badge isn't confirmed; disagree with the signal."
+  },
+  "sei-network": {
+   "upside": "Layer 1 with active development; no new catalyst found for Upbit/Bithumb.",
+   "cheap": "Down 14% this week; 95% off the peak.",
+   "wrongIf": "Price below this week's low, volume under $30M.",
+   "vsScanner": "Listing badge unconfirmed; agree caution."
+  },
+  "zignaly": {
+   "upside": "Copy-trading product; volume is tiny for the value ($2M on $78M).",
+   "cheap": "Thin trading means the price is not really discovered.",
+   "wrongIf": "Volume stays under 3% of market cap.",
+   "vsScanner": "Scanner calls it cheap; I see an illiquid price. Disagree."
+  },
+  "four": {
+   "upside": "Launchpad token; no dated catalyst found.",
+   "cheap": "Down 9% this week; 94% off its Sep 2025 high.",
+   "wrongIf": "Volume under $2M a day.",
+   "vsScanner": "Agree."
+  },
+  "algorand": {
+   "upside": "Large old L1, RWA angle; no dated catalyst found.",
+   "cheap": "Down 15% this week; 33x from its 2019 high.",
+   "wrongIf": "Price keeps falling with the market.",
+   "vsScanner": "Agree with caution."
+  },
+  "zencash": {
+   "upside": "Privacy/ZK chain; nothing dated found.",
+   "cheap": "Down 14% this week, 29x from the 2021 high.",
+   "wrongIf": "Volume below $5M a day.",
+   "vsScanner": "Agree."
+  },
+  "polygon-ecosystem-token": {
+   "upside": "Large L2 ecosystem token; no dated catalyst.",
+   "cheap": "Down 8% this week; ATH 14x away.",
+   "wrongIf": "Falls below recent low.",
+   "vsScanner": "Agree."
+  },
+  "jupiter-exchange-solana": {
+   "upside": "Leading Solana trading app; real revenue. No dated catalyst found.",
+   "cheap": "Down 20% this week, and only 48% of supply is out.",
+   "wrongIf": "Next unlock or price below this week's low.",
+   "vsScanner": "Agree."
+  },
+  "kaspa": {
+   "upside": "Large proof-of-work coin; scanner says no code for 132 days, but I can't check X.",
+   "cheap": "Down 10% this week.",
+   "wrongIf": "Price below recent low with no updates.",
+   "vsScanner": "Scanner says zombie; I'd say quiet, and unverified."
+  },
+  "404-gen": {
+   "upside": "None identified.",
+   "cheap": "-26%; score fell from 56 to 19 and it now fails the trading filter (was caution).",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner's note."
+  },
+  "syrup": {
+   "upside": "None identified.",
+   "cheap": "-20% since pick; slid from Large to Mid. Was worth a look; no verified catalyst, so downgraded.",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner's note."
+  },
+  "arweave": {
+   "upside": "None identified.",
+   "cheap": "-22.5% since pick; moved Large to Mid. Was worth a look; case unproven, downgraded.",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner's note."
+  },
+  "jito-governance-token": {
+   "upside": "None identified.",
+   "cheap": "-18.8%; moved Large to Mid. Was worth a look; downgraded, no catalyst found.",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner's note."
+  },
+  "puffer-finance": {
+   "upside": "None identified.",
+   "cheap": "+95% in a day with trading 4.7x normal; I found no reason, so chasing a spike is not an idea.",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner's note."
+  },
+  "starknet": {
+   "upside": "None identified.",
+   "cheap": "+76% this week; no verified reason, move already happened.",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner's note."
+  },
+  "talus": {
+   "upside": "None identified.",
+   "cheap": "-76% since pick, -55% this week; the case is broken if there was one. Close to skip.",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner's note."
+  },
+  "orbio-so": {
+   "upside": "None identified.",
+   "cheap": "-75% since pick, -54% this week; no recovery signs.",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner's note."
+  },
+  "lighter": {
+   "upside": "None identified.",
+   "cheap": "-12%; now fails a safety filter because big unlocks are coming.",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner's note."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No top picks today: I found no confirmed, dated catalyst for any coin, and the scanner's new-listing badges for Berachain, Axelar, Nillion, Falcon, WalletConnect turned out to be old or unconfirmed.",
+ "athCheck": {
+  "melon": "unlikely",
+  "w-ai-parked": "stretch",
+  "bifrost": "unlikely",
+  "acurast": "stretch",
+  "axelar": "unlikely",
+  "de-fi": "unlikely",
+  "berachain-bera": "unlikely",
+  "matrixdock-gold": "realistic",
+  "readyai": "unlikely",
+  "zklink": "unlikely",
+  "fetch-ai": "unlikely",
+  "stepn": "unlikely",
+  "macropod": "realistic",
+  "fogo": "stretch",
+  "spacehood": "stretch",
+  "frankencoin": "realistic",
+  "avalon-2": "unlikely",
+  "connect-token-wct": "unlikely",
+  "deep": "unlikely",
+  "orbofi-ai": "unlikely",
+  "dent": "unlikely",
+  "virtual-protocol": "stretch",
+  "auction": "unlikely",
+  "sophon": "unlikely",
+  "firmachain": "unlikely",
+  "dymension": "unlikely",
+  "nillion": "stretch",
+  "storj": "unlikely",
+  "eigenlayer": "unlikely",
+  "falcon-finance-ff": "stretch",
+  "sei-network": "unlikely",
+  "portugal-national-team-fan-token": "unlikely",
+  "zignaly": "stretch",
+  "io": "unlikely",
+  "airswap": "unlikely",
+  "four": "unlikely",
+  "enjincoin": "unlikely",
+  "algorand": "unlikely",
+  "rif-token": "unlikely",
+  "unipoly": "stretch",
+  "zencash": "unlikely",
+  "polygon-ecosystem-token": "unlikely",
+  "jupiter-exchange-solana": "stretch",
+  "kucoin-shares": "unlikely",
+  "kaspa": "unlikely"
+ },
+ "lifeCheck": {
+  "melon": "alive",
+  "w-ai-parked": "alive",
+  "bifrost": "unknown",
+  "acurast": "alive",
+  "axelar": "alive",
+  "de-fi": "alive",
+  "berachain-bera": "unknown",
+  "matrixdock-gold": "unknown",
+  "readyai": "alive",
+  "zklink": "alive",
+  "fetch-ai": "alive",
+  "stepn": "unknown",
+  "macropod": "unknown",
+  "fogo": "zombie",
+  "spacehood": "unknown",
+  "frankencoin": "alive",
+  "avalon-2": "quiet",
+  "connect-token-wct": "alive",
+  "deep": "alive",
+  "orbofi-ai": "unknown",
+  "dent": "unknown",
+  "virtual-protocol": "alive",
+  "auction": "unknown",
+  "sophon": "alive",
+  "firmachain": "alive",
+  "dymension": "unknown",
+  "nillion": "alive",
+  "storj": "alive",
+  "eigenlayer": "unknown",
+  "falcon-finance-ff": "alive",
+  "sei-network": "alive",
+  "portugal-national-team-fan-token": "unknown",
+  "zignaly": "unknown",
+  "io": "zombie",
+  "airswap": "zombie",
+  "four": "unknown",
+  "enjincoin": "zombie",
+  "algorand": "alive",
+  "rif-token": "zombie",
+  "unipoly": "unknown",
+  "zencash": "alive",
+  "polygon-ecosystem-token": "alive",
+  "jupiter-exchange-solana": "alive",
+  "kucoin-shares": "unknown",
+  "kaspa": "quiet"
+ },
+ "news": {
+  "melon": {
+   "text": "No news found in the last 30 days"
+  },
+  "w-ai-parked": {
+   "text": "No news found in the last 30 days"
+  },
+  "bifrost": {
+   "text": "No news found in the last 30 days"
+  },
+  "acurast": {
+   "text": "No news found in the last 30 days"
+  },
+  "axelar": {
+   "text": "Upbit AXL listing was June 2025 (stale), nothing newer found"
+  },
+  "de-fi": {
+   "text": "No news found in the last 30 days"
+  },
+  "berachain-bera": {
+   "text": "Upbit/Bithumb BERA listing Feb 2025 (stale)"
+  },
+  "matrixdock-gold": {
+   "text": "No news found in the last 30 days"
+  },
+  "readyai": {
+   "text": "No news found in the last 30 days"
+  },
+  "zklink": {
+   "text": "No news found in the last 30 days"
+  },
+  "fetch-ai": {
+   "text": "No news found in the last 30 days"
+  },
+  "stepn": {
+   "text": "No news found in the last 30 days"
+  },
+  "macropod": {
+   "text": "No news found in the last 30 days"
+  },
+  "fogo": {
+   "text": "No news found in the last 30 days"
+  },
+  "spacehood": {
+   "text": "No news found in the last 30 days"
+  },
+  "frankencoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "avalon-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "connect-token-wct": {
+   "text": "Kraken/Gemini listing could not be dated as new"
+  },
+  "deep": {
+   "text": "No news found in the last 30 days"
+  },
+  "orbofi-ai": {
+   "text": "No news found in the last 30 days"
+  },
+  "dent": {
+   "text": "No news found in the last 30 days"
+  },
+  "virtual-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "auction": {
+   "text": "No news found in the last 30 days"
+  },
+  "sophon": {
+   "text": "No news found in the last 30 days"
+  },
+  "firmachain": {
+   "text": "No news found in the last 30 days"
+  },
+  "dymension": {
+   "text": "No news found in the last 30 days"
+  },
+  "nillion": {
+   "text": "KuCoin listing March 2025; Bithumb/Bitvavo undated"
+  },
+  "storj": {
+   "text": "No news found in the last 30 days"
+  },
+  "eigenlayer": {
+   "text": "Nebius to buy Eigen AI for ~$643M, May 2026"
+  },
+  "falcon-finance-ff": {
+   "text": "No news found in the last 30 days"
+  },
+  "sei-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "portugal-national-team-fan-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "zignaly": {
+   "text": "No news found in the last 30 days"
+  },
+  "io": {
+   "text": "No news found in the last 30 days"
+  },
+  "airswap": {
+   "text": "No news found in the last 30 days"
+  },
+  "four": {
+   "text": "No news found in the last 30 days"
+  },
+  "enjincoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "algorand": {
+   "text": "No news found in the last 30 days"
+  },
+  "rif-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "unipoly": {
+   "text": "No news found in the last 30 days"
+  },
+  "zencash": {
+   "text": "No news found in the last 30 days"
+  },
+  "polygon-ecosystem-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "jupiter-exchange-solana": {
+   "text": "No news found in the last 30 days"
+  },
+  "kucoin-shares": {
+   "text": "No news found in the last 30 days"
+  },
+  "kaspa": {
+   "text": "No news found in the last 30 days"
+  },
+  "ithaca-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "uxlink": {
+   "text": "No news found in the last 30 days"
+  },
+  "tevaera": {
+   "text": "No news found in the last 30 days"
+  },
+  "sweatcoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "gaia-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "404-gen": {
+   "text": "No news found in the last 30 days"
+  },
+  "syrup": {
+   "text": "No news found in the last 30 days"
+  },
+  "arweave": {
+   "text": "No news found in the last 30 days"
+  },
+  "jito-governance-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "puffer-finance": {
+   "text": "No news found in the last 30 days"
+  },
+  "starknet": {
+   "text": "No news found in the last 30 days"
+  },
+  "talus": {
+   "text": "No news found in the last 30 days"
+  },
+  "orbio-so": {
+   "text": "No news found in the last 30 days"
+  },
+  "choise": {
+   "text": "No news found in the last 30 days"
+  },
+  "lighter": {
+   "text": "No news found in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "Bittensor subnets are the main AI small-cap story: reports say about 14 subnets run buybacks and Covenant, a major AI lab, left the network in April 2026. Most AI coins on today's list (10) are down on the week, so the sector is not helping small coins right now.",
+  "DeFi": "Nothing fresh found for this week. Many DeFi coins here (Jupiter, Falcon, Frankencoin, Bifrost) are flat to down; unlock overhangs matter more than sector news.",
+  "Gaming": "No fresh sector news found. All four gaming coins on the list are down on the week and two (Enjin, Unipoly) look dead or untradeable.",
+  "RWA": "No fresh sector news found. Tokenized gold (Matrixdock) just follows gold; Enzyme and Algorand are not showing new RWA activity.",
+  "Infrastructure": "No fresh sector news found. EigenCloud's reported $643M Nebius deal (May 2026) is positive for the project but not new.",
+  "DePIN": "No fresh sector news found; the three DePIN coins (Acurast, Dent, Storj) are weak or old."
+ }
+}
