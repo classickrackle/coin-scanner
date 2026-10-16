@@ -1,0 +1,551 @@
+{
+ "date": "2026-10-16",
+ "ratings": {
+  "injective-protocol": "caution",
+  "forta": "caution",
+  "celestia": "caution",
+  "xpla": "skip",
+  "b3": "caution",
+  "poker44": "skip",
+  "solv-protocol": "caution",
+  "ready": "skip",
+  "nexpace": "caution",
+  "boar": "caution",
+  "livepeer": "caution",
+  "projectvex": "skip",
+  "xels": "skip",
+  "manta-network": "caution",
+  "streetvision-by-natix": "skip",
+  "musebook": "skip",
+  "piggycell": "skip",
+  "for-sale": "skip",
+  "nexst": "caution",
+  "stratis": "skip",
+  "bem-2": "caution",
+  "katana-network-token": "caution",
+  "atlas-navi": "skip",
+  "tenset": "skip",
+  "nineteen-ai": "caution",
+  "ai-factory": "caution",
+  "targon": "caution",
+  "gala": "caution",
+  "keeta": "caution",
+  "ronin": "caution",
+  "marlin": "skip",
+  "zilliqa": "skip",
+  "lcx": "caution",
+  "lido-dao": "caution",
+  "celium": "caution",
+  "gas": "caution",
+  "kava": "skip",
+  "anvil": "caution",
+  "diem": "caution",
+  "vericore": "skip",
+  "lympid": "skip",
+  "aergo-2": "caution",
+  "vana": "caution",
+  "lumiwave-protocol": "skip",
+  "storb": "caution",
+  "render-token": "caution",
+  "top-network": "skip",
+  "liveart": "caution",
+  "aleo": "caution",
+  "priors-agent": "caution",
+  "dusk-network": "caution",
+  "impossible-cloud-network-token": "skip",
+  "firmachain": "caution",
+  "acurast": "caution"
+ },
+ "conviction": {
+  "injective-protocol": "low",
+  "forta": "low",
+  "celestia": "low",
+  "b3": "low",
+  "solv-protocol": "low",
+  "nexpace": "low",
+  "boar": "low",
+  "livepeer": "low",
+  "manta-network": "low",
+  "nexst": "low",
+  "bem-2": "low",
+  "katana-network-token": "low",
+  "nineteen-ai": "low",
+  "ai-factory": "low",
+  "targon": "low",
+  "gala": "low",
+  "keeta": "low",
+  "ronin": "low",
+  "lcx": "low",
+  "lido-dao": "low",
+  "celium": "low",
+  "gas": "low",
+  "anvil": "low",
+  "diem": "low",
+  "aergo-2": "low",
+  "vana": "low",
+  "storb": "low",
+  "render-token": "low",
+  "liveart": "low",
+  "aleo": "low",
+  "priors-agent": "low",
+  "dusk-network": "low",
+  "firmachain": "low",
+  "acurast": "low"
+ },
+ "cases": {
+  "injective-protocol": {
+   "upside": "No dated catalyst verified; new exchange listing (Bithumb, Gemini, Icrypex); score up 39 since first picked (35 \u2192 74) is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "forta": {
+   "upside": "No dated catalyst verified; trading spike (14.3x normal) is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "celestia": {
+   "upside": "No dated catalyst verified; new exchange listing (Upbit, Bithumb, Indodax); score up 25 since first picked (41 \u2192 66) is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "b3": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "solv-protocol": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "nexpace": {
+   "upside": "No dated catalyst verified; new exchange listing (HTX, Crypto.com Exchange, Bitkub); trading spike (8.9x normal); score up 24 since first picked (31 \u2192 55) is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "boar": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "livepeer": {
+   "upside": "No dated catalyst verified; new exchange listing (Bitbank, Indodax, Foxbit) is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "manta-network": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "nexst": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "bem-2": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "katana-network-token": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "nineteen-ai": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "ai-factory": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "targon": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "gala": {
+   "upside": "No dated catalyst verified; new exchange listing (Bithumb, Foxbit, XBO.com) is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "keeta": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "ronin": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "lcx": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "lido-dao": {
+   "upside": "No dated catalyst verified; new exchange listing (BigONE, Bithumb, Bitkub) is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "celium": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "gas": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "anvil": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "diem": {
+   "upside": "No dated catalyst verified; no change flag is a scanner signal, not a confirmed event.",
+   "cheap": "No reason found that the market is missing it; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or the price gives back the recent move within a week.",
+   "vsScanner": "Scanner score rests on trading and size screens; I found no supporting story."
+  },
+  "aergo-2": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  },
+  "vana": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  },
+  "storb": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  },
+  "render-token": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  },
+  "liveart": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  },
+  "aleo": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  },
+  "priors-agent": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  },
+  "dusk-network": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  },
+  "firmachain": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  },
+  "acurast": {
+   "upside": "No verified catalyst behind the recent move.",
+   "cheap": "Unclear; likely a thin-market spike.",
+   "wrongIf": "The move fully reverses within a week.",
+   "vsScanner": "Agree with the scanner's caution; nothing found to upgrade it."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin on today's list has a verified, dated catalyst; all 39 are returning coins and the listing badges I checked (Celestia) are old.",
+ "athCheck": {
+  "injective-protocol": "stretch",
+  "forta": "unlikely",
+  "celestia": "unlikely",
+  "xpla": "unlikely",
+  "b3": "stretch",
+  "poker44": "realistic",
+  "solv-protocol": "unlikely",
+  "ready": "unlikely",
+  "nexpace": "stretch",
+  "boar": "stretch",
+  "livepeer": "unlikely",
+  "projectvex": "stretch",
+  "xels": "unlikely",
+  "manta-network": "unlikely",
+  "streetvision-by-natix": "stretch",
+  "musebook": "stretch",
+  "piggycell": "unlikely",
+  "for-sale": "realistic",
+  "nexst": "stretch",
+  "stratis": "unlikely",
+  "bem-2": "realistic",
+  "katana-network-token": "stretch",
+  "atlas-navi": "unlikely",
+  "tenset": "unlikely",
+  "nineteen-ai": "stretch",
+  "ai-factory": "realistic",
+  "targon": "realistic",
+  "gala": "unlikely",
+  "keeta": "stretch",
+  "ronin": "unlikely",
+  "marlin": "unlikely",
+  "zilliqa": "unlikely",
+  "lcx": "stretch",
+  "lido-dao": "stretch",
+  "celium": "realistic",
+  "gas": "unlikely",
+  "kava": "unlikely",
+  "anvil": "stretch",
+  "diem": "realistic"
+ },
+ "lifeCheck": {
+  "injective-protocol": "alive",
+  "forta": "alive",
+  "celestia": "alive",
+  "xpla": "unknown",
+  "b3": "unknown",
+  "poker44": "unknown",
+  "solv-protocol": "alive",
+  "ready": "unknown",
+  "nexpace": "alive",
+  "boar": "alive",
+  "livepeer": "alive",
+  "projectvex": "unknown",
+  "xels": "unknown",
+  "manta-network": "alive",
+  "streetvision-by-natix": "zombie",
+  "musebook": "unknown",
+  "piggycell": "unknown",
+  "for-sale": "zombie",
+  "nexst": "unknown",
+  "stratis": "zombie",
+  "bem-2": "alive",
+  "katana-network-token": "alive",
+  "atlas-navi": "unknown",
+  "tenset": "unknown",
+  "nineteen-ai": "quiet",
+  "ai-factory": "alive",
+  "targon": "alive",
+  "gala": "alive",
+  "keeta": "alive",
+  "ronin": "unknown",
+  "marlin": "zombie",
+  "zilliqa": "zombie",
+  "lcx": "alive",
+  "lido-dao": "alive",
+  "celium": "unknown",
+  "gas": "alive",
+  "kava": "zombie",
+  "anvil": "alive",
+  "diem": "unknown"
+ },
+ "news": {
+  "injective-protocol": {
+   "text": "Searches found no Gemini listing news; Bithumb results were only old maintenance notices."
+  },
+  "forta": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "celestia": {
+   "text": "Upbit listing was May 2025, so the scanner's listing badge is old."
+  },
+  "xpla": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "b3": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "poker44": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "solv-protocol": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "ready": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "nexpace": {
+   "text": "NXPC buyback programme announced May 2026; nothing newer found.",
+   "date": "2026-05-22"
+  },
+  "boar": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "livepeer": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "projectvex": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "xels": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "manta-network": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "streetvision-by-natix": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "musebook": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "piggycell": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "for-sale": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "nexst": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "stratis": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "bem-2": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "katana-network-token": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "atlas-navi": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "tenset": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "nineteen-ai": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "ai-factory": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "targon": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "gala": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "keeta": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "ronin": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "marlin": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "zilliqa": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "lcx": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "lido-dao": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "celium": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "gas": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "kava": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "anvil": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "diem": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "vericore": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "lympid": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "aergo-2": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "vana": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "lumiwave-protocol": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "storb": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "render-token": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "top-network": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "liveart": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "aleo": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "priors-agent": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "dusk-network": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "impossible-cloud-network-token": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "firmachain": {
+   "text": "No news found in the last 30 days that I could verify"
+  },
+  "acurast": {
+   "text": "No news found in the last 30 days that I could verify"
+  }
+ },
+ "sectorNews": {}
+}

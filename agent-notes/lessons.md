@@ -8,4 +8,4 @@
 - 2026-10-14: Centrifuge was rated worth a look on an exchange-listing story, then dropped off Upbit/Bithumb. Listing-based catalysts can reverse; re-check them every few days.
 - 2026-10-15: Of 12 coins I rated worth a look on 2026-10-08, 9 are down since first pick (average about -8%, best Celestia +10.7%, worst Arweave -22.5%); most were big-name tokens with ongoing unlocks that fell with the market. A known name or sector story is not a catalyst; do not rate worth a look without a dated event.
 - 2026-10-15: Scanner listing badges were stale again for Berachain (Feb 2025), Axelar (Jun 2025), Nillion (Mar 2025), Falcon (Sep 2025) and WalletConnect (Kraken 2025). Treat any "new exchange listing" badge as old until an announcement dated within 30 days is found.
-
+- 2026-10-16: Today's whole list was returning coins; searches again found no dated catalysts (Injective/Gemini, Celestia/Upbit, Forta spike all unverifiable). Keep top picks empty without a confirmed event.
