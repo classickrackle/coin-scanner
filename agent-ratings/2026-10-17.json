@@ -1,0 +1,393 @@
+{
+ "date": "2026-10-17",
+ "ratings": {
+  "omron": "caution",
+  "prometeus": "caution",
+  "puffer-finance": "caution",
+  "letstop": "skip",
+  "elympics": "caution",
+  "apex-5": "caution",
+  "flamewire": "caution",
+  "xraders": "skip",
+  "cyberconnect": "caution",
+  "hooked-protocol": "skip",
+  "apex-token-2": "caution",
+  "index-cooperative": "skip",
+  "radicle": "caution",
+  "my-neighbor-alice": "skip",
+  "contentos": "skip",
+  "clawd-atg-eth": "skip",
+  "bedrock-token": "caution",
+  "brevis": "caution",
+  "kernel-2": "skip",
+  "meta-2-2": "caution",
+  "inverse-finance": "caution",
+  "terra-luna-2": "caution",
+  "concordium": "caution",
+  "chia": "caution",
+  "aleo": "caution",
+  "abelian": "skip",
+  "arpa": "skip",
+  "reinforced-ai": "skip",
+  "neo": "caution",
+  "debridge": "caution",
+  "velo": "skip",
+  "theta-token": "caution",
+  "elrond-erd-2": "caution",
+  "jito-governance-token": "caution",
+  "dexe": "skip",
+  "ecomi": "skip"
+ },
+ "conviction": {
+  "omron": "low",
+  "prometeus": "low",
+  "puffer-finance": "low",
+  "elympics": "low",
+  "apex-5": "low",
+  "flamewire": "low",
+  "cyberconnect": "low",
+  "apex-token-2": "low",
+  "radicle": "low",
+  "bedrock-token": "low",
+  "brevis": "low",
+  "meta-2-2": "low",
+  "inverse-finance": "low",
+  "terra-luna-2": "low",
+  "concordium": "low",
+  "chia": "low",
+  "aleo": "low",
+  "neo": "low",
+  "debridge": "low",
+  "theta-token": "low",
+  "elrond-erd-2": "low",
+  "jito-governance-token": "low"
+ },
+ "cases": {
+  "omron": {
+   "upside": "Bittensor subnet 2 token up 24% this week on a 255x trading surge; code pushed 3 days ago.",
+   "cheap": "No dated catalyst found; surge may be a subnet-wide TAO move, and the website is down.",
+   "wrongIf": "The price gives back the week's gain within days or the website stays down past Oct 31.",
+   "vsScanner": "Scanner sees momentum; I see a dead website and no news."
+  },
+  "prometeus": {
+   "upside": "Korean listings (Upbit Aug 12, Bithumb Aug 24) already happened; no October event found.",
+   "cheap": "Listing hype already priced and faded: -15% on the week.",
+   "wrongIf": "Daily trading falls under $10M.",
+   "vsScanner": "The 'new listing' badge is two months old."
+  },
+  "puffer-finance": {
+   "upside": "Upbit KRW listing went live Oct 15, a verified, dated event; Bithumb/Coinone also trade it.",
+   "cheap": "Korean retail just found it, but +70% in a week means the news is mostly priced.",
+   "wrongIf": "The Upbit volume fades and price returns under $0.025 within two weeks.",
+   "vsScanner": "Listing is real this time, but I won't chase a +70% spike."
+  },
+  "elympics": {
+   "upside": "Gaming platform with code pushed 5 days ago.",
+   "cheap": "Only 46% of tokens released; tiny volume.",
+   "wrongIf": "Daily volume stays under $30K.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "apex-5": {
+   "upside": "Bittensor subnet 1 with active code, flat on the week.",
+   "cheap": "No catalyst found.",
+   "wrongIf": "Price breaks below $1.5.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "flamewire": {
+   "upside": "Bittensor subnet with code 25 days old.",
+   "cheap": "Down 15% on the week with no news found.",
+   "wrongIf": "Stops code updates for another month.",
+   "vsScanner": "Scanner score is momentum-based; nothing behind it that I can verify."
+  },
+  "cyberconnect": {
+   "upside": "Bitbank listing noted.",
+   "cheap": "Listing date not verified; 48x below ATH.",
+   "wrongIf": "Bitbank listing not confirmed as recent.",
+   "vsScanner": "Scanner badge may be stale."
+  },
+  "apex-token-2": {
+   "upside": "Active code, DEX token.",
+   "cheap": "Only 31% released; unlock pressure.",
+   "wrongIf": "Volume stays under $2M.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "radicle": {
+   "upside": "Kraken listing claim; I found no dated announcement.",
+   "cheap": "Possible stale listing badge.",
+   "wrongIf": "No Kraken announcement dated in the last 30 days.",
+   "vsScanner": "Treat the badge as unverified."
+  },
+  "bedrock-token": {
+   "upside": "Near recent high (ATH Sep 2026) in a DeFi token.",
+   "cheap": "Only 30% released; -17% on the week.",
+   "wrongIf": "Falls under $0.30.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "brevis": {
+   "upside": "Active infrastructure project, code pushed yesterday.",
+   "cheap": "25% released; unlocks ahead.",
+   "wrongIf": "Price falls below recent lows.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "meta-2-2": {
+   "upside": "Governance token near its ATH (2x away).",
+   "cheap": "Not cheap; no catalyst found.",
+   "wrongIf": "Loses $4.5.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "inverse-finance": {
+   "upside": "Trading spike 16x normal.",
+   "cheap": "Cause not found.",
+   "wrongIf": "Volume returns to normal without news.",
+   "vsScanner": "Spike without a reason is not a catalyst."
+  },
+  "terra-luna-2": {
+   "upside": "None found.",
+   "cheap": "Collapsed brand; 426x below ATH.",
+   "wrongIf": "Further decline.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "concordium": {
+   "upside": "None found.",
+   "cheap": "39x below ATH.",
+   "wrongIf": "Volume dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "chia": {
+   "upside": "None found.",
+   "cheap": "1000x below ATH.",
+   "wrongIf": "Volume dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "aleo": {
+   "upside": "Up about 130% since late September (about $0.022 then); I could not find the reason.",
+   "cheap": "Chasing a spike with no found news.",
+   "wrongIf": "Gives back the gain, falling under $0.03.",
+   "vsScanner": "Scanner warns it is late; I agree."
+  },
+  "neo": {
+   "upside": "None found.",
+   "cheap": "85x below ATH; mature chain.",
+   "wrongIf": "Volume dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "debridge": {
+   "upside": "Bridge with active code; closest to ATH (2.9x).",
+   "cheap": "No catalyst found.",
+   "wrongIf": "Falls under $0.015.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "theta-token": {
+   "upside": "None found.",
+   "cheap": "Code 18 days old; 79x below ATH.",
+   "wrongIf": "Volume dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "elrond-erd-2": {
+   "upside": "None found.",
+   "cheap": "149x below ATH.",
+   "wrongIf": "Volume dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "jito-governance-token": {
+   "upside": "SAFEbit listing is minor.",
+   "cheap": "Minor exchange.",
+   "wrongIf": "Price falls under $0.40.",
+   "vsScanner": "Listing is small news."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Only verified catalyst (Puffer/Upbit Oct 15) already ran +70% this week; nothing else has a dated event.",
+ "athCheck": {
+  "omron": "stretch",
+  "prometeus": "unlikely",
+  "puffer-finance": "unlikely",
+  "letstop": "unlikely",
+  "elympics": "unlikely",
+  "apex-5": "stretch",
+  "flamewire": "stretch",
+  "xraders": "unlikely",
+  "cyberconnect": "unlikely",
+  "hooked-protocol": "unlikely",
+  "apex-token-2": "stretch",
+  "index-cooperative": "unlikely",
+  "radicle": "unlikely",
+  "my-neighbor-alice": "unlikely",
+  "contentos": "unlikely",
+  "clawd-atg-eth": "unlikely",
+  "bedrock-token": "realistic",
+  "brevis": "stretch",
+  "kernel-2": "stretch",
+  "meta-2-2": "realistic",
+  "inverse-finance": "unlikely",
+  "terra-luna-2": "unlikely",
+  "concordium": "unlikely",
+  "chia": "unlikely",
+  "aleo": "unlikely",
+  "abelian": "stretch",
+  "arpa": "unlikely",
+  "reinforced-ai": "realistic",
+  "neo": "unlikely",
+  "debridge": "realistic",
+  "velo": "unlikely",
+  "theta-token": "unlikely",
+  "elrond-erd-2": "unlikely",
+  "jito-governance-token": "stretch",
+  "dexe": "unlikely",
+  "ecomi": "unlikely"
+ },
+ "lifeCheck": {
+  "omron": "alive",
+  "prometeus": "alive",
+  "puffer-finance": "quiet",
+  "letstop": "alive",
+  "elympics": "alive",
+  "apex-5": "alive",
+  "flamewire": "alive",
+  "xraders": "quiet",
+  "cyberconnect": "quiet",
+  "hooked-protocol": "quiet",
+  "apex-token-2": "alive",
+  "index-cooperative": "quiet",
+  "radicle": "alive",
+  "my-neighbor-alice": "quiet",
+  "contentos": "zombie",
+  "clawd-atg-eth": "alive",
+  "bedrock-token": "alive",
+  "brevis": "alive",
+  "kernel-2": "zombie",
+  "meta-2-2": "alive",
+  "inverse-finance": "alive",
+  "terra-luna-2": "alive",
+  "concordium": "alive",
+  "chia": "alive",
+  "aleo": "alive",
+  "abelian": "quiet",
+  "arpa": "zombie",
+  "reinforced-ai": "zombie",
+  "neo": "alive",
+  "debridge": "alive",
+  "velo": "zombie",
+  "theta-token": "alive",
+  "elrond-erd-2": "alive",
+  "jito-governance-token": "quiet",
+  "dexe": "zombie",
+  "ecomi": "zombie"
+ },
+ "news": {
+  "omron": {
+   "text": "No news found in the last 30 days"
+  },
+  "prometeus": {
+   "text": "Upbit (Aug 12) and Bithumb (Aug 24) listings; nothing new in October.",
+   "date": "2026-08-24",
+   "url": "https://onekey.so/blog/ecosystem/upbit-to-list-prom-with-krw-and-usdt-trading-pairs-what-crypto-users-should-know-20260812112414/"
+  },
+  "puffer-finance": {
+   "text": "Upbit opened a PUFFER/KRW market on Oct 15, 2026.",
+   "date": "2026-10-15",
+   "url": "https://www.coingabbar.com/en/puffer-coin-listing-on-upbit-lifts-puffer-price-above-90-today"
+  },
+  "letstop": {
+   "text": "No news found in the last 30 days"
+  },
+  "elympics": {
+   "text": "No news found in the last 30 days"
+  },
+  "apex-5": {
+   "text": "No news found in the last 30 days"
+  },
+  "flamewire": {
+   "text": "No news found in the last 30 days"
+  },
+  "xraders": {
+   "text": "No news found in the last 30 days"
+  },
+  "cyberconnect": {
+   "text": "No news found in the last 30 days"
+  },
+  "hooked-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "apex-token-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "index-cooperative": {
+   "text": "No news found in the last 30 days"
+  },
+  "radicle": {
+   "text": "No news found in the last 30 days"
+  },
+  "my-neighbor-alice": {
+   "text": "No news found in the last 30 days"
+  },
+  "contentos": {
+   "text": "No news found in the last 30 days"
+  },
+  "clawd-atg-eth": {
+   "text": "No news found in the last 30 days"
+  },
+  "bedrock-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "brevis": {
+   "text": "No news found in the last 30 days"
+  },
+  "kernel-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "meta-2-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "inverse-finance": {
+   "text": "No news found in the last 30 days"
+  },
+  "terra-luna-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "concordium": {
+   "text": "No news found in the last 30 days"
+  },
+  "chia": {
+   "text": "No news found in the last 30 days"
+  },
+  "aleo": {
+   "text": "No news found in the last 30 days"
+  },
+  "abelian": {
+   "text": "No news found in the last 30 days"
+  },
+  "arpa": {
+   "text": "No news found in the last 30 days"
+  },
+  "reinforced-ai": {
+   "text": "No news found in the last 30 days"
+  },
+  "neo": {
+   "text": "No news found in the last 30 days"
+  },
+  "debridge": {
+   "text": "No news found in the last 30 days"
+  },
+  "velo": {
+   "text": "No news found in the last 30 days"
+  },
+  "theta-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "elrond-erd-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "jito-governance-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "dexe": {
+   "text": "No news found in the last 30 days"
+  },
+  "ecomi": {
+   "text": "No news found in the last 30 days"
+  }
+ },
+ "sectorNews": {},
+ "athMcap": {}
+}
