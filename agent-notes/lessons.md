@@ -10,3 +10,5 @@
 - 2026-10-15: Scanner listing badges were stale again for Berachain (Feb 2025), Axelar (Jun 2025), Nillion (Mar 2025), Falcon (Sep 2025) and WalletConnect (Kraken 2025). Treat any "new exchange listing" badge as old until an announcement dated within 30 days is found.
 - 2026-10-16: Today's whole list was returning coins; searches again found no dated catalysts (Injective/Gemini, Celestia/Upbit, Forta spike all unverifiable). Keep top picks empty without a confirmed event.
 - 2026-10-17: Prometeus 'new listing' badge was a two-month-old Upbit/Bithumb event (Aug 2026); the one fresh listing (Puffer/Upbit Oct 15) had already run +70%. A verified catalyst that has already moved the price is not a buy signal.
+- 2026-10-18: Of 7 coins rated worth a look on 2026-10-11, those since measurable are down (Kaia -28.5%, Dolomite -24.8%, Lido -21.1%, Yield Basis -17.5%, Cartesi -14.6%); Dolomite then lost Kraken/KuCoin/Bittime listings. Worth a look without a dated event keeps losing; default to caution.
+- 2026-10-18: Web search again returned no news newer than early 2026 for small coins; treat unverifiable scanner 'back' triggers as unconfirmed, not as catalysts.

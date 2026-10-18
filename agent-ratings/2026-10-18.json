@@ -1,0 +1,482 @@
+{
+ "date": "2026-10-18",
+ "ratings": {
+  "altlayer": "caution",
+  "world-of-dypians": "caution",
+  "quack-ai": "skip",
+  "heima": "caution",
+  "nexira-daep": "skip",
+  "stafi": "skip",
+  "zentry": "caution",
+  "dar-open-network": "skip",
+  "concierge-io": "skip",
+  "ac-milan-fan-token": "caution",
+  "dotmoovs": "skip",
+  "magic-square": "skip",
+  "enfineo": "skip",
+  "terrausd": "skip",
+  "g-token": "caution",
+  "roaland-core": "skip",
+  "wibx": "caution",
+  "bitcoinos": "skip",
+  "tellor": "caution",
+  "apertum": "skip",
+  "biconomy": "caution",
+  "leisuremeta": "skip",
+  "harmony": "skip",
+  "polyswarm": "caution",
+  "iotex": "caution",
+  "mantra": "caution",
+  "plasma": "caution",
+  "grx-chain": "caution",
+  "goldfish-gold": "caution",
+  "wemix-token": "caution",
+  "peaq-2": "caution",
+  "merlin-chain": "caution",
+  "astar": "caution",
+  "venus": "caution",
+  "tagger": "caution",
+  "helium": "skip",
+  "theta-fuel": "caution",
+  "convex-finance": "skip",
+  "backpack": "skip",
+  "priors-agent": "caution",
+  "blum": "skip",
+  "404-gen": "skip",
+  "dolomite": "caution",
+  "dimo": "caution",
+  "eywa": "skip",
+  "bitagent-rizzo": "skip",
+  "bitcoinii": "caution",
+  "portugal-national-team-fan-token": "skip",
+  "celo": "caution"
+ },
+ "conviction": {
+  "altlayer": "low",
+  "world-of-dypians": "low",
+  "heima": "low",
+  "zentry": "low",
+  "ac-milan-fan-token": "low",
+  "g-token": "low",
+  "wibx": "low",
+  "tellor": "low",
+  "biconomy": "low",
+  "polyswarm": "low",
+  "iotex": "low",
+  "mantra": "low",
+  "plasma": "low",
+  "grx-chain": "low",
+  "goldfish-gold": "low",
+  "wemix-token": "low",
+  "peaq-2": "low",
+  "merlin-chain": "low",
+  "astar": "low",
+  "venus": "low",
+  "tagger": "low",
+  "theta-fuel": "low",
+  "priors-agent": "low",
+  "dolomite": "low",
+  "dimo": "low",
+  "bitcoinii": "low",
+  "celo": "low"
+ },
+ "cases": {
+  "altlayer": {
+   "upside": "No dated, verified catalyst found; scanner's listing/volume trigger could not be confirmed as new.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "world-of-dypians": {
+   "upside": "No dated, verified catalyst found; scanner's listing/volume trigger could not be confirmed as new.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "heima": {
+   "upside": "No dated, verified catalyst found; scanner's listing/volume trigger could not be confirmed as new.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "zentry": {
+   "upside": "No dated, verified catalyst found; scanner's listing/volume trigger could not be confirmed as new.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "ac-milan-fan-token": {
+   "upside": "No dated, verified catalyst found; scanner's listing/volume trigger could not be confirmed as new.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "g-token": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "wibx": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "tellor": {
+   "upside": "No dated, verified catalyst found; scanner's listing/volume trigger could not be confirmed as new.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "biconomy": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "polyswarm": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "iotex": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "mantra": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "plasma": {
+   "upside": "No dated, verified catalyst found; scanner's listing/volume trigger could not be confirmed as new.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "grx-chain": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "goldfish-gold": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "wemix-token": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "peaq-2": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "merlin-chain": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "astar": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "venus": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "tagger": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "theta-fuel": {
+   "upside": "No dated, verified catalyst found; none identified.",
+   "cheap": "No clear reason found for mispricing; likely just out of favour.",
+   "wrongIf": "Daily trading falls below $100K or price makes a new low after the next unlock.",
+   "vsScanner": "Scanner score reflects trading activity; I found no story behind it."
+  },
+  "priors-agent": {
+   "upside": "No verified catalyst.",
+   "cheap": "No reason found.",
+   "wrongIf": "Further loss of exchange listings or volume.",
+   "vsScanner": "agree with the scanner"
+  },
+  "dolomite": {
+   "upside": "No verified catalyst.",
+   "cheap": "No reason found.",
+   "wrongIf": "Further loss of exchange listings or volume.",
+   "vsScanner": "agree with the scanner"
+  },
+  "dimo": {
+   "upside": "No verified catalyst.",
+   "cheap": "No reason found.",
+   "wrongIf": "Further loss of exchange listings or volume.",
+   "vsScanner": "agree with the scanner"
+  },
+  "bitcoinii": {
+   "upside": "No verified catalyst.",
+   "cheap": "No reason found.",
+   "wrongIf": "Further loss of exchange listings or volume.",
+   "vsScanner": "agree with the scanner"
+  },
+  "celo": {
+   "upside": "No verified catalyst.",
+   "cheap": "No reason found.",
+   "wrongIf": "Further loss of exchange listings or volume.",
+   "vsScanner": "agree with the scanner"
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No dated, verified catalyst found for any coin; searches returned no recent news and several 'back' triggers (listings) are old or unconfirmed.",
+ "athCheck": {
+  "altlayer": "unlikely",
+  "world-of-dypians": "unlikely",
+  "quack-ai": "realistic",
+  "heima": "stretch",
+  "nexira-daep": "stretch",
+  "stafi": "unlikely",
+  "zentry": "unlikely",
+  "dar-open-network": "unlikely",
+  "concierge-io": "stretch",
+  "ac-milan-fan-token": "unlikely",
+  "dotmoovs": "unlikely",
+  "magic-square": "unlikely",
+  "enfineo": "unlikely",
+  "terrausd": "unlikely",
+  "g-token": "unlikely",
+  "roaland-core": "unlikely",
+  "wibx": "unlikely",
+  "bitcoinos": "unlikely",
+  "tellor": "unlikely",
+  "apertum": "unlikely",
+  "biconomy": "unlikely",
+  "leisuremeta": "unlikely",
+  "harmony": "unlikely",
+  "polyswarm": "stretch",
+  "iotex": "unlikely",
+  "mantra": "stretch",
+  "plasma": "unlikely",
+  "grx-chain": "realistic",
+  "goldfish-gold": "realistic",
+  "wemix-token": "unlikely",
+  "peaq-2": "stretch",
+  "merlin-chain": "unlikely",
+  "astar": "unlikely",
+  "venus": "unlikely",
+  "tagger": "stretch",
+  "helium": "unlikely",
+  "theta-fuel": "unlikely",
+  "convex-finance": "unlikely",
+  "backpack": "realistic"
+ },
+ "lifeCheck": {
+  "altlayer": "alive",
+  "world-of-dypians": "alive",
+  "quack-ai": "alive",
+  "heima": "alive",
+  "nexira-daep": "quiet",
+  "stafi": "quiet",
+  "zentry": "quiet",
+  "dar-open-network": "quiet",
+  "concierge-io": "zombie",
+  "ac-milan-fan-token": "quiet",
+  "dotmoovs": "quiet",
+  "magic-square": "quiet",
+  "enfineo": "quiet",
+  "terrausd": "alive",
+  "g-token": "alive",
+  "roaland-core": "quiet",
+  "wibx": "alive",
+  "bitcoinos": "zombie",
+  "tellor": "alive",
+  "apertum": "quiet",
+  "biconomy": "alive",
+  "leisuremeta": "alive",
+  "harmony": "quiet",
+  "polyswarm": "alive",
+  "iotex": "alive",
+  "mantra": "alive",
+  "plasma": "quiet",
+  "grx-chain": "quiet",
+  "goldfish-gold": "quiet",
+  "wemix-token": "alive",
+  "peaq-2": "alive",
+  "merlin-chain": "alive",
+  "astar": "alive",
+  "venus": "alive",
+  "tagger": "quiet",
+  "helium": "zombie",
+  "theta-fuel": "quiet",
+  "convex-finance": "zombie",
+  "backpack": "zombie"
+ },
+ "news": {
+  "altlayer": {
+   "text": "No news found in the last 30 days"
+  },
+  "world-of-dypians": {
+   "text": "No news found in the last 30 days"
+  },
+  "quack-ai": {
+   "text": "No news found in the last 30 days"
+  },
+  "heima": {
+   "text": "No news found in the last 30 days"
+  },
+  "nexira-daep": {
+   "text": "No news found in the last 30 days"
+  },
+  "stafi": {
+   "text": "No news found in the last 30 days"
+  },
+  "zentry": {
+   "text": "No news found in the last 30 days"
+  },
+  "dar-open-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "concierge-io": {
+   "text": "No news found in the last 30 days"
+  },
+  "ac-milan-fan-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "dotmoovs": {
+   "text": "No news found in the last 30 days"
+  },
+  "magic-square": {
+   "text": "No news found in the last 30 days"
+  },
+  "enfineo": {
+   "text": "No news found in the last 30 days"
+  },
+  "terrausd": {
+   "text": "No news found in the last 30 days"
+  },
+  "g-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "roaland-core": {
+   "text": "No news found in the last 30 days"
+  },
+  "wibx": {
+   "text": "No news found in the last 30 days"
+  },
+  "bitcoinos": {
+   "text": "No news found in the last 30 days"
+  },
+  "tellor": {
+   "text": "No news found in the last 30 days"
+  },
+  "apertum": {
+   "text": "No news found in the last 30 days"
+  },
+  "biconomy": {
+   "text": "No news found in the last 30 days"
+  },
+  "leisuremeta": {
+   "text": "No news found in the last 30 days"
+  },
+  "harmony": {
+   "text": "No news found in the last 30 days"
+  },
+  "polyswarm": {
+   "text": "No news found in the last 30 days"
+  },
+  "iotex": {
+   "text": "No news found in the last 30 days"
+  },
+  "mantra": {
+   "text": "No news found in the last 30 days"
+  },
+  "plasma": {
+   "text": "No news found in the last 30 days"
+  },
+  "grx-chain": {
+   "text": "No news found in the last 30 days"
+  },
+  "goldfish-gold": {
+   "text": "No news found in the last 30 days"
+  },
+  "wemix-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "peaq-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "merlin-chain": {
+   "text": "No news found in the last 30 days"
+  },
+  "astar": {
+   "text": "No news found in the last 30 days"
+  },
+  "venus": {
+   "text": "No news found in the last 30 days"
+  },
+  "tagger": {
+   "text": "No news found in the last 30 days"
+  },
+  "helium": {
+   "text": "No news found in the last 30 days"
+  },
+  "theta-fuel": {
+   "text": "No news found in the last 30 days"
+  },
+  "convex-finance": {
+   "text": "No news found in the last 30 days"
+  },
+  "backpack": {
+   "text": "No news found in the last 30 days"
+  },
+  "priors-agent": {
+   "text": "No news found in the last 30 days"
+  },
+  "blum": {
+   "text": "No news found in the last 30 days"
+  },
+  "404-gen": {
+   "text": "No news found in the last 30 days"
+  },
+  "dolomite": {
+   "text": "No news found in the last 30 days"
+  },
+  "dimo": {
+   "text": "No news found in the last 30 days"
+  },
+  "eywa": {
+   "text": "No news found in the last 30 days"
+  },
+  "bitagent-rizzo": {
+   "text": "No news found in the last 30 days"
+  },
+  "bitcoinii": {
+   "text": "No news found in the last 30 days"
+  },
+  "portugal-national-team-fan-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "celo": {
+   "text": "No news found in the last 30 days"
+  }
+ },
+ "sectorNews": {},
+ "athMcap": {}
+}
