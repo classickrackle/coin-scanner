@@ -1,0 +1,520 @@
+{
+ "date": "2026-10-19",
+ "ratings": {
+  "solv-protocol": "caution",
+  "heurist": "caution",
+  "nym": "caution",
+  "nexpace": "caution",
+  "stablecorp-qcad": "skip",
+  "gods-unchained": "caution",
+  "althea": "skip",
+  "quark-chain": "caution",
+  "375ai": "skip",
+  "bankercoin-2": "caution",
+  "octaspace": "skip",
+  "gitbank": "skip",
+  "zip-coin": "skip",
+  "marinade": "caution",
+  "subsquid": "caution",
+  "spacehood": "skip",
+  "magiccraft": "skip",
+  "openai-ondo-private-market-note": "skip",
+  "surplus-intelligence": "caution",
+  "darkswap": "skip",
+  "metamui": "caution",
+  "mbg-by-multibank-group": "caution",
+  "quantum-resistant-ledger": "caution",
+  "railgun": "caution",
+  "mindwavedao": "caution",
+  "trust-wallet-token": "caution",
+  "1inch": "caution",
+  "ecash": "caution",
+  "seeker": "caution",
+  "sosovalue": "caution",
+  "havven": "caution",
+  "societe-generale-forge-eurcv": "skip",
+  "metal-blockchain": "caution",
+  "ozone-chain": "caution",
+  "orca": "caution",
+  "recall": "caution",
+  "tokenbot-2": "caution",
+  "aerodrome-finance": "caution",
+  "stable-2": "caution",
+  "hash-2": "caution",
+  "chaingpt": "caution",
+  "w-ai-parked": "caution",
+  "alkimi-2": "caution",
+  "storb": "caution",
+  "orbofi-ai": "skip",
+  "elixir-finance": "skip",
+  "vericore": "skip",
+  "gaia-2": "skip",
+  "poker44": "skip"
+ },
+ "conviction": {
+  "solv-protocol": "low",
+  "heurist": "low",
+  "nym": "low",
+  "nexpace": "low",
+  "gods-unchained": "low",
+  "quark-chain": "low",
+  "bankercoin-2": "low",
+  "marinade": "low",
+  "subsquid": "low",
+  "surplus-intelligence": "low",
+  "metamui": "low",
+  "mbg-by-multibank-group": "low",
+  "quantum-resistant-ledger": "low",
+  "railgun": "low",
+  "mindwavedao": "low",
+  "trust-wallet-token": "low",
+  "1inch": "low",
+  "ecash": "low",
+  "seeker": "low",
+  "sosovalue": "low",
+  "havven": "low",
+  "metal-blockchain": "low",
+  "ozone-chain": "low",
+  "orca": "low",
+  "recall": "low",
+  "tokenbot-2": "low",
+  "aerodrome-finance": "low",
+  "stable-2": "low",
+  "hash-2": "low",
+  "chaingpt": "low",
+  "w-ai-parked": "low",
+  "alkimi-2": "low",
+  "storb": "low"
+ },
+ "cases": {
+  "solv-protocol": {
+   "upside": "Bitcoin-staking product with Binance and Kraken listings and fresh code pushes; the trading spike is the only trigger and I could not find its cause.",
+   "cheap": "Fell about 75% from its April spike and the market treats it as a spent Megadrop token.",
+   "wrongIf": "Daily trading drops back under $3M or price gives back the weekly gain within two weeks.",
+   "vsScanner": "Scanner's spike is unexplained; the 107x ATH distance is unrealistic."
+  },
+  "heurist": {
+   "upside": "AI compute network; code pushed last month.",
+   "cheap": "Tiny market cap, little trading, and only 28% of tokens out.",
+   "wrongIf": "Trading falls under $50K a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "nym": {
+   "upside": "Privacy network with a rumoured Zcash integration (unconfirmed) and steady code pushes.",
+   "cheap": "Stuck under a heavy supply wall near $0.035-0.04 and far below its 2022 peak.",
+   "wrongIf": "The Zcash integration is not announced by the end of 2026 or price loses $0.025.",
+   "vsScanner": "Scanner counts a 6x volume spike as a plus; I cannot confirm what drove it."
+  },
+  "nexpace": {
+   "upside": "Game-chain token with a score jump, but no dated launch found.",
+   "cheap": "Only 31% of tokens are out, so unlocks keep sellers in charge.",
+   "wrongIf": "Price keeps falling below $0.13 or an unlock is announced.",
+   "vsScanner": "Scanner shows a spike and score jump; the price is down 27% on the week, so the story looks like distribution."
+  },
+  "gods-unchained": {
+   "upside": "Established card game with recent code pushes.",
+   "cheap": "Game tokens are out of favour and price is 369x under its high.",
+   "wrongIf": "Daily trading drops under $200K.",
+   "vsScanner": "Scanner ATH multiple is unrealistic."
+  },
+  "quark-chain": {
+   "upside": "Old infrastructure chain with code pushed this month.",
+   "cheap": "No fresh demand story.",
+   "wrongIf": "Price loses $0.002.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "bankercoin-2": {
+   "upside": "AI agent token with healthy trading, but unknown team and no checkable community.",
+   "cheap": "No visible reason for the price beyond hype.",
+   "wrongIf": "Trading falls under $1M a day.",
+   "vsScanner": "Cannot verify the project; unknown means caution."
+  },
+  "marinade": {
+   "upside": "Solana liquid staking leader with a 20x volume spike; cause not found.",
+   "cheap": "Small market cap versus its staking size, but the token has little value capture.",
+   "wrongIf": "Volume falls back to normal without a price gain, or Solana staking share keeps falling.",
+   "vsScanner": "Spike without a price gain is a warning, not support."
+  },
+  "subsquid": {
+   "upside": "Data network for AI and blockchains; active code.",
+   "cheap": "Down 31% this week, reason unknown.",
+   "wrongIf": "Price keeps sliding below $0.015.",
+   "vsScanner": "Scanner's neutral picture hides the heavy weekly drop."
+  },
+  "surplus-intelligence": {
+   "upside": "AI token up 255% this month; nothing I could verify.",
+   "cheap": "Already ran; chasing it is the risk.",
+   "wrongIf": "Gives back half of the month's gain.",
+   "vsScanner": "Scanner flags it as late; I agree."
+  },
+  "metamui": {
+   "upside": "Identity chain with active code, but very little trading.",
+   "cheap": "Almost unknown and thinly traded.",
+   "wrongIf": "Trading stays under $300K a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "mbg-by-multibank-group": {
+   "upside": "Exchange-group token with healthy trading; no dated event found.",
+   "cheap": "Only 34% of tokens are released.",
+   "wrongIf": "An unlock is announced or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "quantum-resistant-ledger": {
+   "upside": "Quantum-resistant theme could draw interest; the project is active.",
+   "cheap": "Almost no trading for its size, so few people can buy in.",
+   "wrongIf": "Daily trading stays under $200K.",
+   "vsScanner": "Scanner flags thin trading; I agree it is a risk."
+  },
+  "railgun": {
+   "upside": "Privacy sector interest could return; product is real and in use.",
+   "cheap": "Down 29% this week after an earlier privacy rally faded.",
+   "wrongIf": "Price loses the $1.80 area or privacy coins keep falling.",
+   "vsScanner": "Agree with the scanner that it is alive; no catalyst."
+  },
+  "mindwavedao": {
+   "upside": "Nothing dated found.",
+   "cheap": "Very little trading for its size.",
+   "wrongIf": "Trading stays under $300K a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "trust-wallet-token": {
+   "upside": "Large wallet user base could feed token demand, but no dated plan found.",
+   "cheap": "Only 42% of tokens are out and price is down 14% this week.",
+   "wrongIf": "A new unlock is announced or price loses $0.40.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "1inch": {
+   "upside": "Established exchange aggregator with live revenue and code pushed today.",
+   "cheap": "Token has low value capture and a price 93x under its 2021 high.",
+   "wrongIf": "Daily trading drops under $3M or a large unlock lands.",
+   "vsScanner": "Scanner ATH distance is meaningless for a coin this old."
+  },
+  "ecash": {
+   "upside": "Old Bitcoin-fork chain with steady code; nothing dated ahead.",
+   "cheap": "Long decline from 2021 and no new demand.",
+   "wrongIf": "Trading falls under $1M a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "seeker": {
+   "upside": "Solana phone ecosystem token with active code, but no dated event found.",
+   "cheap": "Down 18% this week; market is not paying for it.",
+   "wrongIf": "Price loses $0.012.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "sosovalue": {
+   "upside": "Research and index product with real users, but quiet for 74 days.",
+   "cheap": "Quiet team and unlocks pending (34% released).",
+   "wrongIf": "No update from the team by December.",
+   "vsScanner": "Scanner says quiet; I agree."
+  },
+  "havven": {
+   "upside": "Synthetix plans buybacks and a stablecoin re-peg, but both are only targets.",
+   "cheap": "Korean exchanges put it under delisting review in August and supply grew about 70%.",
+   "wrongIf": "The re-peg slips past year end or a Korean exchange delists it.",
+   "vsScanner": "Scanner sees a cheap token; the supply growth and review make it riskier."
+  },
+  "metal-blockchain": {
+   "upside": "Active chain code, no dated catalyst.",
+   "cheap": "Thin trading for its size.",
+   "wrongIf": "Daily trading stays under $500K.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "ozone-chain": {
+   "upside": "Nothing dated found.",
+   "cheap": "Thin trading and no team activity found.",
+   "wrongIf": "Trading stays under $250K a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "orca": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "recall": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "tokenbot-2": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "aerodrome-finance": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "stable-2": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "hash-2": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "chaingpt": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "w-ai-parked": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "alkimi-2": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "storb": {
+   "upside": "None verified.",
+   "cheap": "No reason found beyond sentiment.",
+   "wrongIf": "Price makes a new low or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No dated, verified catalyst on any coin; searches again found nothing newer than early 2026 for these names.",
+ "athCheck": {
+  "solv-protocol": "unlikely",
+  "heurist": "a stretch",
+  "nym": "unlikely",
+  "nexpace": "unlikely",
+  "stablecorp-qcad": "a stretch",
+  "gods-unchained": "unlikely",
+  "althea": "unlikely",
+  "quark-chain": "unlikely",
+  "375ai": "a stretch",
+  "bankercoin-2": "a stretch",
+  "octaspace": "unlikely",
+  "gitbank": "unlikely",
+  "zip-coin": "unlikely",
+  "marinade": "unlikely",
+  "subsquid": "a stretch",
+  "spacehood": "a stretch",
+  "magiccraft": "unlikely",
+  "openai-ondo-private-market-note": "a stretch",
+  "surplus-intelligence": "a stretch",
+  "darkswap": "a stretch",
+  "metamui": "unlikely",
+  "mbg-by-multibank-group": "a stretch",
+  "quantum-resistant-ledger": "a stretch",
+  "railgun": "a stretch",
+  "mindwavedao": "a stretch",
+  "trust-wallet-token": "a stretch",
+  "1inch": "unlikely",
+  "ecash": "unlikely",
+  "seeker": "a stretch",
+  "sosovalue": "a stretch",
+  "havven": "unlikely",
+  "societe-generale-forge-eurcv": "a stretch",
+  "metal-blockchain": "a stretch",
+  "ozone-chain": "a stretch"
+ },
+ "lifeCheck": {
+  "solv-protocol": "alive",
+  "heurist": "alive",
+  "nym": "alive",
+  "nexpace": "alive",
+  "stablecorp-qcad": "unknown",
+  "gods-unchained": "alive",
+  "althea": "zombie",
+  "quark-chain": "alive",
+  "375ai": "quiet",
+  "bankercoin-2": "unknown",
+  "octaspace": "quiet",
+  "gitbank": "unknown",
+  "zip-coin": "alive",
+  "marinade": "alive",
+  "subsquid": "alive",
+  "spacehood": "unknown",
+  "magiccraft": "zombie",
+  "openai-ondo-private-market-note": "unknown",
+  "surplus-intelligence": "unknown",
+  "darkswap": "unknown",
+  "metamui": "alive",
+  "mbg-by-multibank-group": "alive",
+  "quantum-resistant-ledger": "alive",
+  "railgun": "alive",
+  "mindwavedao": "unknown",
+  "trust-wallet-token": "alive",
+  "1inch": "alive",
+  "ecash": "alive",
+  "seeker": "alive",
+  "sosovalue": "quiet",
+  "havven": "unknown",
+  "societe-generale-forge-eurcv": "unknown",
+  "metal-blockchain": "alive",
+  "ozone-chain": "unknown"
+ },
+ "news": {
+  "solv-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "heurist": {
+   "text": "No news in the last 30 days"
+  },
+  "nym": {
+   "text": "No news in the last 30 days"
+  },
+  "nexpace": {
+   "text": "No news in the last 30 days"
+  },
+  "stablecorp-qcad": {
+   "text": "No news in the last 30 days"
+  },
+  "gods-unchained": {
+   "text": "No news in the last 30 days"
+  },
+  "althea": {
+   "text": "No news in the last 30 days"
+  },
+  "quark-chain": {
+   "text": "No news in the last 30 days"
+  },
+  "375ai": {
+   "text": "No news in the last 30 days"
+  },
+  "bankercoin-2": {
+   "text": "No news in the last 30 days"
+  },
+  "octaspace": {
+   "text": "No news in the last 30 days"
+  },
+  "gitbank": {
+   "text": "No news in the last 30 days"
+  },
+  "zip-coin": {
+   "text": "No news in the last 30 days"
+  },
+  "marinade": {
+   "text": "No news in the last 30 days"
+  },
+  "subsquid": {
+   "text": "No news in the last 30 days"
+  },
+  "spacehood": {
+   "text": "No news in the last 30 days"
+  },
+  "magiccraft": {
+   "text": "No news in the last 30 days"
+  },
+  "openai-ondo-private-market-note": {
+   "text": "No news in the last 30 days"
+  },
+  "surplus-intelligence": {
+   "text": "No news in the last 30 days"
+  },
+  "darkswap": {
+   "text": "No news in the last 30 days"
+  },
+  "metamui": {
+   "text": "No news in the last 30 days"
+  },
+  "mbg-by-multibank-group": {
+   "text": "No news in the last 30 days"
+  },
+  "quantum-resistant-ledger": {
+   "text": "No news in the last 30 days"
+  },
+  "railgun": {
+   "text": "No news in the last 30 days"
+  },
+  "mindwavedao": {
+   "text": "No news in the last 30 days"
+  },
+  "trust-wallet-token": {
+   "text": "No news in the last 30 days"
+  },
+  "1inch": {
+   "text": "No news in the last 30 days"
+  },
+  "ecash": {
+   "text": "No news in the last 30 days"
+  },
+  "seeker": {
+   "text": "No news in the last 30 days"
+  },
+  "sosovalue": {
+   "text": "No news in the last 30 days"
+  },
+  "havven": {
+   "text": "No news in the last 30 days"
+  },
+  "societe-generale-forge-eurcv": {
+   "text": "No news in the last 30 days"
+  },
+  "metal-blockchain": {
+   "text": "No news in the last 30 days"
+  },
+  "ozone-chain": {
+   "text": "No news in the last 30 days"
+  },
+  "orca": {
+   "text": "No news in the last 30 days"
+  },
+  "recall": {
+   "text": "No news in the last 30 days"
+  },
+  "tokenbot-2": {
+   "text": "No news in the last 30 days"
+  },
+  "aerodrome-finance": {
+   "text": "No news in the last 30 days"
+  },
+  "stable-2": {
+   "text": "No news in the last 30 days"
+  },
+  "hash-2": {
+   "text": "No news in the last 30 days"
+  },
+  "chaingpt": {
+   "text": "No news in the last 30 days"
+  },
+  "w-ai-parked": {
+   "text": "No news in the last 30 days"
+  },
+  "alkimi-2": {
+   "text": "No news in the last 30 days"
+  },
+  "storb": {
+   "text": "No news in the last 30 days"
+  },
+  "orbofi-ai": {
+   "text": "No news in the last 30 days"
+  },
+  "elixir-finance": {
+   "text": "No news in the last 30 days"
+  },
+  "vericore": {
+   "text": "No news in the last 30 days"
+  },
+  "gaia-2": {
+   "text": "No news in the last 30 days"
+  },
+  "poker44": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "Searches found no AI-token news from this week; the newest item I found was April 2026. Treat AI-themed small coins here as sentiment-driven.",
+  "DeFi": "No DeFi-sector news from the last 7 days found. The Synthetix delisting review by Korean exchanges (August) shows the risk of weak token design.",
+  "Gaming": "No gaming-token news found for this week; no sign of money flowing in.",
+  "Infrastructure": "No fresh infrastructure news found; many chain tokens on the list trade thinly.",
+  "DePIN": "No DePIN news from this week found; latest were mid-2025 items."
+ },
+ "athMcap": {}
+}
