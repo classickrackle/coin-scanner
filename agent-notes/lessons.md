@@ -13,3 +13,4 @@
 - 2026-10-18: Of 7 coins rated worth a look on 2026-10-11, those since measurable are down (Kaia -28.5%, Dolomite -24.8%, Lido -21.1%, Yield Basis -17.5%, Cartesi -14.6%); Dolomite then lost Kraken/KuCoin/Bittime listings. Worth a look without a dated event keeps losing; default to caution.
 - 2026-10-18: Web search again returned no news newer than early 2026 for small coins; treat unverifiable scanner 'back' triggers as unconfirmed, not as catalysts.
 - 2026-10-19: Scorecard (153 worth-a-look, 7 days): -3.1% vs market -1.6%; the 7 coins I rated worth a look on 10-11 average -13.6% since first pick. Searches for Marinade, Solv, Nym, Railgun and Synthetix found nothing from the last 30 days. Still no top picks; bar stays at a dated, verified event.
+- 2026-10-20: Scorecard shows my 'skip' calls averaged +35% at 7 days; skip is not a sell signal. Inkbox email needed re-authorization this run, so delivery fell back to push/chat.

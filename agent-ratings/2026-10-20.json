@@ -1,0 +1,502 @@
+{
+ "date": "2026-10-20",
+ "ratings": {
+  "pha": "caution",
+  "ondo-high-growth-powered-by-blackrock": "caution",
+  "ondo-magnificent-7-and-crypto-portfolio": "caution",
+  "nimiq-2": "caution",
+  "xpla": "caution",
+  "trabzonspor-fan-token": "skip",
+  "metaplex": "skip",
+  "smooth-love-potion": "caution",
+  "minotaur-2": "caution",
+  "codatta": "caution",
+  "precog": "skip",
+  "cf-large-cap-index": "caution",
+  "ramses": "caution",
+  "real-token": "skip",
+  "bubblemaps": "caution",
+  "canopy": "caution",
+  "proprietary-trading-network": "caution",
+  "hippius": "caution",
+  "tiger-alpha": "caution",
+  "kinetiq": "caution",
+  "diam": "caution",
+  "bitmind": "caution",
+  "dao-maker": "skip",
+  "okzoo": "skip",
+  "level-114": "caution",
+  "moonwell-artemis": "skip",
+  "geodnet": "caution",
+  "goplus-security": "skip",
+  "vision-3": "skip",
+  "funfair": "skip",
+  "newton-project": "skip",
+  "chutes": "caution",
+  "fonq": "caution",
+  "score": "skip",
+  "btse-token": "caution",
+  "space-id": "skip",
+  "xels": "skip",
+  "unit0": "skip",
+  "lumiwave-protocol": "skip",
+  "gitcoin": "caution",
+  "axiome": "skip",
+  "moonft": "skip",
+  "reef": "caution",
+  "babylon": "caution",
+  "arweave": "caution",
+  "threshold-network-token": "caution",
+  "as-roma-fan-token": "caution",
+  "donut-2": "skip",
+  "epic-chain": "caution"
+ },
+ "conviction": {
+  "pha": "low",
+  "ondo-high-growth-powered-by-blackrock": "low",
+  "ondo-magnificent-7-and-crypto-portfolio": "low",
+  "nimiq-2": "low",
+  "xpla": "low",
+  "smooth-love-potion": "low",
+  "minotaur-2": "low",
+  "codatta": "low",
+  "cf-large-cap-index": "low",
+  "ramses": "low",
+  "bubblemaps": "low",
+  "canopy": "low",
+  "proprietary-trading-network": "low",
+  "hippius": "low",
+  "tiger-alpha": "low",
+  "kinetiq": "low",
+  "diam": "low",
+  "bitmind": "low",
+  "level-114": "low",
+  "geodnet": "low",
+  "chutes": "low",
+  "fonq": "low",
+  "btse-token": "low",
+  "gitcoin": "low",
+  "reef": "low",
+  "babylon": "low",
+  "arweave": "low",
+  "threshold-network-token": "low",
+  "as-roma-fan-token": "low",
+  "epic-chain": "low"
+ },
+ "cases": {
+  "pha": {
+   "upside": "No dated, verified catalyst found. Scanner flagged it back for: trading spike (7.1x normal); score up 18 since first picked (51 \u2192 69); I could not confirm a cause.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "ondo-high-growth-powered-by-blackrock": {
+   "upside": "No dated, verified catalyst found. Scanner flagged it back for: new exchange listing (Ondo Stocks); trading spike (3.8x normal); I could not confirm a cause.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "ondo-magnificent-7-and-crypto-portfolio": {
+   "upside": "No dated, verified catalyst found. Scanner flagged it back for: new exchange listing (Ondo Stocks); trading spike (4.9x normal); I could not confirm a cause.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "nimiq-2": {
+   "upside": "No dated, verified catalyst found. Scanner flagged it back for: trading spike (3.6x normal); I could not confirm a cause.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "xpla": {
+   "upside": "No dated, verified catalyst found. Scanner flagged it back for: new exchange listing (GoPax); trading spike (6.8x normal); I could not confirm a cause.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "smooth-love-potion": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "minotaur-2": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "codatta": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "cf-large-cap-index": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "ramses": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "bubblemaps": {
+   "upside": "No dated, verified catalyst found. Scanner flagged it back for: trading spike (5.5x normal); I could not confirm a cause.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "canopy": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "proprietary-trading-network": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "hippius": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "tiger-alpha": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "kinetiq": {
+   "upside": "No dated, verified catalyst found. Scanner flagged it back for: trading spike (3.7x normal); I could not confirm a cause.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "diam": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "bitmind": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "level-114": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "geodnet": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "chutes": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "fonq": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "btse-token": {
+   "upside": "No dated, verified catalyst found.",
+   "cheap": "No reason found that the market is mispricing it; may simply be unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or the price gives back the spike.",
+   "vsScanner": "Scanner's numbers are a screen only; I found no story to back them up."
+  },
+  "gitcoin": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No reason found it is mispriced.",
+   "wrongIf": "Score and price keep falling.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "reef": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No reason found it is mispriced.",
+   "wrongIf": "Score and price keep falling.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "babylon": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No reason found it is mispriced.",
+   "wrongIf": "Score and price keep falling.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "arweave": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No reason found it is mispriced.",
+   "wrongIf": "Score and price keep falling.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "threshold-network-token": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No reason found it is mispriced.",
+   "wrongIf": "Score and price keep falling.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "as-roma-fan-token": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No reason found it is mispriced.",
+   "wrongIf": "Score and price keep falling.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "epic-chain": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No reason found it is mispriced.",
+   "wrongIf": "Score and price keep falling.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No dated, verified catalyst found for any coin; searches again returned nothing recent for small coins.",
+ "athCheck": {
+  "pha": "unlikely",
+  "ondo-high-growth-powered-by-blackrock": "realistic",
+  "ondo-magnificent-7-and-crypto-portfolio": "realistic",
+  "nimiq-2": "unlikely",
+  "xpla": "unlikely",
+  "trabzonspor-fan-token": "unlikely",
+  "metaplex": "unlikely",
+  "smooth-love-potion": "unlikely",
+  "minotaur-2": "realistic",
+  "codatta": "stretch",
+  "precog": "stretch",
+  "cf-large-cap-index": "stretch",
+  "ramses": "stretch",
+  "real-token": "unlikely",
+  "bubblemaps": "unlikely",
+  "canopy": "stretch",
+  "proprietary-trading-network": "stretch",
+  "hippius": "realistic",
+  "tiger-alpha": "realistic",
+  "kinetiq": "realistic",
+  "diam": "stretch",
+  "bitmind": "stretch",
+  "dao-maker": "unlikely",
+  "okzoo": "unlikely",
+  "level-114": "realistic",
+  "moonwell-artemis": "unlikely",
+  "geodnet": "realistic",
+  "goplus-security": "unlikely",
+  "vision-3": "stretch",
+  "funfair": "unlikely",
+  "newton-project": "unlikely",
+  "chutes": "stretch",
+  "fonq": "realistic",
+  "score": "realistic",
+  "btse-token": "stretch",
+  "space-id": "unlikely"
+ },
+ "lifeCheck": {
+  "pha": "unknown",
+  "ondo-high-growth-powered-by-blackrock": "unknown",
+  "ondo-magnificent-7-and-crypto-portfolio": "unknown",
+  "nimiq-2": "alive",
+  "xpla": "unknown",
+  "trabzonspor-fan-token": "unknown",
+  "metaplex": "zombie",
+  "smooth-love-potion": "alive",
+  "minotaur-2": "quiet",
+  "codatta": "unknown",
+  "precog": "zombie",
+  "cf-large-cap-index": "alive",
+  "ramses": "unknown",
+  "real-token": "unknown",
+  "bubblemaps": "alive",
+  "canopy": "alive",
+  "proprietary-trading-network": "alive",
+  "hippius": "alive",
+  "tiger-alpha": "unknown",
+  "kinetiq": "alive",
+  "diam": "alive",
+  "bitmind": "alive",
+  "dao-maker": "zombie",
+  "okzoo": "zombie",
+  "level-114": "unknown",
+  "moonwell-artemis": "zombie",
+  "geodnet": "alive",
+  "goplus-security": "zombie",
+  "vision-3": "zombie",
+  "funfair": "zombie",
+  "newton-project": "zombie",
+  "chutes": "quiet",
+  "fonq": "alive",
+  "score": "zombie",
+  "btse-token": "quiet",
+  "space-id": "zombie"
+ },
+ "news": {
+  "pha": {
+   "text": "Phala moved to an Ethereum L2 (Nov 2025) and added new AI models to its private-compute cloud on 2026-06-03; nothing found explaining today's 7x volume spike.",
+   "date": "2026-06-03",
+   "url": "https://coinmarketcap.com/id/cmc-ai/phala-network/latest-updates/"
+  },
+  "ondo-high-growth-powered-by-blackrock": {
+   "text": "No news in the last 30 days"
+  },
+  "ondo-magnificent-7-and-crypto-portfolio": {
+   "text": "No news in the last 30 days"
+  },
+  "nimiq-2": {
+   "text": "No news in the last 30 days"
+  },
+  "xpla": {
+   "text": "No news in the last 30 days"
+  },
+  "trabzonspor-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "metaplex": {
+   "text": "No news in the last 30 days"
+  },
+  "smooth-love-potion": {
+   "text": "No news in the last 30 days"
+  },
+  "minotaur-2": {
+   "text": "No news in the last 30 days"
+  },
+  "codatta": {
+   "text": "No news in the last 30 days"
+  },
+  "precog": {
+   "text": "No news in the last 30 days"
+  },
+  "cf-large-cap-index": {
+   "text": "No news in the last 30 days"
+  },
+  "ramses": {
+   "text": "No news in the last 30 days"
+  },
+  "real-token": {
+   "text": "No news in the last 30 days"
+  },
+  "bubblemaps": {
+   "text": "No news in the last 30 days"
+  },
+  "canopy": {
+   "text": "No news in the last 30 days"
+  },
+  "proprietary-trading-network": {
+   "text": "No news in the last 30 days"
+  },
+  "hippius": {
+   "text": "No news in the last 30 days"
+  },
+  "tiger-alpha": {
+   "text": "No news in the last 30 days"
+  },
+  "kinetiq": {
+   "text": "Oct 1 2026: kPoints ended; holders may buy 50M KNTQ at $0.26 (10-day window); price fell over 20% from the Oct 1 peak.",
+   "date": "2026-10-01",
+   "url": "https://cryptobriefing.com/kinetiq-ends-kpoints-kntq-price-drop/"
+  },
+  "diam": {
+   "text": "No news in the last 30 days"
+  },
+  "bitmind": {
+   "text": "No news in the last 30 days"
+  },
+  "dao-maker": {
+   "text": "No news in the last 30 days"
+  },
+  "okzoo": {
+   "text": "No news in the last 30 days"
+  },
+  "level-114": {
+   "text": "No news in the last 30 days"
+  },
+  "moonwell-artemis": {
+   "text": "No news in the last 30 days"
+  },
+  "geodnet": {
+   "text": "No news in the last 30 days"
+  },
+  "goplus-security": {
+   "text": "No news in the last 30 days"
+  },
+  "vision-3": {
+   "text": "No news in the last 30 days"
+  },
+  "funfair": {
+   "text": "No news in the last 30 days"
+  },
+  "newton-project": {
+   "text": "No news in the last 30 days"
+  },
+  "chutes": {
+   "text": "No news in the last 30 days"
+  },
+  "fonq": {
+   "text": "No news in the last 30 days"
+  },
+  "score": {
+   "text": "No news in the last 30 days"
+  },
+  "btse-token": {
+   "text": "No news in the last 30 days"
+  },
+  "space-id": {
+   "text": "No news in the last 30 days"
+  },
+  "xels": {
+   "text": "No news in the last 30 days"
+  },
+  "unit0": {
+   "text": "No news in the last 30 days"
+  },
+  "lumiwave-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "gitcoin": {
+   "text": "No news in the last 30 days"
+  },
+  "axiome": {
+   "text": "No news in the last 30 days"
+  },
+  "moonft": {
+   "text": "No news in the last 30 days"
+  },
+  "reef": {
+   "text": "No news in the last 30 days"
+  },
+  "babylon": {
+   "text": "No news in the last 30 days"
+  },
+  "arweave": {
+   "text": "No news in the last 30 days"
+  },
+  "threshold-network-token": {
+   "text": "No news in the last 30 days"
+  },
+  "as-roma-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "donut-2": {
+   "text": "No news in the last 30 days"
+  },
+  "epic-chain": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "Eleven of today's coins are Bittensor subnet or AI tokens; I found no sector news from the last 7 days that changes their picture, so treat as unconfirmed."
+ }
+}
