@@ -1,0 +1,449 @@
+{
+ "date": "2026-10-21",
+ "ratings": {
+  "athenax9": "skip",
+  "ondo-ai-leaders-portfolio": "skip",
+  "ondo-5-targeted-income-tr-portfolio": "skip",
+  "capybobo": "caution",
+  "ondo-high-income-powered-by-blackrock": "skip",
+  "b3": "caution",
+  "hyperwave": "skip",
+  "siacoin": "caution",
+  "redteam": "caution",
+  "macropod": "skip",
+  "dippy-speech": "caution",
+  "ferma": "skip",
+  "torch": "skip",
+  "stargate-finance": "caution",
+  "kgen": "caution",
+  "pointpay-2": "skip",
+  "aixdrop": "skip",
+  "aussie-dollar-token": "skip",
+  "ai-router-protocol": "skip",
+  "theta-token": "skip",
+  "yei-finance": "skip",
+  "compound-governance-token": "skip",
+  "zora": "caution",
+  "waves": "skip",
+  "seda-2": "caution",
+  "lista": "caution",
+  "debridge": "caution",
+  "stonk-3": "skip",
+  "kinesis-silver": "skip",
+  "jpycoin": "skip",
+  "edgex": "caution",
+  "holotoken": "skip",
+  "apenft": "skip",
+  "mag7-ssi": "skip",
+  "cow-protocol": "skip",
+  "jasmycoin": "skip",
+  "chain-2": "skip",
+  "reinforced-ai": "skip",
+  "orbio-so": "caution",
+  "stability-world-ai": "skip",
+  "sedra-coin": "skip",
+  "pla-form": "caution",
+  "dash": "caution",
+  "rwa-inc": "caution",
+  "the-graph": "caution",
+  "hippo-protocol": "caution",
+  "gamebuild": "caution",
+  "ovo-nft-platform": "skip",
+  "wibx": "caution",
+  "priors-agent": "caution",
+  "sweatcoin": "skip",
+  "elixir-finance": "skip"
+ },
+ "conviction": {
+  "capybobo": "low",
+  "b3": "low",
+  "siacoin": "low",
+  "redteam": "low",
+  "dippy-speech": "low",
+  "stargate-finance": "low",
+  "kgen": "low",
+  "zora": "low",
+  "seda-2": "low",
+  "lista": "low",
+  "debridge": "low",
+  "edgex": "low",
+  "orbio-so": "low",
+  "pla-form": "low",
+  "dash": "low",
+  "rwa-inc": "low",
+  "the-graph": "low",
+  "hippo-protocol": "low",
+  "gamebuild": "low",
+  "wibx": "low",
+  "priors-agent": "low"
+ },
+ "cases": {
+  "capybobo": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "b3": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "siacoin": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "redteam": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "dippy-speech": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "stargate-finance": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "kgen": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "zora": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "seda-2": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "lista": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "debridge": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "edgex": {
+   "upside": "No dated catalyst verified; searches returned nothing recent.",
+   "cheap": "No clear reason found why the market is missing it.",
+   "wrongIf": "Daily trading falls below about 25% of today or price breaks its 30-day low.",
+   "vsScanner": "Scanner screen passed on numbers; story unverified."
+  },
+  "orbio-so": {
+   "upside": "No verified catalyst.",
+   "cheap": "Unknown.",
+   "wrongIf": "Score keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "pla-form": {
+   "upside": "No verified catalyst.",
+   "cheap": "Unknown.",
+   "wrongIf": "Score keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "dash": {
+   "upside": "No verified catalyst.",
+   "cheap": "Unknown.",
+   "wrongIf": "Score keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "rwa-inc": {
+   "upside": "No verified catalyst.",
+   "cheap": "Unknown.",
+   "wrongIf": "Score keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "the-graph": {
+   "upside": "No verified catalyst.",
+   "cheap": "Unknown.",
+   "wrongIf": "Score keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "hippo-protocol": {
+   "upside": "No verified catalyst.",
+   "cheap": "Unknown.",
+   "wrongIf": "Score keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "gamebuild": {
+   "upside": "No verified catalyst.",
+   "cheap": "Unknown.",
+   "wrongIf": "Score keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "wibx": {
+   "upside": "No verified catalyst.",
+   "cheap": "Unknown.",
+   "wrongIf": "Score keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "priors-agent": {
+   "upside": "No verified catalyst.",
+   "cheap": "Unknown.",
+   "wrongIf": "Score keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin has a dated, verified catalyst; every search for recent news came back empty.",
+ "athCheck": {
+  "athenax9": "unlikely",
+  "ondo-ai-leaders-portfolio": "realistic",
+  "ondo-5-targeted-income-tr-portfolio": "realistic",
+  "capybobo": "realistic",
+  "ondo-high-income-powered-by-blackrock": "realistic",
+  "b3": "unlikely",
+  "hyperwave": "realistic",
+  "siacoin": "unlikely",
+  "redteam": "realistic",
+  "macropod": "realistic",
+  "dippy-speech": "realistic",
+  "ferma": "unlikely",
+  "torch": "realistic",
+  "stargate-finance": "unlikely",
+  "kgen": "stretch",
+  "pointpay-2": "stretch",
+  "aixdrop": "unlikely",
+  "aussie-dollar-token": "realistic",
+  "ai-router-protocol": "unlikely",
+  "theta-token": "unlikely",
+  "yei-finance": "unlikely",
+  "compound-governance-token": "unlikely",
+  "zora": "unlikely",
+  "waves": "unlikely",
+  "seda-2": "unlikely",
+  "lista": "unlikely",
+  "debridge": "stretch",
+  "stonk-3": "stretch",
+  "kinesis-silver": "realistic",
+  "jpycoin": "stretch",
+  "edgex": "stretch",
+  "holotoken": "unlikely",
+  "apenft": "unlikely",
+  "mag7-ssi": "realistic",
+  "cow-protocol": "unlikely",
+  "jasmycoin": "unlikely",
+  "chain-2": "unlikely"
+ },
+ "lifeCheck": {
+  "athenax9": "quiet",
+  "ondo-ai-leaders-portfolio": "quiet",
+  "ondo-5-targeted-income-tr-portfolio": "quiet",
+  "capybobo": "alive",
+  "ondo-high-income-powered-by-blackrock": "quiet",
+  "b3": "quiet",
+  "hyperwave": "quiet",
+  "siacoin": "alive",
+  "redteam": "alive",
+  "macropod": "quiet",
+  "dippy-speech": "quiet",
+  "ferma": "alive",
+  "torch": "quiet",
+  "stargate-finance": "alive",
+  "kgen": "alive",
+  "pointpay-2": "quiet",
+  "aixdrop": "quiet",
+  "aussie-dollar-token": "quiet",
+  "ai-router-protocol": "quiet",
+  "theta-token": "alive",
+  "yei-finance": "zombie",
+  "compound-governance-token": "zombie",
+  "zora": "quiet",
+  "waves": "alive",
+  "seda-2": "alive",
+  "lista": "alive",
+  "debridge": "alive",
+  "stonk-3": "zombie",
+  "kinesis-silver": "zombie",
+  "jpycoin": "quiet",
+  "edgex": "quiet",
+  "holotoken": "zombie",
+  "apenft": "zombie",
+  "mag7-ssi": "quiet",
+  "cow-protocol": "zombie",
+  "jasmycoin": "zombie",
+  "chain-2": "zombie"
+ },
+ "news": {
+  "athenax9": {
+   "text": "No news found in the last 30 days"
+  },
+  "ondo-ai-leaders-portfolio": {
+   "text": "No news found in the last 30 days"
+  },
+  "ondo-5-targeted-income-tr-portfolio": {
+   "text": "No news found in the last 30 days"
+  },
+  "capybobo": {
+   "text": "No news found in the last 30 days"
+  },
+  "ondo-high-income-powered-by-blackrock": {
+   "text": "No news found in the last 30 days"
+  },
+  "b3": {
+   "text": "Upbit KRW listing May 2026 caused a one-day spike that faded (old event)",
+   "date": "2026-05-07"
+  },
+  "hyperwave": {
+   "text": "No news found in the last 30 days"
+  },
+  "siacoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "redteam": {
+   "text": "No news found in the last 30 days"
+  },
+  "macropod": {
+   "text": "No news found in the last 30 days"
+  },
+  "dippy-speech": {
+   "text": "No news found in the last 30 days"
+  },
+  "ferma": {
+   "text": "No news found in the last 30 days"
+  },
+  "torch": {
+   "text": "Robinhood Chain launchpad token; unverified listing, no project news found"
+  },
+  "stargate-finance": {
+   "text": "No news found in the last 30 days"
+  },
+  "kgen": {
+   "text": "No news found in the last 30 days"
+  },
+  "pointpay-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "aixdrop": {
+   "text": "No news found in the last 30 days"
+  },
+  "aussie-dollar-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "ai-router-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "theta-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "yei-finance": {
+   "text": "No news found in the last 30 days"
+  },
+  "compound-governance-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "zora": {
+   "text": "No news found in the last 30 days"
+  },
+  "waves": {
+   "text": "No news found in the last 30 days"
+  },
+  "seda-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "lista": {
+   "text": "No news found in the last 30 days"
+  },
+  "debridge": {
+   "text": "No news found in the last 30 days"
+  },
+  "stonk-3": {
+   "text": "No news found in the last 30 days"
+  },
+  "kinesis-silver": {
+   "text": "No news found in the last 30 days"
+  },
+  "jpycoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "edgex": {
+   "text": "No news found in the last 30 days"
+  },
+  "holotoken": {
+   "text": "No news found in the last 30 days"
+  },
+  "apenft": {
+   "text": "No news found in the last 30 days"
+  },
+  "mag7-ssi": {
+   "text": "No news found in the last 30 days"
+  },
+  "cow-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "jasmycoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "chain-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "reinforced-ai": {
+   "text": "No news found in the last 30 days"
+  },
+  "orbio-so": {
+   "text": "No news found in the last 30 days"
+  },
+  "stability-world-ai": {
+   "text": "No news found in the last 30 days"
+  },
+  "sedra-coin": {
+   "text": "No news found in the last 30 days"
+  },
+  "pla-form": {
+   "text": "No news found in the last 30 days"
+  },
+  "dash": {
+   "text": "No news found in the last 30 days"
+  },
+  "rwa-inc": {
+   "text": "No news found in the last 30 days"
+  },
+  "the-graph": {
+   "text": "No news found in the last 30 days"
+  },
+  "hippo-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "gamebuild": {
+   "text": "No news found in the last 30 days"
+  },
+  "ovo-nft-platform": {
+   "text": "No news found in the last 30 days"
+  },
+  "wibx": {
+   "text": "No news found in the last 30 days"
+  },
+  "priors-agent": {
+   "text": "No news found in the last 30 days"
+  },
+  "sweatcoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "elixir-finance": {
+   "text": "No news found in the last 30 days"
+  }
+ },
+ "sectorNews": {},
+ "athMcap": {}
+}
