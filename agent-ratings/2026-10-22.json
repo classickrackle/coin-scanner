@@ -1,0 +1,263 @@
+{
+ "date": "2026-10-22",
+ "ratings": {
+  "arkham": "caution",
+  "cluster-protocol": "caution",
+  "meta-2-2": "caution",
+  "nym": "caution",
+  "dymension": "caution",
+  "mask-network": "caution",
+  "casper-network": "caution",
+  "status": "caution",
+  "nova-3": "caution",
+  "404-gen": "caution",
+  "rubic": "skip",
+  "ondo-diversified-growrth-powered-by-blackrock": "skip",
+  "ondo-8-targeted-income-tr-portfolio": "skip",
+  "green-satoshi-token": "skip",
+  "lagrange": "skip",
+  "orbiter-finance": "skip",
+  "hello-labs": "skip",
+  "poker44": "skip",
+  "karrat": "skip",
+  "bitscrunch-token": "skip",
+  "sealcoin": "skip",
+  "overtake": "skip",
+  "stable-mint-usd": "skip",
+  "block-street": "skip",
+  "blast": "skip",
+  "firmachain": "skip",
+  "hash-2": "skip",
+  "genius-3": "skip",
+  "gittensor": "caution"
+ },
+ "conviction": {
+  "arkham": "low",
+  "cluster-protocol": "low",
+  "meta-2-2": "low",
+  "nym": "low",
+  "dymension": "low",
+  "mask-network": "low",
+  "casper-network": "low",
+  "status": "low",
+  "nova-3": "low",
+  "404-gen": "low"
+ },
+ "cases": {
+  "arkham": {
+   "upside": "Back on a 5.2x volume spike; the product (on-chain analytics, exchange pivoting to a DEX) is real, but no dated catalyst found.",
+   "cheap": "Market treats it as a stale 2024 AI/analytics name; 29x from ATH.",
+   "wrongIf": "No catalyst appears (DEX launch or buyback) within ~60 days and volume fades below $10M/day.",
+   "vsScanner": "Agree on the spike, but a spike is not a catalyst."
+  },
+  "cluster-protocol": {
+   "upside": "Possible AI payment use, but all big listings (KuCoin, Bitget, Coinbase, Upbit) were Sep 2026 and already priced in.",
+   "cheap": "Fell about 70% from its early-Sep launch price; classic post-listing unwind.",
+   "wrongIf": "Price keeps falling after the 4.8x volume bounce.",
+   "vsScanner": "Scanner's spike likely a bounce; story is stale."
+  },
+  "meta-2-2": {
+   "upside": "MetaDAO is a real futarchy launchpad on Solana with active code, but no new dated catalyst found.",
+   "cheap": "Fee switch is off so token has no cash-flow link; spike reason not found.",
+   "wrongIf": "Volume spike fades and price loses the last month's range.",
+   "vsScanner": "Agree it is real, not convinced the spike matters."
+  },
+  "nym": {
+   "upside": "No dated catalyst found in searches; project looks alive on code activity.",
+   "cheap": "Likely ignored because sector interest faded; no reason found for a re-rating.",
+   "wrongIf": "Volume falls back to normal levels within a week of the spike.",
+   "vsScanner": "Agree with the scanner on liveness, not on the upside."
+  },
+  "dymension": {
+   "upside": "No dated catalyst found in searches; project looks alive on code activity.",
+   "cheap": "Likely ignored because sector interest faded; no reason found for a re-rating.",
+   "wrongIf": "Volume falls back to normal levels within a week of the spike.",
+   "vsScanner": "Agree with the scanner on liveness, not on the upside."
+  },
+  "mask-network": {
+   "upside": "No dated catalyst found in searches; project looks alive on code activity.",
+   "cheap": "Likely ignored because sector interest faded; no reason found for a re-rating.",
+   "wrongIf": "Volume falls back to normal levels within a week of the spike.",
+   "vsScanner": "Agree with the scanner on liveness, not on the upside."
+  },
+  "casper-network": {
+   "upside": "No dated catalyst found in searches; project looks alive on code activity.",
+   "cheap": "Likely ignored because sector interest faded; no reason found for a re-rating.",
+   "wrongIf": "Volume falls back to normal levels within a week of the spike.",
+   "vsScanner": "Agree with the scanner on liveness, not on the upside."
+  },
+  "status": {
+   "upside": "No dated catalyst found in searches; project looks alive on code activity.",
+   "cheap": "Likely ignored because sector interest faded; no reason found for a re-rating.",
+   "wrongIf": "Volume falls back to normal levels within a week of the spike.",
+   "vsScanner": "Agree with the scanner on liveness, not on the upside."
+  },
+  "nova-3": {
+   "upside": "No dated catalyst found in searches; project looks alive on code activity.",
+   "cheap": "Likely ignored because sector interest faded; no reason found for a re-rating.",
+   "wrongIf": "Volume falls back to normal levels within a week of the spike.",
+   "vsScanner": "Agree with the scanner on liveness, not on the upside."
+  },
+  "404-gen": {
+   "upside": "No dated catalyst found in searches; project looks alive on code activity.",
+   "cheap": "Likely ignored because sector interest faded; no reason found for a re-rating.",
+   "wrongIf": "Volume falls back to normal levels within a week of the spike.",
+   "vsScanner": "Agree with the scanner on liveness, not on the upside."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing has a dated, verified catalyst; searches returned no news newer than September for any of today's coins.",
+ "athCheck": {
+  "arkham": "unlikely",
+  "cluster-protocol": "stretch",
+  "rubic": "unlikely",
+  "ondo-diversified-growrth-powered-by-blackrock": "realistic",
+  "ondo-8-targeted-income-tr-portfolio": "realistic",
+  "mask-network": "unlikely",
+  "green-satoshi-token": "unlikely",
+  "lagrange": "unlikely",
+  "orbiter-finance": "unlikely",
+  "hello-labs": "unlikely",
+  "casper-network": "unlikely",
+  "poker44": "realistic",
+  "karrat": "unlikely",
+  "bitscrunch-token": "unlikely",
+  "nym": "unlikely",
+  "sealcoin": "unlikely",
+  "overtake": "stretch",
+  "dymension": "unlikely",
+  "stable-mint-usd": "realistic",
+  "block-street": "unlikely",
+  "status": "unlikely",
+  "meta-2-2": "realistic",
+  "blast": "unlikely",
+  "nova-3": "realistic",
+  "404-gen": "stretch",
+  "firmachain": "unlikely",
+  "hash-2": "stretch",
+  "genius-3": "realistic"
+ },
+ "lifeCheck": {
+  "arkham": "alive",
+  "cluster-protocol": "alive",
+  "rubic": "alive",
+  "ondo-diversified-growrth-powered-by-blackrock": "unknown",
+  "ondo-8-targeted-income-tr-portfolio": "unknown",
+  "mask-network": "alive",
+  "green-satoshi-token": "unknown",
+  "lagrange": "zombie",
+  "orbiter-finance": "unknown",
+  "hello-labs": "unknown",
+  "casper-network": "alive",
+  "poker44": "unknown",
+  "karrat": "unknown",
+  "bitscrunch-token": "zombie",
+  "nym": "alive",
+  "sealcoin": "zombie",
+  "overtake": "zombie",
+  "dymension": "unknown",
+  "stable-mint-usd": "alive",
+  "block-street": "quiet",
+  "status": "alive",
+  "meta-2-2": "alive",
+  "blast": "zombie",
+  "nova-3": "alive",
+  "404-gen": "alive",
+  "firmachain": "alive",
+  "hash-2": "alive",
+  "genius-3": "zombie"
+ },
+ "news": {
+  "arkham": {
+   "text": "No news in the last 30 days"
+  },
+  "cluster-protocol": {
+   "text": "Listed on KuCoin, Bitget, Coinbase and Upbit in early September 2026; price has since fallen sharply.",
+   "date": "2026-09-08",
+   "url": "https://cryptobriefing.com/upbit-lists-cluster-protocol-hemi-useless-tokens/"
+  },
+  "rubic": {
+   "text": "No news in the last 30 days"
+  },
+  "ondo-diversified-growrth-powered-by-blackrock": {
+   "text": "No news in the last 30 days"
+  },
+  "ondo-8-targeted-income-tr-portfolio": {
+   "text": "No news in the last 30 days"
+  },
+  "mask-network": {
+   "text": "No news in the last 30 days"
+  },
+  "green-satoshi-token": {
+   "text": "No news in the last 30 days"
+  },
+  "lagrange": {
+   "text": "No news in the last 30 days"
+  },
+  "orbiter-finance": {
+   "text": "No news in the last 30 days"
+  },
+  "hello-labs": {
+   "text": "No news in the last 30 days"
+  },
+  "casper-network": {
+   "text": "No news in the last 30 days"
+  },
+  "poker44": {
+   "text": "No news in the last 30 days"
+  },
+  "karrat": {
+   "text": "No news in the last 30 days"
+  },
+  "bitscrunch-token": {
+   "text": "No news in the last 30 days"
+  },
+  "nym": {
+   "text": "No news in the last 30 days"
+  },
+  "sealcoin": {
+   "text": "No news in the last 30 days"
+  },
+  "overtake": {
+   "text": "No news in the last 30 days"
+  },
+  "dymension": {
+   "text": "No news in the last 30 days"
+  },
+  "stable-mint-usd": {
+   "text": "No news in the last 30 days"
+  },
+  "block-street": {
+   "text": "No news in the last 30 days"
+  },
+  "status": {
+   "text": "No news in the last 30 days"
+  },
+  "meta-2-2": {
+   "text": "No news in the last 30 days"
+  },
+  "blast": {
+   "text": "No news in the last 30 days"
+  },
+  "nova-3": {
+   "text": "No news in the last 30 days"
+  },
+  "404-gen": {
+   "text": "No news in the last 30 days"
+  },
+  "firmachain": {
+   "text": "No news in the last 30 days"
+  },
+  "hash-2": {
+   "text": "Rallied about 40% on 9 Oct on thin volume as Franklin Templeton/Animoca tokenization news broke; not HASH-specific.",
+   "date": "2026-10-09",
+   "url": "https://ourcryptotalk.com/news/why-provenance-blockchain-hash-up-39-6-percent-today"
+  },
+  "genius-3": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "Seven of today's coins are AI-tagged (Arkham, Cluster, Lagrange, Poker44, Sealcoin, Nova, 404-GEN, bitsCrunch). No sector news found for the last 7 days; most are zombies or Bittensor subnets with thin trading, so the sector does not help small coins."
+ }
+}

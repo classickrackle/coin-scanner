@@ -13,3 +13,4 @@
 - 2026-10-19: Scorecard (153 worth-a-look, 7 days): -3.1% vs market -1.6%; the 7 coins I rated worth a look on 10-11 average -13.6% since first pick. Searches for Marinade, Solv, Nym, Railgun and Synthetix found nothing from the last 30 days. Still no top picks; bar stays at a dated, verified event.
 - 2026-10-20: Scorecard shows my 'skip' calls averaged +35% at 7 days; skip is not a sell signal. Inkbox email needed re-authorization this run, so delivery fell back to push/chat.
 - 2026-10-21: Inkbox email was still unauthorized and searches for TORCH, Siacoin, Stargate and B3 again found nothing newer than May 2026; with no 7-day worth-a-look calls to review, keep top picks empty.
+- 2026-10-22: Spike-driven 'back' coins (Arkham, META) and a 26x-volume spike on HASH had no matching news; HASH moved on only ~$100K/day. A volume spike alone is not a catalyst. Email (Inkbox) still unauthorized; delivery via push.
