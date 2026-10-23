@@ -1,0 +1,294 @@
+{
+ "date": "2026-10-23",
+ "ratings": {
+  "pair": "skip",
+  "bifrost": "caution",
+  "ondo-magnificent-7-and-crypto-portfolio": "skip",
+  "w-ai-parked": "caution",
+  "xpla": "caution",
+  "wax": "skip",
+  "hooked-protocol": "skip",
+  "zignaly": "caution",
+  "matrix-ai-network": "skip",
+  "ambire-wallet": "caution",
+  "logicnet": "caution",
+  "tao-private-network": "caution",
+  "vtrading": "skip",
+  "spain": "caution",
+  "ark": "skip",
+  "iostoken": "skip",
+  "gradients": "caution",
+  "asentum": "skip",
+  "aspecta": "caution",
+  "polymesh": "caution",
+  "port3-network": "skip",
+  "og-fan-token": "caution",
+  "iagon": "caution",
+  "sophon": "caution",
+  "synfutures": "caution",
+  "numa-x": "skip",
+  "bitlayer-bitvm": "caution",
+  "bubblemaps": "caution",
+  "echelon-prime": "caution",
+  "aztec": "caution",
+  "xdce-crowd-sale": "caution",
+  "gaia-2": "skip",
+  "bitagent-rizzo": "skip",
+  "dar-open-network": "skip",
+  "sekuya-2": "skip",
+  "archai": "skip",
+  "lympid": "skip"
+ },
+ "conviction": {
+  "bifrost": "low",
+  "w-ai-parked": "low",
+  "xpla": "low",
+  "zignaly": "low",
+  "ambire-wallet": "low",
+  "logicnet": "low",
+  "tao-private-network": "low",
+  "spain": "low",
+  "gradients": "low",
+  "aspecta": "low",
+  "polymesh": "low",
+  "og-fan-token": "low",
+  "iagon": "low",
+  "sophon": "low",
+  "synfutures": "low"
+ },
+ "cases": {
+  "bifrost": {
+   "upside": "No dated catalyst verified; any move would need a sector rebound or the unconfirmed volume surge to hold.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Scanner flags a trading spike (6.1x normal) but I could not confirm any cause."
+  },
+  "w-ai-parked": {
+   "upside": "No dated catalyst verified; any move would need a sector rebound or the unconfirmed volume surge to hold.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Scanner flags a trading spike (17.0x normal) but I could not confirm any cause."
+  },
+  "xpla": {
+   "upside": "No dated catalyst verified; any move would need a sector rebound or the unconfirmed volume surge to hold.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Scanner flags a trading spike (5.5x normal) but I could not confirm any cause."
+  },
+  "zignaly": {
+   "upside": "No dated catalyst verified; any move would need a sector rebound or the unconfirmed volume surge to hold.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Scanner flags a trading spike (13.1x normal); score up 15 since first picked (34 \u2192 49) but I could not confirm any cause."
+  },
+  "ambire-wallet": {
+   "upside": "No dated catalyst verified; would need a sector rebound.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Agree with the scanner on the numbers, but nothing confirms a story."
+  },
+  "logicnet": {
+   "upside": "No dated catalyst verified; any move would need a sector rebound or the unconfirmed volume surge to hold.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Scanner flags a trading spike (6.2x normal) but I could not confirm any cause."
+  },
+  "tao-private-network": {
+   "upside": "No dated catalyst verified; would need a sector rebound.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Agree with the scanner on the numbers, but nothing confirms a story."
+  },
+  "spain": {
+   "upside": "No dated catalyst verified; would need a sector rebound.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Agree with the scanner on the numbers, but nothing confirms a story."
+  },
+  "gradients": {
+   "upside": "No dated catalyst verified; would need a sector rebound.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Agree with the scanner on the numbers, but nothing confirms a story."
+  },
+  "aspecta": {
+   "upside": "No dated catalyst verified; would need a sector rebound.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Agree with the scanner on the numbers, but nothing confirms a story."
+  },
+  "polymesh": {
+   "upside": "No dated catalyst verified; would need a sector rebound.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Agree with the scanner on the numbers, but nothing confirms a story."
+  },
+  "og-fan-token": {
+   "upside": "No dated catalyst verified; would need a sector rebound.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Agree with the scanner on the numbers, but nothing confirms a story."
+  },
+  "iagon": {
+   "upside": "No dated catalyst verified; would need a sector rebound.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Agree with the scanner on the numbers, but nothing confirms a story."
+  },
+  "sophon": {
+   "upside": "No dated catalyst verified; any move would need a sector rebound or the unconfirmed volume surge to hold.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Scanner flags a trading spike (4.9x normal) but I could not confirm any cause."
+  },
+  "synfutures": {
+   "upside": "No dated catalyst verified; would need a sector rebound.",
+   "cheap": "Could not find a reason it is mispriced; likely just out of favour.",
+   "wrongIf": "Daily trading falls back to its normal level or price gives back the recent jump within a week.",
+   "vsScanner": "Agree with the scanner on the numbers, but nothing confirms a story."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin has a verified, dated catalyst; searches found no news newer than early 2026 on any of them.",
+ "athCheck": {
+  "pair": "stretch",
+  "bifrost": "stretch",
+  "ondo-magnificent-7-and-crypto-portfolio": "realistic",
+  "w-ai-parked": "stretch",
+  "xpla": "unlikely",
+  "wax": "unlikely",
+  "hooked-protocol": "unlikely",
+  "zignaly": "stretch",
+  "matrix-ai-network": "unlikely",
+  "ambire-wallet": "stretch",
+  "logicnet": "stretch",
+  "tao-private-network": "stretch",
+  "vtrading": "unlikely",
+  "spain": "stretch",
+  "ark": "unlikely",
+  "iostoken": "unlikely",
+  "gradients": "stretch",
+  "asentum": "stretch",
+  "aspecta": "stretch",
+  "polymesh": "stretch",
+  "port3-network": "unlikely",
+  "og-fan-token": "stretch",
+  "iagon": "stretch",
+  "sophon": "unlikely",
+  "synfutures": "unlikely",
+  "numa-x": "realistic"
+ },
+ "lifeCheck": {
+  "pair": "quiet",
+  "bifrost": "quiet",
+  "ondo-magnificent-7-and-crypto-portfolio": "quiet",
+  "w-ai-parked": "alive",
+  "xpla": "quiet",
+  "wax": "alive",
+  "hooked-protocol": "quiet",
+  "zignaly": "quiet",
+  "matrix-ai-network": "zombie",
+  "ambire-wallet": "alive",
+  "logicnet": "zombie",
+  "tao-private-network": "zombie",
+  "vtrading": "quiet",
+  "spain": "quiet",
+  "ark": "alive",
+  "iostoken": "alive",
+  "gradients": "alive",
+  "asentum": "zombie",
+  "aspecta": "zombie",
+  "polymesh": "alive",
+  "port3-network": "zombie",
+  "og-fan-token": "quiet",
+  "iagon": "quiet",
+  "sophon": "alive",
+  "synfutures": "alive",
+  "numa-x": "alive"
+ },
+ "news": {
+  "pair": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "bifrost": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "ondo-magnificent-7-and-crypto-portfolio": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "w-ai-parked": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "xpla": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "wax": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "hooked-protocol": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "zignaly": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "matrix-ai-network": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "ambire-wallet": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "logicnet": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "tao-private-network": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "vtrading": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "spain": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "ark": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "iostoken": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "gradients": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "asentum": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "aspecta": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "polymesh": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "port3-network": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "og-fan-token": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "iagon": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "sophon": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "synfutures": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  },
+  "numa-x": {
+   "text": "No news found in the last 30 days (searches returned nothing recent)"
+  }
+ },
+ "sectorNews": {
+  "AI": "Five Bittensor subnet tokens are on the list; searches found nothing newer than spring 2026, so no verified sector news.",
+  "Infrastructure": "No verified recent news found for this sector.",
+  "Gaming": "No verified recent news found for this sector."
+ }
+}

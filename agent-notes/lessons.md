@@ -14,3 +14,4 @@
 - 2026-10-20: Scorecard shows my 'skip' calls averaged +35% at 7 days; skip is not a sell signal. Inkbox email needed re-authorization this run, so delivery fell back to push/chat.
 - 2026-10-21: Inkbox email was still unauthorized and searches for TORCH, Siacoin, Stargate and B3 again found nothing newer than May 2026; with no 7-day worth-a-look calls to review, keep top picks empty.
 - 2026-10-22: Spike-driven 'back' coins (Arkham, META) and a 26x-volume spike on HASH had no matching news; HASH moved on only ~$100K/day. A volume spike alone is not a catalyst. Email (Inkbox) still unauthorized; delivery via push.
+- 2026-10-23: Searches again returned nothing recent on any of 26 coins (Bifrost, Zignaly, XPLA, Bittensor subnets). 5 daily runs with no top picks; keep the bar at a dated, verified event. Inkbox email still unauthorized.
