@@ -1,0 +1,317 @@
+{
+ "date": "2026-10-24",
+ "ratings": {
+  "clearpool": "caution",
+  "alpha-trader-exchange-atx": "caution",
+  "sahara-ai": "caution",
+  "redstone-oracles": "caution",
+  "mira-3": "caution",
+  "polyswarm": "caution",
+  "mezo": "caution",
+  "creator-2": "caution",
+  "claus-2": "caution",
+  "resolv": "caution",
+  "interfold": "caution",
+  "xphere": "caution",
+  "pocket-network": "caution",
+  "bitcast": "caution",
+  "holoworld": "caution",
+  "magic-eden": "caution",
+  "lombard-protocol": "caution",
+  "rujira": "caution",
+  "reef": "skip",
+  "jurassic-finance": "skip",
+  "everton-fan-token": "skip",
+  "nfprompt-token": "skip",
+  "dimitra": "skip",
+  "myshell": "skip",
+  "patrol-tao-com": "skip",
+  "orderly-network": "skip",
+  "katana-network-token": "skip",
+  "althea": "skip",
+  "safe-scan": "skip",
+  "quack-ai": "skip",
+  "stability-world-ai": "skip",
+  "rio-defi": "caution",
+  "compute-horde": "caution",
+  "verge": "skip",
+  "immutable-x": "caution",
+  "iota": "caution",
+  "brevis": "caution",
+  "ovo-nft-platform": "skip",
+  "numeraire": "caution",
+  "eywa": "skip"
+ },
+ "conviction": {
+  "clearpool": "low",
+  "alpha-trader-exchange-atx": "low",
+  "sahara-ai": "low",
+  "redstone-oracles": "low",
+  "mira-3": "low",
+  "polyswarm": "low",
+  "mezo": "low",
+  "creator-2": "low",
+  "claus-2": "low",
+  "resolv": "low",
+  "interfold": "low",
+  "xphere": "low",
+  "pocket-network": "low",
+  "bitcast": "low",
+  "holoworld": "low",
+  "magic-eden": "low",
+  "lombard-protocol": "low",
+  "rujira": "low"
+ },
+ "cases": {
+  "clearpool": {
+   "upside": "Credit-lending protocol with RWA angle; no dated catalyst found.",
+   "cheap": "Market treats it as a faded 2024 DeFi name; nothing found to change that.",
+   "wrongIf": "Daily trading stays under ~$1M with no new institutional borrower announced.",
+   "vsScanner": "Scanner score fine, but ATH multiple (76x) is unrealistic."
+  },
+  "alpha-trader-exchange-atx": {
+   "upside": "Bittensor subnet 63 emissions could grow if TAO subnet interest returns; no dated event.",
+   "cheap": "Subnet tokens are illiquid and little covered.",
+   "wrongIf": "Subnet price falls with TAO or emissions drop.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "sahara-ai": {
+   "upside": "Unlock delays announced June 2026 ease near-term supply pressure; no dated launch found.",
+   "cheap": "Sentiment hurt by the June crash and sell pressure.",
+   "wrongIf": "Large team or investor transfers to exchanges resume.",
+   "vsScanner": "Scanner can't see the unlock history; I'm more cautious."
+  },
+  "redstone-oracles": {
+   "upside": "Oracle used in DeFi/RWA; the 4.7x volume spike has no news behind it I could find.",
+   "cheap": "Oracle space is crowded and 72% of supply was still locked at launch, so unlocks weigh.",
+   "wrongIf": "Volume fades back to normal within days with no listing or integration news.",
+   "vsScanner": "Score jump is real but spike is unexplained; agree only on the quality of the project."
+  },
+  "mira-3": {
+   "upside": "AI verification network; no dated event found.",
+   "cheap": "Down ~95% from the ATH, mostly from post-airdrop selling.",
+   "wrongIf": "Further unlocks or airdrop sellers keep pressure on.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "polyswarm": {
+   "upside": "116x volume spike with no news; the only NCT news I found is from 2022.",
+   "cheap": "Old threat-intel token, thin interest.",
+   "wrongIf": "Volume returns to normal without any announced reason.",
+   "vsScanner": "Scanner's spike may be a thin-market pump; skeptical."
+  },
+  "mezo": {
+   "upside": "Bitcoin-backed DeFi chain; no dated event found.",
+   "cheap": "Tiny $1.4M market cap, little liquidity and coverage.",
+   "wrongIf": "Daily trading stays under $100K.",
+   "vsScanner": "ATH multiple of 51x is a stretch."
+  },
+  "creator-2": {
+   "upside": "Bittensor subnet 98; no dated event.",
+   "cheap": "Illiquid subnet token.",
+   "wrongIf": "TAO weakens or subnet emissions fall.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "claus-2": {
+   "upside": "AI agent framework token; no dated event found.",
+   "cheap": "Almost no coverage.",
+   "wrongIf": "No product update by year-end.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "resolv": {
+   "upside": "Stablecoin protocol; no dated event found.",
+   "cheap": "Stablecoin issuer tokens are often unlocked-heavy and out of favor.",
+   "wrongIf": "Its stablecoin loses its peg or locked value keeps falling.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "interfold": {
+   "upside": "Privacy-compute network; governance and public node participation are 'coming next' with no date.",
+   "cheap": "Token only launched Aug 2026 and the Upbit rally already faded.",
+   "wrongIf": "Governance/node launch slips past year-end.",
+   "vsScanner": "14.7x volume spike has no news; mild disagreement."
+  },
+  "xphere": {
+   "upside": "Layer-1 with no dated catalyst found.",
+   "cheap": "Small unfamiliar chain, little independent coverage.",
+   "wrongIf": "Trading volume falls under $100K a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "pocket-network": {
+   "upside": "Long-running DePIN RPC network with real usage; no dated event.",
+   "cheap": "Old high of 396x is from the 2021 peak and not a sensible target.",
+   "wrongIf": "Relays/revenue keep shrinking.",
+   "vsScanner": "ATH multiple is unrealistic; real project, though."
+  },
+  "bitcast": {
+   "upside": "Bittensor subnet 93; no dated event.",
+   "cheap": "Subnet tokens are lightly covered.",
+   "wrongIf": "TAO weakens or emissions drop.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "holoworld": {
+   "upside": "AI agent platform with Binance airdrop history; no dated event found.",
+   "cheap": "Post-airdrop sell-off and unlock overhang.",
+   "wrongIf": "Further unlocks push the price lower with no new product traction.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "magic-eden": {
+   "upside": "NFT marketplace with real volume; no dated token event found.",
+   "cheap": "NFT sector is out of favor.",
+   "wrongIf": "Marketplace volume keeps declining.",
+   "vsScanner": "ATH multiple of 262x is unrealistic."
+  },
+  "lombard-protocol": {
+   "upside": "Bitcoin DeFi with the largest-in-class LBTC product; no dated event, price near its July 2026 low.",
+   "cheap": "Fell from a $1.70 peak in March 2026.",
+   "wrongIf": "New lows below the July 2026 low.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "rujira": {
+   "upside": "THORChain-linked DeFi app; no dated event found.",
+   "cheap": "Small, thinly covered.",
+   "wrongIf": "Volume stays under $100K a day.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing has a dated, verified catalyst; searches found no news newer than August 2026 on any listed coin.",
+ "athCheck": {
+  "clearpool": "unlikely",
+  "reef": "unlikely",
+  "alpha-trader-exchange-atx": "stretch",
+  "sahara-ai": "unlikely",
+  "redstone-oracles": "stretch",
+  "jurassic-finance": "stretch",
+  "mira-3": "unlikely",
+  "polyswarm": "unlikely",
+  "mezo": "unlikely",
+  "creator-2": "stretch",
+  "claus-2": "stretch",
+  "resolv": "unlikely",
+  "interfold": "realistic",
+  "xphere": "stretch",
+  "pocket-network": "unlikely",
+  "nfprompt-token": "unlikely",
+  "bitcast": "realistic",
+  "holoworld": "stretch",
+  "dimitra": "unlikely",
+  "myshell": "unlikely",
+  "magic-eden": "unlikely",
+  "lombard-protocol": "stretch",
+  "patrol-tao-com": "stretch",
+  "everton-fan-token": "unlikely",
+  "rujira": "stretch"
+ },
+ "lifeCheck": {
+  "clearpool": "quiet",
+  "reef": "quiet",
+  "alpha-trader-exchange-atx": "quiet",
+  "sahara-ai": "alive",
+  "redstone-oracles": "alive",
+  "jurassic-finance": "quiet",
+  "mira-3": "quiet",
+  "polyswarm": "alive",
+  "mezo": "quiet",
+  "creator-2": "quiet",
+  "claus-2": "quiet",
+  "resolv": "quiet",
+  "interfold": "alive",
+  "xphere": "alive",
+  "pocket-network": "alive",
+  "nfprompt-token": "zombie",
+  "bitcast": "alive",
+  "holoworld": "quiet",
+  "dimitra": "zombie",
+  "myshell": "zombie",
+  "magic-eden": "alive",
+  "lombard-protocol": "quiet",
+  "patrol-tao-com": "zombie",
+  "everton-fan-token": "quiet",
+  "rujira": "quiet"
+ },
+ "news": {
+  "clearpool": {
+   "text": "No news in the last 30 days"
+  },
+  "alpha-trader-exchange-atx": {
+   "text": "No news in the last 30 days"
+  },
+  "sahara-ai": {
+   "text": "Team delayed investor and team unlocks in June 2026 after a sharp crash.",
+   "date": "2026-06-24",
+   "url": "https://coinmarketcap.com/cmc-ai/sahara-ai/latest-updates/"
+  },
+  "redstone-oracles": {
+   "text": "No news in the last 30 days"
+  },
+  "mira-3": {
+   "text": "No news in the last 30 days"
+  },
+  "polyswarm": {
+   "text": "No news in the last 30 days"
+  },
+  "mezo": {
+   "text": "No news in the last 30 days"
+  },
+  "creator-2": {
+   "text": "No news in the last 30 days"
+  },
+  "claus-2": {
+   "text": "No news in the last 30 days"
+  },
+  "resolv": {
+   "text": "No news in the last 30 days"
+  },
+  "interfold": {
+   "text": "Token launched Aug 19, 2026 and listed on Upbit Aug 23, then pulled back; governance and node launch still undated.",
+   "date": "2026-08-23",
+   "url": "https://coinmarketcap.com/cmc-ai/interfold/latest-updates/"
+  },
+  "xphere": {
+   "text": "No news in the last 30 days"
+  },
+  "pocket-network": {
+   "text": "No news in the last 30 days"
+  },
+  "bitcast": {
+   "text": "No news in the last 30 days"
+  },
+  "holoworld": {
+   "text": "No news in the last 30 days"
+  },
+  "magic-eden": {
+   "text": "No news in the last 30 days"
+  },
+  "lombard-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "rujira": {
+   "text": "No news in the last 30 days"
+  },
+  "reef": {
+   "text": "No news in the last 30 days"
+  },
+  "jurassic-finance": {
+   "text": "No news in the last 30 days"
+  },
+  "everton-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "nfprompt-token": {
+   "text": "No news in the last 30 days"
+  },
+  "dimitra": {
+   "text": "No news in the last 30 days"
+  },
+  "myshell": {
+   "text": "No news in the last 30 days"
+  },
+  "patrol-tao-com": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "Eight AI/Bittensor coins on the list; searches found no fresh sector news. Subnet tokens are illiquid and follow TAO, so they offer little for small-coin holders.",
+  "DeFi": "Several DeFi coins; no fresh sector news found. Post-airdrop unlock selling is still the main drag."
+ },
+ "athMcap": {}
+}
