@@ -20988,7 +20988,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -19.14099616858238,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21004,7 +21010,13 @@
   "life": "alive",
   "back": "new exchange listing (Upbit, Bithumb, Coinone); trading spike (4.2x normal)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 14.754098360655732,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21020,7 +21032,13 @@
   "life": "unknown",
   "back": "new exchange listing (Upbit, Bitvavo, Upbit Indonesia ); trading spike (5.2x normal)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -22.22741017035281,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21036,7 +21054,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -21.468644028066443,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21052,7 +21076,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -0.48350474155203216,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21068,7 +21098,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -13.586956521739136,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21084,7 +21120,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -15.512465373961227,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21100,7 +21142,13 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -18.252394991602195,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21116,7 +21164,13 @@
   "life": "unknown",
   "back": "new exchange listing (Bitbank)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -2.0851316522495056,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21132,7 +21186,13 @@
   "life": "unknown",
   "back": "trading spike (4.7x normal)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -11.325410896545108,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21148,7 +21208,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -13.406425454747028,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21164,7 +21230,13 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -27.319967099433327,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21180,7 +21252,13 @@
   "life": "alive",
   "back": "new exchange listing (Kraken); trading spike (4.5x normal)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -7.179875267741909,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21196,7 +21274,13 @@
   "life": "quiet",
   "back": "new exchange listing (Crypto.com Exchange, Indodax)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -8.431501164627452,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21212,7 +21296,13 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -6.399943048337708,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21228,7 +21318,13 @@
   "life": "alive",
   "back": "new exchange listing (LBank)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -19.200000000000006,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21244,7 +21340,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 18.79266259588539,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21260,7 +21362,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 17.109897266190877,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21276,7 +21384,13 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 25.19580742434304,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21292,7 +21406,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -3.8674033149171283,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21308,7 +21428,13 @@
   "life": "alive",
   "back": "trading spike (16.0x normal)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -1.6903914590747249,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21324,7 +21450,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -2.2715092057337127,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21340,7 +21472,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -18.339605595926212,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21356,7 +21494,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -18.404907975460116,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21372,7 +21516,13 @@
   "life": "alive",
   "back": "trading spike (4.9x normal)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -34.70503443592977,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21388,7 +21538,13 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -7.127357871683337,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21404,7 +21560,13 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -5.13103801453817,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21420,7 +21582,13 @@
   "life": "zombie",
   "back": "trading spike (190.5x normal)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -33.09426229508197,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21436,7 +21604,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -6.896551724137923,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21452,7 +21626,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -13.965497432542795,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21468,7 +21648,13 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -9.255024296598469,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21484,7 +21670,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -2.54476623893114,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21500,7 +21692,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -8.446866485013626,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21516,7 +21714,13 @@
   "life": "unknown",
   "back": "new exchange listing (SAFEbit)",
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -7.541808106491821,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -21532,7 +21736,13 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -7.344632768361592,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -21548,7 +21758,13 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2759619340538.985,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -3.6495075784032993,
+    "mkt": -2.51904158579207,
+    "on": "2026-10-24"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -24348,7 +24564,8 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24363,7 +24580,8 @@
   "life": "unknown",
   "back": "trading spike (6.1x normal)",
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24378,7 +24596,8 @@
   "life": "unknown",
   "back": "trading spike (138.2x normal)",
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24393,7 +24612,8 @@
   "life": "alive",
   "back": "trading spike (17.0x normal)",
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24408,7 +24628,8 @@
   "life": "unknown",
   "back": "trading spike (5.5x normal)",
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24423,7 +24644,8 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24438,7 +24660,8 @@
   "life": "unknown",
   "back": "trading spike (67.4x normal)",
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24453,7 +24676,8 @@
   "life": "unknown",
   "back": "trading spike (13.1x normal); score up 15 since first picked (34 → 49)",
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24468,7 +24692,8 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24483,7 +24708,8 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24498,7 +24724,8 @@
   "life": "zombie",
   "back": "trading spike (6.2x normal)",
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24513,7 +24740,8 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24528,7 +24756,8 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24543,7 +24772,8 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24558,7 +24788,8 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24573,7 +24804,8 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24588,7 +24820,8 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24603,7 +24836,8 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24618,7 +24852,8 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24633,7 +24868,8 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24648,7 +24884,8 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-10-23",
@@ -24663,7 +24900,8 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24678,7 +24916,8 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24693,7 +24932,8 @@
   "life": "alive",
   "back": "trading spike (4.9x normal)",
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24708,7 +24948,8 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2728491010599.2705,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-10-23",
@@ -24723,6 +24964,382 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2728491010599.2705,
+  "results": {},
+  "agent": "skip"
+ },
+ {
+  "d": "2026-10-24",
+  "id": "clearpool",
+  "name": "Clearpool",
+  "symbol": "cpool",
+  "price": 0.0334719,
+  "mcap": 33253793,
+  "score": 65,
+  "athX": 190.5,
+  "band": "Small",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "reef",
+  "name": "Reef",
+  "symbol": "reef",
+  "price": 0.00004674,
+  "mcap": 1772873,
+  "score": 64,
+  "athX": 3073.4,
+  "band": "Micro",
+  "life": "quiet",
+  "back": "new exchange listing (Poloniex); trading spike (5.1x normal)",
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "alpha-trader-exchange-atx",
+  "name": "Quantum Innovate",
+  "symbol": "sn63",
+  "price": 1.15,
+  "mcap": 6381611,
+  "score": 62,
+  "athX": 34.9,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "sahara-ai",
+  "name": "Sahara AI",
+  "symbol": "sahara",
+  "price": 0.00819227,
+  "mcap": 34677710,
+  "score": 58,
+  "athX": 49,
+  "band": "Small",
+  "life": "alive",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "redstone-oracles",
+  "name": "RedStone",
+  "symbol": "red",
+  "price": 0.152775,
+  "mcap": 84735302,
+  "score": 58,
+  "athX": 15.3,
+  "band": "Mid",
+  "life": "alive",
+  "back": "trading spike (4.7x normal); score up 19 since first picked (39 → 58)",
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "jurassic-finance",
+  "name": "Jurassic Finance",
+  "symbol": "rawr",
+  "price": 0.03612979,
+  "mcap": 932085,
+  "score": 55,
+  "athX": 14.1,
+  "band": "Micro",
+  "life": "unknown",
+  "back": "trading spike (30.8x normal)",
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "mira-3",
+  "name": "Mira",
+  "symbol": "mira",
+  "price": 0.0489818,
+  "mcap": 17552338,
+  "score": 54,
+  "athX": 136.8,
+  "band": "Small",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "polyswarm",
+  "name": "PolySwarm",
+  "symbol": "nct",
+  "price": 0.01007995,
+  "mcap": 19001650,
+  "score": 49,
+  "athX": 42.6,
+  "band": "Small",
+  "life": "alive",
+  "back": "trading spike (116.3x normal)",
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "mezo",
+  "name": "MEZO",
+  "symbol": "mezo",
+  "price": 0.00291164,
+  "mcap": 1455826,
+  "score": 46,
+  "athX": 127.5,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "creator-2",
+  "name": "ForeverMoney",
+  "symbol": "sn98",
+  "price": 0.538609,
+  "mcap": 2074905,
+  "score": 45,
+  "athX": 18,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "claus-2",
+  "name": "claus",
+  "symbol": "claus",
+  "price": 0.00431316,
+  "mcap": 4277700,
+  "score": 45,
+  "athX": 12.7,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "resolv",
+  "name": "Resolv",
+  "symbol": "resolv",
+  "price": 0.0176124,
+  "mcap": 9064123,
+  "score": 44,
+  "athX": 58,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "interfold",
+  "name": "The Interfold",
+  "symbol": "fold",
+  "price": 0.053553,
+  "mcap": 18155434,
+  "score": 41,
+  "athX": 8.2,
+  "band": "Small",
+  "life": "alive",
+  "back": "trading spike (14.7x normal)",
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "xphere",
+  "name": "Xphere",
+  "symbol": "xp",
+  "price": 0.00821201,
+  "mcap": 25069180,
+  "score": 39,
+  "athX": 24.5,
+  "band": "Small",
+  "life": "alive",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "pocket-network",
+  "name": "Pocket Network",
+  "symbol": "pokt",
+  "price": 0.00784911,
+  "mcap": 18771229,
+  "score": 39,
+  "athX": 990.6,
+  "band": "Small",
+  "life": "alive",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "nfprompt-token",
+  "name": "NFPrompt",
+  "symbol": "nfp",
+  "price": 0.00020177,
+  "mcap": 201413,
+  "score": 38,
+  "athX": 14496.7,
+  "band": "Micro",
+  "life": "zombie",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "bitcast",
+  "name": "Bitcast",
+  "symbol": "sn93",
+  "price": 4,
+  "mcap": 17273871,
+  "score": 38,
+  "athX": 7.2,
+  "band": "Small",
+  "life": "alive",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "holoworld",
+  "name": "Holoworld",
+  "symbol": "holo",
+  "price": 0.059947,
+  "mcap": 49967528,
+  "score": 38,
+  "athX": 32.3,
+  "band": "Small",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "dimitra",
+  "name": "Dimitra",
+  "symbol": "dmtr",
+  "price": 0.00837144,
+  "mcap": 6631854,
+  "score": 37,
+  "athX": 1776.9,
+  "band": "Micro",
+  "life": "zombie",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "myshell",
+  "name": "MyShell",
+  "symbol": "shell",
+  "price": 0.02304625,
+  "mcap": 6219981,
+  "score": 36,
+  "athX": 74.1,
+  "band": "Micro",
+  "life": "zombie",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "magic-eden",
+  "name": "Magic Eden",
+  "symbol": "me",
+  "price": 0.064871,
+  "mcap": 40259450,
+  "score": 36,
+  "athX": 655.1,
+  "band": "Small",
+  "life": "alive",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "lombard-protocol",
+  "name": "Lombard",
+  "symbol": "bard",
+  "price": 0.119021,
+  "mcap": 47196269,
+  "score": 34,
+  "athX": 35.7,
+  "band": "Small",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "patrol-tao-com",
+  "name": "grail",
+  "symbol": "sn81",
+  "price": 1.25,
+  "mcap": 5948606,
+  "score": 33,
+  "athX": 18.3,
+  "band": "Micro",
+  "life": "zombie",
+  "back": null,
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "everton-fan-token",
+  "name": "Everton Fan Token",
+  "symbol": "efc",
+  "price": 0.0456934,
+  "mcap": 376524,
+  "score": 31,
+  "athX": 271.9,
+  "band": "Micro",
+  "life": "unknown",
+  "back": "trading spike (4.6x normal)",
+  "globalMcap": 2690103381741.247,
+  "results": {}
+ },
+ {
+  "d": "2026-10-24",
+  "id": "rujira",
+  "name": "Rujira",
+  "symbol": "ruji",
+  "price": 0.156439,
+  "mcap": 11661452,
+  "score": 31,
+  "athX": 27.8,
+  "band": "Small",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2690103381741.247,
   "results": {}
  }
 ]
