@@ -1,0 +1,401 @@
+{
+ "date": "2026-10-25",
+ "ratings": {
+  "gamebuild": "caution",
+  "kellyclaude": "skip",
+  "hunt-token": "caution",
+  "mossland": "caution",
+  "woo-network": "caution",
+  "hooked": "skip",
+  "definitive": "caution",
+  "ecash": "caution",
+  "superfluid": "caution",
+  "bora": "caution",
+  "hippo-protocol": "caution",
+  "steem": "caution",
+  "belgium-fan-token": "skip",
+  "everdome": "skip",
+  "punkstrategy": "caution",
+  "everipedia": "skip",
+  "ankr": "caution",
+  "arsenal-fan-token": "skip",
+  "tokamak-network": "caution",
+  "metadium": "caution",
+  "tagger": "caution",
+  "valencia-cf-fan-token": "skip",
+  "gittensor": "caution",
+  "bordrless": "skip",
+  "measurable-data-token": "caution",
+  "airswap": "skip",
+  "ast-fun": "skip",
+  "uxlink": "skip",
+  "blocklords": "caution",
+  "celo": "caution",
+  "syrup": "caution",
+  "capybobo": "skip",
+  "xai-blockchain": "skip",
+  "for-sale": "skip",
+  "threshold-network-token": "skip",
+  "aixdrop": "skip",
+  "orbofi-ai": "skip",
+  "world-of-dypians": "caution",
+  "mezo": "caution",
+  "epic-chain": "skip",
+  "staynex": "caution"
+ },
+ "conviction": {
+  "gamebuild": "low",
+  "hunt-token": "low",
+  "mossland": "low",
+  "woo-network": "low",
+  "definitive": "low",
+  "ecash": "low",
+  "superfluid": "low",
+  "bora": "low",
+  "hippo-protocol": "low",
+  "steem": "low",
+  "punkstrategy": "low",
+  "ankr": "low",
+  "tokamak-network": "low",
+  "metadium": "low",
+  "tagger": "low",
+  "gittensor": "medium",
+  "measurable-data-token": "low",
+  "blocklords": "low",
+  "celo": "low",
+  "syrup": "low",
+  "world-of-dypians": "low",
+  "mezo": "low",
+  "staynex": "low"
+ },
+ "cases": {
+  "gamebuild": {
+   "upside": "Binance Alpha listing exposure could bring points-farmers back; no dated event found.",
+   "cheap": "Price is near its Aug 2026 all-time low and ~9x below its 2024 peak; no sign anyone is waiting for it.",
+   "wrongIf": "Volume falls back under its normal level within a week.",
+   "vsScanner": "Spike is unexplained; Binance Alpha exposure usually brings short farming flows, not lasting buyers."
+  },
+  "hunt-token": {
+   "upside": "Possible revival of Hunt Town/NFT products; nothing dated.",
+   "cheap": "Mature token far below its 2021 peak with no visible trigger.",
+   "wrongIf": "Active development on its GitHub/X stays silent through year end.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "mossland": {
+   "upside": "AR/real-estate-game revival is possible but undated.",
+   "cheap": "Market has ignored it since 2021.",
+   "wrongIf": "No product update or exchange news by end of 2026.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "woo-network": {
+   "upside": "Fee-revenue-driven buybacks from its exchange business could help; nothing dated found.",
+   "cheap": "170x below its 2021 high; trading venue token with weak narrative.",
+   "wrongIf": "Daily volume stays under $1M.",
+   "vsScanner": "Scanner score looks fine, but the ATH multiple is not a thesis."
+  },
+  "definitive": {
+   "upside": "8.4x volume spike; no matching announcement found.",
+   "cheap": "Trading-aggregator token down 10x since Aug 2025 peak; life status quiet.",
+   "wrongIf": "Volume spike fades with no product news within a week.",
+   "vsScanner": "Spike without a story is not a catalyst."
+  },
+  "ecash": {
+   "upside": "Chain upgrades and Aster perpetual futures listing (July 2026) gave it activity; no October trigger found.",
+   "cheap": "Huge supply and 0.000007 price; a $142M cap already, 53x to old high is unrealistic.",
+   "wrongIf": "Volume spike fades and price gives back the jump within a week.",
+   "vsScanner": "Score jump from 13 to 47 reflects a spike, not new fundamentals."
+  },
+  "superfluid": {
+   "upside": "Spike (20x volume) unexplained; Superfluid is real payments streaming infra.",
+   "cheap": "$1.4M cap, thin liquidity; market likely ignoring it for lack of product traction.",
+   "wrongIf": "Volume spike fades with no announcement.",
+   "vsScanner": "Spike without news is unreliable."
+  },
+  "bora": {
+   "upside": "39x trading spike; no matching announcement.",
+   "cheap": "Gaming chain far below 2021 peak; likely illiquid spike.",
+   "wrongIf": "Spike fades without news.",
+   "vsScanner": "A 39x volume spike on a $28M coin looks like a pump, not discovery."
+  },
+  "hippo-protocol": {
+   "upside": "Healthcare L1; spike unexplained.",
+   "cheap": "Small base, ATH only 8.5x away from July 2025.",
+   "wrongIf": "Spike fades with no announcement.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "steem": {
+   "upside": "Old social chain; no catalyst.",
+   "cheap": "Down 160x from 2018 peak; no new users.",
+   "wrongIf": "No product news by year end.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "punkstrategy": {
+   "upside": "NFT-treasury strategy token; tied to CryptoPunks floor prices.",
+   "cheap": "Down 25x from Oct 2025 peak; strategy-token fad has faded.",
+   "wrongIf": "Treasury NFT holdings keep shrinking relative to supply.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "ankr": {
+   "upside": "DePIN/RPC infra revenue exists, but nothing dated.",
+   "cheap": "Long-running infra token under constant supply pressure.",
+   "wrongIf": "Revenue and volume keep sliding.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "tokamak-network": {
+   "upside": "Ethereum L2 stack; no dated event found.",
+   "cheap": "L2 token far below 2021 peak with unlocks.",
+   "wrongIf": "No mainnet or product update by year end.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "metadium": {
+   "upside": "Korean identity chain; no event found.",
+   "cheap": "Small Korean-listed token, little outside attention.",
+   "wrongIf": "Loses Korean listings.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "tagger": {
+   "upside": "AI data-labeling platform; 73% of supply still locked (May 2026), dilution risk.",
+   "cheap": "Volume spike 9.8x; high locked supply means unlocks may cap price.",
+   "wrongIf": "Unlocks start with no matching demand.",
+   "vsScanner": "Score jump reflects the spike, not new facts."
+  },
+  "gittensor": {
+   "upside": "Bittensor subnet 74 (open-source code contributions) shipped a model checkpoint with 262,813 downloads in 17 days (early Sep 2026) and an API was due; Bittensor AI group rallied in September.",
+   "cheap": "Subnet token with $3.6M cap; market is chasing bigger Bittensor names first. The API launch is undated.",
+   "wrongIf": "The API does not launch by end of November or downloads dry up.",
+   "vsScanner": "Scanner spike is backed by real activity; still no dated catalyst, so caution."
+  },
+  "measurable-data-token": {
+   "upside": "7.6x spike; DWF Labs portfolio name; nothing dated.",
+   "cheap": "Down 26x from 2021 peak.",
+   "wrongIf": "Spike fades without news.",
+   "vsScanner": "Spike alone is not a catalyst."
+  },
+  "blocklords": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Volume keeps fading or it fails the scanner safety filters again.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "celo": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Volume keeps fading or it fails the scanner safety filters again.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "syrup": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Volume keeps fading or it fails the scanner safety filters again.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "world-of-dypians": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Volume keeps fading or it fails the scanner safety filters again.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "mezo": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Volume keeps fading or it fails the scanner safety filters again.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "staynex": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Volume keeps fading or it fails the scanner safety filters again.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing has a dated, verified catalyst plus a believable mispricing; the strongest idea (Gittensor) still lacks a dated event.",
+ "athCheck": {
+  "gamebuild": "stretch",
+  "kellyclaude": "unlikely",
+  "hunt-token": "unlikely",
+  "mossland": "unlikely",
+  "woo-network": "unlikely",
+  "hooked": "unlikely",
+  "definitive": "stretch",
+  "ecash": "unlikely",
+  "superfluid": "stretch",
+  "bora": "unlikely",
+  "hippo-protocol": "stretch",
+  "steem": "unlikely",
+  "belgium-fan-token": "unlikely",
+  "everdome": "unlikely",
+  "punkstrategy": "stretch",
+  "everipedia": "unlikely",
+  "ankr": "unlikely",
+  "arsenal-fan-token": "unlikely",
+  "tokamak-network": "unlikely",
+  "metadium": "unlikely",
+  "tagger": "stretch",
+  "valencia-cf-fan-token": "unlikely",
+  "gittensor": "stretch",
+  "bordrless": "unlikely",
+  "measurable-data-token": "unlikely",
+  "airswap": "unlikely"
+ },
+ "lifeCheck": {
+  "gamebuild": "alive",
+  "kellyclaude": "unknown",
+  "hunt-token": "alive",
+  "mossland": "alive",
+  "woo-network": "alive",
+  "hooked": "unknown",
+  "definitive": "quiet",
+  "ecash": "alive",
+  "superfluid": "unknown",
+  "bora": "quiet",
+  "hippo-protocol": "alive",
+  "steem": "alive",
+  "belgium-fan-token": "unknown",
+  "everdome": "unknown",
+  "punkstrategy": "unknown",
+  "everipedia": "zombie",
+  "ankr": "quiet",
+  "arsenal-fan-token": "unknown",
+  "tokamak-network": "alive",
+  "metadium": "alive",
+  "tagger": "unknown",
+  "valencia-cf-fan-token": "unknown",
+  "gittensor": "alive",
+  "bordrless": "unknown",
+  "measurable-data-token": "unknown",
+  "airswap": "zombie"
+ },
+ "news": {
+  "gamebuild": {
+   "text": "No news in the last 30 days"
+  },
+  "kellyclaude": {
+   "text": "No news in the last 30 days"
+  },
+  "hunt-token": {
+   "text": "No news in the last 30 days"
+  },
+  "mossland": {
+   "text": "No news in the last 30 days"
+  },
+  "woo-network": {
+   "text": "No news in the last 30 days"
+  },
+  "hooked": {
+   "text": "No news in the last 30 days"
+  },
+  "definitive": {
+   "text": "No news in the last 30 days"
+  },
+  "ecash": {
+   "text": "Perpetual futures launched on Aster DEX in July 2026; nothing in October found."
+  },
+  "superfluid": {
+   "text": "No news in the last 30 days"
+  },
+  "bora": {
+   "text": "No news in the last 30 days"
+  },
+  "hippo-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "steem": {
+   "text": "No news in the last 30 days"
+  },
+  "belgium-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "everdome": {
+   "text": "No news in the last 30 days"
+  },
+  "punkstrategy": {
+   "text": "No news in the last 30 days"
+  },
+  "everipedia": {
+   "text": "No news in the last 30 days"
+  },
+  "ankr": {
+   "text": "No news in the last 30 days"
+  },
+  "arsenal-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "tokamak-network": {
+   "text": "No news in the last 30 days"
+  },
+  "metadium": {
+   "text": "No news in the last 30 days"
+  },
+  "tagger": {
+   "text": "May 2026 coverage describes AI data platform; no October news."
+  },
+  "valencia-cf-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "gittensor": {
+   "text": "Early Sep 2026: checkpoint release, 262,813 downloads (OpenTensor roundup, secondhand)."
+  },
+  "bordrless": {
+   "text": "No news in the last 30 days"
+  },
+  "measurable-data-token": {
+   "text": "No news in the last 30 days"
+  },
+  "airswap": {
+   "text": "No news in the last 30 days"
+  },
+  "ast-fun": {
+   "text": "No news in the last 30 days"
+  },
+  "uxlink": {
+   "text": "No news in the last 30 days"
+  },
+  "blocklords": {
+   "text": "No news in the last 30 days"
+  },
+  "celo": {
+   "text": "No news in the last 30 days"
+  },
+  "syrup": {
+   "text": "No news in the last 30 days"
+  },
+  "capybobo": {
+   "text": "No news in the last 30 days"
+  },
+  "xai-blockchain": {
+   "text": "No news in the last 30 days"
+  },
+  "for-sale": {
+   "text": "No news in the last 30 days"
+  },
+  "threshold-network-token": {
+   "text": "No news in the last 30 days"
+  },
+  "aixdrop": {
+   "text": "No news in the last 30 days"
+  },
+  "orbofi-ai": {
+   "text": "No news in the last 30 days"
+  },
+  "world-of-dypians": {
+   "text": "No news in the last 30 days"
+  },
+  "mezo": {
+   "text": "No news in the last 30 days"
+  },
+  "epic-chain": {
+   "text": "No news in the last 30 days"
+  },
+  "staynex": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "Grayscale said its AI crypto basket rose 54% in September 2026 (NEAR, Venice, World, Bittensor led) and AI tokens held top-gainer spots in early October; a Bitwise NEAR ETF launched Sept 29. Gains were concentrated in large names; micro AI coins (Tagger, Gittensor, Kellyclaude, Everipedia) have not shown matching follow-through, so the wave helps small names only if they have real products.",
+  "Gaming": "I could not find gaming-sector news from the last 7 days; the newest items were from late 2025. With no sector tailwind visible, small gaming tokens (Gamebuild, Hunt, Bora, Mossland, Everdome) are trading on their own spikes.",
+  "Sports & fan tokens": "No fan-token news dated October; latest items are May-June 2026 (US SEC/CFTC framework calling fan tokens collectibles, World Cup push). Four of today's fan tokens have market caps under $4M, so liquidity matters more than the story.",
+  "NFT": "No NFT-sector news from the last 7 days turned up. Punk Strategy and Hunt are small and tied to old narratives."
+ },
+ "athMcap": {}
+}
