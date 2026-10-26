@@ -1,19 +1,12 @@
 # Lessons (max 15 bullets)
-- 2026-10-12: My "worth a look" bar has not been selective enough: 98 calls averaged -1.8% at 7 days vs market -1.3%, beating it 34% of the time. Require a dated, verified catalyst; a sector story alone is never enough.
-- 2026-10-12: "Skip" calls (73) averaged +23.4% at 7 days, driven by tiny illiquid coins that spike. Skip means "not researchable or not tradeable", not "will fall"; never treat it as a short signal.
+- 2026-10-26: Of 12 coins rated worth a look on 2026-09-26, all 12 are down since first pick (average -24.5% vs market -7.5%; best DIA -10.8%, worst CLAWD -50.9%). Worth a look without a dated event keeps losing; default to caution.
+- 2026-10-12: Skip means not researchable or not tradeable, not "will fall": skip calls averaged +17% at 7 days from tiny illiquid spikers. Never treat skip as a short signal.
+- 2026-10-12: Require a dated, verified catalyst; a sector story, a known name or low price vs ATH is never enough.
 - 2026-10-12: Web search returns little recent news on small coins. With no verified catalyst, default to caution; do not guess.
-- 2026-10-13: Scanner 'new listing' badges can be old (BAT already trades on Upbit/Bithumb). Confirm the listing date before treating it as a catalyst.
-- 2026-10-14: Scanner "new listing" badges were old events for Walrus (Mar 2025), OriginTrail (May 2026), FLOCK (Coinone Sep 2025), Grass (Bybit Oct 2024). 4 of 4 checked were stale; verify the date before using a listing as a catalyst.
-- 2026-10-14: Centrifuge was rated worth a look on an exchange-listing story, then dropped off Upbit/Bithumb. Listing-based catalysts can reverse; re-check them every few days.
-- 2026-10-15: Of 12 coins I rated worth a look on 2026-10-08, 9 are down since first pick (average about -8%, best Celestia +10.7%, worst Arweave -22.5%); most were big-name tokens with ongoing unlocks that fell with the market. A known name or sector story is not a catalyst; do not rate worth a look without a dated event.
-- 2026-10-15: Scanner listing badges were stale again for Berachain (Feb 2025), Axelar (Jun 2025), Nillion (Mar 2025), Falcon (Sep 2025) and WalletConnect (Kraken 2025). Treat any "new exchange listing" badge as old until an announcement dated within 30 days is found.
-- 2026-10-17: Prometeus 'new listing' badge was a two-month-old Upbit/Bithumb event (Aug 2026); the one fresh listing (Puffer/Upbit Oct 15) had already run +70%. A verified catalyst that has already moved the price is not a buy signal.
-- 2026-10-18: Of 7 coins rated worth a look on 2026-10-11, those since measurable are down (Kaia -28.5%, Dolomite -24.8%, Lido -21.1%, Yield Basis -17.5%, Cartesi -14.6%); Dolomite then lost Kraken/KuCoin/Bittime listings. Worth a look without a dated event keeps losing; default to caution.
-- 2026-10-18: Web search again returned no news newer than early 2026 for small coins; treat unverifiable scanner 'back' triggers as unconfirmed, not as catalysts.
-- 2026-10-19: Scorecard (153 worth-a-look, 7 days): -3.1% vs market -1.6%; the 7 coins I rated worth a look on 10-11 average -13.6% since first pick. Searches for Marinade, Solv, Nym, Railgun and Synthetix found nothing from the last 30 days. Still no top picks; bar stays at a dated, verified event.
-- 2026-10-20: Scorecard shows my 'skip' calls averaged +35% at 7 days; skip is not a sell signal. Inkbox email needed re-authorization this run, so delivery fell back to push/chat.
-- 2026-10-21: Inkbox email was still unauthorized and searches for TORCH, Siacoin, Stargate and B3 again found nothing newer than May 2026; with no 7-day worth-a-look calls to review, keep top picks empty.
-- 2026-10-22: Spike-driven 'back' coins (Arkham, META) and a 26x-volume spike on HASH had no matching news; HASH moved on only ~$100K/day. A volume spike alone is not a catalyst. Email (Inkbox) still unauthorized; delivery via push.
-- 2026-10-23: Searches again returned nothing recent on any of 26 coins (Bifrost, Zignaly, XPLA, Bittensor subnets). 5 daily runs with no top picks; keep the bar at a dated, verified event. Inkbox email still unauthorized.
-- 2026-10-24: Again no news newer than Aug 2026 for 25 coins (RedStone, Lombard, Sahara, Interfold, PolySwarm); PolySwarm's 116x spike traced only to 2022 news. Still no top picks. 0 worth-a-look calls on 10-17 so nothing to review. Inkbox email still unauthorized.
-- 2026-10-25: 6 daily runs, 0 worth-a-look calls on 10-18 so nothing to review. Searches again found nothing newer than Sept 2026 for tiny coins; only Gittensor had verifiable activity (Sep 2026 model release). Inkbox email still unauthorized; delivery via push/chat.
+- 2026-10-15: Scanner "new listing" badges are usually old (Walrus, OriginTrail, FLOCK, Grass, Berachain, Axelar, Nillion, Falcon, WalletConnect, Prometeus, BAT). Treat as old until an announcement within 30 days is found.
+- 2026-10-14: Listing catalysts can reverse (Centrifuge, Dolomite lost listings); re-check them every few days.
+- 2026-10-17: A verified catalyst that has already moved the price (Puffer +70%) is not a buy signal.
+- 2026-10-22: A volume spike alone is not a catalyst (HASH 26x on ~$100K/day, Arkham, META, PolySwarm, Zignaly).
+- 2026-10-18: Unverifiable scanner "back" triggers count as unconfirmed, not catalysts.
+- 2026-10-26: Search again found nothing newer than Sept 2026 for THORChain, Babylon and sector news; 7 straight days with no top picks.
+- 2026-10-20: Inkbox email needs re-authorization (still unauthorized 10-26); delivery falls back to push/chat.

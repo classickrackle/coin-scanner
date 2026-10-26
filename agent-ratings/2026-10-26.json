@@ -1,0 +1,368 @@
+{
+ "date": "2026-10-26",
+ "ratings": {
+  "babylon": "caution",
+  "thorchain": "caution",
+  "brickken": "caution",
+  "openserv": "caution",
+  "nexus-4": "caution",
+  "verona": "caution",
+  "corn-3": "caution",
+  "folks": "caution",
+  "coti": "caution",
+  "onefootball-club": "caution",
+  "zignaly": "caution",
+  "nextplace": "caution",
+  "chain-2": "caution",
+  "gas": "caution",
+  "wibx": "caution",
+  "midnight-3": "caution",
+  "linea": "caution",
+  "allora": "caution",
+  "bio-protocol": "caution",
+  "hooked-protocol": "skip",
+  "rss3": "skip",
+  "sensay": "skip",
+  "nexira-daep": "skip",
+  "samsunspor-fan-token": "skip",
+  "usual": "skip",
+  "argus-2": "skip",
+  "ardor": "skip",
+  "pundi-x-2": "skip",
+  "civic": "skip",
+  "rei-network": "skip",
+  "metal": "skip",
+  "regent-coin": "skip",
+  "havah": "skip",
+  "dodo": "skip",
+  "abelian": "skip",
+  "quantixai": "skip",
+  "archai": "skip",
+  "unit0": "skip",
+  "metacene": "skip"
+ },
+ "conviction": {
+  "babylon": "low",
+  "thorchain": "low",
+  "brickken": "low",
+  "openserv": "low",
+  "nexus-4": "low",
+  "verona": "low",
+  "corn-3": "low",
+  "folks": "low",
+  "coti": "low",
+  "onefootball-club": "low",
+  "zignaly": "low",
+  "nextplace": "low",
+  "chain-2": "low",
+  "gas": "low",
+  "wibx": "low",
+  "midnight-3": "low",
+  "linea": "low",
+  "allora": "low",
+  "bio-protocol": "low"
+ },
+ "cases": {
+  "babylon": {
+   "upside": "Bitcoin-staking protocol with real backing (Paradigm, a16z) and Upbit listing in 2026; 6.8x volume spike today.",
+   "cheap": "Price is ~12x below its Apr 2025 high and inflation/unlocks keep supply growing.",
+   "wrongIf": "No news newer than June 2026; if volume falls back under normal within a week the spike was noise.",
+   "vsScanner": "Agree; the spike has no identified cause."
+  },
+  "thorchain": {
+   "upside": "Rujira app-layer listing and Monero/Zcash swap support could add volume; undated.",
+   "cheap": "Hack history (May 2026 exploit) keeps buyers away.",
+   "wrongIf": "Another exploit or the swap volume stays flat.",
+   "vsScanner": "Listing badge is a minor app-layer event, not an exchange listing; overstated."
+  },
+  "brickken": {
+   "upside": "Tokenized-asset platform in the RWA wave.",
+   "cheap": "Quiet team, tiny market cap, ATH was 14x higher in Mar 2024.",
+   "wrongIf": "Still no news or X posts by mid-November.",
+   "vsScanner": "Agree."
+  },
+  "openserv": {
+   "upside": "AI agent framework on Base with x402 support.",
+   "cheap": "AI agent tokens fell hard after the sector cooled.",
+   "wrongIf": "No product update or user numbers published by December.",
+   "vsScanner": "Agree."
+  },
+  "nexus-4": {
+   "upside": "Binance Alpha spotlight gives some attention; ZK layer-1.",
+   "cheap": "Price ~8.6x under a May 2026 high; reason for fall unclear.",
+   "wrongIf": "Binance Alpha attention fades with no mainnet news.",
+   "vsScanner": "Agree."
+  },
+  "verona": {
+   "upside": "Chain-abstraction layer-1 with strong investors (Multicoin, Animoca).",
+   "cheap": "Only 1.9x from a June 2026 high, so little room is mispriced.",
+   "wrongIf": "Daily volume drops under $100K.",
+   "vsScanner": "Agree."
+  },
+  "corn-3": {
+   "upside": "Bitcoin-linked layer-2 still alive.",
+   "cheap": "Layer-2s are out of favour; unlock pressure.",
+   "wrongIf": "TVL keeps falling.",
+   "vsScanner": "Agree."
+  },
+  "folks": {
+   "upside": "Lending protocol with Binance Alpha listing.",
+   "cheap": "Down ~20x from Dec 2025 peak; unknown reason.",
+   "wrongIf": "Listing fails to bring volume.",
+   "vsScanner": "Agree."
+  },
+  "coti": {
+   "upside": "Privacy-chain with ongoing development.",
+   "cheap": "Privacy narrative faded; SEC allegation tag.",
+   "wrongIf": "No upgrade shipped by year end.",
+   "vsScanner": "Agree."
+  },
+  "onefootball-club": {
+   "upside": "Sports/fan token with Animoca backing.",
+   "cheap": "Apr 2026 high was 14x higher; why it fell is unknown.",
+   "wrongIf": "No new club partnership.",
+   "vsScanner": "Agree."
+  },
+  "zignaly": {
+   "upside": "Volume spike 4.6x but no cause found.",
+   "cheap": "Score rose but price down 26% since first pick.",
+   "wrongIf": "Spike fades.",
+   "vsScanner": "Spike is not a catalyst."
+  },
+  "nextplace": {
+   "upside": "Bittensor subnet token; price +25% since first pick.",
+   "cheap": "Already ran; no new news.",
+   "wrongIf": "Volume normalises.",
+   "vsScanner": "Agree."
+  },
+  "chain-2": {
+   "upside": "Onyxcoin spiked 7.4x volume.",
+   "cheap": "Down 45x from 2022 peak.",
+   "wrongIf": "Volume back to normal.",
+   "vsScanner": "Scanner score jump overstated; no cause found."
+  },
+  "gas": {
+   "upside": "Neo ecosystem utility token.",
+   "cheap": "No catalyst found.",
+   "wrongIf": "Volume spike fades.",
+   "vsScanner": "Agree."
+  },
+  "wibx": {
+   "upside": "Climbing in rank.",
+   "cheap": "No news found.",
+   "wrongIf": "Falls under rank 1100.",
+   "vsScanner": "Agree."
+  },
+  "midnight-3": {
+   "upside": "Privacy chain from Cardano founder's team, up 25% since pick.",
+   "cheap": "Score collapsed 35 to 10.",
+   "wrongIf": "Rank keeps slipping.",
+   "vsScanner": "Scanner score drop reasonable."
+  },
+  "linea": {
+   "upside": "Ethereum layer-2 with large backing.",
+   "cheap": "Down 15%, unlocks.",
+   "wrongIf": "Score keeps falling.",
+   "vsScanner": "Agree."
+  },
+  "allora": {
+   "upside": "AI network token.",
+   "cheap": "Down 37% since pick.",
+   "wrongIf": "Keeps falling.",
+   "vsScanner": "Agree."
+  },
+  "bio-protocol": {
+   "upside": "Science/DeSci token; my earlier worth-a-look call.",
+   "cheap": "Down 29% since pick with no catalyst I can name.",
+   "wrongIf": "No dated event.",
+   "vsScanner": "Downgraded: was worth a look, no dated catalyst."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No top picks today: nothing has a dated, verified catalyst; searches found no news newer than September 2026 for any listed coin.",
+ "athCheck": {
+  "babylon": "unlikely",
+  "zignaly": "stretch",
+  "hooked-protocol": "unlikely",
+  "nextplace": "stretch",
+  "nexus-4": "stretch",
+  "dodo": "unlikely",
+  "brickken": "unlikely",
+  "rss3": "unlikely",
+  "sensay": "unlikely",
+  "chain-2": "unlikely",
+  "nexira-daep": "unlikely",
+  "samsunspor-fan-token": "unlikely",
+  "usual": "unlikely",
+  "onefootball-club": "unlikely",
+  "argus-2": "stretch",
+  "folks": "unlikely",
+  "thorchain": "unlikely",
+  "ardor": "unlikely",
+  "pundi-x-2": "unlikely",
+  "verona": "stretch",
+  "civic": "unlikely",
+  "openserv": "stretch",
+  "rei-network": "unlikely",
+  "metal": "unlikely",
+  "coti": "unlikely",
+  "corn-3": "stretch",
+  "regent-coin": "stretch",
+  "havah": "unlikely"
+ },
+ "lifeCheck": {
+  "babylon": "alive",
+  "zignaly": "unknown",
+  "hooked-protocol": "unknown",
+  "nextplace": "alive",
+  "nexus-4": "alive",
+  "dodo": "unknown",
+  "brickken": "quiet",
+  "rss3": "zombie",
+  "sensay": "unknown",
+  "chain-2": "alive",
+  "nexira-daep": "unknown",
+  "samsunspor-fan-token": "unknown",
+  "usual": "zombie",
+  "onefootball-club": "unknown",
+  "argus-2": "quiet",
+  "folks": "unknown",
+  "thorchain": "alive",
+  "ardor": "unknown",
+  "pundi-x-2": "unknown",
+  "verona": "alive",
+  "civic": "zombie",
+  "openserv": "quiet",
+  "rei-network": "zombie",
+  "metal": "zombie",
+  "coti": "alive",
+  "corn-3": "alive",
+  "regent-coin": "zombie",
+  "havah": "zombie"
+ },
+ "news": {
+  "babylon": {
+   "text": "Upbit listing lifted BABY about 53% (found dated June 2026).",
+   "date": "2026-06-01",
+   "url": "https://pluang.com/en/news-feed/token-babylon-baby-naik-53-persen-setelah-listing-upbit"
+  },
+  "thorchain": {
+   "text": "No news in the last 30 days found"
+  },
+  "brickken": {
+   "text": "No news in the last 30 days found"
+  },
+  "openserv": {
+   "text": "No news in the last 30 days found"
+  },
+  "nexus-4": {
+   "text": "No news in the last 30 days found"
+  },
+  "verona": {
+   "text": "No news in the last 30 days found"
+  },
+  "corn-3": {
+   "text": "No news in the last 30 days found"
+  },
+  "folks": {
+   "text": "No news in the last 30 days found"
+  },
+  "coti": {
+   "text": "No news in the last 30 days found"
+  },
+  "onefootball-club": {
+   "text": "No news in the last 30 days found"
+  },
+  "zignaly": {
+   "text": "No news in the last 30 days found"
+  },
+  "nextplace": {
+   "text": "No news in the last 30 days found"
+  },
+  "chain-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "gas": {
+   "text": "No news in the last 30 days found"
+  },
+  "wibx": {
+   "text": "No news in the last 30 days found"
+  },
+  "midnight-3": {
+   "text": "No news in the last 30 days found"
+  },
+  "linea": {
+   "text": "No news in the last 30 days found"
+  },
+  "allora": {
+   "text": "No news in the last 30 days found"
+  },
+  "bio-protocol": {
+   "text": "No news in the last 30 days found"
+  },
+  "hooked-protocol": {
+   "text": "No news in the last 30 days found"
+  },
+  "rss3": {
+   "text": "No news in the last 30 days found"
+  },
+  "sensay": {
+   "text": "No news in the last 30 days found"
+  },
+  "nexira-daep": {
+   "text": "No news in the last 30 days found"
+  },
+  "samsunspor-fan-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "usual": {
+   "text": "No news in the last 30 days found"
+  },
+  "argus-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "ardor": {
+   "text": "No news in the last 30 days found"
+  },
+  "pundi-x-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "civic": {
+   "text": "No news in the last 30 days found"
+  },
+  "rei-network": {
+   "text": "No news in the last 30 days found"
+  },
+  "metal": {
+   "text": "No news in the last 30 days found"
+  },
+  "regent-coin": {
+   "text": "No news in the last 30 days found"
+  },
+  "havah": {
+   "text": "No news in the last 30 days found"
+  },
+  "dodo": {
+   "text": "No news in the last 30 days found"
+  },
+  "abelian": {
+   "text": "No news in the last 30 days found"
+  },
+  "quantixai": {
+   "text": "No news in the last 30 days found"
+  },
+  "archai": {
+   "text": "No news in the last 30 days found"
+  },
+  "unit0": {
+   "text": "No news in the last 30 days found"
+  },
+  "metacene": {
+   "text": "No news in the last 30 days found"
+  }
+ },
+ "sectorNews": {
+  "AI": "No news from the last 7 days found. AI coins (Zignaly, Nextplace, OpenServ, Sensay, RSS3) have fallen since spring and sector money has not returned.",
+  "DeFi": "No news from the last 7 days found. Small DeFi coins (Babylon, THORChain, DODO, Folks, Usual) have no shared catalyst today."
+ }
+}
