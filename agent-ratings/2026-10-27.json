@@ -1,0 +1,323 @@
+{
+ "date": "2026-10-27",
+ "ratings": {
+  "nillion": "caution",
+  "ondo-5-targeted-income-tr-portfolio": "skip",
+  "w-ai-parked": "caution",
+  "macropod": "skip",
+  "polyswarm": "caution",
+  "quack-ai": "skip",
+  "poker44": "skip",
+  "polymesh": "caution",
+  "audiera": "caution",
+  "orchid-protocol": "caution",
+  "numinous": "skip",
+  "neurochainai": "skip",
+  "safe-scan": "skip",
+  "lab": "caution",
+  "v-systems": "skip",
+  "mocaverse": "caution",
+  "lienfi": "skip",
+  "hash-2": "skip",
+  "zircuit": "skip",
+  "kora": "skip",
+  "lorenzo-protocol": "skip",
+  "skyai": "skip",
+  "deapcoin": "skip",
+  "edel": "caution",
+  "iron-fish": "skip",
+  "meet48": "skip",
+  "bc-token": "skip",
+  "blast": "skip",
+  "corn-3": "skip",
+  "qubic-network": "caution",
+  "swell-network": "caution",
+  "roam-token": "caution",
+  "verona": "caution",
+  "brickken": "caution",
+  "nexus-4": "caution",
+  "rei-network": "skip"
+ },
+ "conviction": {
+  "nillion": "low",
+  "w-ai-parked": "low",
+  "polyswarm": "low",
+  "polymesh": "low",
+  "audiera": "low",
+  "orchid-protocol": "low",
+  "lab": "low",
+  "mocaverse": "low",
+  "edel": "low",
+  "qubic-network": "low",
+  "swell-network": "low",
+  "roam-token": "low",
+  "verona": "low",
+  "brickken": "low",
+  "nexus-4": "low"
+ },
+ "cases": {
+  "nillion": {
+   "upside": "AI/privacy data network; spiked 4.8x volume +18% week, but no dated catalyst found in search.",
+   "cheap": "No reason found why it is mispriced.",
+   "wrongIf": "Trading falls back to its normal level within two weeks with no announcement.",
+   "vsScanner": "Scanner score reflects a spike, not a catalyst."
+  },
+  "w-ai-parked": {
+   "upside": "Bittensor subnet token up 28% on the week with a 6.5x trading spike; no verified reason.",
+   "cheap": "No reason found why it is mispriced.",
+   "wrongIf": "Trading falls back to its normal level within two weeks with no announcement.",
+   "vsScanner": "Scanner score reflects a spike, not a catalyst."
+  },
+  "polyswarm": {
+   "upside": "Malware-intel network; spiked ~42% in a day, no October news or dated catalyst found.",
+   "cheap": "No reason found why it is mispriced.",
+   "wrongIf": "Trading falls back to its normal level within two weeks with no announcement.",
+   "vsScanner": "Scanner score reflects a spike, not a catalyst."
+  },
+  "polymesh": {
+   "upside": "Regulated-asset chain; trading spike but no dated catalyst found.",
+   "cheap": "No reason found why it is mispriced.",
+   "wrongIf": "Trading falls back to its normal level within two weeks with no announcement.",
+   "vsScanner": "Scanner score reflects a spike, not a catalyst."
+  },
+  "audiera": {
+   "upside": "Only 35% unlocked, 137x from ATH, life unknown.",
+   "cheap": "No reason found why it is mispriced.",
+   "wrongIf": "Trading falls back to its normal level within two weeks with no announcement.",
+   "vsScanner": "Scanner score reflects a spike, not a catalyst."
+  },
+  "orchid-protocol": {
+   "upside": "Alive, but 116x from ATH and no catalyst found.",
+   "cheap": "No reason found why it is mispriced.",
+   "wrongIf": "Trading falls back to its normal level within two weeks with no announcement.",
+   "vsScanner": "Scanner score reflects a spike, not a catalyst."
+  },
+  "lab": {
+   "upside": "Alive, but 673x from ATH and no catalyst found.",
+   "cheap": "No reason found why it is mispriced.",
+   "wrongIf": "Trading falls back to its normal level within two weeks with no announcement.",
+   "vsScanner": "Scanner score reflects a spike, not a catalyst."
+  },
+  "mocaverse": {
+   "upside": "Alive, but only 48% unlocked and 137x from ATH.",
+   "cheap": "No reason found why it is mispriced.",
+   "wrongIf": "Trading falls back to its normal level within two weeks with no announcement.",
+   "vsScanner": "Scanner score reflects a spike, not a catalyst."
+  },
+  "edel": {
+   "upside": "Alive and 3.4x from ATH, but no catalyst found.",
+   "cheap": "No reason found why it is mispriced.",
+   "wrongIf": "Trading falls back to its normal level within two weeks with no announcement.",
+   "vsScanner": "Scanner score reflects a spike, not a catalyst."
+  },
+  "qubic-network": {
+   "upside": "None verified.",
+   "cheap": "No reason found.",
+   "wrongIf": "Trading fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "swell-network": {
+   "upside": "None verified.",
+   "cheap": "No reason found.",
+   "wrongIf": "Trading fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "roam-token": {
+   "upside": "None verified.",
+   "cheap": "No reason found.",
+   "wrongIf": "Trading fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "verona": {
+   "upside": "None verified.",
+   "cheap": "No reason found.",
+   "wrongIf": "Trading fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "brickken": {
+   "upside": "None verified.",
+   "cheap": "No reason found.",
+   "wrongIf": "Trading fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "nexus-4": {
+   "upside": "None verified.",
+   "cheap": "No reason found.",
+   "wrongIf": "Trading fades back to normal.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin has a dated, verified catalyst; every spike is unexplained.",
+ "athCheck": {
+  "nillion": "stretch",
+  "ondo-5-targeted-income-tr-portfolio": "realistic",
+  "w-ai-parked": "stretch",
+  "macropod": "realistic",
+  "polyswarm": "unlikely",
+  "quack-ai": "realistic",
+  "poker44": "realistic",
+  "polymesh": "unlikely",
+  "audiera": "unlikely",
+  "orchid-protocol": "unlikely",
+  "numinous": "realistic",
+  "neurochainai": "unlikely",
+  "safe-scan": "stretch",
+  "lab": "unlikely",
+  "v-systems": "unlikely",
+  "mocaverse": "unlikely",
+  "lienfi": "stretch",
+  "hash-2": "stretch",
+  "zircuit": "unlikely",
+  "kora": "stretch",
+  "lorenzo-protocol": "unlikely",
+  "skyai": "unlikely",
+  "deapcoin": "unlikely",
+  "edel": "realistic",
+  "iron-fish": "unlikely",
+  "meet48": "stretch",
+  "bc-token": "realistic"
+ },
+ "lifeCheck": {
+  "nillion": "alive",
+  "ondo-5-targeted-income-tr-portfolio": "unknown",
+  "w-ai-parked": "alive",
+  "macropod": "unknown",
+  "polyswarm": "alive",
+  "quack-ai": "alive",
+  "poker44": "unknown",
+  "polymesh": "alive",
+  "audiera": "unknown",
+  "orchid-protocol": "alive",
+  "numinous": "alive",
+  "neurochainai": "zombie",
+  "safe-scan": "zombie",
+  "lab": "alive",
+  "v-systems": "zombie",
+  "mocaverse": "alive",
+  "lienfi": "unknown",
+  "hash-2": "alive",
+  "zircuit": "zombie",
+  "kora": "zombie",
+  "lorenzo-protocol": "zombie",
+  "skyai": "zombie",
+  "deapcoin": "zombie",
+  "edel": "alive",
+  "iron-fish": "zombie",
+  "meet48": "zombie",
+  "bc-token": "alive"
+ },
+ "news": {
+  "nillion": {
+   "text": "No news found in the last 30 days"
+  },
+  "ondo-5-targeted-income-tr-portfolio": {
+   "text": "No news found in the last 30 days"
+  },
+  "w-ai-parked": {
+   "text": "No news found in the last 30 days"
+  },
+  "macropod": {
+   "text": "AUDM is a regulated Australian-dollar stablecoin (Independent Reserve listing dates to Dec 2025, not new)",
+   "url": "https://www.independentreserve.com/blog/news/independent-reserve-adds-audm-australias-first-afsl-regulated-stablecoin-for-seamless-on-chain-aud-transactions"
+  },
+  "polyswarm": {
+   "text": "No news found in the last 30 days"
+  },
+  "quack-ai": {
+   "text": "No news found in the last 30 days"
+  },
+  "poker44": {
+   "text": "No news found in the last 30 days"
+  },
+  "polymesh": {
+   "text": "No news found in the last 30 days"
+  },
+  "audiera": {
+   "text": "No news found in the last 30 days"
+  },
+  "orchid-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "numinous": {
+   "text": "No news found in the last 30 days"
+  },
+  "neurochainai": {
+   "text": "No news found in the last 30 days"
+  },
+  "safe-scan": {
+   "text": "No news found in the last 30 days"
+  },
+  "lab": {
+   "text": "No news found in the last 30 days"
+  },
+  "v-systems": {
+   "text": "No news found in the last 30 days"
+  },
+  "mocaverse": {
+   "text": "No news found in the last 30 days"
+  },
+  "lienfi": {
+   "text": "No news found in the last 30 days"
+  },
+  "hash-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "zircuit": {
+   "text": "No news found in the last 30 days"
+  },
+  "kora": {
+   "text": "No news found in the last 30 days"
+  },
+  "lorenzo-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "skyai": {
+   "text": "No news found in the last 30 days"
+  },
+  "deapcoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "edel": {
+   "text": "No news found in the last 30 days"
+  },
+  "iron-fish": {
+   "text": "No news found in the last 30 days"
+  },
+  "meet48": {
+   "text": "No news found in the last 30 days"
+  },
+  "bc-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "blast": {
+   "text": "Not researched in depth; no news found"
+  },
+  "corn-3": {
+   "text": "Not researched in depth; no news found"
+  },
+  "qubic-network": {
+   "text": "Not researched in depth; no news found"
+  },
+  "swell-network": {
+   "text": "Not researched in depth; no news found"
+  },
+  "roam-token": {
+   "text": "Not researched in depth; no news found"
+  },
+  "verona": {
+   "text": "Not researched in depth; no news found"
+  },
+  "brickken": {
+   "text": "Not researched in depth; no news found"
+  },
+  "nexus-4": {
+   "text": "Not researched in depth; no news found"
+  },
+  "rei-network": {
+   "text": "Not researched in depth; no news found"
+  }
+ },
+ "sectorNews": {},
+ "athMcap": {}
+}

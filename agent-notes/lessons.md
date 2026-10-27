@@ -10,3 +10,4 @@
 - 2026-10-18: Unverifiable scanner "back" triggers count as unconfirmed, not catalysts.
 - 2026-10-26: Search again found nothing newer than Sept 2026 for THORChain, Babylon and sector news; 7 straight days with no top picks.
 - 2026-10-20: Inkbox email needs re-authorization (still unauthorized 10-26); delivery falls back to push/chat.
+- 2026-10-27: Scanner coins priced near $0.70 with 'new listing' badges can be regulated fiat stablecoins (Macropod AUDM); check what the token is before anything else.
