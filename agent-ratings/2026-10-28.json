@@ -1,0 +1,316 @@
+{
+ "date": "2026-10-28",
+ "ratings": {
+  "pocket-network": "caution",
+  "metaplex": "caution",
+  "tagger": "caution",
+  "targon": "caution",
+  "robot-money": "skip",
+  "perpetual-protocol": "skip",
+  "loosh": "skip",
+  "omega-labs": "skip",
+  "apriori": "skip",
+  "sweatcoin": "skip",
+  "open-gpu": "skip",
+  "aussie-dollar-token": "skip",
+  "lingo": "skip",
+  "kyo": "skip",
+  "brevis": "caution",
+  "bitquant": "caution",
+  "templar": "caution",
+  "bob-build-on-bitcoin": "caution",
+  "catizen": "caution",
+  "anoma": "caution",
+  "coredaoorg": "caution",
+  "hyperwave": "skip",
+  "heurist": "caution",
+  "dar-open-network": "skip",
+  "for-sale": "skip",
+  "priors-agent": "caution",
+  "stockereum-fun": "skip",
+  "adventure-gold": "caution",
+  "celer-network": "caution",
+  "api3": "caution",
+  "zeus-5": "caution",
+  "solmev": "skip"
+ },
+ "conviction": {
+  "pocket-network": "low",
+  "metaplex": "low",
+  "tagger": "low",
+  "targon": "medium",
+  "brevis": "medium",
+  "bitquant": "low",
+  "templar": "medium",
+  "bob-build-on-bitcoin": "low",
+  "catizen": "low",
+  "anoma": "low",
+  "coredaoorg": "low",
+  "heurist": "low",
+  "priors-agent": "low",
+  "adventure-gold": "low",
+  "celer-network": "low",
+  "api3": "low",
+  "zeus-5": "low"
+ },
+ "cases": {
+  "pocket-network": {
+   "upside": "Fresh OrangeX listing and a code push yesterday; Upbit/Bithumb already list it. No dated launch found.",
+   "cheap": "Small DePIN/RPC name down ~99% from 2022 peak; the market sees no growth story and I found none in the last 30 days.",
+   "wrongIf": "Trading falls back under ~$1M/day or no network usage metric improves by Dec.",
+   "vsScanner": "Agree it's alive; the OrangeX listing is minor and the 20x spike is thin-market noise."
+  },
+  "metaplex": {
+   "upside": "Revenue-funded buybacks (about half of protocol revenue) steadily absorb supply; KCEX listing is minor.",
+   "cheap": "Half of tokens not yet released, 70% down on the year, and scanner shows no code activity for 813 days (likely wrong repo; Metaplex itself ships).",
+   "wrongIf": "Monthly buybacks stop or revenue (~$200K/month in June) keeps shrinking.",
+   "vsScanner": "Scanner calls it a zombie; I disagree, the project is active, but the price story is still weak."
+  },
+  "tagger": {
+   "upside": "Up 42% this week on 8x volume; no verifiable catalyst found.",
+   "cheap": "Only 27% of supply released; likely a momentum spike after a fall from May high.",
+   "wrongIf": "Volume fades back under $5M/day or the weekly gain fully reverses.",
+   "vsScanner": "Scanner score jump looks like a hype spike; unknown team and no news."
+  },
+  "targon": {
+   "upside": "Manifold Labs raised a $10.5M Series A (spring 2026) and the subnet runs real compute; volume spike may reflect Bittensor rotation.",
+   "cheap": "Single exchange listing and Bittensor governance worries (reported founder dispute) keep buyers away.",
+   "wrongIf": "TAO keeps sliding or subnet emissions share drops.",
+   "vsScanner": "Agree with the scanner; real product, no dated catalyst."
+  },
+  "brevis": {
+   "upside": "Roadmap lists a Brevis Chain mainnet in Q4 2026 (secondary source, unconfirmed); Binance and KuCoin already list it.",
+   "cheap": "Only 25% of supply is out and it is 85% below its January high; unlock overhang explains the discount.",
+   "wrongIf": "Mainnet slips past January or daily volume drops below $5M.",
+   "vsScanner": "Scanner's spike is real (35 exchanges); I'd still wait for confirmation of the mainnet date."
+  },
+  "bitquant": {
+   "upside": "Active code (pushed yesterday) but no dated event found.",
+   "cheap": "Down from an August high with $1M/day volume on one exchange; thin.",
+   "wrongIf": "Volume under $500K/day or no commits for 30 days.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "templar": {
+   "upside": "Completed a 72B-parameter decentralised training run (March 2026), a real technical result.",
+   "cheap": "Market is ignoring Bittensor subnets amid governance worries; volume ~$1M/day.",
+   "wrongIf": "Another team leaves the subnet or TAO keeps falling.",
+   "vsScanner": "Agree with the scanner; real work, no near-term catalyst."
+  },
+  "bob-build-on-bitcoin": {
+   "upside": "Alive project but 34% unlocked, no dated catalyst found.",
+   "cheap": "Down 85% from December high; unlocks drag.",
+   "wrongIf": "Volume under $300K/day or a large unlock.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "catizen": {
+   "upside": "Telegram game with 32 listings; nothing dated.",
+   "cheap": "Telegram tap-to-earn sector faded; last sign of life 35 days ago.",
+   "wrongIf": "No product update by December.",
+   "vsScanner": "Agree."
+  },
+  "anoma": {
+   "upside": "Large $38M volume on 27% unlocked supply; no dated event verified.",
+   "cheap": "Unlock overhang and a quiet repo (135 days).",
+   "wrongIf": "Further unlocks or volume collapse.",
+   "vsScanner": "Scanner volume looks good but code activity looks dead."
+  },
+  "coredaoorg": {
+   "upside": "No catalyst found; Bitcoin sidechain, quiet 56 days.",
+   "cheap": "Down 99% from 2023 high with little attention.",
+   "wrongIf": "Volume under $1M/day.",
+   "vsScanner": "Agree; the 876x to the target makes the ATH idea unrealistic."
+  },
+  "heurist": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "Tracked coin with weak score or failed liquidity filter.",
+   "wrongIf": "Volume stays too thin to trade.",
+   "vsScanner": "Agree with the scanner's downgrade."
+  },
+  "priors-agent": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "Tracked coin with weak score or failed liquidity filter.",
+   "wrongIf": "Volume stays too thin to trade.",
+   "vsScanner": "Agree with the scanner's downgrade."
+  },
+  "adventure-gold": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "Tracked coin with weak score or failed liquidity filter.",
+   "wrongIf": "Volume stays too thin to trade.",
+   "vsScanner": "Agree with the scanner's downgrade."
+  },
+  "celer-network": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "Tracked coin with weak score or failed liquidity filter.",
+   "wrongIf": "Volume stays too thin to trade.",
+   "vsScanner": "Agree with the scanner's downgrade."
+  },
+  "api3": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "Tracked coin with weak score or failed liquidity filter.",
+   "wrongIf": "Volume stays too thin to trade.",
+   "vsScanner": "Agree with the scanner's downgrade."
+  },
+  "zeus-5": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "Tracked coin with weak score or failed liquidity filter.",
+   "wrongIf": "Volume stays too thin to trade.",
+   "vsScanner": "Agree with the scanner's downgrade."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing has a verified, dated catalyst plus a believable reason it is cheap; the 12 worth-a-look calls from a month ago all lost money.",
+ "athCheck": {
+  "pocket-network": "stretch",
+  "metaplex": "stretch",
+  "tagger": "stretch",
+  "targon": "stretch",
+  "brevis": "stretch",
+  "bitquant": "stretch",
+  "templar": "stretch",
+  "bob-build-on-bitcoin": "stretch",
+  "catizen": "unlikely",
+  "anoma": "unlikely",
+  "coredaoorg": "unlikely",
+  "robot-money": "unlikely",
+  "perpetual-protocol": "unlikely",
+  "loosh": "unlikely",
+  "omega-labs": "unlikely",
+  "apriori": "unlikely",
+  "sweatcoin": "unlikely",
+  "open-gpu": "unlikely",
+  "aussie-dollar-token": "unlikely",
+  "lingo": "unlikely",
+  "kyo": "unlikely"
+ },
+ "lifeCheck": {
+  "pocket-network": "alive",
+  "metaplex": "alive",
+  "tagger": "quiet",
+  "targon": "alive",
+  "brevis": "alive",
+  "bitquant": "alive",
+  "templar": "alive",
+  "bob-build-on-bitcoin": "alive",
+  "catizen": "quiet",
+  "anoma": "quiet",
+  "coredaoorg": "quiet",
+  "robot-money": "quiet",
+  "perpetual-protocol": "quiet",
+  "loosh": "zombie",
+  "omega-labs": "zombie",
+  "apriori": "zombie",
+  "sweatcoin": "quiet",
+  "open-gpu": "zombie",
+  "aussie-dollar-token": "alive",
+  "lingo": "zombie",
+  "kyo": "quiet"
+ },
+ "news": {
+  "pocket-network": {
+   "text": "No news in the last 30 days found"
+  },
+  "metaplex": {
+   "text": "Launched a public dashboard of revenue and buybacks.",
+   "date": "2026-08-26",
+   "url": "https://cryptobriefing.com/metaplex-public-dashboard-mplx-token/"
+  },
+  "tagger": {
+   "text": "No news in the last 30 days found"
+  },
+  "targon": {
+   "text": "No news in the last 30 days found"
+  },
+  "robot-money": {
+   "text": "No news in the last 30 days found"
+  },
+  "perpetual-protocol": {
+   "text": "No news in the last 30 days found"
+  },
+  "loosh": {
+   "text": "No news in the last 30 days found"
+  },
+  "omega-labs": {
+   "text": "No news in the last 30 days found"
+  },
+  "apriori": {
+   "text": "No news in the last 30 days found"
+  },
+  "sweatcoin": {
+   "text": "No news in the last 30 days found"
+  },
+  "open-gpu": {
+   "text": "No news in the last 30 days found"
+  },
+  "aussie-dollar-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "lingo": {
+   "text": "No news in the last 30 days found"
+  },
+  "kyo": {
+   "text": "No news in the last 30 days found"
+  },
+  "brevis": {
+   "text": "Roadmap lists a Q4 2026 Brevis Chain mainnet (unconfirmed).",
+   "url": "https://www.kucoin.com/blog/ae-what-is-brevis-brev-deep-dive-into-kucoin-s-new-zk-coprocessor-and-brev-tokenomics"
+  },
+  "bitquant": {
+   "text": "No news in the last 30 days found"
+  },
+  "templar": {
+   "text": "No news in the last 30 days found"
+  },
+  "bob-build-on-bitcoin": {
+   "text": "No news in the last 30 days found"
+  },
+  "catizen": {
+   "text": "No news in the last 30 days found"
+  },
+  "anoma": {
+   "text": "No news in the last 30 days found"
+  },
+  "coredaoorg": {
+   "text": "No news in the last 30 days found"
+  },
+  "hyperwave": {
+   "text": "No news in the last 30 days found"
+  },
+  "heurist": {
+   "text": "No news in the last 30 days found"
+  },
+  "dar-open-network": {
+   "text": "No news in the last 30 days found"
+  },
+  "for-sale": {
+   "text": "No news in the last 30 days found"
+  },
+  "priors-agent": {
+   "text": "No news in the last 30 days found"
+  },
+  "stockereum-fun": {
+   "text": "No news in the last 30 days found"
+  },
+  "adventure-gold": {
+   "text": "No news in the last 30 days found"
+  },
+  "celer-network": {
+   "text": "No news in the last 30 days found"
+  },
+  "api3": {
+   "text": "No news in the last 30 days found"
+  },
+  "zeus-5": {
+   "text": "No news in the last 30 days found"
+  },
+  "solmev": {
+   "text": "No news in the last 30 days found"
+  }
+ },
+ "sectorNews": {
+  "AI": "Searches found nothing newer than spring 2026. Bittensor subnets were hit by a reported governance dispute and a Covenant AI exit; subnet coins (7 on today's list) look hurt more than helped.",
+  "DeFi": "DeFi total value locked has fallen every month of 2026 (about $70B in June, down roughly 39%) with many hacks; weak backdrop for small DeFi coins.",
+  "Gaming": "No fresh news found; GameFi has been weak since 2025 apart from one-off token redesigns.",
+  "DePIN": "No news from the last 7 days found; latest sector data is from March 2026.",
+  "Infrastructure": "ZK infrastructure is maturing but the only recent items found were promotional; no clear flow into small names."
+ }
+}
