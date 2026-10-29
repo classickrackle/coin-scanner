@@ -1,0 +1,236 @@
+{
+ "date": "2026-10-29",
+ "ratings": {
+  "casper-network": "caution",
+  "biconomy": "caution",
+  "clearpool": "caution",
+  "zentry": "caution",
+  "starpower": "caution",
+  "data-universe": "caution",
+  "dressdio": "skip",
+  "elizaos": "caution",
+  "xpin-network": "caution",
+  "blocklords": "skip",
+  "napoli-fan-token": "skip",
+  "taohash": "skip",
+  "bitagent-rizzo": "skip",
+  "bitscrunch-token": "skip",
+  "america-s-official-launchpad": "skip",
+  "illuvium": "caution",
+  "thunder-token": "skip",
+  "nesa": "caution",
+  "ssv-network": "caution",
+  "home": "skip",
+  "avantis": "caution"
+ },
+ "conviction": {
+  "casper-network": "low",
+  "biconomy": "low",
+  "clearpool": "low",
+  "zentry": "low",
+  "starpower": "low",
+  "data-universe": "low",
+  "elizaos": "low",
+  "xpin-network": "low",
+  "illuvium": "low",
+  "nesa": "low",
+  "ssv-network": "low",
+  "avantis": "low"
+ },
+ "cases": {
+  "casper-network": {
+   "upside": "Roadmap lists EVM compatibility, gasless transactions and a stablecoin upgrade for the second half of 2026, but no firm date.",
+   "cheap": "Priced about 560x below its 2021 high with lots of new supply; the 13.8x volume spike is unexplained.",
+   "wrongIf": "EVM compatibility is not live by the end of 2026.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it.",
+   "catalystDate": "2026-12"
+  },
+  "biconomy": {
+   "upside": "Active product (smart accounts, transaction API); no dated event found.",
+   "cheap": "Near its all-time low in July; spike of 5.4x unexplained.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "clearpool": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted. The trading spike is unexplained.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "zentry": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted. The trading spike is unexplained.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "starpower": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "data-universe": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "elizaos": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted. The trading spike is unexplained.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "xpin-network": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "illuvium": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "nesa": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "ssv-network": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  },
+  "avantis": {
+   "upside": "No dated catalyst found; searches returned nothing newer than Sept 2026.",
+   "cheap": "Cannot tell why it is cheap; likely just unwanted.",
+   "wrongIf": "Daily trading falls back near its normal level without any announcement.",
+   "vsScanner": "Scanner score rests on trading and size; I found no story behind it."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No dated, verified catalyst on any coin; the four coins back on a volume spike have no explained cause.",
+ "athCheck": {
+  "casper-network": "unlikely",
+  "biconomy": "unlikely",
+  "clearpool": "unlikely",
+  "zentry": "stretch",
+  "starpower": "stretch",
+  "data-universe": "stretch",
+  "dressdio": "unlikely",
+  "elizaos": "unlikely",
+  "xpin-network": "stretch",
+  "blocklords": "unlikely",
+  "napoli-fan-token": "unlikely",
+  "taohash": "stretch",
+  "bitagent-rizzo": "stretch",
+  "bitscrunch-token": "unlikely",
+  "america-s-official-launchpad": "unlikely",
+  "illuvium": "unlikely",
+  "thunder-token": "unlikely",
+  "nesa": "stretch",
+  "ssv-network": "stretch",
+  "home": "stretch",
+  "avantis": "stretch"
+ },
+ "lifeCheck": {
+  "casper-network": "alive",
+  "biconomy": "alive",
+  "clearpool": "quiet",
+  "zentry": "quiet",
+  "starpower": "quiet",
+  "data-universe": "alive",
+  "dressdio": "quiet",
+  "elizaos": "quiet",
+  "xpin-network": "quiet",
+  "blocklords": "zombie",
+  "napoli-fan-token": "quiet",
+  "taohash": "zombie",
+  "bitagent-rizzo": "quiet",
+  "bitscrunch-token": "zombie",
+  "america-s-official-launchpad": "zombie",
+  "illuvium": "alive",
+  "thunder-token": "zombie",
+  "nesa": "quiet",
+  "ssv-network": "alive",
+  "home": "zombie",
+  "avantis": "quiet"
+ },
+ "news": {
+  "casper-network": {
+   "text": "No news in the last 30 days"
+  },
+  "biconomy": {
+   "text": "No news in the last 30 days"
+  },
+  "clearpool": {
+   "text": "No news in the last 30 days"
+  },
+  "zentry": {
+   "text": "No news in the last 30 days"
+  },
+  "starpower": {
+   "text": "No news in the last 30 days"
+  },
+  "data-universe": {
+   "text": "No news in the last 30 days"
+  },
+  "dressdio": {
+   "text": "No news in the last 30 days"
+  },
+  "elizaos": {
+   "text": "No news in the last 30 days"
+  },
+  "xpin-network": {
+   "text": "No news in the last 30 days"
+  },
+  "blocklords": {
+   "text": "No news in the last 30 days"
+  },
+  "napoli-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "taohash": {
+   "text": "No news in the last 30 days"
+  },
+  "bitagent-rizzo": {
+   "text": "No news in the last 30 days"
+  },
+  "bitscrunch-token": {
+   "text": "No news in the last 30 days"
+  },
+  "america-s-official-launchpad": {
+   "text": "No news in the last 30 days"
+  },
+  "illuvium": {
+   "text": "No news in the last 30 days"
+  },
+  "thunder-token": {
+   "text": "No news in the last 30 days"
+  },
+  "nesa": {
+   "text": "No news in the last 30 days"
+  },
+  "ssv-network": {
+   "text": "No news in the last 30 days"
+  },
+  "home": {
+   "text": "No news in the last 30 days"
+  },
+  "avantis": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "6 coins (Bittensor subnet tokens plus Zentry, ElizaOS). Not searched separately; no sector news found via coin searches. Tiny subnet tokens with dead code are not helped by the sector.",
+  "DeFi": "4 coins. No sector news found; small DeFi tokens with unlocks ahead stay under pressure.",
+  "Gaming": "3 coins (Zentry, Blocklords, Illuvium). No news found.",
+  "DePIN": "2 coins (Starpower, XPIN). No news found.",
+  "NFT": "3 coins (Dressdio, Bitscrunch, Illuvium). No news found."
+ },
+ "athMcap": {}
+}
