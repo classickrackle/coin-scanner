@@ -9,7 +9,6 @@
 - 2026-10-17: A verified catalyst that has already moved the price (Puffer +70%) is not a buy signal.
 - 2026-10-22: A volume spike alone is not a catalyst (HASH 26x on ~$100K/day, Arkham, META, PolySwarm, Zignaly).
 - 2026-10-18: Unverifiable scanner "back" triggers count as unconfirmed, not catalysts.
-- 2026-10-26: Search again found nothing newer than Sept 2026 for THORChain, Babylon and sector news; 7 straight days with no top picks.
 - 2026-10-20: Inkbox email needs re-authorization (still unauthorized 10-26); delivery falls back to push/chat.
 - 2026-10-27: Scanner coins priced near $0.70 with 'new listing' badges can be regulated fiat stablecoins (Macropod AUDM); check what the token is before anything else.
 - 2026-10-28: Searches again returned nothing newer than mid-2026 for 21 coins and 5 sectors; 8 straight days with no top picks. Without a dated, verified catalyst keep everything at caution/skip.
