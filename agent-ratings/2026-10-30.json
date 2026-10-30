@@ -1,0 +1,328 @@
+{
+ "date": "2026-10-30",
+ "ratings": {
+  "beam-2": "caution",
+  "redstone-oracles": "caution",
+  "dtravel": "skip",
+  "the-index": "skip",
+  "fuel-network": "caution",
+  "ocean-protocol": "caution",
+  "xmoney-2": "skip",
+  "eurite": "skip",
+  "lumiwave-protocol": "skip",
+  "rarible": "caution",
+  "qbx": "skip",
+  "mysterium": "caution",
+  "logicnet": "skip",
+  "dent": "skip",
+  "liquidlaunch": "skip",
+  "hodl-etf": "skip",
+  "lisk": "skip",
+  "defi-ssi": "skip",
+  "hypurr-fun": "skip",
+  "sanctum-2": "caution",
+  "spacecoin-2": "caution",
+  "uma": "caution",
+  "fractal-bitcoin": "caution",
+  "doodles": "skip",
+  "bas": "skip",
+  "hash-2": "caution",
+  "funfair": "skip",
+  "gatechain-token": "caution",
+  "blockstack": "caution",
+  "lukso-token-2": "caution",
+  "audius": "caution",
+  "elysia": "caution",
+  "gods-unchained": "caution",
+  "renzo": "caution",
+  "alpine-f1-team-fan-token": "skip",
+  "rock-dao": "skip",
+  "404-gen": "skip",
+  "tevaera": "skip",
+  "ai-router-protocol": "skip",
+  "openai-ondo-private-market-note": "skip"
+ },
+ "conviction": {
+  "beam-2": "low",
+  "redstone-oracles": "low",
+  "fuel-network": "low",
+  "ocean-protocol": "low",
+  "rarible": "low",
+  "mysterium": "low",
+  "sanctum-2": "low",
+  "spacecoin-2": "low",
+  "uma": "low",
+  "fractal-bitcoin": "low",
+  "hash-2": "low",
+  "gatechain-token": "low",
+  "blockstack": "low",
+  "lukso-token-2": "low",
+  "audius": "low",
+  "elysia": "low",
+  "gods-unchained": "low",
+  "renzo": "low"
+ },
+ "cases": {
+  "beam-2": {
+   "upside": "Gaming chain pivoting to a perps app (Dreamcash) with a PoS mainnet planned for Q4 2026; spike 9.9x on an unverified reason.",
+   "cheap": "Recent bounce off a June 2026 low with no confirmed new event; app depends on regulatory approval.",
+   "wrongIf": "Dreamcash/PoS mainnet slips past 2026-12 or volume falls back to normal.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "redstone-oracles": {
+   "upside": "Oracle with real integrations; score up and spike 8.4x but I found no dated catalyst after April 2026.",
+   "cheap": "Down from the March 2025 launch; no reason found for the new spike.",
+   "wrongIf": "Volume returns to normal within a week without news.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "fuel-network": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; looks unwanted rather than mispriced.",
+   "wrongIf": "Still no dated catalyst or announcement by 2026-12-01.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "ocean-protocol": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; looks unwanted rather than mispriced.",
+   "wrongIf": "Still no dated catalyst or announcement by 2026-12-01.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "rarible": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; looks unwanted rather than mispriced.",
+   "wrongIf": "Still no dated catalyst or announcement by 2026-12-01.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "mysterium": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; looks unwanted rather than mispriced.",
+   "wrongIf": "Still no dated catalyst or announcement by 2026-12-01.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "sanctum-2": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; looks unwanted rather than mispriced.",
+   "wrongIf": "Still no dated catalyst or announcement by 2026-12-01.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "spacecoin-2": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; looks unwanted rather than mispriced.",
+   "wrongIf": "Still no dated catalyst or announcement by 2026-12-01.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "uma": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; looks unwanted rather than mispriced.",
+   "wrongIf": "Still no dated catalyst or announcement by 2026-12-01.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "fractal-bitcoin": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; looks unwanted rather than mispriced.",
+   "wrongIf": "Still no dated catalyst or announcement by 2026-12-01.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "hash-2": {
+   "upside": "Animoca/Franklin Templeton tokenization news on 2026-10-09 lifted it ~40%; real tie to RWA.",
+   "cheap": "Already moved on thin liquidity; Figure holds ~25% of supply.",
+   "wrongIf": "Price gives back the Oct 9 gain or Figure sells.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  },
+  "gatechain-token": {
+   "upside": "No verified dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; looks unwanted rather than mispriced.",
+   "wrongIf": "Still no dated catalyst or announcement by 2026-12-01.",
+   "vsScanner": "Scanner numbers look fine but I found no story behind them."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin has a verified, dated catalyst that has not already moved the price; searches found nothing newer than Sept-Oct 2026 for most coins.",
+ "athCheck": {
+  "beam-2": "stretch",
+  "redstone-oracles": "stretch",
+  "dtravel": "unlikely",
+  "the-index": "unlikely",
+  "fuel-network": "stretch",
+  "ocean-protocol": "stretch",
+  "xmoney-2": "unlikely",
+  "eurite": "unlikely",
+  "lumiwave-protocol": "unlikely",
+  "rarible": "stretch",
+  "qbx": "unlikely",
+  "mysterium": "stretch",
+  "logicnet": "unlikely",
+  "dent": "unlikely",
+  "liquidlaunch": "unlikely",
+  "hodl-etf": "unlikely",
+  "lisk": "unlikely",
+  "defi-ssi": "unlikely",
+  "hypurr-fun": "unlikely",
+  "sanctum-2": "stretch",
+  "spacecoin-2": "stretch",
+  "uma": "stretch",
+  "fractal-bitcoin": "stretch",
+  "doodles": "unlikely",
+  "bas": "unlikely",
+  "hash-2": "stretch",
+  "funfair": "unlikely",
+  "gatechain-token": "stretch"
+ },
+ "lifeCheck": {
+  "beam-2": "alive",
+  "redstone-oracles": "alive",
+  "dtravel": "zombie",
+  "the-index": "unknown",
+  "fuel-network": "alive",
+  "ocean-protocol": "alive",
+  "xmoney-2": "alive",
+  "eurite": "unknown",
+  "lumiwave-protocol": "unknown",
+  "rarible": "alive",
+  "qbx": "alive",
+  "mysterium": "alive",
+  "logicnet": "zombie",
+  "dent": "unknown",
+  "liquidlaunch": "unknown",
+  "hodl-etf": "zombie",
+  "lisk": "zombie",
+  "defi-ssi": "quiet",
+  "hypurr-fun": "unknown",
+  "sanctum-2": "unknown",
+  "spacecoin-2": "unknown",
+  "uma": "alive",
+  "fractal-bitcoin": "alive",
+  "doodles": "zombie",
+  "bas": "unknown",
+  "hash-2": "alive",
+  "funfair": "zombie",
+  "gatechain-token": "quiet"
+ },
+ "news": {
+  "beam-2": {
+   "text": "Reported 19% jump on Oct 5; Dreamcash app and PoS mainnet planned for Q4 2026.",
+   "date": "2026-10-05",
+   "url": "https://www.interactivecrypto.com/pl/beam-skoczy-o-19-ale-byki-wciaz-nie-pokaza-y-najwazniejszego"
+  },
+  "redstone-oracles": {
+   "text": "No news in the last 30 days"
+  },
+  "dtravel": {
+   "text": "No news in the last 30 days"
+  },
+  "the-index": {
+   "text": "No news in the last 30 days"
+  },
+  "fuel-network": {
+   "text": "No news in the last 30 days"
+  },
+  "ocean-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "xmoney-2": {
+   "text": "No news in the last 30 days"
+  },
+  "eurite": {
+   "text": "No news in the last 30 days"
+  },
+  "lumiwave-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "rarible": {
+   "text": "No news in the last 30 days"
+  },
+  "qbx": {
+   "text": "No news in the last 30 days"
+  },
+  "mysterium": {
+   "text": "No news in the last 30 days"
+  },
+  "logicnet": {
+   "text": "No news in the last 30 days"
+  },
+  "dent": {
+   "text": "No news in the last 30 days"
+  },
+  "liquidlaunch": {
+   "text": "No news in the last 30 days"
+  },
+  "hodl-etf": {
+   "text": "No news in the last 30 days"
+  },
+  "lisk": {
+   "text": "No news in the last 30 days"
+  },
+  "defi-ssi": {
+   "text": "No news in the last 30 days"
+  },
+  "hypurr-fun": {
+   "text": "No news in the last 30 days"
+  },
+  "sanctum-2": {
+   "text": "No news in the last 30 days"
+  },
+  "spacecoin-2": {
+   "text": "No news in the last 30 days"
+  },
+  "uma": {
+   "text": "No news in the last 30 days"
+  },
+  "fractal-bitcoin": {
+   "text": "No news in the last 30 days"
+  },
+  "doodles": {
+   "text": "No news in the last 30 days"
+  },
+  "bas": {
+   "text": "No news in the last 30 days"
+  },
+  "hash-2": {
+   "text": "Animoca Brands and Franklin Templeton announced a tokenization collaboration; HASH rose ~40% that day.",
+   "date": "2026-10-09",
+   "url": "https://ourcryptotalk.com/news/why-provenance-blockchain-hash-up-39-6-percent-today"
+  },
+  "funfair": {
+   "text": "No news in the last 30 days"
+  },
+  "gatechain-token": {
+   "text": "No news in the last 30 days"
+  },
+  "blockstack": {
+   "text": "No news in the last 30 days"
+  },
+  "lukso-token-2": {
+   "text": "No news in the last 30 days"
+  },
+  "audius": {
+   "text": "No news in the last 30 days"
+  },
+  "elysia": {
+   "text": "No news in the last 30 days"
+  },
+  "gods-unchained": {
+   "text": "No news in the last 30 days"
+  },
+  "renzo": {
+   "text": "No news in the last 30 days"
+  },
+  "alpine-f1-team-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "rock-dao": {
+   "text": "No news in the last 30 days"
+  },
+  "404-gen": {
+   "text": "No news in the last 30 days"
+  },
+  "tevaera": {
+   "text": "No news in the last 30 days"
+  },
+  "ai-router-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "openai-ondo-private-market-note": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {}
+}
