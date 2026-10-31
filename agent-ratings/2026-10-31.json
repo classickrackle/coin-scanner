@@ -1,0 +1,370 @@
+{
+ "date": "2026-10-31",
+ "ratings": {
+  "aergo-2": "caution",
+  "mezo": "caution",
+  "real-world-services": "caution",
+  "dia-data": "caution",
+  "prometeus": "caution",
+  "beam": "caution",
+  "embercurve": "caution",
+  "dotmoovs": "caution",
+  "hive-intelligence": "caution",
+  "thorchain": "caution",
+  "hyperwave": "caution",
+  "meteor-coin": "caution",
+  "tptu": "caution",
+  "hyperlend": "caution",
+  "ancient8": "skip",
+  "kernel-2": "skip",
+  "holotoken": "skip",
+  "spell-token": "skip",
+  "zerobase": "skip",
+  "bonfida": "skip",
+  "chex-token": "skip",
+  "xyo-network": "skip",
+  "sign-global": "caution",
+  "coin98": "skip",
+  "joe": "skip",
+  "hookr-fun": "caution",
+  "credible-finance": "caution",
+  "iron-fish": "skip",
+  "quantixai": "skip",
+  "sedra-coin": "skip",
+  "ast-fun": "skip",
+  "nfprompt-token": "skip",
+  "fluence-2": "caution",
+  "xpla": "caution",
+  "superfarm": "skip",
+  "doublezero": "skip",
+  "wink": "caution",
+  "talus": "caution",
+  "lisk": "caution"
+ },
+ "conviction": {
+  "aergo-2": "low",
+  "mezo": "low",
+  "real-world-services": "low",
+  "dia-data": "low",
+  "prometeus": "low",
+  "beam": "low",
+  "embercurve": "low",
+  "dotmoovs": "low",
+  "hive-intelligence": "low",
+  "thorchain": "low",
+  "hyperwave": "low",
+  "meteor-coin": "low",
+  "tptu": "low",
+  "hyperlend": "low",
+  "sign-global": "low",
+  "hookr-fun": "low",
+  "credible-finance": "low",
+  "fluence-2": "low",
+  "xpla": "low",
+  "wink": "low",
+  "talus": "low",
+  "lisk": "low"
+ },
+ "cases": {
+  "aergo-2": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "mezo": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "real-world-services": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "dia-data": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "prometeus": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "beam": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "embercurve": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "dotmoovs": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "hive-intelligence": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "thorchain": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Another exploit or protocol insolvency news, or volume falls back under normal.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "hyperwave": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "meteor-coin": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "tptu": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "hyperlend": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "sign-global": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "hookr-fun": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "credible-finance": {
+   "upside": "No dated, verified catalyst found; scanner flags are a volume/score move only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading falls back to normal levels without any announced listing or launch.",
+   "vsScanner": "Scanner screen only; I could not verify a story behind it."
+  },
+  "fluence-2": {
+   "upside": "None verified.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades to normal with no announcement.",
+   "vsScanner": "Agree with the scanner's note; no story found."
+  },
+  "xpla": {
+   "upside": "None verified.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades to normal with no announcement.",
+   "vsScanner": "Agree with the scanner's note; no story found."
+  },
+  "wink": {
+   "upside": "None verified.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades to normal with no announcement.",
+   "vsScanner": "Agree with the scanner's note; no story found."
+  },
+  "talus": {
+   "upside": "None verified.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades to normal with no announcement.",
+   "vsScanner": "Agree with the scanner's note; no story found."
+  },
+  "lisk": {
+   "upside": "None verified.",
+   "cheap": "Unclear.",
+   "wrongIf": "Volume fades to normal with no announcement.",
+   "vsScanner": "Agree with the scanner's note; no story found."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No dated, verified catalyst on any coin today, and worth-a-look calls are -20% at 30 days vs market -7.5%.",
+ "athCheck": {
+  "aergo-2": "stretch",
+  "mezo": "stretch",
+  "real-world-services": "stretch",
+  "dia-data": "unlikely",
+  "prometeus": "stretch",
+  "beam": "unlikely",
+  "embercurve": "unlikely",
+  "dotmoovs": "unlikely",
+  "hive-intelligence": "unlikely",
+  "thorchain": "unlikely",
+  "hyperwave": "stretch",
+  "meteor-coin": "stretch",
+  "tptu": "unlikely",
+  "hyperlend": "stretch",
+  "ancient8": "unlikely",
+  "kernel-2": "stretch",
+  "holotoken": "unlikely",
+  "spell-token": "unlikely",
+  "zerobase": "stretch",
+  "bonfida": "unlikely",
+  "chex-token": "unlikely",
+  "xyo-network": "unlikely",
+  "sign-global": "stretch",
+  "coin98": "unlikely",
+  "joe": "unlikely",
+  "hookr-fun": "stretch",
+  "credible-finance": "stretch"
+ },
+ "lifeCheck": {
+  "aergo-2": "alive",
+  "mezo": "unknown",
+  "real-world-services": "alive",
+  "dia-data": "alive",
+  "prometeus": "alive",
+  "beam": "alive",
+  "embercurve": "unknown",
+  "dotmoovs": "unknown",
+  "hive-intelligence": "unknown",
+  "thorchain": "alive",
+  "hyperwave": "unknown",
+  "meteor-coin": "unknown",
+  "tptu": "alive",
+  "hyperlend": "alive",
+  "ancient8": "zombie",
+  "kernel-2": "zombie",
+  "holotoken": "zombie",
+  "spell-token": "zombie",
+  "zerobase": "zombie",
+  "bonfida": "quiet",
+  "chex-token": "zombie",
+  "xyo-network": "quiet",
+  "sign-global": "unknown",
+  "coin98": "zombie",
+  "joe": "zombie",
+  "hookr-fun": "unknown",
+  "credible-finance": "unknown"
+ },
+ "news": {
+  "aergo-2": {
+   "text": "AERGO swapped 1:1 to House Party Protocol (HPP) in May-June 2026; CoinEx delisted old AERGO",
+   "date": "2026-05-21",
+   "url": "https://www.kucoin.com/announcement/en-kucoin-has-completed-the-aergo-aergo-token-swap-and-rebranding-to-house-party-protocol-hpp"
+  },
+  "mezo": {
+   "text": "Listed April 2026 (KuCoin, Coinbase, Kraken); team/investor tokens locked under a 12-month cliff, nothing newer found",
+   "date": "2026-04-01",
+   "url": "https://www.kucoin.com/announcement/fr-world-premiere-mezo-mezo-listed-on-kucoin"
+  },
+  "real-world-services": {
+   "text": "No news in the last 30 days found"
+  },
+  "dia-data": {
+   "text": "No news in the last 30 days found"
+  },
+  "prometeus": {
+   "text": "No news in the last 30 days found"
+  },
+  "beam": {
+   "text": "No news in the last 30 days found"
+  },
+  "embercurve": {
+   "text": "No news in the last 30 days found"
+  },
+  "dotmoovs": {
+   "text": "No news in the last 30 days found"
+  },
+  "hive-intelligence": {
+   "text": "No news in the last 30 days found"
+  },
+  "thorchain": {
+   "text": "Exploit report published on the May 2026 incident; nothing newer found",
+   "date": "2026-08-06",
+   "url": "https://blog.thorchain.org/authors/thorchain"
+  },
+  "hyperwave": {
+   "text": "No news in the last 30 days found"
+  },
+  "meteor-coin": {
+   "text": "No news in the last 30 days found"
+  },
+  "tptu": {
+   "text": "No news in the last 30 days found"
+  },
+  "hyperlend": {
+   "text": "No news in the last 30 days found"
+  },
+  "ancient8": {
+   "text": "No news in the last 30 days found"
+  },
+  "kernel-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "holotoken": {
+   "text": "No news in the last 30 days found"
+  },
+  "spell-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "zerobase": {
+   "text": "No news in the last 30 days found"
+  },
+  "bonfida": {
+   "text": "No news in the last 30 days found"
+  },
+  "chex-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "xyo-network": {
+   "text": "No news in the last 30 days found"
+  },
+  "sign-global": {
+   "text": "No news in the last 30 days found"
+  },
+  "coin98": {
+   "text": "No news in the last 30 days found"
+  },
+  "joe": {
+   "text": "No news in the last 30 days found"
+  },
+  "hookr-fun": {
+   "text": "No news in the last 30 days found"
+  },
+  "credible-finance": {
+   "text": "No news in the last 30 days found"
+  },
+  "fluence-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "xpla": {
+   "text": "No news in the last 30 days found"
+  },
+  "wink": {
+   "text": "No news in the last 30 days found"
+  },
+  "talus": {
+   "text": "No news in the last 30 days found"
+  },
+  "lisk": {
+   "text": "Lisk Chain scheduled to shut down 2026-10-31 (migration); Sept spike tied to that and Aster perpetuals",
+   "date": "2026-09-15",
+   "url": "https://www.bitrue.com/blog/lisk-lsk-crypto-prive-analysis"
+  }
+ },
+ "sectorNews": {},
+ "athMcap": {}
+}

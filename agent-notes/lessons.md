@@ -14,3 +14,4 @@
 - 2026-10-28: Searches again returned nothing newer than mid-2026 for 21 coins and 5 sectors; 8 straight days with no top picks. Without a dated, verified catalyst keep everything at caution/skip.
 - 2026-10-29: Searches again found no news newer than Sept 2026 for the back coins (Casper, Biconomy, Clearpool, Zentry); 9 straight days with no top picks.
 - 2026-10-30: Agent worth-a-look is -19.8% at 30 days vs market -7.5% (56 picks); 10 straight days with no top picks, and all 12 coins rated worth a look on 2026-09-30 are down except DIMO (+2.9%). Keep default at caution.
+- 2026-10-31: Worth-a-look 30-day average -20.4% vs market -7.8% (66 picks); the 10-01 batch averaged -24% (10 of 10 down). 11 straight days with no top picks. Spiking tokens that rebranded or migrate (AERGO->HPP, Lisk chain shutdown) need the migration checked before anything else.
