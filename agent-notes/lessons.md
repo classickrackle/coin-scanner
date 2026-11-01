@@ -1,6 +1,4 @@
 # Lessons (max 15 bullets)
-- 2026-10-29: All 8 coins rated worth a look on 2026-09-29 are down 6-36% after 30 days (average about -20%) vs market about -7%; scorecard shows worth-a-look at -19.1% over 30 days across 45 picks.
-- 2026-10-26: Of 12 coins rated worth a look on 2026-09-26, all 12 are down since first pick (average -24.5% vs market -7.5%; best DIA -10.8%, worst CLAWD -50.9%). Worth a look without a dated event keeps losing; default to caution.
 - 2026-10-12: Skip means not researchable or not tradeable, not "will fall": skip calls averaged +17% at 7 days from tiny illiquid spikers. Never treat skip as a short signal.
 - 2026-10-12: Require a dated, verified catalyst; a sector story, a known name or low price vs ATH is never enough.
 - 2026-10-12: Web search returns little recent news on small coins. With no verified catalyst, default to caution; do not guess.
@@ -11,7 +9,6 @@
 - 2026-10-18: Unverifiable scanner "back" triggers count as unconfirmed, not catalysts.
 - 2026-10-20: Inkbox email needs re-authorization (still unauthorized 10-26); delivery falls back to push/chat.
 - 2026-10-27: Scanner coins priced near $0.70 with 'new listing' badges can be regulated fiat stablecoins (Macropod AUDM); check what the token is before anything else.
-- 2026-10-29: Searches again found no news newer than Sept 2026 for the back coins (Casper, Biconomy, Clearpool, Zentry); 9 straight days with no top picks.
 - 2026-10-30: Agent worth-a-look is -19.8% at 30 days vs market -7.5% (56 picks); 10 straight days with no top picks, and all 12 coins rated worth a look on 2026-09-30 are down except DIMO (+2.9%). Keep default at caution.
 - 2026-10-31: Worth-a-look 30-day average -20.4% vs market -7.8% (66 picks); the 10-01 batch averaged -24% (10 of 10 down). 11 straight days with no top picks. Spiking tokens that rebranded or migrate (AERGO->HPP, Lisk chain shutdown) need the migration checked before anything else.
 - 2026-11-01: Of 6 worth-a-look calls on 2026-10-02, 5 are down 18-35% since first pick (only Midnight +39.5%, LayerZero +1%); average about -10% vs market -8%. After 12 straight days with no worth-a-look or top pick, the strict bar is working; keep it.
