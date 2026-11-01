@@ -1,0 +1,298 @@
+{
+ "date": "2026-11-01",
+ "ratings": {
+  "flock-2": "caution",
+  "creator-2": "skip",
+  "zentry": "caution",
+  "punkvism": "skip",
+  "dimo": "caution",
+  "trustswap": "caution",
+  "uxlink": "skip",
+  "okzoo": "skip",
+  "meet48": "skip",
+  "stablecorp-qcad": "skip",
+  "storm-trade": "caution",
+  "nem": "skip",
+  "guild-of-guardians": "skip",
+  "vara-network": "caution",
+  "radix": "caution",
+  "dtec-token": "skip",
+  "moviebloc": "skip",
+  "rocket-pool": "caution",
+  "dual": "caution",
+  "milk-alliance": "caution",
+  "ergo": "caution",
+  "blur": "skip",
+  "vow": "skip",
+  "liquity": "caution",
+  "port3-network": "skip",
+  "g-token": "caution",
+  "nym": "caution",
+  "leisuremeta": "skip",
+  "umbra": "caution",
+  "ore": "caution",
+  "delorean": "skip",
+  "zksync": "caution",
+  "decentraland": "caution",
+  "the-sandbox": "skip",
+  "gaia-2": "skip",
+  "hooked-protocol": "skip"
+ },
+ "conviction": {
+  "flock-2": "low",
+  "zentry": "low",
+  "dimo": "low",
+  "trustswap": "low",
+  "storm-trade": "low",
+  "vara-network": "low",
+  "radix": "low",
+  "rocket-pool": "medium",
+  "dual": "low",
+  "milk-alliance": "low",
+  "ergo": "low",
+  "liquity": "low"
+ },
+ "cases": {
+  "flock-2": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "zentry": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "dimo": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "trustswap": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "storm-trade": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "vara-network": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "radix": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "rocket-pool": {
+   "upside": "Saturn 1 upgrade (megapools, lower node bond) lets RPL stakers earn a share of ETH commission; no dated trigger found.",
+   "cheap": "Lido dominates staking and Rocket Pool TVL fell about 9% in 30 days.",
+   "wrongIf": "TVL keeps falling below about $1B.",
+   "vsScanner": "Real product the scanner undersells, but no catalyst date."
+  },
+  "dual": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "milk-alliance": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "ergo": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  },
+  "liquity": {
+   "upside": "No dated, verified catalyst found; only a sector or trading-volume story.",
+   "cheap": "Looks unwanted rather than mispriced; no reason found why the market would re-rate it soon.",
+   "wrongIf": "Daily trading falls back to its normal level and the price keeps drifting down.",
+   "vsScanner": "The scanner's spike or ATH gap is not a reason by itself; agree it passes a screen but not that it is worth a look."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing today has a dated, verified catalyst; the list is only Micro and Small coins, mostly old names or zombies.",
+ "athCheck": {
+  "flock-2": "unlikely",
+  "creator-2": "unlikely",
+  "zentry": "unlikely",
+  "punkvism": "unlikely",
+  "dimo": "unlikely",
+  "trustswap": "unlikely",
+  "uxlink": "unlikely",
+  "okzoo": "unlikely",
+  "meet48": "stretch",
+  "stablecorp-qcad": "unlikely",
+  "storm-trade": "unlikely",
+  "nem": "unlikely",
+  "guild-of-guardians": "unlikely",
+  "vara-network": "unlikely",
+  "radix": "unlikely",
+  "dtec-token": "unlikely",
+  "moviebloc": "unlikely",
+  "rocket-pool": "unlikely",
+  "dual": "stretch",
+  "milk-alliance": "unlikely",
+  "ergo": "unlikely",
+  "blur": "unlikely",
+  "vow": "unlikely",
+  "liquity": "unlikely"
+ },
+ "lifeCheck": {
+  "flock-2": "alive",
+  "creator-2": "quiet",
+  "zentry": "quiet",
+  "punkvism": "quiet",
+  "dimo": "alive",
+  "trustswap": "quiet",
+  "uxlink": "quiet",
+  "okzoo": "zombie",
+  "meet48": "zombie",
+  "stablecorp-qcad": "alive",
+  "storm-trade": "quiet",
+  "nem": "zombie",
+  "guild-of-guardians": "zombie",
+  "vara-network": "quiet",
+  "radix": "quiet",
+  "dtec-token": "quiet",
+  "moviebloc": "zombie",
+  "rocket-pool": "alive",
+  "dual": "quiet",
+  "milk-alliance": "alive",
+  "ergo": "alive",
+  "blur": "quiet",
+  "vow": "quiet",
+  "liquity": "alive"
+ },
+ "news": {
+  "flock-2": {
+   "text": "No October news found; tokenomics data shows about 60% of supply still locked with monthly unlocks."
+  },
+  "creator-2": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "zentry": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "punkvism": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "dimo": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "trustswap": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "uxlink": {
+   "text": "Hacked in 2025 and delisted from Bitfinex in March 2026; October 2026 price data conflicts between sources."
+  },
+  "okzoo": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "meet48": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "stablecorp-qcad": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "storm-trade": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "nem": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "guild-of-guardians": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "vara-network": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "radix": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "dtec-token": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "moviebloc": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "rocket-pool": {
+   "text": "Saturn 1 upgrade is live; protocol TVL about $1.25B, down 8.8% in 30 days (DefiLlama, Oct 20).",
+   "date": "2026-10-20",
+   "url": "https://defillama.com/protocol/900"
+  },
+  "dual": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "milk-alliance": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "ergo": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "blur": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "vow": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "liquity": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "port3-network": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "g-token": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "nym": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "leisuremeta": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "umbra": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "ore": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "delorean": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "zksync": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "decentraland": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "the-sandbox": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "gaia-2": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  },
+  "hooked-protocol": {
+   "text": "No news found in the last 30 days (searches returned nothing newer than September 2026)"
+  }
+ },
+ "sectorNews": {
+  "AI": "FLOCK, ForeverMoney and Zentry/OKZOO-type AI tokens appeared on spikes; no sector news found newer than September, so no help for small AI coins."
+ }
+}
