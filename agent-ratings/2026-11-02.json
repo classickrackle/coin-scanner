@@ -1,0 +1,227 @@
+{
+ "date": "2026-11-02",
+ "ratings": {
+  "digitalbits": "skip",
+  "macropod": "skip",
+  "astra-nova": "skip",
+  "origin-protocol": "caution",
+  "safe-scan": "skip",
+  "orchid-protocol": "caution",
+  "dextools": "skip",
+  "smardex": "caution",
+  "polyhedra-network": "skip",
+  "gradients": "caution",
+  "logicnet": "skip",
+  "heroes-of-mavia": "skip",
+  "multivac": "skip",
+  "hash-2": "skip",
+  "realio-network": "skip",
+  "swash": "skip",
+  "the-innovation-game": "caution",
+  "schuman-europ": "skip",
+  "aevo-exchange": "skip",
+  "airtor-protocol": "caution",
+  "manadia": "skip",
+  "a-hunters-dream": "skip",
+  "divi": "skip",
+  "coindepo": "skip",
+  "dmt-nat": "skip",
+  "kinesis-silver": "caution"
+ },
+ "conviction": {
+  "origin-protocol": "low",
+  "orchid-protocol": "low",
+  "smardex": "low",
+  "gradients": "low",
+  "the-innovation-game": "low",
+  "airtor-protocol": "low",
+  "kinesis-silver": "low"
+ },
+ "cases": {
+  "origin-protocol": {
+   "upside": "No dated catalyst verified; any rebound would be sector-driven or volume-driven only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading stays below its trigger level or price makes a new low within 30 days.",
+   "vsScanner": "Scanner flags a trading spike or listing; I could not confirm a real cause, so a spike alone is not a catalyst."
+  },
+  "orchid-protocol": {
+   "upside": "No dated catalyst verified; any rebound would be sector-driven or volume-driven only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading stays below its trigger level or price makes a new low within 30 days.",
+   "vsScanner": "Scanner flags a trading spike or listing; I could not confirm a real cause, so a spike alone is not a catalyst."
+  },
+  "smardex": {
+   "upside": "No dated catalyst verified; any rebound would be sector-driven or volume-driven only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading stays below its trigger level or price makes a new low within 30 days.",
+   "vsScanner": "Scanner flags a trading spike or listing; I could not confirm a real cause, so a spike alone is not a catalyst."
+  },
+  "gradients": {
+   "upside": "No dated catalyst verified; any rebound would be sector-driven or volume-driven only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading stays below its trigger level or price makes a new low within 30 days.",
+   "vsScanner": "Scanner flags a trading spike or listing; I could not confirm a real cause, so a spike alone is not a catalyst."
+  },
+  "the-innovation-game": {
+   "upside": "No dated catalyst verified; any rebound would be sector-driven or volume-driven only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading stays below its trigger level or price makes a new low within 30 days.",
+   "vsScanner": "Scanner flags a trading spike or listing; I could not confirm a real cause, so a spike alone is not a catalyst."
+  },
+  "airtor-protocol": {
+   "upside": "No dated catalyst verified; any rebound would be sector-driven or volume-driven only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading stays below its trigger level or price makes a new low within 30 days.",
+   "vsScanner": "Scanner flags a trading spike or listing; I could not confirm a real cause, so a spike alone is not a catalyst."
+  },
+  "kinesis-silver": {
+   "upside": "No dated catalyst verified; any rebound would be sector-driven or volume-driven only.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Daily trading stays below its trigger level or price makes a new low within 30 days.",
+   "vsScanner": "Scanner flags a trading spike or listing; I could not confirm a real cause, so a spike alone is not a catalyst."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing today has a dated, verified catalyst; the list is mostly zombies and old names, and only two bands are populated.",
+ "athCheck": {
+  "digitalbits": "unlikely",
+  "macropod": "realistic",
+  "astra-nova": "unlikely",
+  "origin-protocol": "unlikely",
+  "safe-scan": "stretch",
+  "orchid-protocol": "unlikely",
+  "dextools": "stretch",
+  "smardex": "unlikely",
+  "polyhedra-network": "unlikely",
+  "gradients": "stretch",
+  "logicnet": "unlikely",
+  "heroes-of-mavia": "unlikely",
+  "multivac": "unlikely",
+  "hash-2": "stretch",
+  "realio-network": "unlikely",
+  "swash": "unlikely",
+  "the-innovation-game": "stretch",
+  "schuman-europ": "realistic",
+  "aevo-exchange": "unlikely",
+  "airtor-protocol": "unlikely",
+  "manadia": "unlikely",
+  "a-hunters-dream": "stretch",
+  "divi": "unlikely",
+  "coindepo": "realistic",
+  "dmt-nat": "stretch",
+  "kinesis-silver": "realistic"
+ },
+ "lifeCheck": {
+  "digitalbits": "zombie",
+  "macropod": "unknown",
+  "astra-nova": "zombie",
+  "origin-protocol": "alive",
+  "safe-scan": "zombie",
+  "orchid-protocol": "alive",
+  "dextools": "quiet",
+  "smardex": "alive",
+  "polyhedra-network": "unknown",
+  "gradients": "alive",
+  "logicnet": "zombie",
+  "heroes-of-mavia": "zombie",
+  "multivac": "zombie",
+  "hash-2": "alive",
+  "realio-network": "alive",
+  "swash": "zombie",
+  "the-innovation-game": "alive",
+  "schuman-europ": "zombie",
+  "aevo-exchange": "zombie",
+  "airtor-protocol": "alive",
+  "manadia": "unknown",
+  "a-hunters-dream": "unknown",
+  "divi": "unknown",
+  "coindepo": "unknown",
+  "dmt-nat": "zombie",
+  "kinesis-silver": "zombie"
+ },
+ "news": {
+  "digitalbits": {
+   "text": "No news in the last 30 days"
+  },
+  "macropod": {
+   "text": "No news in the last 30 days"
+  },
+  "astra-nova": {
+   "text": "No news in the last 30 days"
+  },
+  "origin-protocol": {
+   "text": "CoinJar shows OGN for sale, but I found no dated listing announcement; the 'new listing' looks old (Coinbase 2021, Binance 2019).",
+   "date": "2026-11-02",
+   "url": "https://www.coinjar.com/au/buy/origin-protocol"
+  },
+  "safe-scan": {
+   "text": "No news in the last 30 days"
+  },
+  "orchid-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "dextools": {
+   "text": "No news in the last 30 days"
+  },
+  "smardex": {
+   "text": "No news in the last 30 days"
+  },
+  "polyhedra-network": {
+   "text": "No news in the last 30 days"
+  },
+  "gradients": {
+   "text": "Gradients (Bittensor SN56) is an active AutoML subnet; no breaking news found in the last 30 days."
+  },
+  "logicnet": {
+   "text": "No news in the last 30 days"
+  },
+  "heroes-of-mavia": {
+   "text": "No news in the last 30 days"
+  },
+  "multivac": {
+   "text": "No news in the last 30 days"
+  },
+  "hash-2": {
+   "text": "No news in the last 30 days"
+  },
+  "realio-network": {
+   "text": "No news in the last 30 days"
+  },
+  "swash": {
+   "text": "No news in the last 30 days"
+  },
+  "the-innovation-game": {
+   "text": "No news in the last 30 days"
+  },
+  "schuman-europ": {
+   "text": "No news in the last 30 days"
+  },
+  "aevo-exchange": {
+   "text": "No news in the last 30 days"
+  },
+  "airtor-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "manadia": {
+   "text": "No news in the last 30 days"
+  },
+  "a-hunters-dream": {
+   "text": "No news in the last 30 days"
+  },
+  "divi": {
+   "text": "No news in the last 30 days"
+  },
+  "coindepo": {
+   "text": "No news in the last 30 days"
+  },
+  "dmt-nat": {
+   "text": "No news in the last 30 days"
+  },
+  "kinesis-silver": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "Four Bittensor subnet tokens (Gradients, SafeScan, LogicNet, plus The Innovation Game) are on the list; I found no fresh sector news this week, and tiny subnet tokens remain thin and volatile."
+ }
+}
