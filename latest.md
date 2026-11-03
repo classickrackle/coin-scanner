@@ -1,600 +1,586 @@
-# Coin Scanner — 2026-11-02
+# Coin Scanner — 2026-11-03
 
-Scanned 16,750 coins · 1,225 passed the safety filters · 115 checked in depth · tracking 775 past picks (95 changed today) · CoinGecko calls this run: 199 (this month: 396 of 10,000)
+Scanned 16,750 coins · 1,266 passed the safety filters · 116 checked in depth · tracking 794 past picks (93 changed today) · CoinGecko calls this run: 235 (this month: 631 of 10,000)
 
 _A research list, not buy advice. Every coin here can still go to zero._
 
-## New today (26)
+## New today (25)
 
-### 1. XDB CHAIN (XDB) — score 58 · Micro cap
-Price $0.0000774 · Market cap $1.31M · 24h trading $463K · Week +24.5%
-Exchanges (2): KuCoin, Gate
-Life: zombie · last code push 2022-01-31
-Back to ATH: price $0.0000774 vs ATH $0.851 (2021-11-21) = 10,997x to get back to the ATH (100% below it)
-ATH market cap: about $14.40B at today's supply (now $1.31M)
-Potential: 2.5x its all-time high ($0.851 on 2021-11-21) = $2.13, about 27,492x from here · it would need a $36.00B market cap · 17.3x to reach a typical "Real World Assets (RWA)" coin
+### 1. Omron (SN2) — score 62 · Micro cap · BACK ON THE RADAR
+Back because: trading spike (7.1x normal)
+Price $0.882 · Market cap $4.64M · 24h trading $587K · Week +0.9%
+Exchanges (1): Subnet Tokens
+Life: alive · last code push 2026-10-20 · website down
+Back to ATH: price $0.882 vs ATH $5.58 (2025-06-09) = 6.3x to get back to the ATH (84% below it)
+ATH market cap: about $29.33M at today's supply (now $4.64M)
+Potential: 2.5x its all-time high ($5.58 on 2025-06-09) = $13.95, about 15.8x from here · it would need a $73.32M market cap · 0.7x to reach a typical "Bittensor Subnets" coin
 
 **Why it's here**
-- tiny market cap ($1.31M) — lots of room to grow
-- healthy trading for its size (35% of its value traded in a day)
-- trading is 7.9x its normal level
-- price up on the day (+76.4%) and the week (+24.5%)
-- in a sector you're watching (Real World Assets (RWA))
-- valued at $1.31M vs a typical $22.66M for "Real World Assets (RWA)" coins
+- back on the radar: trading spike (7.1x normal)
+- tiny market cap ($4.64M) — lots of room to grow
+- healthy trading for its size (13% of its value traded in a day)
+- trading is 7.1x its normal level
+- price up on the day (+7.3%) and the week (+0.9%)
+- 84% below its all-time high, but still actively traded
+- in a sector you're watching (Artificial Intelligence (AI))
+- alive: code pushed 14 days ago
 
 **Watch out**
-- zombie: still trades, but last sign of life was 1736 days ago
-- 2.5x its old high is 27,492x away — coins this far below their peak rarely get back
+- website is down
+- couldn't check community size (no Telegram or X follower count)
 
-[CoinGecko](https://www.coingecko.com/en/coins/digitalbits) · [Website](https://xdbchain.com/) · [X](https://x.com/XDBchain) · [Telegram](https://t.me/xdbchain) (5,129 members)
+[CoinGecko](https://www.coingecko.com/en/coins/omron) · [Website](https://omron.ai/) · [X](https://x.com/inference_labs)
 
-### 2. Macropod (AUDM) — score 52 · Micro cap · BACK ON THE RADAR
-Back because: trading spike (15.2x normal)
-Price $0.702 · Market cap $1.84M · 24h trading $631K · Week +0.3%
-Exchanges (2): BTC Markets, Independent Reserve
+### 2. Storb (SN26) — score 61 · Micro cap · BACK ON THE RADAR
+Back because: trading spike (6.3x normal)
+Price $0.333 · Market cap $582K · 24h trading $80K · Week -12.3%
+Exchanges (1): Subnet Tokens
 Life: unknown
-Back to ATH: price $0.702 vs ATH $1.19 (2026-09-01) = 1.7x to get back to the ATH (41% below it)
-ATH market cap: about $3.12M at today's supply (now $1.84M)
-Potential: 2.5x its all-time high ($1.19 on 2026-09-01) = $2.97, about 4.2x from here · it would need a $7.80M market cap
+Back to ATH: price $0.333 vs ATH $2.12 (2026-06-17) = 6.4x to get back to the ATH (84% below it)
+ATH market cap: about $3.71M at today's supply (now $582K)
+Potential: 2.5x its all-time high ($2.12 on 2026-06-17) = $5.30, about 15.9x from here · it would need a $9.27M market cap · 5.9x to reach a typical "Bittensor Subnets" coin
 
 **Why it's here**
-- back on the radar: trading spike (15.2x normal)
-- tiny market cap ($1.84M) — lots of room to grow
-- healthy trading for its size (34% of its value traded in a day)
-- trading is 15.2x its normal level
-- price up on the day (+0.3%) and the week (+0.3%)
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-
-[CoinGecko](https://www.coingecko.com/en/coins/macropod) · [Website](https://www.macropod.com/) · [X](https://x.com/Macropod_AU)
-
-### 3. Astra Nova (RVV) — score 52 · Micro cap
-Price $0.000036 · Market cap $232K · 24h trading $227K · Week +102.5%
-Exchanges (4): Kraken, BingX, LBank, Biconomy.com
-Life: zombie · last Telegram post 2025-11-24
-Back to ATH: price $0.000036 vs ATH $0.0266 (2025-10-18) = 738x to get back to the ATH (100% below it)
-ATH market cap: about $170.93M at today's supply (now $232K)
-Potential: 2.5x its all-time high ($0.0266 on 2025-10-18) = $0.0664, about 1,845x from here · it would need a $427.33M market cap · 0.4x to reach a typical "RPG" coin
-
-**Why it's here**
-- tiny market cap ($232K) — lots of room to grow
-- healthy trading for its size (98% of its value traded in a day)
-- trading is 6.2x its normal level
-- price up on the day (+164.4%) and the week (+102.5%)
-- climbed from #5709 to #4856 in size ranking over 10 days
-- in a sector you're watching (Gaming (GameFi))
-
-**Watch out**
-- already up +102.5% this week — may be late
-- zombie: still trades, but last sign of life was 343 days ago
-- 2.5x its old high is 1,845x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/astra-nova) · [Website](https://www.astranova.world/) · [X](https://x.com/Astra__Nova) · [Telegram](https://t.me/AstraNovaPortal) (48,906 members)
-
-### 4. Origin Token (OGN) — score 49 · Small cap · BACK ON THE RADAR
-Back because: new exchange listing (CoinJar Exchange); trading spike (6.9x normal)
-Price $0.0256 · Market cap $19.16M · 24h trading $19.68M · Week -3.1%
-Exchanges (31): Binance, BTCC, BtcTurk | Kripto, Bithumb, Paribu, WhiteBIT, Bitget, Pionex, …
-Life: alive · last code push 2026-11-02
-Back to ATH: price $0.0256 vs ATH $3.35 (2021-04-08) = 131x to get back to the ATH (99% below it)
-ATH market cap: about $2.51B at today's supply (now $19.16M)
-Potential: 2.5x its all-time high ($3.35 on 2021-04-08) = $8.38, about 327x from here · it would need a $6.27B market cap · 0.2x to reach a typical "Liquid Staking" coin
-
-**Why it's here**
-- back on the radar: new exchange listing (CoinJar Exchange); trading spike (6.9x normal)
-- small market cap ($19.16M)
-- trading is 6.9x its normal level
-- alive: code pushed today
-- newly listed on CoinJar Exchange
-
-**Watch out**
-- 2.5x its old high is 327x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/origin-protocol) · [Website](http://www.originprotocol.com) · [X](https://x.com/OriginProtocol) · [Telegram](https://t.me/originprotocol) (13,617 members)
-
-### 5. Safe Scan (SN76) — score 47 · Micro cap · BACK ON THE RADAR
-Back because: trading spike (3.4x normal)
-Price $0.939 · Market cap $277K · 24h trading $61K · Week -7.6%
-Exchanges (1): Subnet Tokens
-Life: zombie · last code push 2026-02-11
-Back to ATH: price $0.939 vs ATH $5.02 (2026-09-21) = 5.3x to get back to the ATH (81% below it)
-ATH market cap: about $1.48M at today's supply (now $277K)
-Potential: 2.5x its all-time high ($5.02 on 2026-09-21) = $12.55, about 13.4x from here · it would need a $3.71M market cap · 12.3x to reach a typical "Bittensor Subnets" coin
-
-**Why it's here**
-- back on the radar: trading spike (3.4x normal)
-- tiny market cap ($277K) — lots of room to grow
-- healthy trading for its size (22% of its value traded in a day)
-- trading is 3.4x its normal level
-- 81% below its all-time high, but still actively traded
+- back on the radar: trading spike (6.3x normal)
+- tiny market cap ($582K) — lots of room to grow
+- healthy trading for its size (14% of its value traded in a day)
+- trading is 6.3x its normal level
+- 84% below its all-time high, but still actively traded
 - in a sector you're watching (Artificial Intelligence (AI))
-- valued at $277K vs a typical $3.41M for "Bittensor Subnets" coins
+- valued at $582K vs a typical $3.41M for "Bittensor Subnets" coins
 
 **Watch out**
-- zombie: still trades, but last sign of life was 264 days ago
 - couldn't check community size (no Telegram or X follower count)
 
-[CoinGecko](https://www.coingecko.com/en/coins/safe-scan) · [Website](https://safe-scan.ai/) · [X](https://x.com/SAFESCAN_AI)
+[CoinGecko](https://www.coingecko.com/en/coins/storb) · [Website](https://storb.dev/)
 
-### 6. Orchid Protocol (OXT) — score 47 · Micro cap · BACK ON THE RADAR
-Back because: trading spike (10.7x normal)
-Price $0.00882 · Market cap $8.80M · 24h trading $2.24M · Week -1.6%
-Exchanges (7): HTX, Paribu, Coinbase Exchange, MEXC, CoinW, Gate, Kraken
-Life: alive · last code push 2026-10-04
-Back to ATH: price $0.00882 vs ATH $1.03 (2021-04-05) = 116x to get back to the ATH (99% below it)
-ATH market cap: about $1.02B at today's supply (now $8.80M)
-Potential: 2.5x its all-time high ($1.03 on 2021-04-05) = $2.56, about 291x from here · it would need a $2.56B market cap · 0.1x to reach a typical "DePIN" coin
-
-**Why it's here**
-- back on the radar: trading spike (10.7x normal)
-- small market cap ($8.80M)
-- healthy trading for its size (25% of its value traded in a day)
-- trading is 10.7x its normal level
-- alive: code pushed 29 days ago
-
-**Watch out**
-- 2.5x its old high is 291x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/orchid-protocol) · [Website](https://www.orchid.com/) · [X](https://x.com/orchidprotocol) · [Telegram](https://t.me/OrchidOfficial) (2,772 members)
-
-### 7. DexTools (DEXT) — score 45 · Micro cap
-Price $0.0805 · Market cap $5.74M · 24h trading $441K · Week +6.6%
-Exchanges (1): Coinbase Exchange
-Life: quiet · last code push 2026-09-16
-Back to ATH: price $0.0805 vs ATH $1.07 (2024-03-08) = 13.3x to get back to the ATH (92% below it)
-ATH market cap: about $76.05M at today's supply (now $5.74M)
-Potential: 2.5x its all-time high ($1.07 on 2024-03-08) = $2.67, about 33.1x from here · it would need a $190.13M market cap · 0.0x to reach a typical "Analytics" coin
+### 3. Holo (HOT) — score 57 · Mid cap · BACK ON THE RADAR
+Back because: new exchange listing (Indodax, ZebPay); trading spike (15.6x normal); score up 53 since first picked (4 → 57)
+Price $0.000463 · Market cap $82.23M · 24h trading $44.29M · Week +35.7%
+Exchanges (29): Binance, BtcTurk | Kripto, BTCC, Paribu, Biconomy.com, SAFEbit, Bitvavo, LBank, …
+Life: zombie · last code push 2021-03-30
+Back to ATH: price $0.000463 vs ATH $0.0313 (2021-04-05) = 67.6x to get back to the ATH (99% below it)
+ATH market cap: about $5.56B at today's supply (now $82.23M)
+Potential: 2.5x its all-time high ($0.0313 on 2021-04-05) = $0.0782, about 169x from here · it would need a $13.89B market cap · 0.0x to reach a typical "Storage" coin
 
 **Why it's here**
-- small market cap ($5.74M)
-- healthy trading for its size (8% of its value traded in a day)
-- trading is 7.7x its normal level
-- price up on the day (+15.1%) and the week (+6.6%)
-- 92% below its all-time high, but still actively traded
+- back on the radar: new exchange listing (Indodax, ZebPay); trading spike (15.6x normal); score up 53 since first picked (4 → 57)
+- healthy trading for its size (54% of its value traded in a day)
+- trading is 15.6x its normal level
+- price up on the day (+21.6%) and the week (+35.7%)
+- climbed from #376 to #302 in size ranking over 10 days
+- newly listed on Indodax, ZebPay
 
 **Watch out**
-- quiet: last sign of life 47 days ago
+- zombie: still trades, but last sign of life was 2044 days ago
+- 2.5x its old high is 169x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/dextools) · [Website](https://www.dextools.io/) · [X](https://x.com/DEXToolsApp) · [Telegram](https://t.me/DEXToolsCommunity) (31,952 members)
+[CoinGecko](https://www.coingecko.com/en/coins/holotoken) · [Website](https://holo.host/) · [X](https://x.com/h_o_l_o_) · [Telegram](https://t.me/channelholo) (5,293 members)
 
-### 8. SMARDEX (SDEX) — score 42 · Micro cap
-Price $0.000662 · Market cap $6.63M · 24h trading $36K · Week +55.8%
-Exchanges (1): Bitget
-Life: alive · last code push 2025-05-12 · last Telegram post 2026-10-30
-Back to ATH: price $0.000662 vs ATH $0.0263 (2024-03-11) = 39.8x to get back to the ATH (97% below it)
-ATH market cap: about $264.05M at today's supply (now $6.63M)
-Potential: 2.5x its all-time high ($0.0263 on 2024-03-11) = $0.0659, about 99.5x from here · it would need a $660.12M market cap · 0.1x to reach a typical "Decentralized Exchange (DEX)" coin
-
-**Why it's here**
-- small market cap ($6.63M)
-- trading is 6.7x its normal level
-- price up on the day (+37.6%) and the week (+55.8%)
-- climbed from #1791 to #1520 in size ranking over 11 days
-- alive: Telegram post 3 days ago
-
-**Watch out**
-- very little trading for its size
-
-[CoinGecko](https://www.coingecko.com/en/coins/smardex) · [Website](https://smardex.io/) · [X](https://x.com/SmarDex) · [Telegram](https://t.me/realSmarDex) (1,893 members)
-
-### 9. Polyhedra Network (ZKJ) — score 40 · Micro cap
-Price $0.00551 · Market cap $3.69M · 24h trading $421K · Week +0.6%
-Exchanges (12): OKX, Bitunix, Bybit, Gate, BVOX, DigiFinex, Ourbit, BitKan, …
+### 4. Poker44 (SN126) — score 56 · Micro cap · BACK ON THE RADAR
+Back because: trading spike (7.9x normal)
+Price $1.02 · Market cap $1.69M · 24h trading $284K · Week -5.3%
+Exchanges (1): Subnet Tokens
 Life: unknown
-Back to ATH: price $0.00551 vs ATH $4.01 (2024-03-19) = 728x to get back to the ATH (100% below it)
-ATH market cap: about $2.69B at today's supply (now $3.69M)
-Potential: 2.5x its all-time high ($4.01 on 2024-03-19) = $10.02, about 1,821x from here · it would need a $6.72B market cap · 1.7x to reach a typical "Zero Knowledge (ZK)" coin
+Back to ATH: price $1.02 vs ATH $2.19 (2026-07-20) = 2.1x to get back to the ATH (53% below it)
+ATH market cap: about $3.63M at today's supply (now $1.69M)
+Potential: 2.5x its all-time high ($2.19 on 2026-07-20) = $5.47, about 5.4x from here · it would need a $9.08M market cap · 7.4x to reach a typical "Artificial Intelligence (AI)" coin
 
 **Why it's here**
-- tiny market cap ($3.69M) — lots of room to grow
-- healthy trading for its size (11% of its value traded in a day)
-- trading is 2.1x its normal level
-- price up on the day (+10.0%) and the week (+0.6%)
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 1,821x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/polyhedra-network) · [Website](https://polyhedra.network/) · [X](https://x.com/PolyhedraZK)
-
-### 10. Gradients (SN56) — score 40 · Small cap · BACK ON THE RADAR
-Back because: trading spike (6.0x normal)
-Price $3.39 · Market cap $18.81M · 24h trading $296K · Week -9.2%
-Exchanges (1): Subnet Tokens
-Life: alive · last code push 2026-11-02
-Back to ATH: price $3.39 vs ATH $39.41 (2025-06-10) = 11.6x to get back to the ATH (91% below it)
-ATH market cap: about $218.65M at today's supply (now $18.81M)
-Potential: 2.5x its all-time high ($39.41 on 2025-06-10) = $98.52, about 29.1x from here · it would need a $546.62M market cap · 0.2x to reach a typical "Bittensor Subnets" coin
-
-**Why it's here**
-- back on the radar: trading spike (6.0x normal)
-- small market cap ($18.81M)
-- trading is 6.0x its normal level
-- in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed today
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-
-[CoinGecko](https://www.coingecko.com/en/coins/gradients) · [Website](https://gradients.io/)
-
-### 11. 0xMarkets (SN35) — score 38 · Micro cap · BACK ON THE RADAR
-Back because: trading spike (4.0x normal)
-Price $0.147 · Market cap $72K · 24h trading $53K · Week -35.9%
-Exchanges (1): Subnet Tokens
-Life: zombie · last code push 2026-03-17
-Back to ATH: price $0.147 vs ATH $7.18 (2025-11-03) = 48.8x to get back to the ATH (98% below it)
-ATH market cap: about $3.52M at today's supply (now $72K)
-Potential: 2.5x its all-time high ($7.18 on 2025-11-03) = $17.95, about 122x from here · it would need a $8.79M market cap · 47.3x to reach a typical "Bittensor Subnets" coin
-
-**Why it's here**
-- back on the radar: trading spike (4.0x normal)
-- tiny market cap ($72K) — lots of room to grow
-- healthy trading for its size (74% of its value traded in a day)
-- trading is 4.0x its normal level
-- in a sector you're watching (Artificial Intelligence (AI))
-- valued at $72K vs a typical $3.41M for "Bittensor Subnets" coins
-
-**Watch out**
-- still falling hard
-- zombie: still trades, but last sign of life was 230 days ago
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 122x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/logicnet) · [Website](https://0xmarkets.io/) · [X](https://x.com/0x_Markets)
-
-### 12. Heroes of Mavia (MAVIA) — score 35 · Micro cap
-Price $0.0254 · Market cap $6.36M · 24h trading $1.10M · Week +3.4%
-Exchanges (19): Bybit, Bitvavo, Ourbit, Bitunix, Toobit, MEXC, CoinUp.io, KuCoin, …
-Life: zombie · last Telegram post 2026-05-23
-Back to ATH: price $0.0254 vs ATH $10.59 (2024-02-18) = 416x to get back to the ATH (100% below it)
-ATH market cap: about $2.65B at today's supply (now $6.36M)
-Potential: 2.5x its all-time high ($10.59 on 2024-02-18) = $26.48, about 1,041x from here · it would need a $6.62B market cap · 0.0x to reach a typical "Strategy Games" coin
-
-**Why it's here**
-- small market cap ($6.36M)
+- back on the radar: trading spike (7.9x normal)
+- tiny market cap ($1.69M) — lots of room to grow
 - healthy trading for its size (17% of its value traded in a day)
-- trading is 2.1x its normal level
-- price up on the day (+2.9%) and the week (+3.4%)
+- trading is 7.9x its normal level
+- in a sector you're watching (Artificial Intelligence (AI))
+- valued at $1.69M vs a typical $12.60M for "Artificial Intelligence (AI)" coins
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+
+[CoinGecko](https://www.coingecko.com/en/coins/poker44) · [Website](https://poker44.net/) · [X](https://x.com/poker44subnet)
+
+### 5. xMoney (XMN) — score 54 · Micro cap · BACK ON THE RADAR
+Back because: trading spike (20.5x normal)
+Price $0.000456 · Market cap $1.69M · 24h trading $1.69M · Week +41.4%
+Exchanges (4): Bitvavo, Kraken, KuCoin, MEXC
+Life: alive · last code push 2026-10-28
+Back to ATH: price $0.000456 vs ATH $0.104 (2025-10-23) = 228x to get back to the ATH (100% below it)
+ATH market cap: about $386.69M at today's supply (now $1.69M)
+Potential: 2.5x its all-time high ($0.104 on 2025-10-23) = $0.26, about 571x from here · it would need a $966.72M market cap · 0.5x to reach a typical "Payment Solutions" coin
+
+**Why it's here**
+- back on the radar: trading spike (20.5x normal)
+- tiny market cap ($1.69M) — lots of room to grow
+- healthy trading for its size (100% of its value traded in a day)
+- trading is 20.5x its normal level
+- price up on the day (+27.4%) and the week (+41.4%)
+- alive: code pushed 6 days ago
+
+**Watch out**
+- only 37% of tokens released so far — future unlocks could weigh on price
+- 2.5x its old high is 571x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/xmoney-2) · [Website](https://www.xmoney.com) · [X](https://x.com/xMoney_com) · [Telegram](https://t.me/xMoney) (8,050 members)
+
+### 6. Elastos (ELA) — score 53 · Small cap
+Price $0.7 · Market cap $16.14M · 24h trading $6.44M · Week +130.8%
+Exchanges (4): Coinbase Exchange, KuCoin, Gate, HTX
+Life: unknown
+Back to ATH: price $0.7 vs ATH $89.14 (2018-02-23) = 127x to get back to the ATH (99% below it)
+ATH market cap: about $2.06B at today's supply (now $16.14M)
+Potential: 2.5x its all-time high ($89.14 on 2018-02-23) = $222.85, about 319x from here · it would need a $5.14B market cap · 0.5x to reach a typical "Bitcoin Sidechains" coin
+
+**Why it's here**
+- small market cap ($16.14M)
+- healthy trading for its size (40% of its value traded in a day)
+- trading is 73.9x its normal level
+- price up on the day (+113.7%) and the week (+130.8%)
+- climbed from #1391 to #953 in size ranking over 10 days
+
+**Watch out**
+- already up +130.8% this week — may be late
+- 2.5x its old high is 319x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/elastos) · [Website](https://elastos.net/) · [X](https://x.com/ElastosInfo) · [Telegram](https://t.me/elastosgroup) (5,926 members)
+
+### 7. Forever (FOREVER) — score 46 · Micro cap
+Price $0.006 · Market cap $4.02M · 24h trading $2.31M · Week n/a
+Exchanges (6): LBank, XT.COM, Hibt, WEEX, MEXC, Ourbit
+Life: unknown
+Back to ATH: price $0.006 vs ATH $0.00774 (2026-11-02) = 1.3x to get back to the ATH (22% below it)
+ATH market cap: about $5.19M at today's supply (now $4.02M)
+Potential: 2.5x its all-time high ($0.00774 on 2026-11-02) = $0.0193, about 3.2x from here · it would need a $12.97M market cap · 0.7x to reach a typical "Governance" coin
+
+**Why it's here**
+- tiny market cap ($4.02M) — lots of room to grow
+- healthy trading for its size (57% of its value traded in a day)
+- trading is 4.2x its normal level
+
+**Watch out**
+- couldn't check community size (no Telegram or X follower count)
+
+[CoinGecko](https://www.coingecko.com/en/coins/forever-2) · [Website](https://enterforever.com/) · [X](https://x.com/forevercultfund)
+
+### 8. SL Benfica Fan Token (BENFICA) — score 39 · Micro cap
+Price $0.0685 · Market cap $660K · 24h trading $112K · Week +0.8%
+Exchanges (1): Paribu
+Life: unknown
+Back to ATH: price $0.0685 vs ATH $3.65 (2025-05-05) = 53.3x to get back to the ATH (98% below it)
+ATH market cap: about $35.17M at today's supply (now $660K)
+Potential: 2.5x its all-time high ($3.65 on 2025-05-05) = $9.13, about 133x from here · it would need a $87.93M market cap · 0.5x to reach a typical "Fan Token" coin
+
+**Why it's here**
+- tiny market cap ($660K) — lots of room to grow
+- healthy trading for its size (17% of its value traded in a day)
+- trading is 4.0x its normal level
+- price up on the day (+7.5%) and the week (+0.8%)
+
+**Watch out**
+- only 48% of tokens released so far — future unlocks could weigh on price
+- 2.5x its old high is 133x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/sl-benfica-fan-token) · [Website](https://www.socios.com/benfica-fan-tokens/) · [X](https://x.com/Chiliz) · [Telegram](https://t.me/ChilizTrade) (3,754 members)
+
+### 9. Energi (NRG) — score 39 · Micro cap
+Price $0.00553 · Market cap $589K · 24h trading $138K · Week +19.4%
+Exchanges (3): LBank, Indodax, MEXC
+Life: alive · last code push 2026-07-21 · last Telegram post 2026-10-26
+Back to ATH: price $0.00553 vs ATH $10.19 (2019-06-25) = 1,842x to get back to the ATH (100% below it)
+ATH market cap: about $1.09B at today's supply (now $589K)
+Potential: 2.5x its all-time high ($10.19 on 2019-06-25) = $25.47, about 4,606x from here · it would need a $2.71B market cap · 3.6x to reach a typical "Masternodes" coin
+
+**Why it's here**
+- tiny market cap ($589K) — lots of room to grow
+- healthy trading for its size (23% of its value traded in a day)
+- price up on the day (+32.3%) and the week (+19.4%)
+- alive: Telegram post 8 days ago
+
+**Watch out**
+- 2.5x its old high is 4,606x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/energi) · [Website](https://www.energi.world/) · [X](https://x.com/energi) · [Telegram](https://t.me/energiannouncements) (2,038 members)
+
+### 10. Lazio Fan Token (LAZIO) — score 38 · Micro cap
+Price $0.353 · Market cap $4.66M · 24h trading $2.17M · Week -7.8%
+Exchanges (8): Binance, Pionex, Toobit, WEEX, BitKan, Bitrue, TokoCrypto, Mudrex
+Life: unknown
+Back to ATH: price $0.353 vs ATH $26.75 (2021-10-21) = 75.7x to get back to the ATH (99% below it)
+ATH market cap: about $352.53M at today's supply (now $4.66M)
+Potential: 2.5x its all-time high ($26.75 on 2021-10-21) = $66.88, about 189x from here · it would need a $881.33M market cap · 0.1x to reach a typical "Fan Token" coin
+
+**Why it's here**
+- tiny market cap ($4.66M) — lots of room to grow
+- healthy trading for its size (47% of its value traded in a day)
+- trading is 3.0x its normal level
+
+**Watch out**
+- only 33% of tokens released so far — future unlocks could weigh on price
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 189x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/lazio-fan-token) · [Website](https://www.sslazio.it/en) · [X](https://x.com/OfficialSSLazio)
+
+### 11. Partisia Blockchain (MPC) — score 37 · Micro cap
+Price $0.0118 · Market cap $6.32M · 24h trading $75K · Week +27.6%
+Exchanges (2): KuCoin, MEXC
+Life: quiet · last code push 2026-03-09 · last Telegram post 2026-09-30
+Back to ATH: price $0.0118 vs ATH $0.688 (2024-03-19) = 58.1x to get back to the ATH (98% below it)
+ATH market cap: about $367.07M at today's supply (now $6.32M)
+Potential: 2.5x its all-time high ($0.688 on 2024-03-19) = $1.72, about 145x from here · it would need a $917.67M market cap · 0.6x to reach a typical "Cross-chain Communication" coin
+
+**Why it's here**
+- small market cap ($6.32M)
+- trading is 12.0x its normal level
+- price up on the day (+23.7%) and the week (+27.6%)
+
+**Watch out**
+- quiet: last sign of life 34 days ago
+- 2.5x its old high is 145x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/partisia-blockchain) · [Website](https://partisiablockchain.com/) · [X](https://x.com/partisiampc) · [Telegram](https://t.me/partisiampc) (5,589 members)
+
+### 12. Altura (ALU) — score 37 · Micro cap
+Price $0.00372 · Market cap $3.65M · 24h trading $3.13M · Week +5.2%
+Exchanges (7): HTX, KuCoin, MEXC, Gate, LBank, Ourbit, BingX
+Life: zombie · last code push 2025-03-03
+Back to ATH: price $0.00372 vs ATH $0.463 (2021-11-02) = 124x to get back to the ATH (99% below it)
+ATH market cap: about $453.13M at today's supply (now $3.65M)
+Potential: 2.5x its all-time high ($0.463 on 2021-11-02) = $1.16, about 311x from here · it would need a $1.13B market cap · 0.1x to reach a typical "NFT Marketplace" coin
+
+**Why it's here**
+- tiny market cap ($3.65M) — lots of room to grow
+- healthy trading for its size (86% of its value traded in a day)
+- price up on the day (+7.9%) and the week (+5.2%)
+- in a sector you're watching (Artificial Intelligence (AI))
+
+**Watch out**
+- zombie: still trades, but last sign of life was 610 days ago
+- 2.5x its old high is 311x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/altura) · [Website](https://www.altura.com/) · [X](https://x.com/altura) · [Telegram](https://t.me/AlturaGaming) (8,263 members)
+
+### 13. Metaplex (MPLX) — score 33 · Small cap · BACK ON THE RADAR
+Back because: trading spike (3.6x normal)
+Price $0.0952 · Market cap $45.14M · 24h trading $70.17M · Week +104.1%
+Exchanges (14): Bithumb, Gate, Coinbase Exchange, Bybit, Biconomy.com, LBank, Ourbit, Toobit, …
+Life: zombie · last code push 2024-08-06
+Back to ATH: price $0.0952 vs ATH $0.897 (2022-09-19) = 9.4x to get back to the ATH (89% below it)
+ATH market cap: about $425.14M at today's supply (now $45.14M)
+Potential: 2.5x its all-time high ($0.897 on 2022-09-19) = $2.24, about 23.5x from here · it would need a $1.06B market cap · 0.0x to reach a typical "Gaming (GameFi)" coin
+
+**Why it's here**
+- back on the radar: trading spike (3.6x normal)
+- trading is 3.6x its normal level
+- price up on the day (+28.7%) and the week (+104.1%)
+- 89% below its all-time high, but still actively traded
+- climbed from #732 to #479 in size ranking over 10 days
 - in a sector you're watching (Gaming (GameFi))
 
 **Watch out**
-- zombie: still trades, but last sign of life was 163 days ago
-- 2.5x its old high is 1,041x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/heroes-of-mavia) · [Website](https://mavia.com) · [X](https://x.com/MaviaGame) · [Telegram](https://t.me/MaviaAnnouncements) (6,765 members)
-
-### 13. MultiVAC (MTV) — score 31 · Micro cap
-Price $0.0000904 · Market cap $676K · 24h trading $243K · Week -2.4%
-Exchanges (3): KuCoin, BingX, Gate
-Life: zombie · last code push 2022-01-15
-Back to ATH: price $0.0000904 vs ATH $0.0291 (2021-10-26) = 322x to get back to the ATH (100% below it)
-ATH market cap: about $217.56M at today's supply (now $676K)
-Potential: 2.5x its all-time high ($0.0291 on 2021-10-26) = $0.0727, about 804x from here · it would need a $543.90M market cap
-
-**Why it's here**
-- tiny market cap ($676K) — lots of room to grow
-- healthy trading for its size (36% of its value traded in a day)
-- trading is 4.3x its normal level
-
-**Watch out**
-- zombie: still trades, but last sign of life was 1752 days ago
+- already up +104.1% this week — may be late
+- only 47% of tokens released so far — future unlocks could weigh on price
+- zombie: still trades, but last sign of life was 819 days ago
 - couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 804x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/multivac) · [Website](https://www.mtv.ac) · [X](https://x.com/MultiVAC_Global)
+[CoinGecko](https://www.coingecko.com/en/coins/metaplex) · [Website](https://www.metaplex.com/) · [X](https://x.com/metaplex)
 
-### 14. Provenance Blockchain (HASH) — score 30 · Large cap · BACK ON THE RADAR
-Back because: trading spike (4.0x normal)
-Price $0.00746 · Market cap $445.84M · 24h trading $66K · Week +15.1%
-Exchanges (1): Figure Markets
+### 14. Energy Web Token (EWT) — score 30 · Small cap
+Price $0.279 · Market cap $22.65M · 24h trading $282K · Week -2.0%
+Exchanges (6): KuCoin, MEXC, Kraken, Gate, Hydration, Bit2Me
 Life: alive · last code push 2026-11-02
-Back to ATH: price $0.00746 vs ATH $0.0601 (2025-09-14) = 8.1x to get back to the ATH (88% below it)
-ATH market cap: about $3.59B at today's supply (now $445.84M)
-Potential: 2.5x its all-time high ($0.0601 on 2025-09-14) = $0.15, about 20.1x from here · it would need a $8.98B market cap · 0.1x to reach a typical "Real World Assets (RWA)" coin
+Back to ATH: price $0.279 vs ATH $22.67 (2021-04-16) = 81.1x to get back to the ATH (99% below it)
+ATH market cap: about $1.84B at today's supply (now $22.65M)
+Potential: 2.5x its all-time high ($22.67 on 2021-04-16) = $56.68, about 203x from here · it would need a $4.59B market cap · 0.0x to reach a typical "Regenerative Finance (ReFi)" coin
 
 **Why it's here**
-- back on the radar: trading spike (4.0x normal)
-- trading is 4.0x its normal level
-- price up on the day (+21.4%) and the week (+15.1%)
+- small market cap ($22.65M)
 - in a sector you're watching (Real World Assets (RWA))
-- alive: code pushed today
+- alive: code pushed 1 day ago
 
 **Watch out**
-- very little trading for its size
-- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 203x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/hash-2) · [Website](https://www.provenance.io/) · [X](https://x.com/provenancefdn)
+[CoinGecko](https://www.coingecko.com/en/coins/energy-web-token) · [Website](https://www.energyweb.org/) · [X](https://x.com/energywebx) · [Telegram](https://t.me/energyweb) (6,491 members)
 
-### 15. Realio Network Token (RIO) — score 28 · Small cap
-Price $0.046 · Market cap $15.21M · 24h trading $227K · Week -0.7%
-Exchanges (4): BingX, MEXC, KuCoin, KCEX
-Life: alive · last code push 2026-11-02
-Back to ATH: price $0.046 vs ATH $5.12 (2020-09-16) = 111x to get back to the ATH (99% below it)
-ATH market cap: about $1.69B at today's supply (now $15.21M)
-Potential: 2.5x its all-time high ($5.12 on 2020-09-16) = $12.80, about 278x from here · it would need a $4.23B market cap · 0.1x to reach a typical "RWA Protocol" coin
+### 15. Tolly (TOLLY) — score 25 · Micro cap
+Price $0.00159 · Market cap $1.59M · 24h trading $1.06M · Week +18.2%
+Exchanges (4): LBank, WEEX, MEXC, Gate
+Life: zombie · last Telegram post 2026-07-22
+Back to ATH: price $0.00159 vs ATH $0.0212 (2026-09-16) = 13.3x to get back to the ATH (93% below it)
+ATH market cap: about $21.23M at today's supply (now $1.59M)
+Potential: 2.5x its all-time high ($0.0212 on 2026-09-16) = $0.0531, about 33.3x from here · it would need a $53.08M market cap
 
 **Why it's here**
-- small market cap ($15.21M)
-- in a sector you're watching (Real World Assets (RWA))
-- alive: code pushed today
+- tiny market cap ($1.59M) — lots of room to grow
+- healthy trading for its size (66% of its value traded in a day)
+- 93% below its all-time high, but still actively traded
 
 **Watch out**
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 278x away — coins this far below their peak rarely get back
+- zombie: still trades, but last sign of life was 104 days ago
 
-[CoinGecko](https://www.coingecko.com/en/coins/realio-network) · [Website](https://realio.network/) · [X](https://x.com/realio_network)
+[CoinGecko](https://www.coingecko.com/en/coins/tolly) · [Website](https://tollylabs.com/) · [X](https://x.com/TollyLabs) · [Telegram](https://t.me/Tollypad) (2,442 members)
 
-### 16. Swash (SWASH) — score 27 · Micro cap
-Price $0.000884 · Market cap $879K · 24h trading $31K · Week +7.8%
-Exchanges (1): Gate
-Life: zombie · last code push 2026-05-20
-Back to ATH: price $0.000884 vs ATH $0.95 (2021-10-31) = 1,075x to get back to the ATH (100% below it)
-ATH market cap: about $945.43M at today's supply (now $879K)
-Potential: 2.5x its all-time high ($0.95 on 2021-10-31) = $2.38, about 2,688x from here · it would need a $2.36B market cap
-
-**Why it's here**
-- tiny market cap ($879K) — lots of room to grow
-- trading is 33.6x its normal level
-- price up on the day (+4.0%) and the week (+7.8%)
-
-**Watch out**
-- zombie: still trades, but last sign of life was 166 days ago
-- 2.5x its old high is 2,688x away — coins this far below their peak rarely get back
-
-[CoinGecko](https://www.coingecko.com/en/coins/swash) · [Website](https://swashapp.io/) · [X](https://x.com/swashapp) · [Telegram](https://t.me/swashapp_group) (7,649 members)
-
-### 17. The Innovation Game (TIG) — score 25 · Small cap
-Price $0.569 · Market cap $21.31M · 24h trading $384K · Week -10.6%
-Exchanges (1): LBank
-Life: alive · last code push 2026-10-30
-Back to ATH: price $0.569 vs ATH $4.30 (2024-12-01) = 7.6x to get back to the ATH (87% below it)
-ATH market cap: about $160.98M at today's supply (now $21.31M)
-Potential: 2.5x its all-time high ($4.30 on 2024-12-01) = $10.75, about 18.9x from here · it would need a $402.46M market cap · 0.0x to reach a typical "Decentralized Science (DeSci)" coin
+### 16. ShareToken (SHR) — score 24 · Micro cap
+Price $0.000235 · Market cap $1.43M · 24h trading $143K · Week -10.0%
+Exchanges (2): KuCoin, MEXC
+Life: zombie · last code push 2026-02-11
+Back to ATH: price $0.000235 vs ATH $0.0983 (2021-03-31) = 418x to get back to the ATH (100% below it)
+ATH market cap: about $597.68M at today's supply (now $1.43M)
+Potential: 2.5x its all-time high ($0.0983 on 2021-03-31) = $0.246, about 1,046x from here · it would need a $1.49B market cap
 
 **Why it's here**
-- small market cap ($21.31M)
-- in a sector you're watching (Artificial Intelligence (AI))
-- alive: code pushed 3 days ago
-
-**Watch out**
-- couldn't check community size (no Telegram or X follower count)
-
-[CoinGecko](https://www.coingecko.com/en/coins/the-innovation-game) · [Website](https://www.tig.foundation/) · [X](https://x.com/tigfoundation)
-
-### 18. EURØP (EUROP) — score 23 · Small cap
-Price $1.12 · Market cap $15.21M · 24h trading $2.34M · Week -0.0%
-Exchanges (2): Kraken, Bitvavo
-Life: zombie · last code push 2026-01-13
-Back to ATH: price $1.12 vs ATH $1.19 (2026-01-29) = 1.1x to get back to the ATH (6% below it)
-ATH market cap: about $16.16M at today's supply (now $15.21M)
-Potential: 2.5x its all-time high ($1.19 on 2026-01-29) = $2.97, about 2.7x from here · it would need a $40.40M market cap · 0.1x to reach a typical "EUR Stablecoin" coin
-
-**Why it's here**
-- small market cap ($15.21M)
-- healthy trading for its size (15% of its value traded in a day)
-- trading is 10.9x its normal level
-
-**Watch out**
-- zombie: still trades, but last sign of life was 293 days ago
-- couldn't check community size (no Telegram or X follower count)
-
-[CoinGecko](https://www.coingecko.com/en/coins/schuman-europ) · [Website](https://schuman.io/europ/) · [X](https://x.com/Schuman_io)
-
-### 19. Aevo (AEVO) — score 22 · Small cap
-Price $0.02 · Market cap $18.62M · 24h trading $1.90M · Week -6.0%
-Exchanges (41): Paribu, BitDelta, Biconomy.com, BVOX, WhiteBIT, CoinTR, Binance, MEXC, …
-Life: zombie · last code push 2024-04-17
-Back to ATH: price $0.02 vs ATH $3.76 (2024-03-27) = 188x to get back to the ATH (99% below it)
-ATH market cap: about $3.51B at today's supply (now $18.62M)
-Potential: 2.5x its all-time high ($3.76 on 2024-03-27) = $9.40, about 471x from here · it would need a $8.77B market cap · 0.4x to reach a typical "Binance Launchpool" coin
-
-**Why it's here**
-- small market cap ($18.62M)
+- tiny market cap ($1.43M) — lots of room to grow
 - healthy trading for its size (10% of its value traded in a day)
-- newly listed on Bitrue
+- trading is 5.1x its normal level
 
 **Watch out**
-- zombie: still trades, but last sign of life was 929 days ago
-- couldn't check community size (no Telegram or X follower count)
-- 2.5x its old high is 471x away — coins this far below their peak rarely get back
+- zombie: still trades, but last sign of life was 265 days ago
+- 2.5x its old high is 1,046x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/aevo-exchange) · [Website](https://www.aevo.xyz/) · [X](https://x.com/aevoxyz)
+[CoinGecko](https://www.coingecko.com/en/coins/sharering) · [Website](https://sharering.network) · [X](https://x.com/ShareRingGlobal ) · [Telegram](https://t.me/ShareRing) (2,369 members)
 
-### 20. ANyONe Protocol (ANYONE) — score 20 · Small cap
-Price $0.154 · Market cap $14.82M · 24h trading $154K · Week -9.5%
-Exchanges (4): XT.COM, BloFin, KuCoin, MEXC
-Life: alive · last code push 2026-11-02 · last Telegram post 2024-08-20
-Back to ATH: price $0.154 vs ATH $3.97 (2024-04-08) = 25.8x to get back to the ATH (96% below it)
-ATH market cap: about $382.00M at today's supply (now $14.82M)
-Potential: 2.5x its all-time high ($3.97 on 2024-04-08) = $9.93, about 64.4x from here · it would need a $955.00M market cap · 0.1x to reach a typical "DePIN" coin
+### 17. THORChain Yield (TCY) — score 24 · Small cap
+Price $0.184 · Market cap $34.15M · 24h trading $162K · Week +2.8%
+Exchanges (2): THORChain, RUJI Trade (Rujira)
+Life: alive · last code push 2026-11-03
+Back to ATH: price $0.184 vs ATH $0.342 (2025-06-10) = 1.9x to get back to the ATH (46% below it)
+ATH market cap: about $63.49M at today's supply (now $34.15M)
+Potential: 2.5x its all-time high ($0.342 on 2025-06-10) = $0.855, about 4.6x from here · it would need a $158.73M market cap · 0.1x to reach a typical "Yield-Bearing Tokens" coin
 
 **Why it's here**
-- small market cap ($14.82M)
+- price up on the day (+14.5%) and the week (+2.8%)
+- climbed from #663 to #595 in size ranking over 10 days
 - alive: code pushed today
 
-[CoinGecko](https://www.coingecko.com/en/coins/airtor-protocol) · [Website](https://anyone.io/) · [X](https://x.com/AnyoneFDN) · [Telegram](https://t.me/anyoneprotocol) (2,738 members)
+**Watch out**
+- very little trading for its size
 
-### 21. Manadia (UMXM) — score 19 · Small cap
-Price $0.0193 · Market cap $48.61M · 24h trading $7.71M · Week -47.7%
-Exchanges (3): Bitget, MEXC, Kraken
-Life: unknown
-Back to ATH: price $0.0193 vs ATH $2.39 (2026-07-20) = 124x to get back to the ATH (99% below it)
-ATH market cap: about $6.02B at today's supply (now $48.61M)
-Potential: 2.5x its all-time high ($2.39 on 2026-07-20) = $5.98, about 310x from here · it would need a $15.06B market cap · 0.1x to reach a typical "Infrastructure" coin
+[CoinGecko](https://www.coingecko.com/en/coins/tcy) · [Website](https://thorchain.org) · [X](https://x.com/thorchain) · [Telegram](https://t.me/thorchain_org) (10,821 members)
+
+### 18. Kyber Network Crystal (KNC) — score 21 · Small cap
+Price $0.111 · Market cap $23.31M · 24h trading $1.71M · Week -6.0%
+Exchanges (29): KuCoin, CoinW, BitDelta, Binance, WhiteBIT, BTCC, Biconomy.com, Bitunix, …
+Life: zombie · last code push 2023-03-01
+Back to ATH: price $0.111 vs ATH $5.70 (2022-04-28) = 51.2x to get back to the ATH (98% below it)
+ATH market cap: about $1.19B at today's supply (now $23.31M)
+Potential: 2.5x its all-time high ($5.70 on 2022-04-28) = $14.25, about 128x from here · it would need a $2.98B market cap · 0.1x to reach a typical "Automated Market Maker (AMM)" coin
 
 **Why it's here**
-- healthy trading for its size (16% of its value traded in a day)
-- trading is 3.4x its normal level
+- small market cap ($23.31M)
+- healthy trading for its size (7% of its value traded in a day)
+- newly listed on Indodax
 
 **Watch out**
-- still falling hard
-- 2.5x its old high is 310x away — coins this far below their peak rarely get back
+- zombie: still trades, but last sign of life was 1343 days ago
+- 2.5x its old high is 128x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/manadia) · [Website](https://mana.app) · [X](https://x.com/paywithmana) · [Telegram](https://t.me/PayWithMana) (25,834 members)
+[CoinGecko](https://www.coingecko.com/en/coins/kyber-network-crystal) · [Website](https://kyber.network/) · [X](https://x.com/kybernetwork) · [Telegram](https://t.me/kybernetwork) (7,560 members)
 
-### 22. A Hunters Dream (CAW) — score 16 · Small cap
-Price $2.1e-8 · Market cap $13.95M · 24h trading $235K · Week -5.0%
-Exchanges (4): XT.COM, MEXC, KCEX, LBank
-Life: unknown
-Back to ATH: price $2.1e-8 vs ATH $1.64e-7 (2022-06-04) = 7.8x to get back to the ATH (87% below it)
-ATH market cap: about $109.31M at today's supply (now $13.95M)
-Potential: 2.5x its all-time high ($1.64e-7 on 2022-06-04) = $4.1e-7, about 19.6x from here · it would need a $273.27M market cap · 0.0x to reach a typical "SocialFi" coin
-
-**Why it's here**
-- small market cap ($13.95M)
-
-[CoinGecko](https://www.coingecko.com/en/coins/a-hunters-dream) · [Website](https://caw.is) · [X](https://x.com/CommunityCaw) · [Telegram](https://t.me/cawbuilders) (2,438 members)
-
-### 23. Divi (DIVI) — score 15 · Small cap
-Price $0.00255 · Market cap $12.24M · 24h trading $33K · Week +23.2%
-Exchanges (1): Nonkyc.io
-Life: unknown
-Back to ATH: price $0.00255 vs ATH $0.183 (2021-12-01) = 72.0x to get back to the ATH (99% below it)
-ATH market cap: about $881.52M at today's supply (now $12.24M)
-Potential: 2.5x its all-time high ($0.183 on 2021-12-01) = $0.458, about 180x from here · it would need a $2.20B market cap · 0.1x to reach a typical "Masternodes" coin
+### 19. UCHAIN (UCN) — score 16 · Small cap
+Price $137.79 · Market cap $13.78M · 24h trading $220K · Week -0.8%
+Exchanges (1): BingX
+Life: zombie · last code push 2019-09-17
+Back to ATH: price $137.79 vs ATH $2K (2026-01-11) = 13.1x to get back to the ATH (92% below it)
+ATH market cap: about $180.64M at today's supply (now $13.78M)
+Potential: 2.5x its all-time high ($2K on 2026-01-11) = $5K, about 32.8x from here · it would need a $451.61M market cap
 
 **Why it's here**
-- small market cap ($12.24M)
-- price up on the day (+4.5%) and the week (+23.2%)
+- small market cap ($13.78M)
+- trading is 18.0x its normal level
+
+**Watch out**
+- zombie: still trades, but last sign of life was 2604 days ago
+- couldn't check community size (no Telegram or X follower count)
+
+[CoinGecko](https://www.coingecko.com/en/coins/uchain-2) · [Website](https://uchain.com/)
+
+### 20. Victoria VR (VR) — score 16 · Small cap
+Price $0.00155 · Market cap $26.07M · 24h trading $890K · Week +3.7%
+Exchanges (4): MEXC, KuCoin, HTX, Gate
+Life: zombie · last code push 2025-07-02
+Back to ATH: price $0.00155 vs ATH $0.616 (2021-12-10) = 397x to get back to the ATH (100% below it)
+ATH market cap: about $10.34B at today's supply (now $26.07M)
+Potential: 2.5x its all-time high ($0.616 on 2021-12-10) = $1.54, about 991x from here · it would need a $25.85B market cap · 0.0x to reach a typical "Metaverse" coin
+
+**Why it's here**
+- price up on the day (+4.0%) and the week (+3.7%)
+- in a sector you're watching (Artificial Intelligence (AI))
+
+**Watch out**
+- zombie: still trades, but last sign of life was 489 days ago
+- 2.5x its old high is 991x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/victoria-vr) · [Website](https://victoriavr.com/) · [X](https://x.com/VictoriaVR) · [Telegram](https://t.me/victoriavrgroup) (10,543 members)
+
+### 21. Bityuan (BTY) — score 16 · Small cap
+Price $0.0232 · Market cap $17.42M · 24h trading $52K · Week +1.6%
+Exchanges (2): Hotcoin, MEXC
+Life: unknown
+Back to ATH: price $0.0232 vs ATH $0.765 (2019-06-25) = 33.0x to get back to the ATH (97% below it)
+ATH market cap: about $574.79M at today's supply (now $17.42M)
+Potential: 2.5x its all-time high ($0.765 on 2019-06-25) = $1.91, about 82.5x from here · it would need a $1.44B market cap
+
+**Why it's here**
+- small market cap ($17.42M)
+- price up on the day (+5.4%) and the week (+1.6%)
 
 **Watch out**
 - very little trading for its size
-- 2.5x its old high is 180x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/divi) · [Website](https://diviproject.org/) · [X](https://x.com/DiviProject) · [Telegram](https://t.me/diviproject) (2,295 members)
+[CoinGecko](https://www.coingecko.com/en/coins/bityuan) · [Website](https://bityuan.com/index) · [X](https://x.com/bityuanofficial) · [Telegram](https://t.me/bityuanblockchain) (19,660 members)
 
-### 24. COINDEPO (COINDEPO) — score 15 · Small cap
-Price $0.124 · Market cap $34.08M · 24h trading $1.31M · Week +3.8%
-Exchanges (3): Webot, MEXC, BingX
-Life: unknown
-Back to ATH: price $0.124 vs ATH $0.128 (2026-08-07) = 1.0x to get back to the ATH (3% below it)
-ATH market cap: about $35.04M at today's supply (now $34.08M)
-Potential: 2.5x its all-time high ($0.128 on 2026-08-07) = $0.32, about 2.6x from here · it would need a $87.60M market cap · 0.0x to reach a typical "Lending/Borrowing Protocols" coin
+### 22. CARV (CARV) — score 14 · Small cap
+Price $0.0295 · Market cap $21.77M · 24h trading $750K · Week -16.5%
+Exchanges (20): Bybit, Upbit, Toobit, Bitunix, MEXC, XT.COM, Gate, OrangeX, …
+Life: zombie · last code push 2026-04-03
+Back to ATH: price $0.0295 vs ATH $1.36 (2024-11-02) = 46.0x to get back to the ATH (98% below it)
+ATH market cap: about $1.00B at today's supply (now $21.77M)
+Potential: 2.5x its all-time high ($1.36 on 2024-11-02) = $3.40, about 115x from here · it would need a $2.51B market cap · 0.1x to reach a typical "Gaming (GameFi)" coin
 
 **Why it's here**
-- price up on the day (+8.0%) and the week (+3.8%)
+- small market cap ($21.77M)
+- in a sector you're watching (Artificial Intelligence (AI))
 
 **Watch out**
-- only 27% of tokens released so far — future unlocks could weigh on price
+- zombie: still trades, but last sign of life was 214 days ago
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 115x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/coindepo) · [Website](https://coindepo.com/token) · [X](https://x.com/DepoCoin) · [Telegram](https://t.me/Coindepo_community) (8,447 members)
+[CoinGecko](https://www.coingecko.com/en/coins/carv) · [Website](https://carv.io) · [X](https://x.com/carv_official)
 
-### 25. DMT-NAT (NAT) — score 14 · Small cap
-Price $1.03e-7 · Market cap $39.98M · 24h trading $116K · Week +38.3%
-Exchanges (1): Nonkyc.io
-Life: zombie · last code push 2026-08-02
-Back to ATH: price $1.03e-7 vs ATH $3.93e-7 (2026-04-21) = 3.8x to get back to the ATH (74% below it)
-ATH market cap: about $152.34M at today's supply (now $39.98M)
-Potential: 2.5x its all-time high ($3.93e-7 on 2026-04-21) = $9.81e-7, about 9.5x from here · it would need a $380.84M market cap · 0.0x to reach a typical "Inscriptions" coin
+### 23. Cobak (CBK) — score 12 · Small cap
+Price $0.183 · Market cap $18.27M · 24h trading $2.71M · Week -6.4%
+Exchanges (10): HTX, Bitget, Upbit, CoinUp.io, Bithumb, Gate, Hibt, Upbit Indonesia, …
+Life: zombie · last code push 2020-09-23
+Back to ATH: price $0.183 vs ATH $15.74 (2021-04-02) = 86.2x to get back to the ATH (99% below it)
+ATH market cap: about $1.57B at today's supply (now $18.27M)
+Potential: 2.5x its all-time high ($15.74 on 2021-04-02) = $39.35, about 215x from here · it would need a $3.93B market cap
 
 **Why it's here**
-- trading is 2.2x its normal level
-- price up on the day (+20.0%) and the week (+38.3%)
-- climbed from #700 to #528 in size ranking over 10 days
+- small market cap ($18.27M)
+- healthy trading for its size (15% of its value traded in a day)
+
+**Watch out**
+- zombie: still trades, but last sign of life was 2232 days ago
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 215x away — coins this far below their peak rarely get back
+
+[CoinGecko](https://www.coingecko.com/en/coins/cobak-token) · [Website](https://cobak.co/ko) · [X](https://x.com/CobakOfficial)
+
+### 24. OHO Blockchain (OHO) — score 11 · Small cap
+Price $0.00085 · Market cap $19.49M · 24h trading $124K · Week -4.7%
+Exchanges (2): Biconomy.com, P2B
+Life: zombie · last code push 2026-02-14
+Back to ATH: price $0.00085 vs ATH $0.0541 (2022-10-25) = 63.7x to get back to the ATH (98% below it)
+ATH market cap: about $1.24B at today's supply (now $19.49M)
+Potential: 2.5x its all-time high ($0.0541 on 2022-10-25) = $0.135, about 159x from here · it would need a $3.10B market cap
+
+**Why it's here**
+- small market cap ($19.49M)
+- trading is 2462.4x its normal level
 
 **Watch out**
 - very little trading for its size
-- zombie: still trades, but last sign of life was 92 days ago
+- zombie: still trades, but last sign of life was 262 days ago
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 159x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/dmt-nat) · [Website](https://natgmi.com/) · [X](https://x.com/natgmi) · [Telegram](https://t.me/dmt_nat) (3,577 members)
+[CoinGecko](https://www.coingecko.com/en/coins/oho-blockchain) · [Website](https://www.oho.ai) · [X](https://x.com/ohoblockchain) · [Telegram](https://t.me/ohoblockchain)
 
-### 26. Kinesis Silver (KAG) — score 3 · Mid cap · BACK ON THE RADAR
-Back because: trading spike (3.0x normal)
-Price $50.54 · Market cap $185.60M · 24h trading $428K · Week -6.8%
-Exchanges (1): Kinesis Money
-Life: zombie · last code push 2025-07-13
-Back to ATH: price $50.54 vs ATH $130.00 (2026-02-01) = 2.6x to get back to the ATH (61% below it)
-ATH market cap: about $477.39M at today's supply (now $185.60M)
-Potential: 2.5x its all-time high ($130.00 on 2026-02-01) = $325.00, about 6.4x from here · it would need a $1.19B market cap · 0.1x to reach a typical "Real World Assets (RWA)" coin
+### 25. Tensor (TNSR) — score 11 · Small cap
+Price $0.0268 · Market cap $19.94M · 24h trading $2.69M · Week -8.4%
+Exchanges (38): LBank, Binance, OKX, WhiteBIT, Paribu, Deepcoin, CoinW, BTCC, …
+Life: zombie · last code push 2025-11-27
+Back to ATH: price $0.0268 vs ATH $2.23 (2024-04-08) = 83.1x to get back to the ATH (99% below it)
+ATH market cap: about $1.66B at today's supply (now $19.94M)
+Potential: 2.5x its all-time high ($2.23 on 2024-04-08) = $5.58, about 208x from here · it would need a $4.14B market cap · 0.0x to reach a typical "NFT Marketplace" coin
 
 **Why it's here**
-- back on the radar: trading spike (3.0x normal)
-- trading is 3.0x its normal level
-- in a sector you're watching (Real World Assets (RWA))
+- small market cap ($19.94M)
+- healthy trading for its size (14% of its value traded in a day)
 
 **Watch out**
-- very little trading for its size
-- zombie: still trades, but last sign of life was 477 days ago
+- zombie: still trades, but last sign of life was 341 days ago
+- couldn't check community size (no Telegram or X follower count)
+- 2.5x its old high is 208x away — coins this far below their peak rarely get back
 
-[CoinGecko](https://www.coingecko.com/en/coins/kinesis-silver) · [Website](https://kinesis.money/) · [X](https://x.com/KinesisMonetary) · [Telegram](https://t.me/kinesismoney) (3,818 members)
+[CoinGecko](https://www.coingecko.com/en/coins/tensor) · [Website](https://www.tensor.foundation) · [X](https://x.com/tensorfdn)
 
-## Tracking — what changed today (95 of 775 past picks)
+## Tracking — what changed today (93 of 794 past picks)
 
-- **Radix (XRD)** · first picked 2026-11-01 at $0.000198 · now $0.000195 (-1.5%) · last rating: caution: price up 59% this week
-- **Guild of Guardians (GOG)** · first picked 2026-11-01 at $0.000841 · now $0.00085 (+1.1%) · last rating: skip: trading jumped to 9.2x its normal level; now fails a safety filter: too little trading to sell out of
-- **NEM (XEM)** · first picked 2026-11-01 at $0.000339 · now $0.000319 (-6.0%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- **TrustSwap (SWAP)** · first picked 2026-11-01 at $0.0374 · now $0.0371 (-0.8%) · last rating: caution: now fails a safety filter: too little trading to sell out of
-- **Credible Finance (CRED)** · first picked 2026-10-31 at $0.686 · now $0.702 (+2.3%) · last rating: caution: now fails a safety filter: too little trading to sell out of
-- **BEAM (BEAM)** · first picked 2026-10-31 at $0.00673 · now $0.00696 (+3.5%) · last rating: caution: trading jumped to 5.4x its normal level; passes the safety filters again
-- **Gate (GT)** · first picked 2026-10-30 at $9.36 · now $9.50 (+1.5%) · last rating: caution: passes the safety filters again
-- **DEFI.ssi (DEFI.SSI)** · first picked 2026-10-30 at $0.528 · now $0.515 (-2.4%) · last rating: skip: passes the safety filters again
-- **Lisk (LSK)** · first picked 2026-10-30 at $0.206 · now $0.19 (-7.7%) · last rating: caution: passes the safety filters again
-- **Ditto (SN118)** · first picked 2026-10-30 at $0.958 · now $0.839 (-12.5%) · last rating: skip: price down 27% in a day
-- **Mysterium (MYST)** · first picked 2026-10-30 at $0.0932 · now $0.0995 (+6.8%) · last rating: caution: now fails a safety filter: too little trading to sell out of
-- **QBX (QBX)** · first picked 2026-10-30 at $0.000799 · now $0.000772 (-3.3%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- **Napoli Fan Token (NAP)** · first picked 2026-10-29 at $0.183 · now $0.172 (-6.1%) · last rating: skip: passes the safety filters again
-- **Data Universe (SN13)** · first picked 2026-10-29 at $1.03 · now $0.915 (-11.3%) · last rating: caution: passes the safety filters again
-- **BOB (Build on Bitcoin) (BOB)** · first picked 2026-10-28 at $0.00447 · now $0.00431 (-3.7%) · last rating: caution: climbed from #981 to #829 in size ranking over 10 days
-- **MEET48 (IDOL)** · first picked 2026-10-27 at $0.00794 · now $0.0261 (+228.2%) · last rating: skip: moved from Small to Mid cap
-- **Orchid Protocol (OXT)** · first picked 2026-10-27 at $0.00885 · now $0.00882 (-0.3%) · last rating: caution · re-checked in depth: back on the New list: trading spike (10.7x normal); no longer on BYDFi, Mercado Bitcoin; trading jumped to 10.7x its normal level
-- **REI Network (REI)** · first picked 2026-10-26 at $0.00176 · now $0.00166 (-5.5%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- **Samsunspor Fan Token (SAM)** · first picked 2026-10-26 at $0.0797 · now $0.0807 (+1.3%) · last rating: skip: passes the safety filters again
-- **Bordrless (BORDR)** · first picked 2026-10-25 at $0.00161 · now $0.0000331 (-97.9%) · last rating: skip: price down 92% this week
-- **Rujira (RUJI)** · first picked 2026-10-24 at $0.156 · now $0.141 (-9.9%) · last rating: caution: trading jumped to 3.5x its normal level
-- **Gradients (SN56)** · first picked 2026-10-23 at $3.95 · now $3.39 (-14.2%) · last rating: caution · re-checked in depth: back on the New list: trading spike (6.0x normal); trading jumped to 6.0x its normal level
-- **Ambire Wallet (WALLET)** · first picked 2026-10-23 at $0.0182 · now $0.0249 (+36.7%) · last rating: caution: price up 79% this week
-- **Matrix AI Network (MAN)** · first picked 2026-10-23 at $0.000934 · now $0.000665 (-28.8%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- **NOVA (SN68)** · first picked 2026-10-22 at $4.41 · now $3.85 (-12.7%) · last rating: caution: trading jumped to 3.2x its normal level
-- **Stable Mint USD (USDSM)** · first picked 2026-10-22 at $1.02 · now $1 (-1.6%) · last rating: skip: now fails a safety filter: stablecoin or gold token
-- **QAIT (QAIT)** · first picked 2026-10-22 at $0.00179 · now $0.0016 (-11.0%) · last rating: skip: price up 27% in a day
-- **CoW Protocol (COW)** · first picked 2026-10-21 at $0.136 · now $0.116 (-15.2%) · last rating: skip: trading jumped to 4.8x its normal level
-- **Kinesis Silver (KAG)** · first picked 2026-10-21 at $57.28 · now $50.54 (-11.8%) · last rating: skip · re-checked in depth: back on the New list: trading spike (3.0x normal); trading jumped to 3.0x its normal level; passes the safety filters again
-- **BitMind (SN34)** · first picked 2026-10-20 at $3.17 · now $2.80 (-11.7%) · last rating: caution: passes the safety filters again
-- **RealBriefly (REAL)** · first picked 2026-10-20 at $0.00117 · now $0.000761 (-35.0%) · last rating: skip: price down 48% in a day
-- **CF Large Cap Index (LCAP)** · first picked 2026-10-20 at $6.76 · now $6.51 (-3.7%) · last rating: caution: passes the safety filters again
-- **Metaplex (MPLX)** · first picked 2026-10-20 at $0.0816 · now $0.074 (-9.3%) · last rating: caution: price up 54% this week
-- **OpenAI (Ondo Private Market Note) (OPAIPON)** · first picked 2026-10-19 at $1K · now $998.96 (-4.7%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- **Stablecorp QCAD (QCAD)** · first picked 2026-10-19 at $0.708 · now $0.717 (+1.3%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- **Backpack (BP)** · first picked 2026-10-18 at $1.03 · now $0.921 (-10.6%) · last rating: skip: passes the safety filters again
-- **Astar (ASTR)** · first picked 2026-10-18 at $0.00595 · now $0.00566 (-4.8%) · last rating: caution: moved from Mid to Small cap
-- **Gravity (by Galxe) (G)** · first picked 2026-10-18 at $0.00365 · now $0.00345 (-5.6%) · last rating: caution: passes the safety filters again
-- **dotmoovs (MOOV)** · first picked 2026-10-18 at $0.000315 · now $0.000211 (-32.9%) · last rating: caution: now fails a safety filter: too little trading to sell out of
-- **Dar Open Network (D)** · first picked 2026-10-18 at $0.00141 · now $0.00285 (+102.3%) · last rating: skip · re-checked in depth: deep re-check: no centralized exchange listing; climbed from #3169 to #2501 in size ranking over 10 days; price up 153% this week; now fails a safety filter: too little trading to sell out of
-- **Brevis (BREV)** · first picked 2026-10-17 at $0.0752 · now $0.0786 (+4.4%) · last rating: caution: passes the safety filters again
-- **FlameWire (SN97)** · first picked 2026-10-17 at $3.61 · now $2.74 (-24.1%) · last rating: caution: passes the safety filters again
-- **Apex (SN1)** · first picked 2026-10-17 at $1.84 · now $1.41 (-23.4%) · last rating: caution: passes the safety filters again
-- **Tenset (10SET)** · first picked 2026-10-16 at $0.00555 · now $0.0046 (-17.1%) · last rating: skip: passes the safety filters again
-- **For Sale (SN47)** · first picked 2026-10-16 at $0.501 · now $0.368 (-26.6%) · last rating: skip: trading jumped to 5.3x its normal level
-- **XELS (XELS)** · first picked 2026-10-16 at $0.00506 · now $0.00502 (-0.7%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- **Poker44 (SN126)** · first picked 2026-10-16 at $1.21 · now $1.10 (-9.1%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- **Sophon (SOPH)** · first picked 2026-10-15 at $0.00259 · now $0.00163 (-37.2%) · last rating: caution: trading jumped to 5.1x its normal level
-- **DeepBook (DEEP)** · first picked 2026-10-15 at $0.022 · now $0.0155 (-29.6%) · last rating: caution: passes the safety filters again
-- **Macropod (AUDM)** · first picked 2026-10-15 at $0.695 · now $0.702 (+1.0%) · last rating: skip · re-checked in depth: back on the New list: trading spike (15.2x normal); trading jumped to 15.2x its normal level; passes the safety filters again
-- **Radiant Capital (RDNT)** · first picked 2026-10-14 at $0.000676 · now $0.00048 (-29.0%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- **Zano (ZANO)** · first picked 2026-10-14 at $5.34 · now $3.11 (-41.8%) · last rating: caution: moved from Mid to Small cap
-- **Vulcan Forged (PYR)** · first picked 2026-10-14 at $0.053 · now $0.0366 (-31.0%) · last rating: skip · re-checked in depth: score 19 now vs 36 when first picked; price up 157% in a day
-- **Provenance Blockchain (HASH)** · first picked 2026-10-14 at $0.00743 · now $0.00746 (+0.4%) · last rating: caution · re-checked in depth: back on the New list: trading spike (4.0x normal); score 30 now vs 41 when first picked; trading jumped to 4.0x its normal level; passes the safety filters again
-- **Instant Inference (SN46)** · first picked 2026-10-14 at $1.19 · now $0.647 (-45.7%) · last rating: caution: passes the safety filters again
-- **Choise.ai (CHO)** · first picked 2026-10-14 at $0.000463 · now $0.000563 (+21.6%) · last rating: skip · re-checked in depth: score 33 now vs 71 when first picked; trading jumped to 5.9x its normal level
-- **Kinesis Gold (KAU)** · first picked 2026-10-13 at $134.83 · now $125.55 (-6.9%) · last rating: skip: passes the safety filters again
-- **Safe Scan (SN76)** · first picked 2026-10-13 at $1.94 · now $0.939 (-51.6%) · last rating: skip · re-checked in depth: back on the New list: trading spike (3.4x normal); trading jumped to 3.4x its normal level; passes the safety filters again
-- **Unibase (UB)** · first picked 2026-10-12 at $0.139 · now $0.113 (-18.4%) · last rating: caution: passes the safety filters again
-- **Aventus (AVT)** · first picked 2026-10-12 at $0.292 · now $0.271 (-7.3%) · last rating: skip: now fails a safety filter: too little trading to sell out of
-- …and 35 more (see tracked.json or the dashboard)
+- **DMT-NAT (NAT)** · first picked 2026-11-02 at $1.03e-7 · now $1.16e-7 (+13.0%) · last rating: skip: climbed from #712 to #478 in size ranking over 10 days; price up 58% this week; trading jumped to 4.4x its normal level
+- **Manadia (UMXM)** · first picked 2026-11-02 at $0.0193 · now $0.0119 (-38.2%) · last rating: skip: price down 39% in a day
+- **EURØP (EUROP)** · first picked 2026-11-02 at $1.12 · now $1.12 (+0.0%) · last rating: skip: trading jumped to 7.1x its normal level
+- **Swash (SWASH)** · first picked 2026-11-02 at $0.000884 · now $0.000889 (+0.5%) · last rating: skip: trading jumped to 17.5x its normal level; now fails a safety filter: too little trading to sell out of
+- **SMARDEX (SDEX)** · first picked 2026-11-02 at $0.000662 · now $0.000671 (+1.4%) · last rating: caution: price up 57% this week; trading jumped to 16.5x its normal level
+- **Astra Nova (RVV)** · first picked 2026-11-02 at $0.000036 · now $0.0000286 (-20.6%) · last rating: skip: price up 93% this week; trading jumped to 3.4x its normal level
+- **XDB CHAIN (XDB)** · first picked 2026-11-02 at $0.0000774 · now $0.0000602 (-22.2%) · last rating: skip: price down 26% in a day
+- **Vara Network (VARA)** · first picked 2026-11-01 at $0.000454 · now $0.000425 (-6.3%) · last rating: caution: now fails a safety filter: too little trading to sell out of
+- **TrustSwap (SWAP)** · first picked 2026-11-01 at $0.0374 · now $0.0351 (-6.1%) · last rating: caution: passes the safety filters again
+- **Meteor Coin (MTO)** · first picked 2026-10-31 at $0.00276 · now $0.00274 (-0.8%) · last rating: caution: now fails a safety filter: too little trading to sell out of
+- **BEAM (BEAM)** · first picked 2026-10-31 at $0.00673 · now $0.00698 (+3.7%) · last rating: caution: now fails a safety filter: too little trading to sell out of
+- **Gate (GT)** · first picked 2026-10-30 at $9.36 · now $9.54 (+1.9%) · last rating: caution: trading jumped to 3.0x its normal level
+- **BNB Attestation Service (BAS)** · first picked 2026-10-30 at $0.0153 · now $0.0146 (-4.3%) · last rating: skip: now fails a safety filter: most tokens not released yet (big unlocks coming)
+- **Hypurr Fun (HFUN)** · first picked 2026-10-30 at $12.54 · now $12.01 (-4.2%) · last rating: skip: passes the safety filters again
+- **Mysterium (MYST)** · first picked 2026-10-30 at $0.0932 · now $0.0989 (+6.2%) · last rating: caution: passes the safety filters again
+- **xMoney (XMN)** · first picked 2026-10-30 at $0.00039 · now $0.000456 (+16.8%) · last rating: skip · re-checked in depth: back on the New list: trading spike (20.5x normal); price up 27% in a day; trading jumped to 20.5x its normal level
+- **Data Universe (SN13)** · first picked 2026-10-29 at $1.03 · now $0.879 (-14.8%) · last rating: caution: now fails a safety filter: too little trading to sell out of
+- **OPEN GPU (OGPU)** · first picked 2026-10-28 at $0.0254 · now $0.0235 (-7.4%) · last rating: skip: trading jumped to 3.1x its normal level; passes the safety filters again
+- **Perpetual Protocol (PERP)** · first picked 2026-10-28 at $0.0204 · now $0.0183 (-10.1%) · last rating: skip: passes the safety filters again
+- **MEET48 (IDOL)** · first picked 2026-10-27 at $0.00794 · now $0.0175 (+120.2%) · last rating: skip: price down 33% in a day
+- **Leadpoet (SN71)** · first picked 2026-10-27 at $0.94 · now $0.891 (-5.3%) · last rating: skip: trading jumped to 3.8x its normal level
+- **Numinous (SN6)** · first picked 2026-10-27 at $0.546 · now $0.498 (-8.6%) · last rating: skip: passes the safety filters again
+- **Corn (CORN)** · first picked 2026-10-26 at $0.0248 · now $0.0233 (-6.0%) · last rating: skip: now fails a safety filter: most tokens not released yet (big unlocks coming)
+- **REI Network (REI)** · first picked 2026-10-26 at $0.00176 · now $0.00163 (-7.5%) · last rating: skip: passes the safety filters again
+- **Sensay (SNSY)** · first picked 2026-10-26 at $0.0000597 · now $0.0000559 (-6.3%) · last rating: skip: now fails a safety filter: too little trading to sell out of
+- **Bordrless (BORDR)** · first picked 2026-10-25 at $0.00161 · now $0.000022 (-98.6%) · last rating: skip: price down 34% in a day
+- **Valencia CF Fan Token (VCF)** · first picked 2026-10-25 at $0.0445 · now $0.0431 (-3.2%) · last rating: skip · re-checked in depth: trading jumped to 5.2x its normal level; passes the safety filters again
+- **Hum(AI)n Web3 (DOME)** · first picked 2026-10-25 at $0.00000225 · now $0.00000336 (+49.3%) · last rating: skip: price up 44% in a day
+- **Hunt (HUNT)** · first picked 2026-10-25 at $0.102 · now $0.0855 (-16.0%) · last rating: caution: now fails a safety filter: too little trading to sell out of
+- **claus (CLAUS)** · first picked 2026-10-24 at $0.00431 · now $0.00156 (-63.8%) · last rating: caution: price down 54% this week; price down 37% in a day
+- **Iagon (IAG)** · first picked 2026-10-23 at $0.0225 · now $0.017 (-24.3%) · last rating: caution · re-checked in depth: trading jumped to 8.4x its normal level; passes the safety filters again
+- **True Performance Network (SN65)** · first picked 2026-10-23 at $0.635 · now $0.675 (+6.3%) · last rating: caution · re-checked in depth: price up 28% in a day; trading jumped to 25.6x its normal level
+- **bitsCrunch Token (BCUT)** · first picked 2026-10-22 at $0.000453 · now $0.000148 (-67.2%) · last rating: skip · re-checked in depth: score 33 now vs 45 when first picked; price down 59% this week; price down 48% in a day; trading jumped to 6.8x its normal level; passes the safety filters again
+- **Holo (HOT)** · first picked 2026-10-21 at $0.000386 · now $0.000463 (+19.9%) · last rating: skip · re-checked in depth: back on the New list: new exchange listing (Indodax, ZebPay); trading spike (15.6x normal); score up 53 since first picked (4 → 57); score 57 now vs 4 when first picked; no longer on GroveX; newly listed on Indodax, ZebPay; climbed from #376 to #302 in size ranking over 10 days; trading jumped to 15.6x its normal level
+- **Ondo AI Leaders Portfolio (BRAINON)** · first picked 2026-10-21 at $4.81 · now $4.38 (-8.9%) · last rating: skip: passes the safety filters again
+- **Level 114 (SN114)** · first picked 2026-10-20 at $5.63 · now $4.14 (-26.5%) · last rating: caution: trading jumped to 4.2x its normal level
+- **CF Large Cap Index (LCAP)** · first picked 2026-10-20 at $6.76 · now $6.43 (-4.9%) · last rating: caution: now fails a safety filter: too little trading to sell out of
+- **Metaplex (MPLX)** · first picked 2026-10-20 at $0.0816 · now $0.0952 (+16.6%) · last rating: caution · re-checked in depth: back on the New list: trading spike (3.6x normal); score 33 now vs 53 when first picked; climbed from #732 to #479 in size ranking over 10 days; price up 29% in a day; trading jumped to 3.6x its normal level
+- **OpenAI (Ondo Private Market Note) (OPAIPON)** · first picked 2026-10-19 at $1K · now $994.87 (-5.0%) · last rating: skip: trading jumped to 3.7x its normal level; passes the safety filters again
+- **MagicCraft (MCRT)** · first picked 2026-10-19 at $0.000116 · now $0.000175 (+51.0%) · last rating: skip · re-checked in depth: score 51 now vs 37 when first picked; price up 92% this week; price up 99% in a day; trading jumped to 16.4x its normal level
+- **TAGGER (TAG)** · first picked 2026-10-18 at $0.000534 · now $0.000779 (+45.8%) · last rating: caution: climbed from #457 to #297 in size ranking over 10 days
+- **dotmoovs (MOOV)** · first picked 2026-10-18 at $0.000315 · now $0.000206 (-34.4%) · last rating: caution: passes the safety filters again
+- **DeXe (DEXE)** · first picked 2026-10-17 at $1.77 · now $1.38 (-22.0%) · last rating: skip: moved from Mid to Small cap
+- **Abelian (ABEL)** · first picked 2026-10-17 at $0.0991 · now $0.117 (+18.2%) · last rating: skip: now fails a safety filter: too little trading to sell out of
+- **MetaDAO (META)** · first picked 2026-10-17 at $5.43 · now $4.32 (-20.4%) · last rating: caution: trading jumped to 4.9x its normal level
+- **Omron (SN2)** · first picked 2026-10-17 at $1.04 · now $0.882 (-15.5%) · last rating: caution · re-checked in depth: back on the New list: trading spike (7.1x normal); score 62 now vs 74 when first picked; trading jumped to 7.1x its normal level; passes the safety filters again
+- **Anvil (ANVL)** · first picked 2026-10-16 at $0.00136 · now $0.00198 (+45.3%) · last rating: caution: trading jumped to 3.0x its normal level
+- **LCX (LCX)** · first picked 2026-10-16 at $0.0583 · now $0.0428 (-26.5%) · last rating: caution: trading jumped to 5.7x its normal level
+- **Blockmachine (SN19)** · first picked 2026-10-16 at $2.62 · now $2.01 (-23.3%) · last rating: caution: now fails a safety filter: too little trading to sell out of
+- **Poker44 (SN126)** · first picked 2026-10-16 at $1.21 · now $1.02 (-15.5%) · last rating: skip · re-checked in depth: back on the New list: trading spike (7.9x normal); trading jumped to 7.9x its normal level; passes the safety filters again
+- **DeFi (DEFI)** · first picked 2026-10-15 at $0.000141 · now $0.000215 (+52.9%) · last rating: skip · re-checked in depth: score 40 now vs 55 when first picked; signs of life: alive → quiet; price up 86% this week; price up 92% in a day
+- **basilica (SN39)** · first picked 2026-10-15 at $2.39 · now $1.69 (-29.3%) · last rating: caution: moved from Small to Micro cap; price down 44% in a day; trading jumped to 4.0x its normal level
+- **Radiant Capital (RDNT)** · first picked 2026-10-14 at $0.000676 · now $0.000469 (-30.7%) · last rating: skip: passes the safety filters again
+- **Quantix Finance (QFI)** · first picked 2026-10-14 at $17.98 · now $1.09 (-93.9%) · last rating: skip: price down 71% in a day
+- **Quickswap (QUICK)** · first picked 2026-10-14 at $0.00794 · now $0.00431 (-45.8%) · last rating: skip: price up 55% this week
+- **Bitlayer (BTR)** · first picked 2026-10-14 at $0.0474 · now $0.0452 (-4.7%) · last rating: caution: trading jumped to 3.3x its normal level
+- **Instant Inference (SN46)** · first picked 2026-10-14 at $1.19 · now $0.737 (-38.1%) · last rating: caution: trading jumped to 5.9x its normal level
+- **Pieverse (PIEVERSE)** · first picked 2026-10-13 at $1.21 · now $1.16 (-4.1%) · last rating: caution: trading jumped to 4.7x its normal level
+- **ALEO (ALEO)** · first picked 2026-10-13 at $0.0343 · now $0.0399 (+16.3%) · last rating: caution: trading jumped to 4.7x its normal level
+- **Impossible Cloud Network Token (ICNT)** · first picked 2026-10-13 at $0.103 · now $0.212 (+106.6%) · last rating: skip: moved from Small to Mid cap; price up 28% in a day; trading jumped to 4.3x its normal level
+- …and 33 more (see tracked.json or the dashboard)
 
 ## Thrown out today
-- memecoin or other sector you excluded: 8,924
-- too little trading to sell out of: 5,568
-- already picked before (watched in Tracking instead): 652
-- no market cap data: 456
-- most tokens not released yet (big unlocks coming): 236
-- stablecoin or gold token: 229
+- memecoin or other sector you excluded: 8,947
+- too little trading to sell out of: 5,497
+- already picked before (watched in Tracking instead): 676
+- no market cap data: 441
+- most tokens not released yet (big unlocks coming): 249
+- stablecoin or gold token: 235
 - bigger than $1.00B (above your size bands): 67
-- no centralized exchange listing: 44
+- no centralized exchange listing: 45
 - wrapped or staked copy of another coin: 25
 - suspicious, fake-looking trading volume: 24
 - community too small (under your minimum): 12
-- no working website or X account: 4
-- looks dead (website down, no code or posts in months): 2
+- no working website or X account: 9
+- looks dead (website down, no code or posts in months): 3
