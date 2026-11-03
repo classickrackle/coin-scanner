@@ -1,0 +1,219 @@
+{
+ "date": "2026-11-03",
+ "ratings": {
+  "omron": "caution",
+  "storb": "skip",
+  "holotoken": "caution",
+  "poker44": "skip",
+  "xmoney-2": "caution",
+  "elastos": "caution",
+  "forever-2": "skip",
+  "sl-benfica-fan-token": "skip",
+  "energi": "skip",
+  "lazio-fan-token": "skip",
+  "partisia-blockchain": "skip",
+  "altura": "skip",
+  "metaplex": "caution",
+  "energy-web-token": "caution",
+  "tolly": "skip",
+  "sharering": "skip",
+  "tcy": "skip",
+  "kyber-network-crystal": "skip",
+  "uchain-2": "skip",
+  "victoria-vr": "skip",
+  "bityuan": "skip",
+  "carv": "skip",
+  "cobak-token": "skip",
+  "oho-blockchain": "skip",
+  "tensor": "caution"
+ },
+ "conviction": {
+  "omron": "low",
+  "xmoney-2": "low",
+  "elastos": "low",
+  "metaplex": "low",
+  "energy-web-token": "low",
+  "tensor": "low",
+  "holotoken": "low"
+ },
+ "cases": {
+  "omron": {
+   "upside": "Bittensor subnet with code pushed 14 days ago; any subnet-sector bid could lift it, but no dated catalyst found.",
+   "cheap": "Website is down and tiny $4.6M cap; likely just unwanted.",
+   "wrongIf": "Website stays down or daily trading falls under $100K within 30 days.",
+   "vsScanner": "Scanner's spike is not a catalyst; the dead website worries me more than it does the score."
+  },
+  "xmoney-2": {
+   "upside": "Real payments company with fresh code (6 days ago) and Kraken/KuCoin listings; no dated catalyst found for the 20x volume spike.",
+   "cheap": "Only 37% of supply released and price is 99% below its peak; market may be pricing future unlocks.",
+   "wrongIf": "Volume falls back below $200K/day or a large unlock lands without demand within 30 days.",
+   "vsScanner": "Scanner counts the spike as positive; after +41% in a week I treat it as already moved."
+  },
+  "elastos": {
+   "upside": "Old Bitcoin-sidechain project listed on Coinbase; I found no news explaining the +130% week.",
+   "cheap": "Unknown; no reason found.",
+   "wrongIf": "Gives back the whole week's gain (below about $0.30) within 2 weeks.",
+   "vsScanner": "Scanner shows volume 74x; I could not find the cause, so it is an unexplained spike."
+  },
+  "metaplex": {
+   "upside": "Real Solana NFT infrastructure with about $200K/month revenue (June) and buyback dashboard; no dated catalyst for the +104% week.",
+   "cheap": "Revenue is small against supply still to unlock (53% unreleased).",
+   "wrongIf": "Weekly gain fully reverses or revenue stays flat in the next monthly update.",
+   "vsScanner": "Scanner calls it a zombie; I disagree, the product is live, but it already doubled this week."
+  },
+  "energy-web-token": {
+   "upside": "Real energy-sector chain with recent activity; no dated catalyst found.",
+   "cheap": "No reason found; probably just unwanted.",
+   "wrongIf": "Trading stays under $300K/day with no news for 30 days.",
+   "vsScanner": "Agree with the scanner that nothing here is a catalyst."
+  },
+  "tensor": {
+   "upside": "Real Solana NFT marketplace; no dated catalyst found.",
+   "cheap": "NFT sector is out of favour.",
+   "wrongIf": "Trading volume drops under $1M/day.",
+   "vsScanner": "Scanner says zombie; the marketplace is live but I found no catalyst."
+  },
+  "holotoken": {
+   "upside": "Holochain is a real long-running project and Binance-listed; the Indodax/ZebPay listing is small and I could not confirm it from official sources.",
+   "cheap": "Token trades at 0.05% of its 2021 high on huge supply.",
+   "wrongIf": "Volume falls back to normal (about $3M/day) within 2 weeks.",
+   "vsScanner": "Scanner's score jump from 4 to 57 is a one-day spike, not a business change."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing has a dated, verified catalyst; every spike (Elastos +130%, Metaplex +104%, xMoney +41%) has already run and I found no cause.",
+ "athCheck": {
+  "omron": "stretch",
+  "storb": "unlikely",
+  "holotoken": "unlikely",
+  "poker44": "stretch",
+  "xmoney-2": "unlikely",
+  "elastos": "unlikely",
+  "forever-2": "stretch",
+  "sl-benfica-fan-token": "unlikely",
+  "energi": "unlikely",
+  "lazio-fan-token": "unlikely",
+  "partisia-blockchain": "unlikely",
+  "altura": "unlikely",
+  "metaplex": "stretch",
+  "energy-web-token": "unlikely",
+  "tolly": "unlikely",
+  "sharering": "unlikely",
+  "tcy": "stretch",
+  "kyber-network-crystal": "unlikely",
+  "uchain-2": "unlikely",
+  "victoria-vr": "unlikely",
+  "bityuan": "unlikely",
+  "carv": "unlikely",
+  "cobak-token": "unlikely",
+  "oho-blockchain": "unlikely",
+  "tensor": "unlikely"
+ },
+ "lifeCheck": {
+  "omron": "alive",
+  "storb": "unknown",
+  "holotoken": "zombie",
+  "poker44": "unknown",
+  "xmoney-2": "alive",
+  "elastos": "unknown",
+  "forever-2": "unknown",
+  "sl-benfica-fan-token": "unknown",
+  "energi": "alive",
+  "lazio-fan-token": "unknown",
+  "partisia-blockchain": "quiet",
+  "altura": "zombie",
+  "metaplex": "alive",
+  "energy-web-token": "alive",
+  "tolly": "zombie",
+  "sharering": "zombie",
+  "tcy": "alive",
+  "kyber-network-crystal": "zombie",
+  "uchain-2": "zombie",
+  "victoria-vr": "zombie",
+  "bityuan": "unknown",
+  "carv": "zombie",
+  "cobak-token": "zombie",
+  "oho-blockchain": "zombie",
+  "tensor": "quiet"
+ },
+ "news": {
+  "omron": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "storb": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "holotoken": {
+   "text": "Reported new listings on Indodax and ZebPay; I could not confirm them from official pages."
+  },
+  "poker44": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "xmoney-2": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "elastos": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "forever-2": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "sl-benfica-fan-token": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "energi": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "lazio-fan-token": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "partisia-blockchain": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "altura": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "metaplex": {
+   "text": "Public dashboard tracking revenue and token supply launched Aug 2026; no news found for the current rally.",
+   "date": "2026-08-26",
+   "url": "https://cryptobriefing.com/metaplex-public-dashboard-mplx-token/"
+  },
+  "energy-web-token": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "tolly": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "sharering": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "tcy": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "kyber-network-crystal": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "uchain-2": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "victoria-vr": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "bityuan": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "carv": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "cobak-token": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "oho-blockchain": {
+   "text": "No news found in the last 30 days (research was limited)."
+  },
+  "tensor": {
+   "text": "No news found in the last 30 days (research was limited)."
+  }
+ },
+ "sectorNews": {}
+}
