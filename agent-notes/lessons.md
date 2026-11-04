@@ -13,3 +13,4 @@
 - 2026-11-01: Of 6 worth-a-look calls on 2026-10-02, 5 are down 18-35% since first pick (only Midnight +39.5%, LayerZero +1%); average about -10% vs market -8%. After 12 straight days with no worth-a-look or top pick, the strict bar is working; keep it.
 - 2026-11-02: Of 6 worth-a-look calls from 2026-10-03, all 6 are down 8-38% (avg ~-23%) vs market ~-8%; keep the strict bar, 13 straight days with no top picks.
 - 2026-11-03: Of 9 worth-a-look calls from 2026-10-04, 8 are down 13-40% since first pick (only BAT +21%; avg about -20%); 14 straight days with no worth-a-look or top picks. Free web search often returns nothing dated for tiny coins; with no catalyst found, stay at caution/skip.
+- 2026-11-04: Of 11 worth-a-look calls from 2026-10-05, 10 are down 7-44% (avg about -18%, only Bubblemaps +62%) vs market -8.6%; no top picks for 15 straight days. Unverifiable 'back' triggers (Pons-Bithumb) stay unconfirmed.

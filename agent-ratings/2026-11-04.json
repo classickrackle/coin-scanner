@@ -1,0 +1,368 @@
+{
+ "date": "2026-11-04",
+ "ratings": {
+  "tokenbot-2": "caution",
+  "capybobo": "caution",
+  "zentry": "caution",
+  "nym": "caution",
+  "thorchain": "caution",
+  "midnight-3": "caution",
+  "pons": "caution",
+  "lava-network": "caution",
+  "umbra": "caution",
+  "zeus-5": "caution",
+  "bubblemaps": "caution",
+  "hivemapper": "caution",
+  "manchester-city-fan-token": "caution",
+  "liveart": "caution",
+  "graphlinq-protocol": "caution",
+  "piratecash": "caution",
+  "polygon-ecosystem-token": "caution",
+  "gmt-token": "caution",
+  "play-ai": "caution",
+  "priors-agent": "caution",
+  "vidaio": "skip",
+  "camp-network": "skip",
+  "qbx": "skip",
+  "trio-ordinals": "skip",
+  "dexsport": "skip",
+  "ampleforth-governance-token": "skip",
+  "azit": "skip",
+  "ice-open-network": "skip",
+  "pirate-chain": "skip",
+  "reallink": "skip",
+  "xsgd": "skip",
+  "iota-2": "skip",
+  "rich-kids-of-tao": "skip",
+  "river": "skip",
+  "vericore": "skip",
+  "grx-chain": "skip",
+  "althea": "skip",
+  "iron-fish": "skip",
+  "neartrade-lol": "skip"
+ },
+ "conviction": {
+  "tokenbot-2": "low",
+  "capybobo": "low",
+  "zentry": "low",
+  "nym": "low",
+  "thorchain": "low",
+  "midnight-3": "low",
+  "pons": "low",
+  "lava-network": "low",
+  "umbra": "low",
+  "zeus-5": "low",
+  "bubblemaps": "low",
+  "hivemapper": "low",
+  "manchester-city-fan-token": "low",
+  "liveart": "low",
+  "graphlinq-protocol": "low",
+  "piratecash": "low",
+  "polygon-ecosystem-token": "low",
+  "gmt-token": "low",
+  "play-ai": "low",
+  "priors-agent": "low"
+ },
+ "cases": {
+  "tokenbot-2": {
+   "upside": "Clanker token launcher on Base with fresh code today and 15 exchanges; fee routing to the token after the Farcaster deal (Oct 2025) is a possible value driver, but nothing dated is coming.",
+   "cheap": "Founder reportedly left (undated report) and the price is far below its Oct 2025 peak.",
+   "wrongIf": "Daily volume drops under $1M or the repo goes quiet for 30 days.",
+   "vsScanner": "Scanner's 22-point score jump is not backed by news I can find."
+  },
+  "capybobo": {
+   "upside": "Gaming/meme token with active Telegram (171K members) and 9 exchanges; no news found.",
+   "cheap": "Only 35% of supply is out, so unlocks can weigh on price.",
+   "wrongIf": "Price gives back the 25% weekly gain within 2 weeks.",
+   "vsScanner": "Spike without a stated cause."
+  },
+  "zentry": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "nym": {
+   "upside": "Privacy VPN with live product, daily code and an NYM buyback funded by VPN sales; privacy-regulation headlines lifted it in October.",
+   "cheap": "Tiny cap vs. a 2022 peak; the buyback is small relative to supply.",
+   "wrongIf": "Volume falls back under $500K a day within 30 days.",
+   "vsScanner": "Real project, but the 15x spike has no dated cause."
+  },
+  "thorchain": {
+   "upside": "Deflationary burn from protocol fees (since Mar 2026) and a $330M volume day; no dated catalyst found behind it.",
+   "cheap": "Already a known name with a $208M cap; the market is not missing it.",
+   "wrongIf": "Volume normalises under $50M a day without a price follow-through.",
+   "vsScanner": "Agree with the scanner that nothing is wrong, but no reason to buy found."
+  },
+  "midnight-3": {
+   "upside": "Cardano-linked privacy chain listed on Binance (Mar 2026); a stablecoin partnership was flagged in January but never confirmed.",
+   "cheap": "Down about 60% from its Dec 2025 peak with big token unlocks likely ahead.",
+   "wrongIf": "Daily volume drops back under $20M with no partnership announcement by end of January.",
+   "vsScanner": "The 9.6x spike is not a catalyst by itself."
+  },
+  "pons": {
+   "upside": "Bithumb listing could not be confirmed in search; Robinhood Chain launchpad revenue has fallen about 85% since the summer and a rival launched in August.",
+   "cheap": "Price already ran 18,000% since July and is now fading 22% a week.",
+   "wrongIf": "Daily launchpad revenue stays under $300K.",
+   "vsScanner": "The scanner's Bithumb 'back' trigger is unconfirmed; treat as unverified."
+  },
+  "lava-network": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "umbra": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "zeus-5": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "bubblemaps": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "hivemapper": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "manchester-city-fan-token": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "liveart": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "graphlinq-protocol": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "piratecash": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "polygon-ecosystem-token": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "gmt-token": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "play-ai": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  },
+  "priors-agent": {
+   "upside": "No dated catalyst found; the spike alone is not one.",
+   "cheap": "No reason found for the market missing it; likely just unwanted or already repriced.",
+   "wrongIf": "Trading volume falls back to normal levels within 2 weeks with no announcement.",
+   "vsScanner": "Scanner's spike score is not a reason to buy."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No worth-a-look coins today: no dated, verified catalyst found for any coin, and past worth-a-look calls are down about 18% at 30 days.",
+ "athCheck": {
+  "tokenbot-2": "stretch",
+  "capybobo": "realistic",
+  "zentry": "stretch",
+  "zeus-5": "stretch",
+  "vidaio": "stretch",
+  "camp-network": "unlikely",
+  "nym": "unlikely",
+  "thorchain": "unlikely",
+  "qbx": "unlikely",
+  "lava-network": "stretch",
+  "midnight-3": "realistic",
+  "trio-ordinals": "unlikely",
+  "dexsport": "stretch",
+  "ampleforth-governance-token": "unlikely",
+  "pons": "stretch",
+  "umbra": "realistic",
+  "azit": "unlikely",
+  "ice-open-network": "unlikely",
+  "pirate-chain": "unlikely",
+  "reallink": "unlikely",
+  "xsgd": "realistic",
+  "iota-2": "realistic",
+  "rich-kids-of-tao": "realistic",
+  "river": "unlikely"
+ },
+ "lifeCheck": {
+  "tokenbot-2": "alive",
+  "capybobo": "alive",
+  "zentry": "unknown",
+  "zeus-5": "alive",
+  "vidaio": "quiet",
+  "camp-network": "quiet",
+  "nym": "alive",
+  "thorchain": "alive",
+  "qbx": "alive",
+  "lava-network": "unknown",
+  "midnight-3": "alive",
+  "trio-ordinals": "unknown",
+  "dexsport": "alive",
+  "ampleforth-governance-token": "zombie",
+  "pons": "unknown",
+  "umbra": "unknown",
+  "azit": "zombie",
+  "ice-open-network": "zombie",
+  "pirate-chain": "alive",
+  "reallink": "quiet",
+  "xsgd": "zombie",
+  "iota-2": "zombie",
+  "rich-kids-of-tao": "zombie",
+  "river": "zombie"
+ },
+ "news": {
+  "tokenbot-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "capybobo": {
+   "text": "No news in the last 30 days found"
+  },
+  "zentry": {
+   "text": "No news in the last 30 days found"
+  },
+  "nym": {
+   "text": "CMC AI summary says NYM rose about 12% on VPN demand tied to privacy regulation.",
+   "date": "2026-10-19",
+   "url": "https://coinmarketcap.com/cmc-ai/nym/latest-updates/"
+  },
+  "thorchain": {
+   "text": "No news in the last 30 days found"
+  },
+  "midnight-3": {
+   "text": "No news in the last 30 days found"
+  },
+  "pons": {
+   "text": "Launchpad revenue fell from about $2M a day to about $240K by early October as a rival launched.",
+   "date": "2026-10-01",
+   "url": "https://airdropalert.com/?p=324939"
+  },
+  "lava-network": {
+   "text": "No news in the last 30 days found"
+  },
+  "umbra": {
+   "text": "No news in the last 30 days found"
+  },
+  "zeus-5": {
+   "text": "No news in the last 30 days found"
+  },
+  "bubblemaps": {
+   "text": "No news in the last 30 days found"
+  },
+  "hivemapper": {
+   "text": "No news in the last 30 days found"
+  },
+  "manchester-city-fan-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "liveart": {
+   "text": "No news in the last 30 days found"
+  },
+  "graphlinq-protocol": {
+   "text": "No news in the last 30 days found"
+  },
+  "piratecash": {
+   "text": "No news in the last 30 days found"
+  },
+  "polygon-ecosystem-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "gmt-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "play-ai": {
+   "text": "No news in the last 30 days found"
+  },
+  "priors-agent": {
+   "text": "No news in the last 30 days found"
+  },
+  "vidaio": {
+   "text": "No news in the last 30 days found"
+  },
+  "camp-network": {
+   "text": "No news in the last 30 days found"
+  },
+  "qbx": {
+   "text": "No news in the last 30 days found"
+  },
+  "trio-ordinals": {
+   "text": "No news in the last 30 days found"
+  },
+  "dexsport": {
+   "text": "No news in the last 30 days found"
+  },
+  "ampleforth-governance-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "azit": {
+   "text": "No news in the last 30 days found"
+  },
+  "ice-open-network": {
+   "text": "No news in the last 30 days found"
+  },
+  "pirate-chain": {
+   "text": "No news in the last 30 days found"
+  },
+  "reallink": {
+   "text": "No news in the last 30 days found"
+  },
+  "xsgd": {
+   "text": "No news in the last 30 days found"
+  },
+  "iota-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "rich-kids-of-tao": {
+   "text": "No news in the last 30 days found"
+  },
+  "river": {
+   "text": "No news in the last 30 days found"
+  },
+  "vericore": {
+   "text": "No news in the last 30 days found"
+  },
+  "grx-chain": {
+   "text": "No news in the last 30 days found"
+  },
+  "althea": {
+   "text": "No news in the last 30 days found"
+  },
+  "iron-fish": {
+   "text": "No news in the last 30 days found"
+  },
+  "neartrade-lol": {
+   "text": "No news in the last 30 days found"
+  }
+ },
+ "sectorNews": {
+  "AI": "Seven of today's coins are AI-tagged, mostly Bittensor subnet tokens; the free search returned no dated sector news this week, so no read on whether it helps small coins."
+ }
+}
