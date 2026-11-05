@@ -1,0 +1,427 @@
+{
+ "date": "2026-11-05",
+ "ratings": {
+  "lumiwave-protocol": "skip",
+  "space-and-time": "caution",
+  "gittensor": "caution",
+  "xpla": "caution",
+  "melon": "caution",
+  "definitive": "caution",
+  "ika": "caution",
+  "star-atlas-dao": "skip",
+  "navi": "caution",
+  "goldzip-gold": "skip",
+  "coinmarketcap-20-index-dtf": "skip",
+  "taraxa": "skip",
+  "zar-supercoin": "skip",
+  "zar-universal": "skip",
+  "akash-network": "caution",
+  "bora": "caution",
+  "ridges-ai": "caution",
+  "ao-computer": "caution",
+  "rhea-2": "caution",
+  "researchcoin": "caution",
+  "world-mobile-token": "skip",
+  "zylo-ecosystem": "skip",
+  "epic-cash": "skip",
+  "messier": "skip",
+  "bancor": "skip",
+  "nem": "skip",
+  "port3-network": "skip",
+  "sealcoin": "skip",
+  "octaspace": "skip",
+  "cellframe": "skip",
+  "jurassic-finance": "skip",
+  "oraichain-token": "caution",
+  "cheqd-network": "caution",
+  "aethir": "caution",
+  "adex": "caution",
+  "tevaera": "skip",
+  "playzap": "skip",
+  "river": "skip",
+  "iota-2": "skip",
+  "elastos": "caution"
+ },
+ "conviction": {
+  "space-and-time": "low",
+  "gittensor": "low",
+  "xpla": "low",
+  "melon": "low",
+  "definitive": "low",
+  "ika": "low",
+  "navi": "low",
+  "akash-network": "low",
+  "bora": "low",
+  "ridges-ai": "low",
+  "ao-computer": "low",
+  "rhea-2": "low",
+  "researchcoin": "low",
+  "oraichain-token": "low",
+  "cheqd-network": "low",
+  "aethir": "low",
+  "adex": "low",
+  "elastos": "low"
+ },
+ "cases": {
+  "space-and-time": {
+   "upside": "Possible follow-through of the product work (Virtual Vaults institutional lending data) but I found no dated catalyst.",
+   "cheap": "Heavy token unlocks and a long slide from the 2025 high; I found no reason the market is wrongly ignoring it.",
+   "wrongIf": "Daily trading falls back under about $2M or another large unlock lands without matching demand.",
+   "vsScanner": "Volume spike of 7.7x looks like a one-day move, not evidence of a change in the story."
+  },
+  "gittensor": "",
+  "xpla": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "melon": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "definitive": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "ika": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "navi": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "akash-network": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "bora": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "ridges-ai": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "ao-computer": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "rhea-2": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "researchcoin": {
+   "upside": "Active sub-project but no dated catalyst.",
+   "cheap": "Tiny and thin trading.",
+   "wrongIf": "Trading stays low.",
+   "vsScanner": "Spike is not a reason."
+  },
+  "oraichain-token": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Falling with no clear reason.",
+   "wrongIf": "Price keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "cheqd-network": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Falling with no clear reason.",
+   "wrongIf": "Price keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "aethir": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Falling with no clear reason.",
+   "wrongIf": "Price keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "adex": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Falling with no clear reason.",
+   "wrongIf": "Price keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "elastos": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Falling with no clear reason.",
+   "wrongIf": "Price keeps falling or trading dries up.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing today has a dated, verified catalyst plus a believable reason it is mispriced; web search found no dated news for most coins.",
+ "athCheck": {
+  "lumiwave-protocol": "stretch",
+  "space-and-time": "stretch",
+  "gittensor": "stretch",
+  "xpla": "unlikely",
+  "melon": "unlikely",
+  "definitive": "stretch",
+  "ika": "unlikely",
+  "star-atlas-dao": "unlikely",
+  "navi": "unlikely",
+  "goldzip-gold": "stretch",
+  "coinmarketcap-20-index-dtf": "stretch",
+  "taraxa": "unlikely",
+  "zar-supercoin": "stretch",
+  "zar-universal": "stretch",
+  "akash-network": "stretch",
+  "bora": "unlikely",
+  "ridges-ai": "stretch",
+  "ao-computer": "stretch",
+  "rhea-2": "stretch",
+  "researchcoin": "unlikely",
+  "world-mobile-token": "unlikely",
+  "zylo-ecosystem": "stretch",
+  "epic-cash": "unlikely",
+  "messier": "unlikely",
+  "bancor": "unlikely"
+ },
+ "lifeCheck": {
+  "lumiwave-protocol": "quiet",
+  "space-and-time": "alive",
+  "gittensor": "alive",
+  "xpla": "quiet",
+  "melon": "alive",
+  "definitive": "alive",
+  "ika": "alive",
+  "star-atlas-dao": "alive",
+  "navi": "alive",
+  "goldzip-gold": "zombie",
+  "coinmarketcap-20-index-dtf": "alive",
+  "taraxa": "zombie",
+  "zar-supercoin": "quiet",
+  "zar-universal": "quiet",
+  "akash-network": "alive",
+  "bora": "quiet",
+  "ridges-ai": "alive",
+  "ao-computer": "alive",
+  "rhea-2": "alive",
+  "researchcoin": "alive",
+  "world-mobile-token": "zombie",
+  "zylo-ecosystem": "quiet",
+  "epic-cash": "quiet",
+  "messier": "zombie",
+  "bancor": "zombie"
+ },
+ "news": {
+  "lumiwave-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "space-and-time": {
+   "text": "No news found in the last 30 days; latest confirmed items are the May 2026 Virtual Vaults launch and a large May unlock"
+  },
+  "gittensor": {
+   "text": "Subnet owner change to Ventura Labs and a model checkpoint release reported, dates unconfirmed",
+   "date": {
+    "upside": "Active developer-reward subnet with real output, but no dated catalyst.",
+    "cheap": "Tiny subnet token on thin trading; spikes of 58x on $600K a day look like noise.",
+    "wrongIf": "Trading drops back under $100K a day or Bittensor emissions to this subnet fall.",
+    "vsScanner": "The spike is not a reason; I would not treat it as a signal."
+   }
+  },
+  "xpla": {
+   "text": "Token renamed XPLA to CONX (completed around Dec 2025 to Feb 2026); recurring unlocks",
+   "date": {
+    "upside": "Game-publisher backing (Com2uS) and Bithumb listing, but no dated catalyst.",
+    "cheap": "Repeated unlocks and a price near all-time lows explain the lack of interest.",
+    "wrongIf": "Another unlock hits the price with no new product news.",
+    "vsScanner": "Back to the old $1.4B market cap is unrealistic."
+   }
+  },
+  "melon": {
+   "text": "Binance delisted MLN in May 2026; Canton Network membership May 22, 2026",
+   "date": {
+    "upside": "Tokenized-fund products (Onyx, Myso) heading to Canton in Q3 2026, but nothing dated that touches the token.",
+    "cheap": "Lost its biggest exchange (Binance) and the token has little role in the product.",
+    "wrongIf": "Trading stays near $100K a day with no token-utility announcement.",
+    "vsScanner": "Volume spike of 3.6x is small; the Binance delisting is a bigger fact the scanner doesn't weigh."
+   }
+  },
+  "definitive": {
+   "text": "Listed on Upbit and Bithumb on Mar 4, 2026; no newer listing found",
+   "date": {
+    "upside": "Korean exchange access is already in place; I found no new dated catalyst.",
+    "cheap": "Trading of $41M a day on a $30M cap after a 37.7x spike looks like a one-off rush.",
+    "wrongIf": "Daily trading falls back under $5M within a week, which would show the spike was a burst.",
+    "vsScanner": "Scanner 'spike' badge is real but the reason is unexplained; unexplained spikes are not a signal."
+   }
+  },
+  "ika": {
+   "text": "No news in the last 30 days found; mainnet and Sui Foundation backing are older",
+   "date": {
+    "upside": "Cross-chain wallet network on Sui with real backing, but no dated catalyst.",
+    "cheap": "Price fell sharply from its 2025 peak and unlocks are likely continuing.",
+    "wrongIf": "Trading falls under $300K a day or Sui integrations stall.",
+    "vsScanner": "Agree with the scanner that it's alive; disagree it is cheap for a reason I can name."
+   }
+  },
+  "star-atlas-dao": {
+   "text": "No news in the last 30 days"
+  },
+  "navi": {
+   "text": "No news found in the last 30 days; Gate delisted it earlier in 2026",
+   "date": {
+    "upside": "Largest Sui lending protocol with active development, but no dated catalyst.",
+    "cheap": "Token is near its all-time low and lost an exchange; Sui DeFi interest is low.",
+    "wrongIf": "Sui lending deposits keep falling or another exchange delists it.",
+    "vsScanner": "Scanner's week gain of about 8% is not enough to change the picture."
+   }
+  },
+  "goldzip-gold": {
+   "text": "No news in the last 30 days"
+  },
+  "coinmarketcap-20-index-dtf": {
+   "text": "No news in the last 30 days"
+  },
+  "taraxa": {
+   "text": "No news in the last 30 days"
+  },
+  "zar-supercoin": {
+   "text": "No news in the last 30 days"
+  },
+  "zar-universal": {
+   "text": "No news in the last 30 days"
+  },
+  "akash-network": {
+   "text": "ChangeNOW listing is a swap-service addition; no other dated news found. A Homenode piece in Aug 2026 questioned decentralized AI cloud",
+   "date": {
+    "upside": "Decentralized GPU cloud with real usage; AI compute demand could help, but nothing dated.",
+    "cheap": "Market sees AI-compute tokens as crowded; ChangeNOW is not a meaningful catalyst.",
+    "wrongIf": "Daily trading drops under $2M or GPU leases stop growing.",
+    "vsScanner": "Scanner 'back' trigger (ChangeNOW) is weak; I treat it as unconfirmed."
+   }
+  },
+  "bora": {
+   "text": "No news in the last 30 days",
+   "date": {
+    "upside": "Korean gaming-chain with Upbit and Bithumb listings; no dated catalyst.",
+    "cheap": "Gaming-chain interest is low and the old $1.9B cap is far away.",
+    "wrongIf": "Trading stays under $500K a day.",
+    "vsScanner": "Spike of 5.1x is modest; agree it is not a signal."
+   }
+  },
+  "ridges-ai": {
+   "text": "No news in the last 30 days",
+   "date": {
+    "upside": "Active Bittensor subnet for AI software agents; no dated catalyst.",
+    "cheap": "Down 20x from its peak a year ago and falling this week.",
+    "wrongIf": "Weekly decline continues and trading stays under $150K a day.",
+    "vsScanner": "Agree with the scanner."
+   }
+  },
+  "ao-computer": {
+   "text": "No news in the last 30 days",
+   "date": {
+    "upside": "Arweave-linked compute network, no dated catalyst.",
+    "cheap": "Little trading ($120K a day) and no attention.",
+    "wrongIf": "Daily trading stays under $150K.",
+    "vsScanner": "Agree with the scanner."
+   }
+  },
+  "rhea-2": {
+   "text": "$7.6M exploit in April 2026; later buybacks (dates unconfirmed)",
+   "date": {
+    "upside": "Merged NEAR DeFi protocol with real activity and token buybacks, but no dated catalyst.",
+    "cheap": "Exploit and vesting overhang explain the discount.",
+    "wrongIf": "Another exploit or buybacks stop.",
+    "vsScanner": "Agree with the scanner; exploit history is a flag it doesn't show."
+   }
+  },
+  "researchcoin": {
+   "text": "No news in the last 30 days",
+   "date": {
+    "upside": "Science-funding platform with Coinbase listing, no dated catalyst.",
+    "cheap": "Niche use and falling price.",
+    "wrongIf": "Trading stays under $250K a day.",
+    "vsScanner": "Agree with the scanner."
+   }
+  },
+  "world-mobile-token": {
+   "text": "No news in the last 30 days"
+  },
+  "zylo-ecosystem": {
+   "text": "No news in the last 30 days"
+  },
+  "epic-cash": {
+   "text": "No news in the last 30 days"
+  },
+  "messier": {
+   "text": "No news in the last 30 days"
+  },
+  "bancor": {
+   "text": "No news in the last 30 days"
+  },
+  "nem": {
+   "text": "No news found; scanner note only"
+  },
+  "port3-network": {
+   "text": "No news found; scanner note only"
+  },
+  "sealcoin": {
+   "text": "No news found; scanner note only"
+  },
+  "octaspace": {
+   "text": "No news found; scanner note only"
+  },
+  "cellframe": {
+   "text": "No news found; scanner note only"
+  },
+  "jurassic-finance": {
+   "text": "No news found; scanner note only"
+  },
+  "oraichain-token": {
+   "text": "No news found; scanner note only"
+  },
+  "cheqd-network": {
+   "text": "No news found; scanner note only"
+  },
+  "aethir": {
+   "text": "No news found; scanner note only"
+  },
+  "adex": {
+   "text": "No news found; scanner note only"
+  },
+  "tevaera": {
+   "text": "No news found; scanner note only"
+  },
+  "playzap": {
+   "text": "No news found; scanner note only"
+  },
+  "river": {
+   "text": "No news found; scanner note only"
+  },
+  "iota-2": {
+   "text": "No news found; scanner note only"
+  },
+  "elastos": {
+   "text": "No news found; scanner note only"
+  }
+ },
+ "sectorNews": {
+  "AI": "I found no dated AI-token news for this week; the latest recaps show small-cap AI tokens and Bittensor subnets moving with the general market. Six of today's coins are in AI, mostly Bittensor subnets and compute networks. Not a clear help for small coins.",
+  "DeFi": "DeFi total value locked was about $90B at the end of October, down about 0.6% on the week and well below the 2025 peak; hacks have been a drag this year. Five of today's coins are DeFi. This backdrop does not help small DeFi tokens.",
+  "Gaming": "I found no dated gaming news for this week; recaps are older and mixed (some job cuts at gaming guilds). Five of today's coins are gaming. No sign of a sector wave.",
+  "DePIN": "I found no dated DePIN news this week; the latest items are from earlier in 2026. Two of today's coins are in DePIN. Neutral.",
+  "NFT": "I found no 2026 NFT market data; the latest I found was the weak late-2025 slump. Two of today's coins are in NFT. Neutral to negative."
+ }
+}
