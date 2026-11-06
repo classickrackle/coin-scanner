@@ -1,0 +1,316 @@
+{
+ "date": "2026-11-06",
+ "ratings": {
+  "harmony": "skip",
+  "alkimi-2": "skip",
+  "valencia-cf-fan-token": "skip",
+  "sevilla-fan-token": "skip",
+  "soqucoin": "caution",
+  "patrol-tao-com": "skip",
+  "concordium": "caution",
+  "kyo": "caution",
+  "dippy": "skip",
+  "bettensor": "skip",
+  "avici": "skip",
+  "brew": "skip",
+  "konnect": "skip",
+  "ergo": "caution",
+  "stargate-finance": "caution",
+  "zer0zer0": "skip",
+  "xeffy": "skip",
+  "nano": "caution",
+  "infinity-gaming": "skip",
+  "openkaito": "skip",
+  "swftcoin": "skip",
+  "electroneum": "skip",
+  "h2o-2": "skip",
+  "edena": "skip",
+  "beam": "caution",
+  "neurochainai": "skip",
+  "hyperwave": "caution",
+  "roaland-core": "skip",
+  "aventus": "skip",
+  "gmx": "caution",
+  "ovo-nft-platform": "skip",
+  "edu-coin": "caution",
+  "cosmos": "caution",
+  "zebec-network": "caution",
+  "creo-engine": "caution",
+  "cyberconnect": "caution"
+ },
+ "conviction": {
+  "soqucoin": "low",
+  "concordium": "low",
+  "kyo": "low",
+  "ergo": "low",
+  "stargate-finance": "low",
+  "nano": "low",
+  "beam": "low",
+  "hyperwave": "low",
+  "gmx": "low",
+  "edu-coin": "low",
+  "cosmos": "low",
+  "zebec-network": "low",
+  "creo-engine": "low",
+  "cyberconnect": "low"
+ },
+ "cases": {
+  "soqucoin": {
+   "upside": "Post-quantum chain with a testnet bridge demo; mainnet was targeted Q3 2026 and I found no confirmation it launched.",
+   "cheap": "New, thinly covered project; nearly all sources are the project's own pages.",
+   "wrongIf": "Mainnet does not launch by 2026-12 or the team stops posting code.",
+   "vsScanner": "Scanner shows alive; I could verify only the project's own claims."
+  },
+  "concordium": {
+   "upside": "A named enterprise/AI push (Danish hockey federation partnership, May 2026) could bring some on-chain usage; no dated catalyst found.",
+   "cheap": "Small AI/privacy L1 with uncapped 4% yearly minting dilutes holders; market sees no demand story.",
+   "wrongIf": "Daily trading falls back under normal levels without any announcement, or no new partner is announced by 2027-01.",
+   "vsScanner": "Scanner counts the 8x volume spike as a plus; I found no news behind it."
+  },
+  "kyo": {
+   "upside": "Soneium DEX with Series A funding (Nov 2025) and a 163x one-day volume spike, but I found no news explaining it.",
+   "cheap": "Market cap only a few million dollars; a one-day spike on tiny base volume is a weak signal.",
+   "wrongIf": "Daily trading goes back to ~normal within days and no listing or launch is announced.",
+   "vsScanner": "Scanner spike is likely noise; lesson from 10-22: volume alone is not a catalyst."
+  },
+  "ergo": {
+   "upside": "Long-running proof-of-work privacy/smart-contract chain with an alive team; no dated catalyst found.",
+   "cheap": "Old-cycle L1 with little new attention; 100x below ATH is not a reason by itself.",
+   "wrongIf": "The 4.8x volume spike fades within a week with no news.",
+   "vsScanner": "Agree with the scanner that it is alive, but nothing explains the spike."
+  },
+  "stargate-finance": {
+   "upside": "STG holders can swap into ZRO at a fixed rate after the LayerZero deal, so price may track ZRO; reports I found on a June 2026 bid were not corroborated.",
+   "cheap": "Token is tied to a conversion rate, so it trades like a thin ZRO proxy rather than on its own story.",
+   "wrongIf": "STG trades materially away from 0.08634 ZRO or the swap terms change.",
+   "vsScanner": "Scanner sees a spike; I see a mechanical price anchor, not a mispricing."
+  },
+  "nano": {
+   "upside": "Mature payments coin with a steady community; no dated catalyst found.",
+   "cheap": "Old fee-less payment coin that lost attention; no sign of a fresh reason to re-rate.",
+   "wrongIf": "Still no new exchange or merchant integration by 2027-01.",
+   "vsScanner": "Agree with the scanner; no spike or news to add."
+  },
+  "beam": {
+   "upside": "No dated catalyst confirmed.",
+   "cheap": "Unclear why it is ignored.",
+   "wrongIf": "Score keeps falling and trading stays thin.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "hyperwave": {
+   "upside": "No dated catalyst confirmed.",
+   "cheap": "Unclear why it is ignored.",
+   "wrongIf": "Score keeps falling and trading stays thin.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "gmx": {
+   "upside": "No dated catalyst confirmed.",
+   "cheap": "Unclear why it is ignored.",
+   "wrongIf": "Score keeps falling and trading stays thin.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "edu-coin": {
+   "upside": "No dated catalyst confirmed.",
+   "cheap": "Unclear why it is ignored.",
+   "wrongIf": "Score keeps falling and trading stays thin.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "cosmos": {
+   "upside": "No dated catalyst confirmed.",
+   "cheap": "Unclear why it is ignored.",
+   "wrongIf": "Score keeps falling and trading stays thin.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "zebec-network": {
+   "upside": "No dated catalyst confirmed.",
+   "cheap": "Unclear why it is ignored.",
+   "wrongIf": "Score keeps falling and trading stays thin.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "creo-engine": {
+   "upside": "No dated catalyst confirmed.",
+   "cheap": "Unclear why it is ignored.",
+   "wrongIf": "Score keeps falling and trading stays thin.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "cyberconnect": {
+   "upside": "No dated catalyst confirmed.",
+   "cheap": "Unclear why it is ignored.",
+   "wrongIf": "Score keeps falling and trading stays thin.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing on today's 24-coin list has a dated, verified catalyst, and the last 30 days of worth-a-look calls lost about 22%.",
+ "athCheck": {
+  "harmony": "unlikely",
+  "alkimi-2": "unlikely",
+  "valencia-cf-fan-token": "unlikely",
+  "sevilla-fan-token": "unlikely",
+  "soqucoin": "stretch",
+  "patrol-tao-com": "stretch",
+  "concordium": "unlikely",
+  "kyo": "stretch",
+  "dippy": "stretch",
+  "bettensor": "stretch",
+  "avici": "unlikely",
+  "brew": "stretch",
+  "konnect": "unlikely",
+  "ergo": "unlikely",
+  "stargate-finance": "unlikely",
+  "zer0zer0": "unlikely",
+  "xeffy": "stretch",
+  "nano": "unlikely",
+  "infinity-gaming": "stretch",
+  "openkaito": "stretch",
+  "swftcoin": "stretch",
+  "electroneum": "unlikely",
+  "h2o-2": "stretch",
+  "edena": "unlikely"
+ },
+ "lifeCheck": {
+  "harmony": "quiet",
+  "alkimi-2": "quiet",
+  "valencia-cf-fan-token": "quiet",
+  "sevilla-fan-token": "quiet",
+  "soqucoin": "alive",
+  "patrol-tao-com": "zombie",
+  "concordium": "alive",
+  "kyo": "quiet",
+  "dippy": "quiet",
+  "bettensor": "quiet",
+  "avici": "quiet",
+  "brew": "quiet",
+  "konnect": "quiet",
+  "ergo": "alive",
+  "stargate-finance": "alive",
+  "zer0zer0": "zombie",
+  "xeffy": "alive",
+  "nano": "alive",
+  "infinity-gaming": "quiet",
+  "openkaito": "zombie",
+  "swftcoin": "quiet",
+  "electroneum": "quiet",
+  "h2o-2": "quiet",
+  "edena": "quiet"
+ },
+ "news": {
+  "harmony": {
+   "text": "ONE fell about 26% after an attacker allegedly minted ~4 billion tokens.",
+   "date": "2026-08-12",
+   "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens"
+  },
+  "alkimi-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "valencia-cf-fan-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "sevilla-fan-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "soqucoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "patrol-tao-com": {
+   "text": "No news found in the last 30 days"
+  },
+  "concordium": {
+   "text": "Named official AI partner of the Danish national ice hockey team.",
+   "date": "2026-05-01",
+   "url": "https://www.concordium.com/article/adoption-mode-activated-concordiums-big-leap-in-2026"
+  },
+  "kyo": {
+   "text": "No news found in the last 30 days"
+  },
+  "dippy": {
+   "text": "No news found in the last 30 days"
+  },
+  "bettensor": {
+   "text": "No news found in the last 30 days"
+  },
+  "avici": {
+   "text": "Neobank card system exploited; about $0.5-1M drained and token fell roughly 49%.",
+   "url": "https://tangem.com/en/news/security/39322-avici-neobank-breach-1m-stolen-token-drops-50/"
+  },
+  "brew": {
+   "text": "No news found in the last 30 days"
+  },
+  "konnect": {
+   "text": "No news found in the last 30 days"
+  },
+  "ergo": {
+   "text": "No news found in the last 30 days"
+  },
+  "stargate-finance": {
+   "text": "No news found in the last 30 days"
+  },
+  "zer0zer0": {
+   "text": "No news found in the last 30 days"
+  },
+  "xeffy": {
+   "text": "No news found in the last 30 days"
+  },
+  "nano": {
+   "text": "No news found in the last 30 days"
+  },
+  "infinity-gaming": {
+   "text": "No news found in the last 30 days"
+  },
+  "openkaito": {
+   "text": "No news found in the last 30 days"
+  },
+  "swftcoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "electroneum": {
+   "text": "No news found in the last 30 days"
+  },
+  "h2o-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "edena": {
+   "text": "No news found in the last 30 days"
+  },
+  "beam": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "neurochainai": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "hyperwave": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "roaland-core": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "aventus": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "gmx": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "ovo-nft-platform": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "edu-coin": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "cosmos": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "zebec-network": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "creo-engine": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  },
+  "cyberconnect": {
+   "text": "Not re-researched today; no news found beyond scanner notes"
+  }
+ },
+ "sectorNews": {
+  "AI": "Four Bittensor subnet tokens (Patrol, Dippy, Bettensor, OpenKaito) plus Concordium are on the list. The only subnet coverage I found was from March 2026 and nothing from this week; subnet tokens move as leveraged bets on TAO and three of the four are marked zombie or unknown by the scanner, so they are more likely to hurt than help small AI coins.",
+  "Sports & fan tokens": "Valencia and Sevilla fan tokens are on the list. Chiliz news found was from June 2026 (Belgium token) and nothing from this week; a spike in Valencia without news looks like trading, not demand."
+ }
+}
