@@ -1,0 +1,376 @@
+{
+ "date": "2026-11-07",
+ "ratings": {
+  "coinzix-token": "skip",
+  "geodnet": "caution",
+  "staking-2": "caution",
+  "deepbrain-chain": "caution",
+  "karrat": "skip",
+  "dippy-speech": "caution",
+  "superwalk": "skip",
+  "gamercoin": "skip",
+  "safe-scan": "skip",
+  "y8u": "skip",
+  "hyperlend": "caution",
+  "thetadrop": "skip",
+  "zeus-network": "caution",
+  "band-protocol": "caution",
+  "zilliqa": "skip",
+  "auki-labs": "caution",
+  "constellation-labs": "caution",
+  "across-protocol": "skip",
+  "chainflip": "caution",
+  "graphite-protocol": "caution",
+  "everything": "skip",
+  "arcs": "skip",
+  "propy": "caution",
+  "faith-tribe": "skip",
+  "zenchain-2": "skip",
+  "reinforced-ai": "skip",
+  "radix": "caution",
+  "radiant-capital": "skip",
+  "filecoin": "caution",
+  "vethor-token": "caution",
+  "synapse-2": "caution",
+  "hemi": "caution",
+  "raydium": "caution",
+  "ondo-ai-leaders-portfolio": "skip",
+  "swash": "skip",
+  "aspecta": "caution",
+  "aussie-dollar-token": "skip",
+  "aixdrop": "skip",
+  "elympics": "caution",
+  "meet48": "skip"
+ },
+ "conviction": {
+  "geodnet": "medium",
+  "staking-2": "low",
+  "deepbrain-chain": "low",
+  "dippy-speech": "low",
+  "hyperlend": "low",
+  "zeus-network": "low",
+  "band-protocol": "low",
+  "auki-labs": "low",
+  "constellation-labs": "low",
+  "chainflip": "low",
+  "graphite-protocol": "low",
+  "propy": "low",
+  "radix": "low",
+  "filecoin": "low",
+  "vethor-token": "low",
+  "synapse-2": "low",
+  "hemi": "low",
+  "raydium": "low",
+  "aspecta": "low",
+  "elympics": "low"
+ },
+ "cases": {
+  "geodnet": {
+   "upside": "Real DePIN network (7,000+ stations) listed on Coinbase, Upbit and Bithumb; the 29.8x volume spike may precede news, but I found none dated.",
+   "cheap": "Reward emissions were halved and the sector is out of favour; spike cause unconfirmed.",
+   "wrongIf": "Volume fades back to normal within a week with no announcement.",
+   "vsScanner": "Scanner's spike is real but unexplained; I treat it as unconfirmed, not a catalyst."
+  },
+  "staking-2": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "deepbrain-chain": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "dippy-speech": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "hyperlend": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "zeus-network": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "band-protocol": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "auki-labs": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "constellation-labs": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "chainflip": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "graphite-protocol": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "propy": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "radix": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "filecoin": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "vethor-token": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "synapse-2": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "hemi": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "raydium": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "aspecta": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  },
+  "elympics": {
+   "upside": "No dated, verifiable catalyst found; searches returned nothing newer than a few months.",
+   "cheap": "No clear reason found for why the market is missing it; may simply be unwanted.",
+   "wrongIf": "Daily trading falls back below the level that triggered the safety filter, or the team goes quiet.",
+   "vsScanner": "Agree with the scanner's numbers but the story is unverified."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing has a verifiable dated catalyst; searches found no news newer than a few months on any coin.",
+ "athCheck": {
+  "coinzix-token": "unlikely",
+  "geodnet": "realistic",
+  "staking-2": "stretch",
+  "deepbrain-chain": "unlikely",
+  "karrat": "unlikely",
+  "dippy-speech": "stretch",
+  "superwalk": "unlikely",
+  "gamercoin": "unlikely",
+  "safe-scan": "stretch",
+  "y8u": "unlikely",
+  "hyperlend": "stretch",
+  "thetadrop": "unlikely",
+  "zeus-network": "unlikely",
+  "band-protocol": "unlikely",
+  "zilliqa": "unlikely",
+  "auki-labs": "stretch",
+  "constellation-labs": "unlikely",
+  "across-protocol": "unlikely",
+  "chainflip": "unlikely",
+  "graphite-protocol": "stretch",
+  "everything": "stretch",
+  "arcs": "unlikely",
+  "propy": "unlikely",
+  "faith-tribe": "unlikely",
+  "zenchain-2": "stretch"
+ },
+ "lifeCheck": {
+  "coinzix-token": "unknown",
+  "geodnet": "alive",
+  "staking-2": "alive",
+  "deepbrain-chain": "unknown",
+  "karrat": "unknown",
+  "dippy-speech": "alive",
+  "superwalk": "unknown",
+  "gamercoin": "zombie",
+  "safe-scan": "zombie",
+  "y8u": "unknown",
+  "hyperlend": "alive",
+  "thetadrop": "alive",
+  "zeus-network": "unknown",
+  "band-protocol": "alive",
+  "zilliqa": "zombie",
+  "auki-labs": "alive",
+  "constellation-labs": "zombie",
+  "across-protocol": "alive",
+  "chainflip": "alive",
+  "graphite-protocol": "unknown",
+  "everything": "unknown",
+  "arcs": "unknown",
+  "propy": "zombie",
+  "faith-tribe": "zombie",
+  "zenchain-2": "zombie"
+ },
+ "news": {
+  "coinzix-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "geodnet": {
+   "text": "No news found in the last 30 days"
+  },
+  "staking-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "deepbrain-chain": {
+   "text": "No news found in the last 30 days"
+  },
+  "karrat": {
+   "text": "No news found in the last 30 days"
+  },
+  "dippy-speech": {
+   "text": "No news found in the last 30 days"
+  },
+  "superwalk": {
+   "text": "No news found in the last 30 days"
+  },
+  "gamercoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "safe-scan": {
+   "text": "No news found in the last 30 days"
+  },
+  "y8u": {
+   "text": "No news found in the last 30 days"
+  },
+  "hyperlend": {
+   "text": "No news found in the last 30 days"
+  },
+  "thetadrop": {
+   "text": "No news found in the last 30 days"
+  },
+  "zeus-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "band-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "zilliqa": {
+   "text": "Ledger-app exploit in July 2026 led Upbit to put ZIL under caution; migration of exchange balances ongoing.",
+   "date": "2026-07-19"
+  },
+  "auki-labs": {
+   "text": "No news found in the last 30 days"
+  },
+  "constellation-labs": {
+   "text": "Parent acquired by AIAI Holdings, Nasdaq-listed in May 2026.",
+   "date": "2026-05-14"
+  },
+  "across-protocol": {
+   "text": "Proposal to convert the DAO into a US company and swap ACX for equity; Korean exchanges issued a warning.",
+   "date": "2026-05-01"
+  },
+  "chainflip": {
+   "text": "No news found in the last 30 days"
+  },
+  "graphite-protocol": {
+   "text": "No news found in the last 30 days"
+  },
+  "everything": {
+   "text": "No news found in the last 30 days"
+  },
+  "arcs": {
+   "text": "No news found in the last 30 days"
+  },
+  "propy": {
+   "text": "No news found in the last 30 days"
+  },
+  "faith-tribe": {
+   "text": "No news found in the last 30 days"
+  },
+  "zenchain-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "reinforced-ai": {
+   "text": "No news found in the last 30 days"
+  },
+  "radix": {
+   "text": "No news found in the last 30 days"
+  },
+  "radiant-capital": {
+   "text": "No news found in the last 30 days"
+  },
+  "filecoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "vethor-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "synapse-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "hemi": {
+   "text": "No news found in the last 30 days"
+  },
+  "raydium": {
+   "text": "No news found in the last 30 days"
+  },
+  "ondo-ai-leaders-portfolio": {
+   "text": "No news found in the last 30 days"
+  },
+  "swash": {
+   "text": "No news found in the last 30 days"
+  },
+  "aspecta": {
+   "text": "No news found in the last 30 days"
+  },
+  "aussie-dollar-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "aixdrop": {
+   "text": "No news found in the last 30 days"
+  },
+  "elympics": {
+   "text": "No news found in the last 30 days"
+  },
+  "meet48": {
+   "text": "No news found in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "8 coins (mostly Bittensor subnets). The AI token sector has been weak, with the top AI tokens mostly down in the latest week; hurts tiny subnet tokens.",
+  "DePIN": "3 coins. Search found no dated November news; sector is quiet, neutral for small coins.",
+  "DeFi": "5 coins. No fresh dated DeFi news found; neutral to negative."
+ },
+ "athMcap": {}
+}
