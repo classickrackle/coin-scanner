@@ -1,0 +1,324 @@
+{
+ "date": "2026-11-08",
+ "ratings": {
+  "gittensor": "caution",
+  "agent-hustle-2": "caution",
+  "dent": "skip",
+  "vanar-chain-2": "caution",
+  "jurassic-finance": "skip",
+  "delta": "skip",
+  "tevaera": "skip",
+  "meteora": "caution",
+  "itsai": "caution",
+  "sign-global": "caution",
+  "tiger-alpha": "caution",
+  "truefi": "skip",
+  "swarm-bzz": "skip",
+  "layer3": "skip",
+  "flamengo-fan-token": "skip",
+  "float": "caution",
+  "credible-finance": "caution",
+  "dovu-2": "skip",
+  "metya": "skip",
+  "venice-token": "caution",
+  "zcoin": "skip",
+  "request-network": "skip",
+  "bitdca": "caution",
+  "safecoin": "skip",
+  "handy": "skip",
+  "mass-vehicle-ledger": "skip",
+  "okzoo": "skip",
+  "zelcash": "caution",
+  "omega-any-to-any": "caution",
+  "aelf": "caution",
+  "santos-fc-fan-token": "caution",
+  "claus-2": "caution",
+  "pons": "caution"
+ },
+ "conviction": {
+  "gittensor": "low",
+  "agent-hustle-2": "low",
+  "vanar-chain-2": "low",
+  "meteora": "low",
+  "itsai": "low",
+  "sign-global": "low",
+  "tiger-alpha": "low",
+  "float": "low",
+  "credible-finance": "low",
+  "venice-token": "low",
+  "bitdca": "low",
+  "zelcash": "low",
+  "omega-any-to-any": "low",
+  "aelf": "low",
+  "santos-fc-fan-token": "low",
+  "claus-2": "low",
+  "pons": "low"
+ },
+ "cases": {
+  "gittensor": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "agent-hustle-2": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "vanar-chain-2": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "meteora": {
+   "upside": "Ongoing USDC buybacks and Comet Points rewards could support the price, but no dated trigger in the last 30 days.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "itsai": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "sign-global": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "tiger-alpha": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "float": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "credible-finance": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "venice-token": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "bitdca": {
+   "upside": "No dated catalyst verified; scanner signals only.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Daily trading falls below $100K or the next project update slips past January.",
+   "vsScanner": "Scanner numbers are not backed by a verified story."
+  },
+  "zelcash": {
+   "upside": "None verified.",
+   "cheap": "No verified reason.",
+   "wrongIf": "Trading dries up further.",
+   "vsScanner": "agree with the scanner"
+  },
+  "omega-any-to-any": {
+   "upside": "None verified.",
+   "cheap": "No verified reason.",
+   "wrongIf": "Trading dries up further.",
+   "vsScanner": "agree with the scanner"
+  },
+  "aelf": {
+   "upside": "None verified.",
+   "cheap": "No verified reason.",
+   "wrongIf": "Trading dries up further.",
+   "vsScanner": "agree with the scanner"
+  },
+  "santos-fc-fan-token": {
+   "upside": "None verified.",
+   "cheap": "No verified reason.",
+   "wrongIf": "Trading dries up further.",
+   "vsScanner": "agree with the scanner"
+  },
+  "claus-2": {
+   "upside": "None verified.",
+   "cheap": "No verified reason.",
+   "wrongIf": "Trading dries up further.",
+   "vsScanner": "agree with the scanner"
+  },
+  "pons": {
+   "upside": "None verified.",
+   "cheap": "No verified reason.",
+   "wrongIf": "Trading dries up further.",
+   "vsScanner": "agree with the scanner"
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing today has a dated, verified catalyst; searches returned no news from the last 30 days for any coin, and my worth-a-look calls keep losing.",
+ "athCheck": {
+  "gittensor": "realistic",
+  "agent-hustle-2": "realistic",
+  "dent": "unlikely",
+  "vanar-chain-2": "stretch",
+  "jurassic-finance": "stretch",
+  "delta": "stretch",
+  "tevaera": "unlikely",
+  "meteora": "realistic",
+  "itsai": "realistic",
+  "sign-global": "stretch",
+  "tiger-alpha": "realistic",
+  "truefi": "unlikely",
+  "swarm-bzz": "unlikely",
+  "layer3": "unlikely",
+  "flamengo-fan-token": "unlikely",
+  "float": "realistic",
+  "credible-finance": "realistic",
+  "dovu-2": "stretch",
+  "metya": "unlikely",
+  "venice-token": "realistic",
+  "zcoin": "unlikely",
+  "request-network": "unlikely",
+  "bitdca": "stretch",
+  "safecoin": "unlikely",
+  "handy": "unlikely",
+  "mass-vehicle-ledger": "unlikely"
+ },
+ "lifeCheck": {
+  "gittensor": "alive",
+  "agent-hustle-2": "alive",
+  "dent": "quiet",
+  "vanar-chain-2": "quiet",
+  "jurassic-finance": "quiet",
+  "delta": "quiet",
+  "tevaera": "zombie",
+  "meteora": "quiet",
+  "itsai": "alive",
+  "sign-global": "quiet",
+  "tiger-alpha": "quiet",
+  "truefi": "zombie",
+  "swarm-bzz": "alive",
+  "layer3": "zombie",
+  "flamengo-fan-token": "quiet",
+  "float": "quiet",
+  "credible-finance": "quiet",
+  "dovu-2": "zombie",
+  "metya": "quiet",
+  "venice-token": "quiet",
+  "zcoin": "alive",
+  "request-network": "zombie",
+  "bitdca": "quiet",
+  "safecoin": "quiet",
+  "handy": "zombie",
+  "mass-vehicle-ledger": "zombie"
+ },
+ "news": {
+  "gittensor": {
+   "text": "No news in the last 30 days found"
+  },
+  "agent-hustle-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "dent": {
+   "text": "No news in the last 30 days found"
+  },
+  "vanar-chain-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "jurassic-finance": {
+   "text": "No news in the last 30 days found"
+  },
+  "delta": {
+   "text": "No news in the last 30 days found"
+  },
+  "tevaera": {
+   "text": "No news in the last 30 days found"
+  },
+  "meteora": {
+   "text": "Last dated news found is the Q4 2025 $10M buyback; nothing from the last 30 days.",
+   "url": "https://www.kucoin.com/news/flash/meteora-spends-10m-to-buy-back-2-3-of-met-tokens-in-q4"
+  },
+  "itsai": {
+   "text": "No news in the last 30 days found"
+  },
+  "sign-global": {
+   "text": "No news in the last 30 days found"
+  },
+  "tiger-alpha": {
+   "text": "No news in the last 30 days found"
+  },
+  "truefi": {
+   "text": "No news in the last 30 days found"
+  },
+  "swarm-bzz": {
+   "text": "No news in the last 30 days found"
+  },
+  "layer3": {
+   "text": "No news in the last 30 days found"
+  },
+  "flamengo-fan-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "float": {
+   "text": "No news in the last 30 days found"
+  },
+  "credible-finance": {
+   "text": "No news in the last 30 days found"
+  },
+  "dovu-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "metya": {
+   "text": "No news in the last 30 days found"
+  },
+  "venice-token": {
+   "text": "Latest dated item found is a July 2026 defence of the token deal terms; nothing from the last 30 days.",
+   "url": "https://invezz.com/ar/markets/crypto/vvv/"
+  },
+  "zcoin": {
+   "text": "No news in the last 30 days found"
+  },
+  "request-network": {
+   "text": "No news in the last 30 days found"
+  },
+  "bitdca": {
+   "text": "No news in the last 30 days found"
+  },
+  "safecoin": {
+   "text": "No news in the last 30 days found"
+  },
+  "handy": {
+   "text": "No news in the last 30 days found"
+  },
+  "mass-vehicle-ledger": {
+   "text": "No news in the last 30 days found"
+  },
+  "okzoo": {
+   "text": "No news in the last 30 days found"
+  },
+  "zelcash": {
+   "text": "No news in the last 30 days found"
+  },
+  "omega-any-to-any": {
+   "text": "No news in the last 30 days found"
+  },
+  "aelf": {
+   "text": "No news in the last 30 days found"
+  },
+  "santos-fc-fan-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "claus-2": {
+   "text": "No news in the last 30 days found"
+  },
+  "pons": {
+   "text": "No news in the last 30 days found"
+  }
+ },
+ "sectorNews": {},
+ "athMcap": {}
+}
