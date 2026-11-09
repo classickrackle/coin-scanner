@@ -1,0 +1,361 @@
+{
+ "date": "2026-11-09",
+ "ratings": {
+  "storb": "caution",
+  "obol-2": "caution",
+  "rock-dao": "skip",
+  "the-root-network": "skip",
+  "gains-network": "caution",
+  "harmony": "skip",
+  "xpla": "caution",
+  "bob-build-on-bitcoin": "caution",
+  "reserve-rights-token": "caution",
+  "gang": "skip",
+  "parano1d": "skip",
+  "xswap-2": "caution",
+  "radio-caca": "skip",
+  "hamster-kombat": "skip",
+  "ontology": "caution",
+  "minima": "caution",
+  "bugscoin": "skip",
+  "palladium-network": "skip",
+  "hive": "caution",
+  "tornado-cash": "skip",
+  "aurora-near": "caution",
+  "ong": "skip",
+  "tokenised-gbp": "skip",
+  "aquarius": "skip",
+  "arcblock": "skip",
+  "kaia": "caution",
+  "omnipair": "caution",
+  "moonriver": "skip",
+  "zeus-5": "caution",
+  "infinit": "caution",
+  "steem-dollars": "skip",
+  "creditcoin-2": "skip",
+  "pyth-network": "caution",
+  "aventus": "skip",
+  "cf-large-cap-index": "caution",
+  "mossland": "caution",
+  "okzoo": "skip",
+  "dar-open-network": "skip",
+  "blast": "skip",
+  "quantixai": "skip"
+ },
+ "conviction": {
+  "storb": "low",
+  "obol-2": "low",
+  "gains-network": "low",
+  "xpla": "low",
+  "bob-build-on-bitcoin": "low",
+  "reserve-rights-token": "low",
+  "xswap-2": "low",
+  "ontology": "low",
+  "minima": "low",
+  "hive": "low",
+  "aurora-near": "low",
+  "kaia": "low",
+  "omnipair": "low",
+  "zeus-5": "low",
+  "infinit": "low",
+  "pyth-network": "low",
+  "cf-large-cap-index": "low",
+  "mossland": "low"
+ },
+ "cases": {
+  "storb": {
+   "upside": "No dated catalyst found; Tiny Bittensor subnet token; the 10x volume spike has no named cause and price sources disagree.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "obol-2": {
+   "upside": "No dated catalyst found; Real distributed-validator product, but the HTX listing is from May 2025, so the \"new listing\" badge is old.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "gains-network": {
+   "upside": "No dated catalyst found; Real perps product (gTrade), but nothing dated in 30 days; spike unexplained.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "xpla": {
+   "upside": "No dated catalyst found; Spike 11.6x with no found cause; far below ATH.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "bob-build-on-bitcoin": {
+   "upside": "No dated catalyst found; Active Bitcoin L2, but no dated catalyst found.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "reserve-rights-token": {
+   "upside": "No dated catalyst found; Real stablecoin-backing project but 64x to ATH and spike unexplained.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "xswap-2": {
+   "upside": "No dated catalyst found; Small DEX, no news found.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "ontology": {
+   "upside": "No dated catalyst found; Old chain; WazirX badge is likely old and no recent catalyst found.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "minima": {
+   "upside": "No dated catalyst found; Niche mobile-mining chain; nothing verifiable.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "hive": {
+   "upside": "No dated catalyst found; Long-running social chain, no catalyst.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "aurora-near": {
+   "upside": "No dated catalyst found; Real NEAR-linked chain but 860x to ATH and no catalyst.",
+   "cheap": "No reason found why the market is missing it; likely just unwanted.",
+   "wrongIf": "Trading volume fades back to normal within a week, or no real project news appears in 30 days.",
+   "vsScanner": "Scanner score reflects a spike or screen pass; I find no story behind it."
+  },
+  "kaia": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Down hard since pick; no reason found it is mispriced.",
+   "wrongIf": "Price keeps falling and volume fades.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "omnipair": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Down hard since pick; no reason found it is mispriced.",
+   "wrongIf": "Price keeps falling and volume fades.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "zeus-5": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Down hard since pick; no reason found it is mispriced.",
+   "wrongIf": "Price keeps falling and volume fades.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "infinit": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Down hard since pick; no reason found it is mispriced.",
+   "wrongIf": "Price keeps falling and volume fades.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "pyth-network": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Down hard since pick; no reason found it is mispriced.",
+   "wrongIf": "Price keeps falling and volume fades.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "cf-large-cap-index": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Down hard since pick; no reason found it is mispriced.",
+   "wrongIf": "Price keeps falling and volume fades.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "mossland": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Down hard since pick; no reason found it is mispriced.",
+   "wrongIf": "Price keeps falling and volume fades.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing on the list has a dated, verified catalyst; every spike is unexplained and the one HTX listing is from May 2025.",
+ "athCheck": {
+  "storb": "unlikely",
+  "obol-2": "stretch",
+  "rock-dao": "unlikely",
+  "the-root-network": "unlikely",
+  "gains-network": "stretch",
+  "harmony": "unlikely",
+  "xpla": "unlikely",
+  "bob-build-on-bitcoin": "stretch",
+  "reserve-rights-token": "unlikely",
+  "gang": "stretch",
+  "parano1d": "stretch",
+  "xswap-2": "unlikely",
+  "radio-caca": "unlikely",
+  "hamster-kombat": "unlikely",
+  "ontology": "unlikely",
+  "minima": "unlikely",
+  "bugscoin": "unlikely",
+  "palladium-network": "stretch",
+  "hive": "unlikely",
+  "tornado-cash": "unlikely",
+  "aurora-near": "unlikely",
+  "ong": "unlikely",
+  "tokenised-gbp": "unlikely",
+  "aquarius": "unlikely",
+  "arcblock": "unlikely"
+ },
+ "lifeCheck": {
+  "storb": "quiet",
+  "obol-2": "alive",
+  "rock-dao": "quiet",
+  "the-root-network": "dead",
+  "gains-network": "quiet",
+  "harmony": "quiet",
+  "xpla": "quiet",
+  "bob-build-on-bitcoin": "alive",
+  "reserve-rights-token": "quiet",
+  "gang": "quiet",
+  "parano1d": "quiet",
+  "xswap-2": "quiet",
+  "radio-caca": "zombie",
+  "hamster-kombat": "zombie",
+  "ontology": "quiet",
+  "minima": "quiet",
+  "bugscoin": "zombie",
+  "palladium-network": "quiet",
+  "hive": "alive",
+  "tornado-cash": "zombie",
+  "aurora-near": "quiet",
+  "ong": "zombie",
+  "tokenised-gbp": "quiet",
+  "aquarius": "quiet",
+  "arcblock": "zombie"
+ },
+ "news": {
+  "storb": {
+   "text": "No news found in the last 30 days"
+  },
+  "obol-2": {
+   "text": "HTX listed OBOL in May 2025 (not new).",
+   "date": "2025-05-07",
+   "url": "https://www.coincarp.com/tr/events/obol-network-new-listing-on-htx/"
+  },
+  "rock-dao": {
+   "text": "No news found in the last 30 days"
+  },
+  "the-root-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "gains-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "harmony": {
+   "text": "No news found in the last 30 days"
+  },
+  "xpla": {
+   "text": "No news found in the last 30 days"
+  },
+  "bob-build-on-bitcoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "reserve-rights-token": {
+   "text": "No news found in the last 30 days"
+  },
+  "gang": {
+   "text": "No news found in the last 30 days"
+  },
+  "parano1d": {
+   "text": "No news found in the last 30 days"
+  },
+  "xswap-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "radio-caca": {
+   "text": "No news found in the last 30 days"
+  },
+  "hamster-kombat": {
+   "text": "No news found in the last 30 days"
+  },
+  "ontology": {
+   "text": "No news found in the last 30 days"
+  },
+  "minima": {
+   "text": "No news found in the last 30 days"
+  },
+  "bugscoin": {
+   "text": "No news found in the last 30 days"
+  },
+  "palladium-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "hive": {
+   "text": "No news found in the last 30 days"
+  },
+  "tornado-cash": {
+   "text": "No news found in the last 30 days"
+  },
+  "aurora-near": {
+   "text": "No news found in the last 30 days"
+  },
+  "ong": {
+   "text": "No news found in the last 30 days"
+  },
+  "tokenised-gbp": {
+   "text": "No news found in the last 30 days"
+  },
+  "aquarius": {
+   "text": "No news found in the last 30 days"
+  },
+  "arcblock": {
+   "text": "No news found in the last 30 days"
+  },
+  "kaia": {
+   "text": "Foundation burning unclaimed reward tokens, JPYC stablecoin added, Chainlink CCIP live; but score collapsed.",
+   "date": "2026-11-05",
+   "url": "https://coinmarketcap.com/cmc-ai/kaia/latest-updates"
+  },
+  "omnipair": {
+   "text": "No news found in the last 30 days"
+  },
+  "moonriver": {
+   "text": "No news found in the last 30 days"
+  },
+  "zeus-5": {
+   "text": "No news found in the last 30 days"
+  },
+  "infinit": {
+   "text": "No news found in the last 30 days"
+  },
+  "steem-dollars": {
+   "text": "No news found in the last 30 days"
+  },
+  "creditcoin-2": {
+   "text": "No news found in the last 30 days"
+  },
+  "pyth-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "aventus": {
+   "text": "No news found in the last 30 days"
+  },
+  "cf-large-cap-index": {
+   "text": "No news found in the last 30 days"
+  },
+  "mossland": {
+   "text": "No news found in the last 30 days"
+  },
+  "okzoo": {
+   "text": "No news found in the last 30 days"
+  },
+  "dar-open-network": {
+   "text": "No news found in the last 30 days"
+  },
+  "blast": {
+   "text": "No news found in the last 30 days"
+  },
+  "quantixai": {
+   "text": "No news found in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "DeFi": "No sector search done this run; 7 DeFi-tagged coins on list, none with a catalyst.",
+  "Gaming": "No sector search done this run; 4 gaming zombies/spikes on list."
+ }
+}
