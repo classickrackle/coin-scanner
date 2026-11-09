@@ -1,27 +1,27 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "stats": {
     "scanned": 16750,
-    "passed": 1177,
-    "fresh": 464,
-    "deep": 116,
-    "calls": 194,
-    "monthCalls": 1658,
+    "passed": 1235,
+    "fresh": 488,
+    "deep": 117,
+    "calls": 242,
+    "monthCalls": 1900,
     "budget": 10000,
     "tossed": {
       "bigger than $1.00B (above your size bands)": 67,
-      "memecoin or other sector you excluded": 8976,
-      "stablecoin or gold token": 230,
-      "most tokens not released yet (big unlocks coming)": 239,
-      "too little trading to sell out of": 5657,
+      "memecoin or other sector you excluded": 8988,
+      "stablecoin or gold token": 229,
+      "too little trading to sell out of": 5598,
+      "most tokens not released yet (big unlocks coming)": 242,
       "wrapped or staked copy of another coin": 25,
-      "suspicious, fake-looking trading volume": 28,
-      "no market cap data": 353,
-      "already picked before (watched in Tracking instead)": 713,
-      "no centralized exchange listing": 46,
-      "no working website or X account": 2,
-      "community too small (under your minimum)": 22,
-      "looks dead (website down, no code or posts in months)": 2
+      "suspicious, fake-looking trading volume": 24,
+      "no market cap data": 343,
+      "already picked before (watched in Tracking instead)": 747,
+      "no centralized exchange listing": 52,
+      "no working website or X account": 4,
+      "community too small (under your minimum)": 21,
+      "looks dead (website down, no code or posts in months)": 1
     },
     "warning": null,
     "bands": [
@@ -43,197 +43,493 @@
       {
         "name": "Large",
         "max": 1000000000,
-        "listed": 1
+        "listed": 0
       }
     ],
     "tracked": {
-      "total": 878,
-      "changedToday": 114,
+      "total": 894,
+      "changedToday": 134,
       "rechecked": 20,
-      "back": 8
+      "back": 9
     }
   },
   "coins": [
     {
-      "id": "gittensor",
-      "name": "Gittensor",
-      "symbol": "sn74",
-      "score": 61,
-      "price": 0.929235,
-      "marketCap": 4576784,
-      "volume24h": 232003,
-      "week": 50.1164,
+      "id": "storb",
+      "name": "Storb",
+      "symbol": "sn26",
+      "score": 67,
+      "price": 0.303931,
+      "marketCap": 539448,
+      "volume24h": 309720,
+      "week": -13.5067,
       "why": [
-        "back on the radar: trading spike (21.5x normal)",
-        "tiny market cap ($4.58M) — lots of room to grow",
-        "healthy trading for its size (5% of its value traded in a day)",
-        "trading is 21.5x its normal level",
-        "price up on the day (+6.4%) and the week (+50.1%)",
-        "climbed from #1943 to #1738 in size ranking over 10 days",
+        "back on the radar: trading spike (10.3x normal); score up 15 since first picked (52 → 67)",
+        "tiny market cap ($539K) — lots of room to grow",
+        "healthy trading for its size (57% of its value traded in a day)",
+        "trading is 10.3x its normal level",
+        "86% below its all-time high, but still actively traded",
         "in a sector you're watching (Artificial Intelligence (AI))",
-        "alive: code pushed 27 days ago"
+        "valued at $539K vs a typical $3.49M for \"Bittensor Subnets\" coins"
       ],
       "flags": [
         "couldn't check community size (no Telegram or X follower count)"
       ],
-      "back": "trading spike (21.5x normal)",
+      "back": "trading spike (10.3x normal); score up 15 since first picked (52 → 67)",
       "exchanges": [
         "Subnet Tokens"
       ],
-      "homepage": "https://gittensor.io/",
-      "xHandle": "gittensor_io",
+      "homepage": "https://storb.dev/",
+      "xHandle": null,
       "tgId": null,
       "tgMembers": null,
       "website": "ok",
       "categories": [
         "Artificial Intelligence (AI)",
-        "Bittensor Ecosystem"
+        "Bittensor Ecosystem",
+        "Bittensor Subnets"
       ],
       "commits": null,
       "potential": {
-        "ath": 2.72,
-        "athDate": "2026-04-08",
+        "ath": 2.12,
+        "athDate": "2026-06-17",
         "factor": 2.5,
-        "targetPrice": 6.800000000000001,
-        "x": 7.317847476687813,
-        "targetMcap": 33492207.245745156,
-        "athMcap": 13396882.898298062,
-        "athX": 2.9271389906751253,
+        "targetPrice": 5.300000000000001,
+        "x": 17.43816853167331,
+        "targetMcap": 9406985.138074104,
+        "athMcap": 3762794.055229641,
+        "athX": 6.975267412669323,
         "extreme": false
       },
       "life": {
-        "status": "alive",
-        "lastSignDays": 27,
-        "lastCode": "2026-10-12",
-        "codeDays": 27,
-        "repo": "https://github.com/entrius/gittensor",
+        "status": "unknown",
+        "lastSignDays": null,
+        "lastCode": null,
+        "codeDays": null,
+        "repo": null,
         "lastPost": null,
         "tgDays": null,
         "site": "ok"
       },
       "peer": {
-        "name": "Artificial Intelligence (AI)",
-        "median": 12604104,
-        "count": 250,
-        "x": 2.7539215309265197
+        "name": "Bittensor Subnets",
+        "median": 3488608,
+        "count": 115,
+        "x": 6.466995892097106
       },
       "band": "Micro"
     },
     {
-      "id": "agent-hustle-2",
-      "name": "Emblem Vault",
-      "symbol": "emblem",
-      "score": 54,
-      "price": 0.00220818,
-      "marketCap": 2208165,
-      "volume24h": 786969,
-      "week": -0.0522,
+      "id": "obol-2",
+      "name": "Obol",
+      "symbol": "obol",
+      "score": 63,
+      "price": 0.00221068,
+      "marketCap": 757951,
+      "volume24h": 178038,
+      "week": 2.7537,
       "why": [
-        "tiny market cap ($2.21M) — lots of room to grow",
-        "healthy trading for its size (36% of its value traded in a day)",
-        "trading is 4.1x its normal level",
-        "in a sector you're watching (Artificial Intelligence (AI))",
-        "alive: code pushed 1 day ago"
-      ],
-      "flags": [],
-      "back": null,
-      "exchanges": [
-        "GroveX",
-        "XT.COM",
-        "MEXC"
-      ],
-      "homepage": "https://emblemvault.ai/",
-      "xHandle": "EmblemVault",
-      "tgId": "EmblemAI",
-      "tgMembers": 1332,
-      "website": "ok",
-      "categories": [
-        "Artificial Intelligence (AI)",
-        "Infrastructure",
-        "Solana Ecosystem",
-        "AI Agents",
-        "AI Applications",
-        "DeFAI"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 0.00775503,
-        "athDate": "2026-04-16",
-        "factor": 2.5,
-        "targetPrice": 0.019387575,
-        "x": 8.779888867755346,
-        "targetMcap": 19387443.301666986,
-        "athMcap": 7754977.320666793,
-        "athX": 3.511955547102138,
-        "extreme": false
-      },
-      "life": {
-        "status": "alive",
-        "lastSignDays": 1,
-        "lastCode": "2026-11-07",
-        "codeDays": 1,
-        "repo": "https://github.com/EmblemCompany/ProofOfAgent",
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "DeFAI",
-        "median": 51412.5,
-        "count": 166,
-        "x": 0.023282906847993695
-      },
-      "band": "Micro"
-    },
-    {
-      "id": "dent",
-      "name": "Dent",
-      "symbol": "dent",
-      "score": 51,
-      "price": 0.0000375,
-      "marketCap": 3750165,
-      "volume24h": 835390,
-      "week": 8.1407,
-      "why": [
-        "back on the radar: trading spike (4.5x normal)",
-        "tiny market cap ($3.75M) — lots of room to grow",
-        "healthy trading for its size (22% of its value traded in a day)",
-        "trading is 4.5x its normal level",
-        "price up on the day (+13.6%) and the week (+8.1%)"
+        "back on the radar: new exchange listing (HTX)",
+        "tiny market cap ($758K) — lots of room to grow",
+        "healthy trading for its size (23% of its value traded in a day)",
+        "trading is 2.7x its normal level",
+        "alive: code pushed today",
+        "valued at $758K vs a typical $7.02M for \"Restaking\" coins",
+        "newly listed on HTX"
       ],
       "flags": [
-        "2.5x its old high is 6,707x away — coins this far below their peak rarely get back"
+        "couldn't check community size (no Telegram or X follower count)",
+        "2.5x its old high is 430x away — coins this far below their peak rarely get back"
       ],
-      "back": "trading spike (4.5x normal)",
+      "back": "new exchange listing (HTX)",
       "exchanges": [
-        "KuCoin",
+        "WEEX",
         "Gate",
-        "Kraken",
-        "XT.COM",
-        "KoinBX",
-        "Icrypex",
-        "BitKan",
-        "WazirX"
+        "Toobit",
+        "DigiFinex",
+        "HTX"
       ],
-      "homepage": "https://www.dentwireless.com/",
-      "xHandle": "dentcoin",
-      "tgId": "dentcoin",
-      "tgMembers": 7883,
+      "homepage": "https://obol.org/",
+      "xHandle": "Obol_Collective",
+      "tgId": null,
+      "tgMembers": null,
       "website": "ok",
       "categories": [
+        "Decentralized Finance (DeFi)",
         "Ethereum Ecosystem",
-        "DePIN"
+        "Restaking",
+        "Liquid Staking",
+        "CoinList Launchpad"
       ],
       "commits": null,
       "potential": {
-        "ath": 0.1006,
-        "athDate": "2018-01-08",
+        "ath": 0.380077,
+        "athDate": "2025-05-07",
         "factor": 2.5,
-        "targetPrice": 0.2515,
-        "x": 6706.666666666667,
-        "targetMcap": 25151106600,
-        "athMcap": 10060442640.000002,
-        "athX": 2682.666666666667,
+        "targetPrice": 0.9501925,
+        "x": 429.8191054336222,
+        "targetMcap": 325781820.7825194,
+        "athMcap": 130312728.31300777,
+        "athX": 171.9276421734489,
+        "extreme": true
+      },
+      "life": {
+        "status": "alive",
+        "lastSignDays": 0,
+        "lastCode": "2026-11-09",
+        "codeDays": 0,
+        "repo": "https://github.com/ObolNetwork/lido-charon-distributed-validator-node",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Restaking",
+        "median": 7017799,
+        "count": 46,
+        "x": 9.258908557413342
+      },
+      "band": "Micro"
+    },
+    {
+      "id": "rock-dao",
+      "name": "ROCK DAO",
+      "symbol": "rock",
+      "score": 57,
+      "price": 0.00022979,
+      "marketCap": 1233677,
+      "volume24h": 938826,
+      "week": -20.2454,
+      "why": [
+        "back on the radar: trading spike (427.9x normal)",
+        "tiny market cap ($1.23M) — lots of room to grow",
+        "healthy trading for its size (76% of its value traded in a day)",
+        "trading is 427.9x its normal level",
+        "89% below its all-time high, but still actively traded",
+        "in a sector you're watching (Gaming (GameFi))"
+      ],
+      "flags": [
+        "couldn't check community size (no Telegram or X follower count)"
+      ],
+      "back": "trading spike (427.9x normal)",
+      "exchanges": [
+        "HTX"
+      ],
+      "homepage": "https://gala.com/",
+      "xHandle": "the_RockDAO",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Gaming (GameFi)",
+        "Tron Ecosystem"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 0.00199867,
+        "athDate": "2025-11-21",
+        "factor": 2.5,
+        "targetPrice": 0.004996675000000001,
+        "x": 21.744527612167634,
+        "targetMcap": 26825723.59099613,
+        "athMcap": 10730289.43639845,
+        "athX": 8.697811044867052,
+        "extreme": false
+      },
+      "life": {
+        "status": "unknown",
+        "lastSignDays": null,
+        "lastCode": null,
+        "codeDays": null,
+        "repo": null,
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Gaming (GameFi)",
+        "median": 1471226,
+        "count": 249,
+        "x": 1.1925536424850265
+      },
+      "band": "Micro"
+    },
+    {
+      "id": "the-root-network",
+      "name": "The Root Network",
+      "symbol": "root",
+      "score": 56,
+      "price": 0.0001075,
+      "marketCap": 327288,
+      "volume24h": 90060,
+      "week": -3.3561,
+      "why": [
+        "tiny market cap ($327K) — lots of room to grow",
+        "healthy trading for its size (28% of its value traded in a day)",
+        "trading is 5.6x its normal level",
+        "in a sector you're watching (Gaming (GameFi))",
+        "valued at $327K vs a typical $6.58M for \"Gaming Blockchains\" coins"
+      ],
+      "flags": [
+        "only 25% of tokens released so far — future unlocks could weigh on price",
+        "website is down",
+        "couldn't check community size (no Telegram or X follower count)",
+        "2.5x its old high is 3,053x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "Gate"
+      ],
+      "homepage": "https://www.therootnetwork.com/",
+      "xHandle": "TheRootNetwork",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "dead",
+      "categories": [
+        "Smart Contract Platform",
+        "Gaming (GameFi)",
+        "Layer 1 (L1)",
+        "Ethereum Ecosystem",
+        "Gaming Blockchains",
+        "Outlier Ventures Portfolio"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 0.1313,
+        "athDate": "2024-03-14",
+        "factor": 2.5,
+        "targetPrice": 0.32825,
+        "x": 3053.4883720930234,
+        "targetMcap": 999370102.3255814,
+        "athMcap": 399748040.9302326,
+        "athX": 1221.3953488372094,
+        "extreme": true
+      },
+      "life": {
+        "status": "unknown",
+        "lastSignDays": null,
+        "lastCode": null,
+        "codeDays": null,
+        "repo": null,
+        "lastPost": null,
+        "tgDays": null,
+        "site": "dead"
+      },
+      "peer": {
+        "name": "Gaming Blockchains",
+        "median": 6584928,
+        "count": 38,
+        "x": 20.11967441519396
+      },
+      "band": "Micro"
+    },
+    {
+      "id": "gains-network",
+      "name": "Gains",
+      "symbol": "gains",
+      "score": 55,
+      "price": 0.506027,
+      "marketCap": 12137763,
+      "volume24h": 8825929,
+      "week": 36.4809,
+      "why": [
+        "back on the radar: trading spike (22.3x normal)",
+        "small market cap ($12.14M)",
+        "healthy trading for its size (73% of its value traded in a day)",
+        "trading is 22.3x its normal level",
+        "price up on the day (+61.1%) and the week (+36.5%)",
+        "96% below its all-time high, but still actively traded",
+        "climbed from #1318 to #1089 in size ranking over 10 days"
+      ],
+      "flags": [
+        "zombie: still trades, but last sign of life was 866 days ago"
+      ],
+      "back": "trading spike (22.3x normal)",
+      "exchanges": [
+        "Binance",
+        "Biconomy.com",
+        "Bitvavo",
+        "Gate",
+        "WEEX",
+        "Bitrue",
+        "Mudrex"
+      ],
+      "homepage": "https://gains.trade/",
+      "xHandle": "gains_trade",
+      "tgId": "GainsNetwork",
+      "tgMembers": 4148,
+      "website": "ok",
+      "categories": [
+        "Decentralized Finance (DeFi)",
+        "Derivatives",
+        "Perpetuals",
+        "Polygon Ecosystem",
+        "Arbitrum Ecosystem",
+        "Base Ecosystem",
+        "ApeChain Ecosystem",
+        "MegaETH Ecosystem",
+        "Base Native"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 12.48,
+        "athDate": "2023-02-16",
+        "factor": 2.5,
+        "targetPrice": 31.200000000000003,
+        "x": 61.65678906461513,
+        "targetMcap": 748375493.0072901,
+        "athMcap": 299350197.202916,
+        "athX": 24.66271562584605,
+        "extreme": false
+      },
+      "life": {
+        "status": "zombie",
+        "lastSignDays": 866,
+        "lastCode": "2024-06-26",
+        "codeDays": 866,
+        "repo": "https://github.com/GainsNetwork/default-token-list",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Derivatives",
+        "median": 903530.5,
+        "count": 110,
+        "x": 0.07443962285307433
+      },
+      "band": "Small"
+    },
+    {
+      "id": "harmony",
+      "name": "Harmony",
+      "symbol": "one",
+      "score": 53,
+      "price": 0.00154556,
+      "marketCap": 22982872,
+      "volume24h": 29656803,
+      "week": 38.0419,
+      "why": [
+        "back on the radar: new exchange listing (ZebPay); trading spike (12.1x normal); score up 15 since first picked (38 → 53)",
+        "small market cap ($22.98M)",
+        "trading is 12.1x its normal level",
+        "climbed from #908 to #737 in size ranking over 10 days",
+        "newly listed on ZebPay"
+      ],
+      "flags": [
+        "quiet: last sign of life 67 days ago",
+        "2.5x its old high is 613x away — coins this far below their peak rarely get back"
+      ],
+      "back": "new exchange listing (ZebPay); trading spike (12.1x normal); score up 15 since first picked (38 → 53)",
+      "exchanges": [
+        "Binance",
+        "Pionex",
+        "OKX",
+        "HTX",
+        "KuCoin",
+        "BitKan",
+        "BingX",
+        "WEEX",
+        "MEXC",
+        "TokoCrypto",
+        "XT.COM",
+        "Bittime",
+        "Crypto.com Exchange",
+        "Bitrue",
+        "BTSE",
+        "Binance US",
+        "CEX.IO"
+      ],
+      "homepage": "https://harmony.one/",
+      "xHandle": "harmonyprotocol",
+      "tgId": "harmony_one",
+      "tgMembers": 11394,
+      "website": "ok",
+      "categories": [
+        "Smart Contract Platform",
+        "Layer 1 (L1)",
+        "Harmony Ecosystem",
+        "Animoca Brands Portfolio",
+        "Binance Launchpad",
+        "YZi Labs (Prev. Binance Labs) Portfolio",
+        "Made in USA"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 0.37902,
+        "athDate": "2021-10-26",
+        "factor": 2.5,
+        "targetPrice": 0.9475500000000001,
+        "x": 613.0787546261549,
+        "targetMcap": 14090310543.492327,
+        "athMcap": 5636124217.396931,
+        "athX": 245.23150185046197,
+        "extreme": true
+      },
+      "life": {
+        "status": "quiet",
+        "lastSignDays": 67,
+        "lastCode": "2026-09-03",
+        "codeDays": 67,
+        "repo": "https://github.com/harmony-one/harmony",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": null,
+      "band": "Small"
+    },
+    {
+      "id": "xpla",
+      "name": "CONX",
+      "symbol": "conx",
+      "score": 50,
+      "price": 0.00445542,
+      "marketCap": 4601555,
+      "volume24h": 1024868,
+      "week": -0.0643,
+      "why": [
+        "back on the radar: trading spike (11.6x normal)",
+        "tiny market cap ($4.60M) — lots of room to grow",
+        "healthy trading for its size (22% of its value traded in a day)",
+        "trading is 11.6x its normal level",
+        "in a sector you're watching (Gaming (GameFi))"
+      ],
+      "flags": [
+        "couldn't check community size (no Telegram or X follower count)",
+        "2.5x its old high is 786x away — coins this far below their peak rarely get back"
+      ],
+      "back": "trading spike (11.6x normal)",
+      "exchanges": [
+        "Bithumb",
+        "Gate",
+        "Crypto.com Exchange"
+      ],
+      "homepage": "https://www.xpla.io/",
+      "xHandle": "Official_CONX",
+      "tgId": "Official_XPLA",
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Smart Contract Platform",
+        "Gaming (GameFi)",
+        "NFT",
+        "Wallets",
+        "Osmosis Ecosystem",
+        "Gaming Blockchains",
+        "Gaming Platform",
+        "Appchains"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 1.4,
+        "athDate": "2023-03-15",
+        "factor": 2.5,
+        "targetPrice": 3.5,
+        "x": 785.5600594332296,
+        "targetMcap": 3614797819.285275,
+        "athMcap": 1445919127.71411,
+        "athX": 314.22402377329183,
         "extreme": true
       },
       "life": {
@@ -247,122 +543,259 @@
         "site": "ok"
       },
       "peer": {
-        "name": "DePIN",
-        "median": 893730,
-        "count": 229,
-        "x": 0.2383175140293827
+        "name": "Appchains",
+        "median": 2317906,
+        "count": 12,
+        "x": 0.5037223286475985
       },
       "band": "Micro"
     },
     {
-      "id": "vanar-chain-2",
-      "name": "Vanar",
-      "symbol": "vanry",
-      "score": 51,
-      "price": 0.0003822,
-      "marketCap": 1509701,
-      "volume24h": 1239506,
-      "week": -17.8443,
+      "id": "bob-build-on-bitcoin",
+      "name": "BOB (Build on Bitcoin)",
+      "symbol": "bob",
+      "score": 50,
+      "price": 0.00388005,
+      "marketCap": 18536162,
+      "volume24h": 2290732,
+      "week": -9.891,
       "why": [
-        "tiny market cap ($1.51M) — lots of room to grow",
-        "healthy trading for its size (82% of its value traded in a day)",
-        "81% below its all-time high, but still actively traded",
-        "in a sector you're watching (Artificial Intelligence (AI))",
-        "valued at $1.51M vs a typical $12.60M for \"Artificial Intelligence (AI)\" coins"
+        "back on the radar: trading spike (4.4x normal); score up 18 since first picked (32 → 50)",
+        "small market cap ($18.54M)",
+        "healthy trading for its size (12% of its value traded in a day)",
+        "trading is 4.4x its normal level",
+        "87% below its all-time high, but still actively traded",
+        "climbed from #1013 to #847 in size ranking over 10 days",
+        "alive: code pushed today"
       ],
       "flags": [
-        "only 39% of tokens released so far — future unlocks could weigh on price",
-        "couldn't check community size (no Telegram or X follower count)"
+        "only 48% of tokens released so far — future unlocks could weigh on price"
       ],
-      "back": null,
+      "back": "trading spike (4.4x normal); score up 18 since first picked (32 → 50)",
       "exchanges": [
-        "LBank",
-        "Paribu",
+        "Bithumb",
+        "Gate",
+        "Coinbase Exchange",
+        "KuCoin",
+        "Bitvavo",
+        "Kraken",
+        "XT.COM",
+        "Toobit",
+        "MEXC",
+        "Bitunix",
         "BingX",
-        "Indodax"
+        "KCEX",
+        "Kanga Global"
       ],
-      "homepage": "https://onvanar.com/",
-      "xHandle": "onvanar",
-      "tgId": null,
-      "tgMembers": null,
+      "homepage": "https://www.gobob.xyz",
+      "xHandle": "build_on_bob",
+      "tgId": "gobobxyz",
+      "tgMembers": 12754,
       "website": "ok",
       "categories": [
-        "Artificial Intelligence (AI)",
-        "Infrastructure",
-        "Base Ecosystem"
+        "Smart Contract Platform",
+        "Decentralized Finance (DeFi)",
+        "BNB Chain Ecosystem",
+        "Ethereum Ecosystem",
+        "Layer 2 (L2)",
+        "Bitcoin Sidechains",
+        "SideChain",
+        "BOB Network Ecosystem"
       ],
       "commits": null,
       "potential": {
-        "ath": 0.00202423,
-        "athDate": "2026-08-12",
+        "ath": 0.02929111,
+        "athDate": "2025-12-03",
         "factor": 2.5,
-        "targetPrice": 0.005060575,
-        "x": 13.240646258503402,
-        "targetMcap": 19989416.897108845,
-        "athMcap": 7995766.758843537,
-        "athX": 5.2962585034013605,
+        "targetPrice": 0.073227775,
+        "x": 18.872894679192278,
+        "targetMcap": 349831033.1824461,
+        "athMcap": 139932413.27297843,
+        "athX": 7.549157871676911,
         "extreme": false
       },
       "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
+        "status": "alive",
+        "lastSignDays": 0,
+        "lastCode": "2026-11-09",
+        "codeDays": 0,
+        "repo": "https://github.com/bob-collective/bob",
         "lastPost": null,
         "tgDays": null,
         "site": "ok"
       },
       "peer": {
-        "name": "Artificial Intelligence (AI)",
-        "median": 12604104,
-        "count": 250,
-        "x": 8.34874190319805
+        "name": "Bitcoin Sidechains",
+        "median": 7364935,
+        "count": 14,
+        "x": 0.3973279366030573
       },
-      "band": "Micro"
+      "band": "Small"
     },
     {
-      "id": "jurassic-finance",
-      "name": "Jurassic Finance",
-      "symbol": "rawr",
-      "score": 47,
-      "price": 0.04770063,
-      "marketCap": 1230601,
-      "volume24h": 41866,
-      "week": 69.53,
+      "id": "reserve-rights-token",
+      "name": "Reserve Rights",
+      "symbol": "rsr",
+      "score": 48,
+      "price": 0.00183395,
+      "marketCap": 114719284,
+      "volume24h": 62886221,
+      "week": 27.9433,
       "why": [
-        "back on the radar: trading spike (5.8x normal)",
-        "tiny market cap ($1.23M) — lots of room to grow",
-        "trading is 5.8x its normal level",
-        "price up on the day (+11.6%) and the week (+69.5%)",
-        "climbed from #3318 to #2834 in size ranking over 10 days"
+        "back on the radar: trading spike (7.1x normal)",
+        "healthy trading for its size (55% of its value traded in a day)",
+        "trading is 7.1x its normal level",
+        "price up on the day (+11.3%) and the week (+27.9%)",
+        "climbed from #305 to #238 in size ranking over 10 days",
+        "in a sector you're watching (Real World Assets (RWA))"
+      ],
+      "flags": [
+        "zombie: still trades, but last sign of life was 2026 days ago",
+        "2.5x its old high is 160x away — coins this far below their peak rarely get back"
+      ],
+      "back": "trading spike (7.1x normal)",
+      "exchanges": [
+        "Binance",
+        "Upbit",
+        "BTCC",
+        "Biconomy.com",
+        "CoinW",
+        "Bithumb",
+        "BloFin",
+        "WhiteBIT",
+        "OKX",
+        "OrangeX",
+        "LBank",
+        "KuCoin",
+        "Coinbase Exchange",
+        "Pionex",
+        "Coinstore",
+        "Toobit",
+        "BVOX",
+        "Deepcoin",
+        "Bitvavo",
+        "Tothemoon",
+        "Ourbit",
+        "Gate",
+        "BitDelta",
+        "Bitget",
+        "XT.COM",
+        "BingX",
+        "DigiFinex",
+        "Hotcoin",
+        "HTX",
+        "Bitunix",
+        "Kraken",
+        "KCEX",
+        "Hibt",
+        "Crypto.com Exchange",
+        "MEXC",
+        "BYDFi",
+        "WEEX",
+        "Bit2Me",
+        "Bittime",
+        "Bitlo",
+        "LeveX",
+        "Bitkub",
+        "TokoCrypto",
+        "Bitrue",
+        "Indodax",
+        "Webot",
+        "BTSE",
+        "Mudrex",
+        "Nonkyc.io",
+        "WazirX",
+        "CEX.IO",
+        "Foxbit"
+      ],
+      "homepage": "https://reserve.org/",
+      "xHandle": "reserveprotocol",
+      "tgId": "reservecurrency",
+      "tgMembers": 6837,
+      "website": "ok",
+      "categories": [
+        "Decentralized Finance (DeFi)",
+        "Arbitrum Ecosystem",
+        "Ethereum Ecosystem",
+        "Real World Assets (RWA)",
+        "Base Ecosystem",
+        "Coinbase Ventures Portfolio",
+        "Energi Ecosystem",
+        "Made in USA",
+        "Base Native"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 0.117424,
+        "athDate": "2021-04-16",
+        "factor": 2.5,
+        "targetPrice": 0.29356,
+        "x": 160.06979470541725,
+        "targetMcap": 18363092238.632458,
+        "athMcap": 7345236895.452984,
+        "athX": 64.0279178821669,
+        "extreme": true
+      },
+      "life": {
+        "status": "zombie",
+        "lastSignDays": 2026,
+        "lastCode": "2021-04-23",
+        "codeDays": 2026,
+        "repo": "https://github.com/reserve-protocol/rsr",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Real World Assets (RWA)",
+        "median": 22218838,
+        "count": 249,
+        "x": 0.19368006167123566
+      },
+      "band": "Mid"
+    },
+    {
+      "id": "gang",
+      "name": "Gang",
+      "symbol": "gang",
+      "score": 45,
+      "price": 0.00344538,
+      "marketCap": 3443109,
+      "volume24h": 1720411,
+      "week": 44.7731,
+      "why": [
+        "tiny market cap ($3.44M) — lots of room to grow",
+        "healthy trading for its size (50% of its value traded in a day)",
+        "price up on the day (+23.0%) and the week (+44.8%)",
+        "climbed from #2290 to #1923 in size ranking over 10 days"
       ],
       "flags": [
         "couldn't check community size (no Telegram or X follower count)"
       ],
-      "back": "trading spike (5.8x normal)",
+      "back": null,
       "exchanges": [
-        "MetaDAO (Futarchy AMM)"
+        "LBank",
+        "MEXC"
       ],
-      "homepage": "https://jurassic.finance",
-      "xHandle": "JurassicFi",
+      "homepage": "https://gang.fun/",
+      "xHandle": "gangdotfun",
       "tgId": null,
       "tgMembers": null,
       "website": "ok",
       "categories": [
-        "Solana Ecosystem",
-        "MetaDAO Launchpad"
+        "BNB Chain Ecosystem",
+        "Launchpad"
       ],
       "commits": null,
       "potential": {
-        "ath": 0.204084,
-        "athDate": "2026-09-22",
+        "ath": 0.00969399,
+        "athDate": "2026-10-28",
         "factor": 2.5,
-        "targetPrice": 0.5102099999999999,
-        "x": 10.69608514604524,
-        "targetMcap": 13162613.07680842,
-        "athMcap": 5265045.230723367,
-        "athX": 4.278434058418096,
+        "targetPrice": 0.024234975,
+        "x": 7.034049945143932,
+        "targetMcap": 24219000.672574576,
+        "athMcap": 9687600.26902983,
+        "athX": 2.8136199780575724,
         "extreme": false
       },
       "life": {
@@ -379,49 +812,437 @@
       "band": "Micro"
     },
     {
-      "id": "delta",
-      "name": "Delta",
-      "symbol": "delta",
-      "score": 46,
-      "price": 0.00400015,
-      "marketCap": 2844359,
-      "volume24h": 814383,
-      "week": -60.8673,
+      "id": "parano1d",
+      "name": "Parano1d",
+      "symbol": "noid",
+      "score": 36,
+      "price": 0.315746,
+      "marketCap": 3736857,
+      "volume24h": 91974,
+      "week": 6.7635,
       "why": [
-        "tiny market cap ($2.84M) — lots of room to grow",
-        "healthy trading for its size (29% of its value traded in a day)",
-        "trading is 3.6x its normal level",
-        "88% below its all-time high, but still actively traded",
-        "valued at $2.84M vs a typical $37.07M for \"Decentralized Finance (DeFi)\" coins"
+        "tiny market cap ($3.74M) — lots of room to grow",
+        "price up on the day (+9.4%) and the week (+6.8%)",
+        "climbed from #2209 to #1853 in size ranking over 10 days",
+        "alive: code pushed 3 days ago"
       ],
       "flags": [
-        "still falling hard",
         "couldn't check community size (no Telegram or X follower count)"
       ],
       "back": null,
       "exchanges": [
-        "KCEX"
+        "SafeTrade"
       ],
-      "homepage": "https://deltaliquidity.app/",
-      "xHandle": "deltaliquidity",
+      "homepage": "https://parano1d.org",
+      "xHandle": "ignotus_nemo",
       "tgId": null,
       "tgMembers": null,
       "website": "ok",
       "categories": [
-        "Decentralized Finance (DeFi)",
-        "Robinhood Ecosystem"
+        "Smart Contract Platform",
+        "Layer 1 (L1)",
+        "Zero Knowledge (ZK)",
+        "Quantum-Resistant"
       ],
       "commits": null,
       "potential": {
-        "ath": 0.03360886,
-        "athDate": "2026-09-21",
+        "ath": 0.499528,
+        "athDate": "2026-10-25",
         "factor": 2.5,
-        "targetPrice": 0.08402214999999999,
-        "x": 21.004749821881678,
-        "targetMcap": 59745049.19861755,
-        "athMcap": 23898019.67944702,
-        "athX": 8.401899928752671,
+        "targetPrice": 1.24882,
+        "x": 3.9551411577660525,
+        "targetMcap": 14779796.921386177,
+        "athMcap": 5911918.7685544705,
+        "athX": 1.582056463106421,
         "extreme": false
+      },
+      "life": {
+        "status": "alive",
+        "lastSignDays": 3,
+        "lastCode": "2026-11-06",
+        "codeDays": 3,
+        "repo": "https://github.com/ignotusnemo/parano1d",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Quantum-Resistant",
+        "median": 4207229,
+        "count": 29,
+        "x": 1.1258736954611857
+      },
+      "band": "Micro"
+    },
+    {
+      "id": "xswap-2",
+      "name": "XSwap",
+      "symbol": "xswap",
+      "score": 36,
+      "price": 0.00474932,
+      "marketCap": 1639353,
+      "volume24h": 21127,
+      "week": -7.0518,
+      "why": [
+        "tiny market cap ($1.64M) — lots of room to grow",
+        "trading is 6.7x its normal level",
+        "alive: Telegram post 4 days ago"
+      ],
+      "flags": [
+        "2.5x its old high is 107x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "Gate",
+        "MEXC"
+      ],
+      "homepage": "https://xswap.link/",
+      "xHandle": "xswap_link",
+      "tgId": "xswap_link",
+      "tgMembers": 4538,
+      "website": "ok",
+      "categories": [
+        "Decentralized Finance (DeFi)",
+        "Ethereum Ecosystem",
+        "Base Ecosystem",
+        "Cross-chain Communication",
+        "Base Native"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 0.202631,
+        "athDate": "2024-05-09",
+        "factor": 2.5,
+        "targetPrice": 0.5065775,
+        "x": 106.66316441090515,
+        "targetMcap": 174858578.5665106,
+        "athMcap": 69943431.42660424,
+        "athX": 42.66526576436206,
+        "extreme": true
+      },
+      "life": {
+        "status": "alive",
+        "lastSignDays": 4,
+        "lastCode": "2024-07-04",
+        "codeDays": 858,
+        "repo": "https://github.com/xswap-link/Cross-Chain-Token-Purchase",
+        "lastPost": "2026-11-05",
+        "tgDays": 4,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Cross-chain Communication",
+        "median": 3477475,
+        "count": 58,
+        "x": 2.121248443745795
+      },
+      "band": "Micro"
+    },
+    {
+      "id": "radio-caca",
+      "name": "Radio Caca",
+      "symbol": "raca",
+      "score": 35,
+      "price": 0.00001121,
+      "marketCap": 4660728,
+      "volume24h": 700492,
+      "week": -3.1896,
+      "why": [
+        "tiny market cap ($4.66M) — lots of room to grow",
+        "healthy trading for its size (15% of its value traded in a day)",
+        "trading is 4.5x its normal level",
+        "in a sector you're watching (Gaming (GameFi))"
+      ],
+      "flags": [
+        "zombie: still trades, but last sign of life was 1626 days ago",
+        "2.5x its old high is 2,658x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "Paribu",
+        "Gate",
+        "MEXC",
+        "Ourbit",
+        "Kanga Global"
+      ],
+      "homepage": "https://www.raca3.com/",
+      "xHandle": "RACA_3",
+      "tgId": "RadioCaca",
+      "tgMembers": 28002,
+      "website": "ok",
+      "categories": [
+        "Gaming (GameFi)",
+        "NFT",
+        "BNB Chain Ecosystem",
+        "Metaverse",
+        "Play To Earn",
+        "Ethereum Ecosystem",
+        "DWF Labs Portfolio",
+        "OKT Chain Ecosystem"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 0.01191986,
+        "athDate": "2021-11-14",
+        "factor": 2.5,
+        "targetPrice": 0.029799649999999997,
+        "x": 2658.309545049063,
+        "targetMcap": 12389657729.27743,
+        "athMcap": 4955863091.710973,
+        "athX": 1063.3238180196254,
+        "extreme": true
+      },
+      "life": {
+        "status": "zombie",
+        "lastSignDays": 1626,
+        "lastCode": "2022-05-28",
+        "codeDays": 1626,
+        "repo": "https://github.com/radiocaca/radio-caca",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Play To Earn",
+        "median": 146212,
+        "count": 209,
+        "x": 0.03137106477786303
+      },
+      "band": "Micro"
+    },
+    {
+      "id": "hamster-kombat",
+      "name": "Hamster Kombat",
+      "symbol": "hmstr",
+      "score": 34,
+      "price": 0.000126,
+      "marketCap": 8111130,
+      "volume24h": 4873276,
+      "week": -7.3964,
+      "why": [
+        "small market cap ($8.11M)",
+        "healthy trading for its size (60% of its value traded in a day)",
+        "trading is 2.8x its normal level",
+        "in a sector you're watching (Gaming (GameFi))"
+      ],
+      "flags": [
+        "zombie: still trades, but last sign of life was 293 days ago",
+        "2.5x its old high is 143x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "Binance",
+        "BTCC",
+        "FameEX",
+        "LBank",
+        "OrangeX",
+        "OKX",
+        "Toobit",
+        "KuCoin",
+        "Bybit",
+        "CoinTR",
+        "BitKan",
+        "BVOX",
+        "Bitvavo",
+        "MEXC",
+        "WEEX",
+        "Bitget",
+        "BingX",
+        "Biconomy.com",
+        "Ourbit",
+        "Bitrue",
+        "Tothemoon",
+        "KCEX",
+        "Gate",
+        "Bittime",
+        "Kraken",
+        "PointPay",
+        "Bitlo",
+        "Azbit",
+        "Indodax",
+        "BTSE",
+        "TokoCrypto",
+        "Mudrex",
+        "CEX.IO"
+      ],
+      "homepage": "https://hamsterkombat.io/",
+      "xHandle": "hamster_kombat",
+      "tgId": "hamster_kombat",
+      "tgMembers": 19602257,
+      "website": "ok",
+      "categories": [
+        "Gaming (GameFi)",
+        "Play To Earn",
+        "Telegram Apps",
+        "TON Ecosystem",
+        "Tap to Earn",
+        "Arcade Games"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 0.00722201,
+        "athDate": "2024-09-26",
+        "factor": 2.5,
+        "targetPrice": 0.018055025,
+        "x": 143.2938492063492,
+        "targetMcap": 1162275039.113095,
+        "athMcap": 464910015.6452381,
+        "athX": 57.31753968253968,
+        "extreme": true
+      },
+      "life": {
+        "status": "zombie",
+        "lastSignDays": 293,
+        "lastCode": null,
+        "codeDays": null,
+        "repo": null,
+        "lastPost": "2026-01-20",
+        "tgDays": 293,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Tap to Earn",
+        "median": 68776,
+        "count": 17,
+        "x": 0.008479213130599558
+      },
+      "band": "Micro"
+    },
+    {
+      "id": "ontology",
+      "name": "Ontology",
+      "symbol": "ont",
+      "score": 32,
+      "price": 0.03995219,
+      "marketCap": 39952193,
+      "volume24h": 2326915,
+      "week": -12.343,
+      "why": [
+        "back on the radar: new exchange listing (WazirX)",
+        "healthy trading for its size (6% of its value traded in a day)",
+        "alive: code pushed 17 days ago",
+        "newly listed on WazirX"
+      ],
+      "flags": [
+        "2.5x its old high is 683x away — coins this far below their peak rarely get back"
+      ],
+      "back": "new exchange listing (WazirX)",
+      "exchanges": [
+        "Coinstore",
+        "Upbit",
+        "Paribu",
+        "WhiteBIT",
+        "Binance",
+        "Biconomy.com",
+        "Pionex",
+        "CoinW",
+        "OKX",
+        "Bitunix",
+        "WEEX",
+        "MEXC",
+        "KCEX",
+        "Bittime",
+        "BigONE",
+        "Gate",
+        "Bitget",
+        "KuCoin",
+        "DigiFinex",
+        "Byte Exchange",
+        "Bithumb",
+        "BitKan",
+        "XT.COM",
+        "Crypto.com Exchange",
+        "Mudrex",
+        "CEX.IO",
+        "TokoCrypto"
+      ],
+      "homepage": "https://ont.io/",
+      "xHandle": "OntologyNetwork",
+      "tgId": "OntologyNetwork",
+      "tgMembers": 13423,
+      "website": "ok",
+      "categories": [
+        "Smart Contract Platform",
+        "Masternodes",
+        "Proof of Stake (PoS)",
+        "Made in China"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 10.92,
+        "athDate": "2018-05-02",
+        "factor": 2.5,
+        "targetPrice": 27.3,
+        "x": 683.316734326704,
+        "targetMcap": 27300002049.950203,
+        "athMcap": 10920000819.980082,
+        "athX": 273.3266937306816,
+        "extreme": true
+      },
+      "life": {
+        "status": "alive",
+        "lastSignDays": 17,
+        "lastCode": "2026-10-23",
+        "codeDays": 17,
+        "repo": "https://github.com/ontio/ontology",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Masternodes",
+        "median": 1743477,
+        "count": 20,
+        "x": 0.04363908133903938
+      },
+      "band": "Small"
+    },
+    {
+      "id": "minima",
+      "name": "Minima",
+      "symbol": "minima",
+      "score": 31,
+      "price": 0.00309709,
+      "marketCap": 2112025,
+      "volume24h": 21868,
+      "week": 2.5177,
+      "why": [
+        "tiny market cap ($2.11M) — lots of room to grow",
+        "trading is 2.0x its normal level",
+        "price up on the day (+2.3%) and the week (+2.5%)"
+      ],
+      "flags": [
+        "2.5x its old high is 107x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "MEXC",
+        "XT.COM"
+      ],
+      "homepage": "https://www.minima.global/",
+      "xHandle": "Minima_Global",
+      "tgId": "Minima_Global",
+      "tgMembers": 6816,
+      "website": "ok",
+      "categories": [
+        "Smart Contract Platform",
+        "Layer 1 (L1)",
+        "DePIN",
+        "Proof of Work (PoW)",
+        "Mobile Mining",
+        "Quantum-Resistant"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 0.132047,
+        "athDate": "2024-12-06",
+        "factor": 2.5,
+        "targetPrice": 0.3301175,
+        "x": 106.5895727925246,
+        "targetMcap": 225119842.47713178,
+        "athMcap": 90047936.99085271,
+        "athX": 42.63582911700984,
+        "extreme": true
       },
       "life": {
         "status": "unknown",
@@ -434,158 +1255,511 @@
         "site": "ok"
       },
       "peer": {
-        "name": "Decentralized Finance (DeFi)",
-        "median": 37067632,
-        "count": 250,
-        "x": 13.031980843487057
+        "name": "Mobile Mining",
+        "median": 327488,
+        "count": 16,
+        "x": 0.15505877061114334
       },
       "band": "Micro"
     },
     {
-      "id": "tevaera",
-      "name": "Tevaera",
-      "symbol": "teva",
-      "score": 44,
-      "price": 0.00129745,
-      "marketCap": 1525336,
-      "volume24h": 707986,
-      "week": 22.6305,
+      "id": "bugscoin",
+      "name": "BugsCoin",
+      "symbol": "bgsc",
+      "score": 29,
+      "price": 0.00050608,
+      "marketCap": 5150076,
+      "volume24h": 157536,
+      "week": 8.756,
       "why": [
-        "back on the radar: trading spike (93.8x normal)",
-        "tiny market cap ($1.53M) — lots of room to grow",
-        "healthy trading for its size (46% of its value traded in a day)",
-        "trading is 93.8x its normal level",
-        "price up on the day (+39.8%) and the week (+22.6%)",
-        "in a sector you're watching (Gaming (GameFi))"
+        "small market cap ($5.15M)",
+        "trading is 3.6x its normal level",
+        "price up on the day (+16.2%) and the week (+8.8%)",
+        "96% below its all-time high, but still actively traded"
       ],
       "flags": [
-        "only 29% of tokens released so far — future unlocks could weigh on price",
-        "zombie: still trades, but last sign of life was 258 days ago",
-        "2.5x its old high is 132x away — coins this far below their peak rarely get back"
-      ],
-      "back": "trading spike (93.8x normal)",
-      "exchanges": [
-        "Gate",
-        "Crypto.com Exchange"
-      ],
-      "homepage": "https://tevaera.com/",
-      "xHandle": "tevaera",
-      "tgId": "TevaeraNews",
-      "tgMembers": 10047,
-      "website": "ok",
-      "categories": [
-        "Gaming (GameFi)",
-        "Base Ecosystem",
-        "Gaming Platform"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 0.068387,
-        "athDate": "2025-01-03",
-        "factor": 2.5,
-        "targetPrice": 0.1709675,
-        "x": 131.7719372615515,
-        "targetMcap": 200996479.69478592,
-        "athMcap": 80398591.87791438,
-        "athX": 52.70877490462061,
-        "extreme": true
-      },
-      "life": {
-        "status": "zombie",
-        "lastSignDays": 258,
-        "lastCode": "2025-07-04",
-        "codeDays": 492,
-        "repo": "https://github.com/tevaera-protocol/governance",
-        "lastPost": "2026-02-23",
-        "tgDays": 258,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Gaming Platform",
-        "median": 223829,
-        "count": 48,
-        "x": 0.14674078366995863
-      },
-      "band": "Micro"
-    },
-    {
-      "id": "meteora",
-      "name": "Meteora",
-      "symbol": "met",
-      "score": 44,
-      "price": 0.311401,
-      "marketCap": 175973201,
-      "volume24h": 54518370,
-      "week": 8.3468,
-      "why": [
-        "back on the radar: trading spike (7.8x normal)",
-        "healthy trading for its size (31% of its value traded in a day)",
-        "trading is 7.8x its normal level",
-        "price up on the day (+5.7%) and the week (+8.3%)"
-      ],
-      "flags": [
+        "zombie: still trades, but last sign of life was 319 days ago",
         "couldn't check community size (no Telegram or X follower count)"
       ],
-      "back": "trading spike (7.8x normal)",
+      "back": null,
       "exchanges": [
-        "Upbit",
-        "Binance",
-        "BloFin",
-        "Bybit",
-        "HTX",
-        "OKX",
-        "OrangeX",
-        "WhiteBIT",
-        "LBank",
-        "BtcTurk | Kripto",
-        "Bithumb",
-        "XT.COM",
-        "Coinbase Exchange",
-        "Ourbit",
-        "Paribu",
-        "KuCoin",
-        "KCEX",
-        "Toobit",
         "Bitget",
-        "XBO.com",
-        "Kraken",
-        "CoinW",
-        "BitKan",
         "Gate",
-        "Hotcoin",
-        "Bitunix",
-        "BingX",
-        "MEXC",
-        "Coinstore",
-        "Bittime",
-        "Hibt",
-        "Kanga Global",
-        "Bitrue"
+        "Biconomy.com",
+        "DigiFinex"
       ],
-      "homepage": "https://www.meteora.ag/",
-      "xHandle": "MeteoraAG",
+      "homepage": "https://www.bugscoin.com",
+      "xHandle": "ADEN_PerpDEX",
       "tgId": null,
       "tgMembers": null,
       "website": "ok",
       "categories": [
-        "Decentralized Exchange (DEX)",
-        "Exchange-based Tokens",
-        "Decentralized Finance (DeFi)",
-        "Solana Ecosystem",
-        "Launchpad",
+        "Retail",
+        "BNB Chain Ecosystem",
         "Binance Alpha Spotlight"
       ],
       "commits": null,
       "potential": {
-        "ath": 0.686913,
-        "athDate": "2025-10-23",
+        "ath": 0.01229164,
+        "athDate": "2025-04-23",
         "factor": 2.5,
-        "targetPrice": 1.7172825,
-        "x": 5.51469809024377,
-        "targetMcap": 970439075.488783,
-        "athMcap": 388175630.1955132,
-        "athX": 2.2058792360975077,
+        "targetPrice": 0.0307291,
+        "x": 60.71984666455896,
+        "targetMcap": 312711825.03082514,
+        "athMcap": 125084730.01233007,
+        "athX": 24.287938665823585,
         "extreme": false
+      },
+      "life": {
+        "status": "zombie",
+        "lastSignDays": 319,
+        "lastCode": "2025-12-25",
+        "codeDays": 319,
+        "repo": "https://github.com/bugscoin/BGSC-ADEN-Swap-Contract",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Retail",
+        "median": 153298.5,
+        "count": 24,
+        "x": 0.029766259760050144
+      },
+      "band": "Micro"
+    },
+    {
+      "id": "palladium-network",
+      "name": "Palladium Network",
+      "symbol": "plldv3",
+      "score": 27,
+      "price": 0.647545,
+      "marketCap": 34079217,
+      "volume24h": 36082,
+      "week": 0.8885,
+      "why": [
+        "trading is 18.6x its normal level",
+        "price up on the day (+2.1%) and the week (+0.9%)"
+      ],
+      "flags": [
+        "very little trading for its size"
+      ],
+      "back": null,
+      "exchanges": [
+        "Tapbit",
+        "Poloniex"
+      ],
+      "homepage": "https://plld.net/",
+      "xHandle": null,
+      "tgId": "Palladium_PLLD",
+      "tgMembers": 1062,
+      "website": "ok",
+      "categories": [
+        "Ethereum Ecosystem"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 5.83,
+        "athDate": "2026-01-15",
+        "factor": 2.5,
+        "targetPrice": 14.575,
+        "x": 22.508088240971666,
+        "targetMcap": 767058023.4192218,
+        "athMcap": 306823209.3676888,
+        "athX": 9.003235296388668,
+        "extreme": false
+      },
+      "life": {
+        "status": "unknown",
+        "lastSignDays": null,
+        "lastCode": null,
+        "codeDays": null,
+        "repo": null,
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": null,
+      "band": "Small"
+    },
+    {
+      "id": "hive",
+      "name": "Hive",
+      "symbol": "hive",
+      "score": 26,
+      "price": 0.04239163,
+      "marketCap": 23321352,
+      "volume24h": 279429,
+      "week": -6.9219,
+      "why": [
+        "small market cap ($23.32M)",
+        "in a sector you're watching (Gaming Blockchains)",
+        "alive: code pushed today"
+      ],
+      "flags": [
+        "only 49% of tokens released so far — future unlocks could weigh on price",
+        "2.5x its old high is 201x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "Binance",
+        "MEXC",
+        "Bithumb",
+        "Bitget",
+        "DigiFinex",
+        "BitKan",
+        "Gate",
+        "WEEX",
+        "Bitlo",
+        "XT.COM",
+        "Indodax",
+        "HTX",
+        "Mudrex"
+      ],
+      "homepage": "https://hive.io/",
+      "xHandle": "hiveblocks",
+      "tgId": "hiveblockchain",
+      "tgMembers": 3723,
+      "website": "ok",
+      "categories": [
+        "Smart Contract Platform",
+        "SocialFi",
+        "Layer 1 (L1)",
+        "Gaming Blockchains"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 3.41,
+        "athDate": "2021-11-25",
+        "factor": 2.5,
+        "targetPrice": 8.525,
+        "x": 201.1010192342215,
+        "targetMcap": 4689947657.12005,
+        "athMcap": 1875979062.84802,
+        "athX": 80.4404076936886,
+        "extreme": true
+      },
+      "life": {
+        "status": "alive",
+        "lastSignDays": 0,
+        "lastCode": "2026-11-09",
+        "codeDays": 0,
+        "repo": "https://github.com/openhive-network/hive",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Gaming Blockchains",
+        "median": 5507605,
+        "count": 38,
+        "x": 0.23616147983187252
+      },
+      "band": "Small"
+    },
+    {
+      "id": "tornado-cash",
+      "name": "Tornado Cash",
+      "symbol": "torn",
+      "score": 19,
+      "price": 5.43,
+      "marketCap": 25952318,
+      "volume24h": 2980340,
+      "week": -8.1017,
+      "why": [
+        "healthy trading for its size (11% of its value traded in a day)",
+        "trading is 28.2x its normal level",
+        "Telegram grew 17% (3,900 → 4,571) in 21 days"
+      ],
+      "flags": [
+        "only 48% of tokens released so far — future unlocks could weigh on price",
+        "zombie: still trades, but last sign of life was 1540 days ago",
+        "2.5x its old high is 201x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "HTX",
+        "MEXC"
+      ],
+      "homepage": "https://tornadocash.eth.limo",
+      "xHandle": "TornadoCash",
+      "tgId": "TornadoCashOfficialDAO",
+      "tgMembers": 4571,
+      "website": "ok",
+      "categories": [
+        "Decentralized Finance (DeFi)",
+        "BNB Chain Ecosystem",
+        "Ethereum Ecosystem",
+        "Privacy Infrastructure",
+        "Privacy"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 436.16,
+        "athDate": "2021-02-13",
+        "factor": 2.5,
+        "targetPrice": 1090.4,
+        "x": 200.81031307550649,
+        "targetMcap": 5211493102.615103,
+        "athMcap": 2084597241.0460405,
+        "athX": 80.32412523020258,
+        "extreme": true
+      },
+      "life": {
+        "status": "zombie",
+        "lastSignDays": 1540,
+        "lastCode": "2022-08-22",
+        "codeDays": 1540,
+        "repo": "https://github.com/tornadocash/fixed-merkle-tree",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": {
+        "name": "Privacy Infrastructure",
+        "median": 569233,
+        "count": 86,
+        "x": 0.02193380182841471
+      },
+      "band": "Small"
+    },
+    {
+      "id": "aurora-near",
+      "name": "Aurora",
+      "symbol": "aurora",
+      "score": 18,
+      "price": 0.04108485,
+      "marketCap": 30812814,
+      "volume24h": 386060,
+      "week": -9.531,
+      "why": [
+        "alive: code pushed 6 days ago"
+      ],
+      "flags": [
+        "2.5x its old high is 2,154x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "Biconomy.com",
+        "Coinbase Exchange",
+        "MEXC",
+        "KuCoin",
+        "Gate",
+        "Bybit",
+        "Crypto.com Exchange",
+        "ChangeNOW",
+        "Mudrex",
+        "WhiteBIT"
+      ],
+      "homepage": "https://aurora.dev/",
+      "xHandle": "auroraisnear",
+      "tgId": "auroraisnear",
+      "tgMembers": 10418,
+      "website": "ok",
+      "categories": [
+        "Near Protocol Ecosystem",
+        "Ethereum Ecosystem",
+        "DWF Labs Portfolio",
+        "DragonFly Capital Portfolio",
+        "Pantera Capital Portfolio",
+        "Aurora Ecosystem"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 35.4,
+        "athDate": "2022-01-16",
+        "factor": 2.5,
+        "targetPrice": 88.5,
+        "x": 2154.078693240939,
+        "targetMcap": 66373226116.19611,
+        "athMcap": 26549290446.478447,
+        "athX": 861.6314772963757,
+        "extreme": true
+      },
+      "life": {
+        "status": "alive",
+        "lastSignDays": 6,
+        "lastCode": "2026-11-03",
+        "codeDays": 6,
+        "repo": "https://github.com/aurora-is-near/aurora-engine",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": null,
+      "band": "Small"
+    },
+    {
+      "id": "ong",
+      "name": "Ontology Gas",
+      "symbol": "ong",
+      "score": 14,
+      "price": 0.06113,
+      "marketCap": 29669042,
+      "volume24h": 761933,
+      "week": -13.2747,
+      "why": [
+        "newly listed on Coinone"
+      ],
+      "flags": [
+        "zombie: still trades, but last sign of life was 2965 days ago",
+        "2.5x its old high is 180x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "Upbit",
+        "Binance",
+        "Bithumb",
+        "BigONE",
+        "MEXC",
+        "Hibt",
+        "CoinUp.io",
+        "Binance US",
+        "DigiFinex",
+        "Gate",
+        "TokoCrypto",
+        "Coinone",
+        "Mudrex"
+      ],
+      "homepage": "https://ont.io/",
+      "xHandle": "OntologyNetwork",
+      "tgId": "OntologyNetwork",
+      "tgMembers": 13423,
+      "website": "ok",
+      "categories": [
+        "Smart Contract Platform",
+        "Layer 1 (L1)"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 4.39,
+        "athDate": "2018-09-28",
+        "factor": 2.5,
+        "targetPrice": 10.975,
+        "x": 179.5354163258629,
+        "targetMcap": 5326643807.459513,
+        "athMcap": 2130657522.983805,
+        "athX": 71.81416653034516,
+        "extreme": true
+      },
+      "life": {
+        "status": "zombie",
+        "lastSignDays": 2965,
+        "lastCode": "2018-09-27",
+        "codeDays": 2965,
+        "repo": "https://github.com/ontio/neo-compiler",
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": null,
+      "band": "Small"
+    },
+    {
+      "id": "tokenised-gbp",
+      "name": "Tokenised GBP",
+      "symbol": "tgbp",
+      "score": 12,
+      "price": 1.34,
+      "marketCap": 26686078,
+      "volume24h": 125109,
+      "week": 0.0407,
+      "why": [
+        "price up on the day (+0.5%) and the week (+0.0%)"
+      ],
+      "flags": [
+        "very little trading for its size",
+        "couldn't check community size (no Telegram or X follower count)"
+      ],
+      "back": null,
+      "exchanges": [
+        "Coinbase Exchange",
+        "Kraken"
+      ],
+      "homepage": "https://www.tokenisedgbp.com",
+      "xHandle": "tokenGBP",
+      "tgId": null,
+      "tgMembers": null,
+      "website": "ok",
+      "categories": [
+        "Stablecoins",
+        "GBP Stablecoin",
+        "BNB Chain Ecosystem",
+        "Solana Ecosystem",
+        "Avalanche Ecosystem",
+        "Polygon Ecosystem",
+        "Gnosis Chain Ecosystem",
+        "Arbitrum Ecosystem",
+        "Ethereum Ecosystem",
+        "Base Ecosystem",
+        "Fiat-backed Stablecoin"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 1.86,
+        "athDate": "2026-07-09",
+        "factor": 2.5,
+        "targetPrice": 4.65,
+        "x": 3.470149253731343,
+        "targetMcap": 92604673.65671642,
+        "athMcap": 37041869.46268657,
+        "athX": 1.3880597014925373,
+        "extreme": false
+      },
+      "life": {
+        "status": "unknown",
+        "lastSignDays": null,
+        "lastCode": null,
+        "codeDays": null,
+        "repo": null,
+        "lastPost": null,
+        "tgDays": null,
+        "site": "ok"
+      },
+      "peer": null,
+      "band": "Small"
+    },
+    {
+      "id": "aquarius",
+      "name": "Aquarius",
+      "symbol": "aqua",
+      "score": 9,
+      "price": 0.0002452,
+      "marketCap": 10942214,
+      "volume24h": 176289,
+      "week": -12.4788,
+      "why": [
+        "small market cap ($10.94M)"
+      ],
+      "flags": [
+        "only 45% of tokens released so far — future unlocks could weigh on price",
+        "2.5x its old high is 30,127,957x away — coins this far below their peak rarely get back"
+      ],
+      "back": null,
+      "exchanges": [
+        "DigiFinex"
+      ],
+      "homepage": "https://aqua.network",
+      "xHandle": "aqua_token",
+      "tgId": "aqua_token",
+      "tgMembers": 3545,
+      "website": "ok",
+      "categories": [
+        "Decentralized Exchange (DEX)",
+        "Stellar Ecosystem",
+        "Governance"
+      ],
+      "commits": null,
+      "potential": {
+        "ath": 2954.95,
+        "athDate": "2026-05-04",
+        "factor": 2.5,
+        "targetPrice": 7387.375,
+        "x": 30127956.769983687,
+        "targetMcap": 329666550359910.25,
+        "athMcap": 131866620143964.1,
+        "athX": 12051182.707993474,
+        "extreme": true
       },
       "life": {
         "status": "unknown",
@@ -599,1224 +1773,74 @@
       },
       "peer": {
         "name": "Decentralized Exchange (DEX)",
-        "median": 819740,
+        "median": 748023,
         "count": 249,
-        "x": 0.004658322945435311
-      },
-      "band": "Mid"
-    },
-    {
-      "id": "itsai",
-      "name": "ItsAI",
-      "symbol": "sn32",
-      "score": 43,
-      "price": 0.551615,
-      "marketCap": 3506029,
-      "volume24h": 80689,
-      "week": -6.9459,
-      "why": [
-        "tiny market cap ($3.51M) — lots of room to grow",
-        "trading is 31.8x its normal level",
-        "in a sector you're watching (Artificial Intelligence (AI))",
-        "alive: code pushed 11 days ago"
-      ],
-      "flags": [
-        "couldn't check community size (no Telegram or X follower count)"
-      ],
-      "back": null,
-      "exchanges": [
-        "Subnet Tokens"
-      ],
-      "homepage": "https://its-ai.org/",
-      "xHandle": null,
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Artificial Intelligence (AI)",
-        "Bittensor Ecosystem",
-        "Bittensor Subnets"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 1.79,
-        "athDate": "2025-06-10",
-        "factor": 2.5,
-        "targetPrice": 4.475,
-        "x": 8.112542262266254,
-        "targetMcap": 28442808.435231093,
-        "athMcap": 11377123.37409244,
-        "athX": 3.2450169049065023,
-        "extreme": false
-      },
-      "life": {
-        "status": "alive",
-        "lastSignDays": 11,
-        "lastCode": "2026-10-28",
-        "codeDays": 11,
-        "repo": "https://github.com/It-s-AI/llm-detection",
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Bittensor Subnets",
-        "median": 3303022,
-        "count": 115,
-        "x": 0.9420977407773866
-      },
-      "band": "Micro"
-    },
-    {
-      "id": "sign-global",
-      "name": "Sign",
-      "symbol": "sign",
-      "score": 43,
-      "price": 0.00889839,
-      "marketCap": 25301102,
-      "volume24h": 13884919,
-      "week": -13.7224,
-      "why": [
-        "back on the radar: trading spike (6.3x normal); score up 24 since first picked (19 → 43)",
-        "healthy trading for its size (55% of its value traded in a day)",
-        "trading is 6.3x its normal level",
-        "93% below its all-time high, but still actively traded"
-      ],
-      "flags": [
-        "only 28% of tokens released so far — future unlocks could weigh on price",
-        "couldn't check community size (no Telegram or X follower count)"
-      ],
-      "back": "trading spike (6.3x normal); score up 24 since first picked (19 → 43)",
-      "exchanges": [
-        "Binance",
-        "LBank",
-        "Bybit",
-        "OrangeX",
-        "WhiteBIT",
-        "Hibt",
-        "CoinW",
-        "Toobit",
-        "Ourbit",
-        "KCEX",
-        "Gate",
-        "BitKan",
-        "BingX",
-        "Bitunix",
-        "CoinTR",
-        "WEEX",
-        "MEXC",
-        "XT.COM",
-        "BigONE",
-        "Bitrue",
-        "Coinone",
-        "CoinUp.io",
-        "Bitkub",
-        "Kanga Global",
-        "Mudrex",
-        "BTSE"
-      ],
-      "homepage": "https://sign.global/",
-      "xHandle": "ethsign",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Smart Contract Platform",
-        "Analytics",
-        "BNB Chain Ecosystem",
-        "Ethereum Ecosystem",
-        "Zero Knowledge (ZK)",
-        "Base Ecosystem",
-        "Binance HODLer Airdrops",
-        "Base Native"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 0.13111,
-        "athDate": "2025-09-23",
-        "factor": 2.5,
-        "targetPrice": 0.32777500000000004,
-        "x": 36.83531515251636,
-        "targetMcap": 931974065.8759619,
-        "athMcap": 372789626.3503847,
-        "athX": 14.73412606100654,
-        "extreme": false
-      },
-      "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Analytics",
-        "median": 40016,
-        "count": 188,
-        "x": 0.0015815911891900994
+        "x": 0.06836121099441118
       },
       "band": "Small"
     },
     {
-      "id": "tiger-alpha",
-      "name": "Tiger Alpha",
-      "symbol": "sn107",
-      "score": 39,
-      "price": 6.48,
-      "marketCap": 13818750,
-      "volume24h": 948965,
-      "week": 8.0354,
+      "id": "arcblock",
+      "name": "Arcblock",
+      "symbol": "abt",
+      "score": 5,
+      "price": 0.247412,
+      "marketCap": 24389843,
+      "volume24h": 73744,
+      "week": -7.5834,
       "why": [
-        "back on the radar: trading spike (5.5x normal)",
-        "small market cap ($13.82M)",
-        "healthy trading for its size (7% of its value traded in a day)",
-        "trading is 5.5x its normal level",
+        "small market cap ($24.39M)",
         "in a sector you're watching (Artificial Intelligence (AI))"
       ],
       "flags": [
-        "couldn't check community size (no Telegram or X follower count)"
+        "very little trading for its size",
+        "zombie: still trades, but last sign of life was 3218 days ago"
       ],
-      "back": "trading spike (5.5x normal)",
+      "back": null,
       "exchanges": [
-        "Subnet Tokens"
+        "Coinbase Exchange",
+        "Bitkub",
+        "Gate"
       ],
-      "homepage": "https://www.tigerinvests.com/",
-      "xHandle": "tigerinvests",
-      "tgId": null,
-      "tgMembers": null,
+      "homepage": "https://www.arcblock.io/",
+      "xHandle": "ArcBlock_io",
+      "tgId": "ArcBlock",
+      "tgMembers": 3059,
       "website": "ok",
       "categories": [
         "Artificial Intelligence (AI)",
-        "Bittensor Ecosystem",
-        "Bittensor Subnets"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 18.81,
-        "athDate": "2026-08-28",
-        "factor": 2.5,
-        "targetPrice": 47.025,
-        "x": 7.256944444444444,
-        "targetMcap": 100281901.04166666,
-        "athMcap": 40112760.41666666,
-        "athX": 2.9027777777777772,
-        "extreme": false
-      },
-      "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Bittensor Subnets",
-        "median": 3303022,
-        "count": 115,
-        "x": 0.23902465852555405
-      },
-      "band": "Small"
-    },
-    {
-      "id": "truefi",
-      "name": "TrueFi",
-      "symbol": "tru",
-      "score": 38,
-      "price": 0.00092617,
-      "marketCap": 1164214,
-      "volume24h": 77065,
-      "week": 25.1318,
-      "why": [
-        "tiny market cap ($1.16M) — lots of room to grow",
-        "healthy trading for its size (7% of its value traded in a day)",
-        "trading is 42.9x its normal level",
-        "price up on the day (+22.5%) and the week (+25.1%)",
-        "in a sector you're watching (Real World Assets (RWA))"
-      ],
-      "flags": [
-        "zombie: still trades, but last sign of life was 1838 days ago",
-        "2.5x its old high is 2,745x away — coins this far below their peak rarely get back"
-      ],
-      "back": null,
-      "exchanges": [
-        "Kraken"
-      ],
-      "homepage": "http://truefi.io/",
-      "xHandle": "TrueFiDAO",
-      "tgId": "jointruefi",
-      "tgMembers": 2538,
-      "website": "ok",
-      "categories": [
-        "Decentralized Finance (DeFi)",
-        "Yield Farming",
-        "Lending/Borrowing Protocols",
-        "Ethereum Ecosystem",
-        "Real World Assets (RWA)",
-        "Alameda Research Portfolio",
-        "Andreessen Horowitz (a16z) Portfolio",
-        "RWA Protocol"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 1.017,
-        "athDate": "2021-08-12",
-        "factor": 2.5,
-        "targetPrice": 2.5424999999999995,
-        "x": 2745.17637150847,
-        "targetMcap": 3195972764.179362,
-        "athMcap": 1278389105.6717448,
-        "athX": 1098.070548603388,
-        "extreme": true
-      },
-      "life": {
-        "status": "zombie",
-        "lastSignDays": 1838,
-        "lastCode": "2021-10-27",
-        "codeDays": 1838,
-        "repo": "https://github.com/trusttoken/truefi-spec",
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Lending/Borrowing Protocols",
-        "median": 2646338,
-        "count": 73,
-        "x": 2.2730683534126888
-      },
-      "band": "Micro"
-    },
-    {
-      "id": "swarm-bzz",
-      "name": "Swarm",
-      "symbol": "bzz",
-      "score": 38,
-      "price": 0.061936,
-      "marketCap": 3911211,
-      "volume24h": 77638,
-      "week": 39.7314,
-      "why": [
-        "tiny market cap ($3.91M) — lots of room to grow",
-        "price up on the day (+4.3%) and the week (+39.7%)",
-        "climbed from #2155 to #1839 in size ranking over 10 days",
-        "alive: code pushed 2 days ago"
-      ],
-      "flags": [
-        "couldn't check community size (no Telegram or X follower count)",
-        "2.5x its old high is 852x away — coins this far below their peak rarely get back"
-      ],
-      "back": null,
-      "exchanges": [
-        "MEXC",
-        "Gate",
-        "CoinW"
-      ],
-      "homepage": "https://ethswarm.org/",
-      "xHandle": "ethswarm",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Storage",
-        "Gnosis Chain Ecosystem",
-        "Ethereum Ecosystem",
-        "DePIN",
-        "CoinList Launchpad"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 21.11,
-        "athDate": "2021-06-21",
-        "factor": 2.5,
-        "targetPrice": 52.775,
-        "x": 852.0892534228882,
-        "targetMcap": 3332700860.969388,
-        "athMcap": 1333080344.387755,
-        "athX": 340.83570136915523,
-        "extreme": true
-      },
-      "life": {
-        "status": "alive",
-        "lastSignDays": 2,
-        "lastCode": "2026-11-06",
-        "codeDays": 2,
-        "repo": "https://github.com/ethersphere/storage-incentives",
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Storage",
-        "median": 868651.5,
-        "count": 40,
-        "x": 0.22209272268870178
-      },
-      "band": "Micro"
-    },
-    {
-      "id": "layer3",
-      "name": "Layer3",
-      "symbol": "l3",
-      "score": 35,
-      "price": 0.00169502,
-      "marketCap": 3348385,
-      "volume24h": 1094978,
-      "week": -23.7883,
-      "why": [
-        "tiny market cap ($3.35M) — lots of room to grow",
-        "healthy trading for its size (33% of its value traded in a day)",
-        "trading is 4.8x its normal level"
-      ],
-      "flags": [
-        "zombie: still trades, but last sign of life was 129 days ago",
-        "couldn't check community size (no Telegram or X follower count)",
-        "2.5x its old high is 227x away — coins this far below their peak rarely get back"
-      ],
-      "back": null,
-      "exchanges": [
-        "HTX",
-        "Bitunix",
-        "WEEX",
-        "Coinbase Exchange",
-        "Gate",
-        "Bitkub",
-        "Indodax"
-      ],
-      "homepage": "https://layer3.xyz/",
-      "xHandle": "layer3",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Marketing",
-        "BNB Chain Ecosystem",
-        "Solana Ecosystem",
-        "Polygon Ecosystem",
-        "Arbitrum Ecosystem",
-        "Ethereum Ecosystem",
-        "Decentralized Identifier (DID)",
-        "Optimism Ecosystem",
-        "Quest-to-Earn",
-        "Made in USA",
-        "Base Native"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 0.154039,
-        "athDate": "2025-03-27",
-        "factor": 2.5,
-        "targetPrice": 0.38509750000000004,
-        "x": 227.19348444266146,
-        "targetMcap": 760731255.405541,
-        "athMcap": 304292502.16221637,
-        "athX": 90.87739377706458,
-        "extreme": true
-      },
-      "life": {
-        "status": "zombie",
-        "lastSignDays": 129,
-        "lastCode": "2026-07-02",
-        "codeDays": 129,
-        "repo": "https://github.com/layer3xyz/protocols",
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Marketing",
-        "median": 164271,
-        "count": 25,
-        "x": 0.049059770605829375
-      },
-      "band": "Micro"
-    },
-    {
-      "id": "flamengo-fan-token",
-      "name": "Flamengo Fan Token",
-      "symbol": "mengo",
-      "score": 35,
-      "price": 0.0184725,
-      "marketCap": 417351,
-      "volume24h": 94217,
-      "week": 19.5528,
-      "why": [
-        "tiny market cap ($417K) — lots of room to grow",
-        "healthy trading for its size (23% of its value traded in a day)",
-        "price up on the day (+22.2%) and the week (+19.6%)"
-      ],
-      "flags": [
-        "couldn't check community size (no Telegram or X follower count)",
-        "2.5x its old high is 533x away — coins this far below their peak rarely get back"
-      ],
-      "back": null,
-      "exchanges": [
-        "MEXC",
-        "OKX",
-        "Gate"
-      ],
-      "xHandle": "chiliz",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "missing",
-      "categories": [
-        "Sports",
-        "Fan Token",
-        "Solana Ecosystem",
-        "Base Ecosystem",
-        "Chiliz Ecosystem"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 3.94,
-        "athDate": "2021-11-10",
-        "factor": 2.5,
-        "targetPrice": 9.85,
-        "x": 533.2250642847476,
-        "targetMcap": 222542013.8043037,
-        "athMcap": 89016805.52172148,
-        "athX": 213.29002571389904,
-        "extreme": true
-      },
-      "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
-        "lastPost": null,
-        "tgDays": null,
-        "site": "missing"
-      },
-      "peer": {
-        "name": "Fan Token",
-        "median": 301530,
-        "count": 66,
-        "x": 0.7224853899954714
-      },
-      "band": "Micro"
-    },
-    {
-      "id": "float",
-      "name": "FLOAT",
-      "symbol": "float",
-      "score": 34,
-      "price": 0.01208853,
-      "marketCap": 10893224,
-      "volume24h": 11175918,
-      "week": 1775.1295,
-      "why": [
-        "small market cap ($10.89M)",
-        "trading is 3.3x its normal level",
-        "price up on the day (+96.2%) and the week (+1775.1%)",
-        "climbed from #3556 to #1175 in size ranking over 8 days"
-      ],
-      "flags": [
-        "already up +1775.1% this week — may be late",
-        "couldn't check community size (no Telegram or X follower count)"
-      ],
-      "back": null,
-      "exchanges": [
-        "KCEX",
-        "MEXC"
-      ],
-      "homepage": "https://www.floatlaunch.xyz",
-      "xHandle": "floatdotxyz",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Solana Ecosystem",
-        "Launchpad"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 0.01451769,
-        "athDate": "2026-11-07",
-        "factor": 2.5,
-        "targetPrice": 0.036294225,
-        "x": 3.0023687743671066,
-        "targetMcap": 32705475.58978635,
-        "athMcap": 13082190.235914541,
-        "athX": 1.2009475097468427,
-        "extreme": false
-      },
-      "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": null,
-      "band": "Small"
-    },
-    {
-      "id": "credible-finance",
-      "name": "Credible Finance",
-      "symbol": "cred",
-      "score": 30,
-      "price": 0.863526,
-      "marketCap": 19570403,
-      "volume24h": 151629,
-      "week": 21.5867,
-      "why": [
-        "back on the radar: trading spike (5.6x normal)",
-        "small market cap ($19.57M)",
-        "trading is 5.6x its normal level",
-        "price up on the day (+10.3%) and the week (+21.6%)"
-      ],
-      "flags": [
-        "very little trading for its size"
-      ],
-      "back": "trading spike (5.6x normal)",
-      "exchanges": [
-        "MetaDAO (Futarchy AMM)"
-      ],
-      "homepage": "https://credible.finance/",
-      "xHandle": "crediblefin",
-      "tgId": "crediblefinance",
-      "tgMembers": 15135,
-      "website": "ok",
-      "categories": [
-        "Solana Ecosystem",
-        "Payment Solutions"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 1.042,
-        "athDate": "2026-07-27",
-        "factor": 2.5,
-        "targetPrice": 2.605,
-        "x": 3.0167012921440697,
-        "targetMcap": 59038060.01788018,
-        "athMcap": 23615224.007152073,
-        "athX": 1.206680516857628,
-        "extreme": false
-      },
-      "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Payment Solutions",
-        "median": 941719,
-        "count": 111,
-        "x": 0.048119550731786156
-      },
-      "band": "Small"
-    },
-    {
-      "id": "dovu-2",
-      "name": "DOVU",
-      "symbol": "dovu",
-      "score": 20,
-      "price": 0.00100073,
-      "marketCap": 10007310,
-      "volume24h": 134627,
-      "week": -7.8192,
-      "why": [
-        "small market cap ($10.01M)",
-        "trading is 3.7x its normal level",
-        "in a sector you're watching (Real World Assets (RWA))"
-      ],
-      "flags": [
-        "zombie: still trades, but last sign of life was 172 days ago",
-        "couldn't check community size (no Telegram or X follower count)"
-      ],
-      "back": null,
-      "exchanges": [
-        "Kraken"
-      ],
-      "homepage": "https://dovu.earth",
-      "xHandle": null,
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
         "Infrastructure",
         "Ethereum Ecosystem",
-        "Regenerative Finance (ReFi)",
-        "Real World Assets (RWA)",
-        "Hedera Ecosystem",
-        "Base Native"
+        "AI Framework",
+        "Made in USA"
       ],
       "commits": null,
       "potential": {
-        "ath": 0.0092969,
-        "athDate": "2025-09-15",
+        "ath": 4.69,
+        "athDate": "2024-05-21",
         "factor": 2.5,
-        "targetPrice": 0.02324225,
-        "x": 23.22529553425999,
-        "targetMcap": 232422732.25295532,
-        "athMcap": 92969092.90118214,
-        "athX": 9.290118213703996,
+        "targetPrice": 11.725000000000001,
+        "x": 47.390587360354395,
+        "targetMcap": 1155848985.3968282,
+        "athMcap": 462339594.1587313,
+        "athX": 18.95623494414176,
         "extreme": false
       },
       "life": {
         "status": "zombie",
-        "lastSignDays": 172,
-        "lastCode": "2026-05-20",
-        "codeDays": 172,
-        "repo": "https://github.com/dovuofficial/dovu-offset-widget",
+        "lastSignDays": 3218,
+        "lastCode": "2018-01-17",
+        "codeDays": 3218,
+        "repo": "https://github.com/ArcBlock/ArcBlock-Token",
         "lastPost": null,
         "tgDays": null,
         "site": "ok"
       },
       "peer": {
-        "name": "Regenerative Finance (ReFi)",
-        "median": 446026,
-        "count": 17,
-        "x": 0.04457001931588009
-      },
-      "band": "Small"
-    },
-    {
-      "id": "metya",
-      "name": "MetYa",
-      "symbol": "my",
-      "score": 15,
-      "price": 0.01418716,
-      "marketCap": 13998068,
-      "volume24h": 78551,
-      "week": -25.4921,
-      "why": [
-        "small market cap ($14.00M)",
-        "in a sector you're watching (Artificial Intelligence (AI))"
-      ],
-      "flags": [
-        "very little trading for its size"
-      ],
-      "back": null,
-      "exchanges": [
-        "Gate"
-      ],
-      "homepage": "https://metya.com/",
-      "xHandle": "metyacom",
-      "tgId": "metya_official",
-      "tgMembers": 36078,
-      "website": "ok",
-      "categories": [
-        "Artificial Intelligence (AI)",
-        "SocialFi",
-        "BNB Chain Ecosystem",
-        "AI Applications"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 0.483186,
-        "athDate": "2025-01-15",
-        "factor": 2.5,
-        "targetPrice": 1.207965,
-        "x": 85.14494796703498,
-        "targetMcap": 1191864771.4990175,
-        "athMcap": 476745908.59960693,
-        "athX": 34.05797918681399,
-        "extreme": false
-      },
-      "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "SocialFi",
-        "median": 171486.5,
+        "name": "AI Framework",
+        "median": 81638.5,
         "count": 144,
-        "x": 0.012250726314517117
-      },
-      "band": "Small"
-    },
-    {
-      "id": "venice-token",
-      "name": "Venice Token",
-      "symbol": "vvv",
-      "score": 14,
-      "price": 20.37,
-      "marketCap": 996786008,
-      "volume24h": 11725793,
-      "week": -12.4925,
-      "why": [
-        "in a sector you're watching (Artificial Intelligence (AI))"
-      ],
-      "flags": [
-        "couldn't check community size (no Telegram or X follower count)"
-      ],
-      "back": null,
-      "exchanges": [
-        "Bybit",
-        "Coinbase Exchange",
-        "OrangeX",
-        "BloFin",
-        "Gate",
-        "LBank",
-        "Biconomy.com",
-        "OKX",
-        "Kraken",
-        "Toobit",
-        "Bit2Me",
-        "KuCoin",
-        "BtcTurk | Kripto",
-        "BingX",
-        "MEXC",
-        "Phemex",
-        "Bitunix",
-        "Upbit",
-        "Bitvavo",
-        "KCEX",
-        "Hibt",
-        "Ourbit",
-        "WEEX",
-        "Paribu",
-        "Bittime",
-        "CoinUp.io",
-        "Byte Exchange",
-        "Indodax",
-        "Kanga Global",
-        "Crypto.com Exchange"
-      ],
-      "homepage": "https://venice.ai/home",
-      "xHandle": "AskVenice",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Artificial Intelligence (AI)",
-        "Base Ecosystem",
-        "AI Agents",
-        "AI Applications",
-        "Binance Alpha Spotlight",
-        "Made in USA",
-        "Base Native",
-        "Venice Ecosystem"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 34.53,
-        "athDate": "2026-09-21",
-        "factor": 2.5,
-        "targetPrice": 86.325,
-        "x": 4.2378497790868925,
-        "targetMcap": 4224229363.7997055,
-        "athMcap": 1689691745.5198822,
-        "athX": 1.695139911634757,
-        "extreme": false
-      },
-      "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "AI Applications",
-        "median": 45093,
-        "count": 249,
-        "x": 0.00004523839584233008
-      },
-      "band": "Large"
-    },
-    {
-      "id": "zcoin",
-      "name": "Firo",
-      "symbol": "firo",
-      "score": 13,
-      "price": 0.719626,
-      "marketCap": 13842370,
-      "volume24h": 84190,
-      "week": -10.7297,
-      "why": [
-        "small market cap ($13.84M)",
-        "alive: code pushed today"
-      ],
-      "flags": [
-        "very little trading for its size",
-        "2.5x its old high is 486x away — coins this far below their peak rarely get back"
-      ],
-      "back": null,
-      "exchanges": [
-        "MEXC",
-        "Biconomy.com",
-        "Nonkyc.io"
-      ],
-      "homepage": "https://firo.org/",
-      "xHandle": "firoorg",
-      "tgId": "firoorg",
-      "tgMembers": 6211,
-      "website": "ok",
-      "categories": [
-        "Smart Contract Platform",
-        "Privacy Coins",
-        "Masternodes",
-        "Zero Knowledge (ZK)",
-        "Proof of Work (PoW)",
-        "Privacy"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 139.77,
-        "athDate": "2017-12-25",
-        "factor": 2.5,
-        "targetPrice": 349.425,
-        "x": 485.56472389824717,
-        "targetMcap": 6721366567.14738,
-        "athMcap": 2688546626.858952,
-        "athX": 194.22588955929888,
-        "extreme": true
-      },
-      "life": {
-        "status": "alive",
-        "lastSignDays": 0,
-        "lastCode": "2026-11-08",
-        "codeDays": 0,
-        "repo": "https://github.com/firoorg/firo",
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Masternodes",
-        "median": 1743477,
-        "count": 20,
-        "x": 0.1259522032715496
-      },
-      "band": "Small"
-    },
-    {
-      "id": "request-network",
-      "name": "Request",
-      "symbol": "req",
-      "score": 10,
-      "price": 0.04765146,
-      "marketCap": 37963674,
-      "volume24h": 542610,
-      "week": -8.6729,
-      "why": [
-        "trading is 2.7x its normal level"
-      ],
-      "flags": [
-        "zombie: still trades, but last sign of life was 3170 days ago",
-        "couldn't check community size (no Telegram or X follower count)"
-      ],
-      "back": null,
-      "exchanges": [
-        "WEEX",
-        "Binance",
-        "Bithumb",
-        "Coinbase Exchange",
-        "KuCoin",
-        "Bittime",
-        "BloFin",
-        "Bitvavo",
-        "Pionex",
-        "BitKan",
-        "Kraken",
-        "Bit2Me",
-        "Gate",
-        "TokoCrypto",
-        "Bitrue",
-        "Binance US",
-        "Mudrex"
-      ],
-      "homepage": "https://request.network",
-      "xHandle": "requestnetwork",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Polygon Ecosystem",
-        "Ethereum Ecosystem",
-        "Payment Solutions"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 1.059,
-        "athDate": "2018-01-05",
-        "factor": 2.5,
-        "targetPrice": 2.6475,
-        "x": 55.55968274634188,
-        "targetMcap": 2109249683.3255477,
-        "athMcap": 843699873.330219,
-        "athX": 22.22387309853675,
-        "extreme": false
-      },
-      "life": {
-        "status": "zombie",
-        "lastSignDays": 3170,
-        "lastCode": "2018-03-05",
-        "codeDays": 3170,
-        "repo": "https://github.com/RequestNetwork/Request_SmartContracts",
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Payment Solutions",
-        "median": 941719,
-        "count": 111,
-        "x": 0.024805791978932283
-      },
-      "band": "Small"
-    },
-    {
-      "id": "bitdca",
-      "name": "BitDCA",
-      "symbol": "bdca",
-      "score": 7,
-      "price": 0.259329,
-      "marketCap": 21429664,
-      "volume24h": 101267,
-      "week": -11.1062,
-      "why": [
-        "small market cap ($21.43M)"
-      ],
-      "flags": [
-        "very little trading for its size"
-      ],
-      "back": null,
-      "exchanges": [
-        "MEXC"
-      ],
-      "homepage": "https://www.bitdca.io/",
-      "xHandle": "bitdcaOFFICIAL",
-      "tgId": "bitdca",
-      "tgMembers": 7431,
-      "website": "ok",
-      "categories": [
-        "Infrastructure",
-        "BNB Chain Ecosystem",
-        "Payment Solutions"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 1.18,
-        "athDate": "2025-10-02",
-        "factor": 2.5,
-        "targetPrice": 2.9499999999999997,
-        "x": 11.375511416000524,
-        "targetMcap": 243773387.47305545,
-        "athMcap": 97509354.9892222,
-        "athX": 4.55020456640021,
-        "extreme": false
-      },
-      "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Payment Solutions",
-        "median": 941719,
-        "count": 111,
-        "x": 0.043944646075645424
-      },
-      "band": "Small"
-    },
-    {
-      "id": "safecoin",
-      "name": "SAFEbit",
-      "symbol": "safe",
-      "score": 7,
-      "price": 0.01826734,
-      "marketCap": 13014644,
-      "volume24h": 34657,
-      "week": -9.911,
-      "why": [
-        "small market cap ($13.01M)"
-      ],
-      "flags": [
-        "very little trading for its size",
-        "couldn't check community size (no Telegram or X follower count)"
-      ],
-      "back": null,
-      "exchanges": [
-        "SAFEbit"
-      ],
-      "homepage": "https://www.safebit.com.tr/projects/SAFE",
-      "xHandle": "safebitcom",
-      "tgId": null,
-      "tgMembers": null,
-      "website": "ok",
-      "categories": [
-        "Exchange-based Tokens",
-        "BNB Chain Ecosystem",
-        "Centralized Exchange (CEX) Token"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 0.503782,
-        "athDate": "2025-10-03",
-        "factor": 2.5,
-        "targetPrice": 1.259455,
-        "x": 68.94572499334879,
-        "targetMcap": 897304066.1103369,
-        "athMcap": 358921626.44413465,
-        "athX": 27.57828999733951,
-        "extreme": false
-      },
-      "life": {
-        "status": "unknown",
-        "lastSignDays": null,
-        "lastCode": null,
-        "codeDays": null,
-        "repo": null,
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Centralized Exchange (CEX) Token",
-        "median": 8945963,
-        "count": 55,
-        "x": 0.6873766965888579
-      },
-      "band": "Small"
-    },
-    {
-      "id": "handy",
-      "name": "Handy",
-      "symbol": "handy",
-      "score": 3,
-      "price": 0.00209816,
-      "marketCap": 14762586,
-      "volume24h": 57542,
-      "week": 6.8005,
-      "why": [
-        "small market cap ($14.76M)",
-        "price up on the day (+2.4%) and the week (+6.8%)"
-      ],
-      "flags": [
-        "very little trading for its size",
-        "zombie: still trades, but last sign of life was 2176 days ago",
-        "2.5x its old high is 101x away — coins this far below their peak rarely get back"
-      ],
-      "back": null,
-      "exchanges": [
-        "MEXC"
-      ],
-      "homepage": "https://handylabs.ai/",
-      "xHandle": "HandyProject",
-      "tgId": "HandyOfficialGroup",
-      "tgMembers": 36789,
-      "website": "ok",
-      "categories": [
-        "Ethereum Ecosystem"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 0.08437,
-        "athDate": "2022-08-23",
-        "factor": 2.5,
-        "targetPrice": 0.210925,
-        "x": 100.52855835589278,
-        "targetMcap": 1484061488.1848857,
-        "athMcap": 593624595.2739544,
-        "athX": 40.211423342357115,
-        "extreme": true
-      },
-      "life": {
-        "status": "zombie",
-        "lastSignDays": 2176,
-        "lastCode": "2020-11-23",
-        "codeDays": 2176,
-        "repo": "https://github.com/handypick/token",
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": null,
-      "band": "Small"
-    },
-    {
-      "id": "mass-vehicle-ledger",
-      "name": "MVL",
-      "symbol": "mvl",
-      "score": -3,
-      "price": 0.00087816,
-      "marketCap": 24415324,
-      "volume24h": 22777,
-      "week": -5.4582,
-      "why": [
-        "small market cap ($24.42M)"
-      ],
-      "flags": [
-        "very little trading for its size",
-        "zombie: still trades, but last sign of life was 2916 days ago",
-        "2.5x its old high is 199x away — coins this far below their peak rarely get back"
-      ],
-      "back": null,
-      "exchanges": [
-        "Upbit",
-        "Bithumb",
-        "Gate"
-      ],
-      "homepage": "https://mvlchain.io/",
-      "xHandle": "mvlchain",
-      "tgId": "mvlchain_en",
-      "tgMembers": 3155,
-      "website": "ok",
-      "categories": [
-        "Internet of Things (IOT)",
-        "BNB Chain Ecosystem",
-        "Ethereum Ecosystem",
-        "DePIN",
-        "DWF Labs Portfolio"
-      ],
-      "commits": null,
-      "potential": {
-        "ath": 0.06973,
-        "athDate": "2021-04-02",
-        "factor": 2.5,
-        "targetPrice": 0.174325,
-        "x": 198.51166074519452,
-        "targetMcap": 4846726514.872005,
-        "athMcap": 1938690605.9488022,
-        "athX": 79.4046642980778,
-        "extreme": true
-      },
-      "life": {
-        "status": "zombie",
-        "lastSignDays": 2916,
-        "lastCode": "2018-11-14",
-        "codeDays": 2916,
-        "repo": "https://github.com/mvlchain/PWSwitch",
-        "lastPost": null,
-        "tgDays": null,
-        "site": "ok"
-      },
-      "peer": {
-        "name": "Internet of Things (IOT)",
-        "median": 1079330,
-        "count": 19,
-        "x": 0.04420707257458471
+        "x": 0.0033472335184773433
       },
       "band": "Small"
     }
