@@ -1,0 +1,312 @@
+{
+ "date": "2026-11-10",
+ "ratings": {
+  "xend-finance": "skip",
+  "ondo-magnificent-7-and-crypto-portfolio": "skip",
+  "polyswarm": "caution",
+  "dippy-speech": "caution",
+  "benqi": "caution",
+  "ondo-5-targeted-income-tr-portfolio": "skip",
+  "dtravel": "skip",
+  "ondo-ai-leaders-portfolio": "skip",
+  "prometeus": "caution",
+  "bitsec-ai": "caution",
+  "openai-ondo-private-market-note": "skip",
+  "pieverse": "caution",
+  "shopinx-2": "skip",
+  "inter-milan-fan-token": "caution",
+  "hermes-3": "skip",
+  "masx-ai": "caution",
+  "dor": "skip",
+  "natix-network": "skip",
+  "hash-2": "caution",
+  "derive": "caution",
+  "songbird": "skip",
+  "ravedao": "skip",
+  "bitkub-coin": "skip",
+  "autonomi": "skip",
+  "qanplatform": "skip",
+  "lympid": "skip",
+  "bitagent-rizzo": "skip",
+  "conflux-token": "caution",
+  "cetus-protocol": "caution",
+  "openeden": "caution",
+  "yield-basis": "caution",
+  "ix-swap": "caution",
+  "blum": "skip"
+ },
+ "conviction": {
+  "polyswarm": "low",
+  "dippy-speech": "low",
+  "benqi": "low",
+  "prometeus": "low",
+  "bitsec-ai": "low",
+  "pieverse": "low",
+  "inter-milan-fan-token": "low",
+  "masx-ai": "low",
+  "hash-2": "low",
+  "derive": "low",
+  "conflux-token": "low",
+  "cetus-protocol": "low",
+  "openeden": "low",
+  "yield-basis": "low",
+  "ix-swap": "low"
+ },
+ "cases": {
+  "polyswarm": {
+   "upside": "Threat-intel marketplace with active blog; possible CyberwarCon appearance Nov 20 (year unconfirmed).",
+   "cheap": "Tiny usage of token vs a real security niche; no sign of demand driver.",
+   "wrongIf": "Volume spike fades with no news by end of November.",
+   "vsScanner": "Spike of 99x is unexplained; no dated catalyst."
+  },
+  "dippy-speech": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Tiny and little covered.",
+   "wrongIf": "Volume falls back.",
+   "vsScanner": "Spike is mild (3.3x)."
+  },
+  "benqi": {
+   "upside": "Avalanche lending protocol; no dated catalyst found.",
+   "cheap": "Avalanche DeFi out of favor.",
+   "wrongIf": "TVL keeps falling.",
+   "vsScanner": "Spike unexplained; ATH 171x away is unrealistic."
+  },
+  "prometeus": {
+   "upside": "Rebranded to Prom, a GameFi/zkEVM project; no recent news found.",
+   "cheap": "Old 2019 ICO token, unclear product traction.",
+   "wrongIf": "No product update by December.",
+   "vsScanner": "Price data conflicts across sites."
+  },
+  "bitsec-ai": {
+   "upside": "AI security subnet-type project; nothing dated found.",
+   "cheap": "Tiny and unnoticed.",
+   "wrongIf": "No product news by December.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "pieverse": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Score jump but little outside coverage.",
+   "wrongIf": "Volume dries up.",
+   "vsScanner": "Unverified score jump."
+  },
+  "inter-milan-fan-token": {
+   "upside": "Fan tokens react to match/partner news; none dated found.",
+   "cheap": "Fan token with no utility growth.",
+   "wrongIf": "No new club partnership.",
+   "vsScanner": "ATH 79x unlikely."
+  },
+  "masx-ai": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Little coverage.",
+   "wrongIf": "Volume dries up.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "hash-2": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Thin trading for the size.",
+   "wrongIf": "Volume under $100K/day.",
+   "vsScanner": "Spike alone is not a catalyst."
+  },
+  "derive": {
+   "upside": "Listing catalyst (BloFin spot 2026-10-19, Upbit July) already happened; trading volume is the only new thing.",
+   "cheap": "Listed on big exchanges already and still small; no fresh reason to re-rate.",
+   "wrongIf": "Volume stays below pre-listing level over next two weeks.",
+   "vsScanner": "Listing is 3 weeks old and not a forward catalyst."
+  },
+  "conflux-token": {
+   "upside": "None verified.",
+   "cheap": "Unwanted, down heavily.",
+   "wrongIf": "Keeps falling.",
+   "vsScanner": "Agree."
+  },
+  "cetus-protocol": {
+   "upside": "None verified.",
+   "cheap": "Unwanted, down heavily.",
+   "wrongIf": "Keeps falling.",
+   "vsScanner": "Agree."
+  },
+  "openeden": {
+   "upside": "None verified.",
+   "cheap": "Unwanted, down heavily.",
+   "wrongIf": "Keeps falling.",
+   "vsScanner": "Agree."
+  },
+  "yield-basis": {
+   "upside": "None verified.",
+   "cheap": "Unwanted, down heavily.",
+   "wrongIf": "Keeps falling.",
+   "vsScanner": "Agree."
+  },
+  "ix-swap": {
+   "upside": "None verified.",
+   "cheap": "Unwanted, down heavily.",
+   "wrongIf": "Keeps falling.",
+   "vsScanner": "Agree."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No dated, verified catalyst on any coin; the one fresh listing (Derive) already happened 3 weeks ago.",
+ "athCheck": {
+  "xend-finance": "unlikely",
+  "ondo-magnificent-7-and-crypto-portfolio": "stretch",
+  "polyswarm": "stretch",
+  "dippy-speech": "stretch",
+  "benqi": "unlikely",
+  "ondo-5-targeted-income-tr-portfolio": "stretch",
+  "dtravel": "unlikely",
+  "ondo-ai-leaders-portfolio": "stretch",
+  "prometeus": "stretch",
+  "bitsec-ai": "stretch",
+  "openai-ondo-private-market-note": "stretch",
+  "pieverse": "stretch",
+  "shopinx-2": "stretch",
+  "inter-milan-fan-token": "unlikely",
+  "hermes-3": "stretch",
+  "masx-ai": "stretch",
+  "dor": "unlikely",
+  "natix-network": "stretch",
+  "hash-2": "stretch",
+  "derive": "stretch",
+  "songbird": "unlikely",
+  "ravedao": "unlikely",
+  "bitkub-coin": "unlikely",
+  "autonomi": "stretch",
+  "qanplatform": "stretch"
+ },
+ "lifeCheck": {
+  "xend-finance": "alive",
+  "ondo-magnificent-7-and-crypto-portfolio": "quiet",
+  "polyswarm": "alive",
+  "dippy-speech": "alive",
+  "benqi": "quiet",
+  "ondo-5-targeted-income-tr-portfolio": "quiet",
+  "dtravel": "zombie",
+  "ondo-ai-leaders-portfolio": "quiet",
+  "prometeus": "alive",
+  "bitsec-ai": "alive",
+  "openai-ondo-private-market-note": "quiet",
+  "pieverse": "quiet",
+  "shopinx-2": "quiet",
+  "inter-milan-fan-token": "quiet",
+  "hermes-3": "zombie",
+  "masx-ai": "quiet",
+  "dor": "alive",
+  "natix-network": "zombie",
+  "hash-2": "alive",
+  "derive": "alive",
+  "songbird": "quiet",
+  "ravedao": "zombie",
+  "bitkub-coin": "zombie",
+  "autonomi": "zombie",
+  "qanplatform": "zombie"
+ },
+ "news": {
+  "xend-finance": {
+   "text": "No news in the last 30 days"
+  },
+  "ondo-magnificent-7-and-crypto-portfolio": {
+   "text": "No news in the last 30 days"
+  },
+  "polyswarm": {
+   "text": "No news in the last 30 days"
+  },
+  "dippy-speech": {
+   "text": "No news in the last 30 days"
+  },
+  "benqi": {
+   "text": "No news in the last 30 days"
+  },
+  "ondo-5-targeted-income-tr-portfolio": {
+   "text": "No news in the last 30 days"
+  },
+  "dtravel": {
+   "text": "No news in the last 30 days"
+  },
+  "ondo-ai-leaders-portfolio": {
+   "text": "No news in the last 30 days"
+  },
+  "prometeus": {
+   "text": "No news in the last 30 days"
+  },
+  "bitsec-ai": {
+   "text": "No news in the last 30 days"
+  },
+  "openai-ondo-private-market-note": {
+   "text": "No news in the last 30 days"
+  },
+  "pieverse": {
+   "text": "No news in the last 30 days"
+  },
+  "shopinx-2": {
+   "text": "No news in the last 30 days"
+  },
+  "inter-milan-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "hermes-3": {
+   "text": "No news in the last 30 days"
+  },
+  "masx-ai": {
+   "text": "No news in the last 30 days"
+  },
+  "dor": {
+   "text": "No news in the last 30 days"
+  },
+  "natix-network": {
+   "text": "No news in the last 30 days"
+  },
+  "hash-2": {
+   "text": "No news in the last 30 days"
+  },
+  "derive": {
+   "text": "BloFin listed DRV spot on 2026-10-19 (Upbit July 2026).",
+   "date": "2026-10-19",
+   "url": "https://blofin.com/en/support/Announcement/Spot-Listing/16118428649679-BloFin-to-List-DRVUSDT-for-Spot-Trading-2026-10-19"
+  },
+  "songbird": {
+   "text": "No news in the last 30 days"
+  },
+  "ravedao": {
+   "text": "No news in the last 30 days"
+  },
+  "bitkub-coin": {
+   "text": "No news in the last 30 days"
+  },
+  "autonomi": {
+   "text": "No news in the last 30 days"
+  },
+  "qanplatform": {
+   "text": "No news in the last 30 days"
+  },
+  "lympid": {
+   "text": "No news in the last 30 days found"
+  },
+  "bitagent-rizzo": {
+   "text": "No news in the last 30 days found"
+  },
+  "conflux-token": {
+   "text": "No news in the last 30 days found"
+  },
+  "cetus-protocol": {
+   "text": "No news in the last 30 days found"
+  },
+  "openeden": {
+   "text": "No news in the last 30 days found"
+  },
+  "yield-basis": {
+   "text": "No news in the last 30 days found"
+  },
+  "ix-swap": {
+   "text": "No news in the last 30 days found"
+  },
+  "blum": {
+   "text": "No news in the last 30 days found"
+  }
+ },
+ "sectorNews": {
+  "AI": "Searches returned nothing dated this week; AI small caps remain weak.",
+  "RWA": "Most recent data found is August 2026 (about $38B tokenized); the Ondo portfolio tokens on the list are tokenized funds, not small-cap coins.",
+  "DeFi": "No dated DeFi news found for this week."
+ },
+ "athMcap": {}
+}
