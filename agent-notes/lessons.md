@@ -1,18 +1,16 @@
 # Lessons (max 15 bullets)
 - 2026-10-12: Skip means not researchable or not tradeable, not "will fall": skip calls averaged +17% at 7 days from tiny illiquid spikers. Never treat skip as a short signal.
 - 2026-10-12: Require a dated, verified catalyst; a sector story, a known name or low price vs ATH is never enough.
-- 2026-10-15: Scanner "new listing" badges are usually old (Walrus, OriginTrail, FLOCK, Grass, Berachain, Axelar, Nillion, Falcon, WalletConnect, Prometeus, BAT). Treat as old until an announcement within 30 days is found.
+- 2026-10-15: Scanner "new listing" badges are usually old (Walrus, OriginTrail, FLOCK, Grass, Berachain, Axelar, Nillion, Falcon, WalletConnect, Prometeus, BAT, Obol/HTX). Treat as old until an announcement within 30 days is found.
 - 2026-10-14: Listing catalysts can reverse (Centrifuge, Dolomite lost listings); re-check them every few days.
 - 2026-10-17: A verified catalyst that has already moved the price (Puffer +70%) is not a buy signal.
-- 2026-10-22: A volume spike alone is not a catalyst (HASH 26x on ~$100K/day, Arkham, META, PolySwarm, Zignaly).
-- 2026-10-18: Unverifiable scanner "back" triggers count as unconfirmed, not catalysts.
-- 2026-10-20: Inkbox email needs re-authorization (still unauthorized 10-26); delivery falls back to push/chat.
-- 2026-10-27: Scanner coins priced near $0.70 with 'new listing' badges can be regulated fiat stablecoins (Macropod AUDM); check what the token is before anything else.
-- 2026-10-30: Agent worth-a-look is -19.8% at 30 days vs market -7.5% (56 picks); 10 straight days with no top picks, and all 12 coins rated worth a look on 2026-09-30 are down except DIMO (+2.9%). Keep default at caution.
-- 2026-11-04: Of 11 worth-a-look calls from 2026-10-05, 10 are down 7-44% (avg about -18%, only Bubblemaps +62%) vs market -8.6%; no top picks for 15 straight days. Unverifiable 'back' triggers (Pons-Bithumb) stay unconfirmed.
-- 2026-11-05: Across the 10-01 to 10-06 worth-a-look batches, about 80% fell by 30 days (avg roughly -15% vs market -8.6%); a single outlier (Umbra +118%) lifts averages. Spiking tokens that rebrand/migrate need the migration checked first. Strict bar stays; 16 days with no top picks. Exchange delistings (Enzyme/Binance) and past exploits (Rhea) outweigh a volume spike.
-- 2026-11-06: Of 10 worth-a-look calls from 2026-10-07, all but one are flat or down at 30 days (avg about -22% vs market -8.6%; best Injective 0%, worst ReadyAI -45%). Search returns almost nothing dated for tiny coins; with no verifiable catalyst the right call is caution/skip, and 17 days with no top picks is correct, not a failure. Exploited projects (Harmony Aug 2026, Avici Aug 2026) are skips.
-- 2026-11-07: All 12 worth-a-look calls from 2026-10-08 are down at 30 days (avg about -22% vs market -8.6%; best Injective -0.9%, worst Jito -40%). Web search returns nothing dated for most small coins; no verifiable catalyst means caution, so 'No top picks' stays the default (18 days running).
-- 2026-11-08: 19 days with no top picks. Of 4 worth-a-look calls from 2026-10-09, 3 are down 21-46% at 30 days (Nillion -45.8%, Orca -26.6%, Livepeer -20.8%; Injective -0.5%) vs market -8.6%. Search again returned nothing dated for Meteora, Venice, Sign or Gittensor, so all stay caution.
-- 2026-11-09: Of 12 worth-a-look calls from 2026-10-10, 8 are down since first pick (avg about -10% vs market -8.8%; best NextPlace +38%, worst Lido -34.5%). Volume spikes on 25-coin lists were again unexplained; Kaia (worth a look 10-11) is now -48% with score 13, so thin 'news' without a dated catalyst is not enough. Old exchange badges (Obol/HTX = May 2025) remain stale.
-- 2026-11-10: Of 7 worth-a-look calls from 2026-10-11, all are down (avg about -31% vs market -8.9%; worst Kaia -46%, best Injective -3%); 21 days with no top picks. Tokenized fund/stock tokens (Ondo portfolios) are not coins to rate. Search again found nothing dated for tiny coins.
+- 2026-10-22: A volume spike alone is not a catalyst (HASH, Arkham, META, PolySwarm, Zignaly, and again most 'back' spikes through November).
+- 2026-10-18: Unverifiable scanner "back" triggers (e.g. Pons-Bithumb) count as unconfirmed, not catalysts.
+- 2026-10-20: Inkbox email needs re-authorization (still unauthorized 2026-11-11); delivery falls back to push/chat.
+- 2026-10-27: Check what the token actually is first: regulated fiat stablecoins (AUDM, QCAD), tokenized silver, and tokenized funds/stocks (Ondo, Robinhood USO) are not coins to rate; skip them.
+- 2026-11-05: Spiking tokens that rebrand, migrate or contract-swap (Niza 1500:1) have unreliable ATH numbers; check the migration before using athX.
+- 2026-11-06: Exploited projects (Harmony, Avici, Rhea) and exchange delistings (Enzyme/Binance) outweigh any volume spike; skip.
+- 2026-11-10: Worth-a-look record is poor: about 80% of the 10-01 to 10-11 worth-a-look calls fell by 30 days (scorecard: -19.1% vs market -8.9%), with single outliers (Umbra, Bubblemaps, NextPlace) lifting averages. Keep the bar strict and caution as default.
+- 2026-11-10: Web search returns almost nothing dated for tiny coins; no verifiable dated catalyst means caution or skip, and 'No top picks' is the correct default, not a failure (23 days running on 2026-11-11).
+- 2026-11-09: Thin 'news' without a dated catalyst is not enough (Kaia worth a look 10-11, later -46%).
+- 2026-11-11: The 10-12 batch is down about 32% at 30 days for caution and 31% for skip vs market -13%; in a falling market both labels lose about the same, so ratings only add value through rare, verified catalysts.

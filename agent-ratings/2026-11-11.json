@@ -1,0 +1,318 @@
+{
+ "date": "2026-11-11",
+ "ratings": {
+  "pla-form": "caution",
+  "capybobo": "caution",
+  "researchcoin": "caution",
+  "niza-global-2": "skip",
+  "delysium": "skip",
+  "ready": "skip",
+  "herald": "skip",
+  "beam": "skip",
+  "aos-2": "caution",
+  "united-states-oil-fund-robinhood-tokenized-stock": "skip",
+  "phoenic-token": "skip",
+  "paris-saint-germain-fan-token": "caution",
+  "silvertimes-token": "skip",
+  "marinade": "caution",
+  "kyo": "caution",
+  "polytrade": "skip",
+  "superform": "caution",
+  "orbs": "caution",
+  "quantixai": "skip",
+  "velodrome-finance": "caution",
+  "bluefin": "caution",
+  "vulcan-forged": "skip",
+  "ravencoin": "caution",
+  "w-ai-parked": "caution",
+  "cartesi": "caution",
+  "gamee": "caution",
+  "rujira": "caution",
+  "rei-network": "skip",
+  "itsai": "caution",
+  "stablecorp-qcad": "skip",
+  "argus-2": "skip",
+  "gang": "skip",
+  "quickswap": "skip"
+ },
+ "conviction": {
+  "pla-form": "low",
+  "capybobo": "low",
+  "researchcoin": "low",
+  "aos-2": "low",
+  "paris-saint-germain-fan-token": "low",
+  "marinade": "medium",
+  "kyo": "low",
+  "superform": "medium",
+  "orbs": "low",
+  "velodrome-finance": "low",
+  "bluefin": "low",
+  "ravencoin": "low",
+  "w-ai-parked": "low",
+  "cartesi": "low",
+  "gamee": "low",
+  "rujira": "low",
+  "itsai": "low"
+ },
+ "cases": {
+  "pla-form": {
+   "upside": "Bittensor subnet 100 (Cortex) with a published whitepaper and code pushed this week; upside needs subnet-token demand to return, no dated event found.",
+   "cheap": "Under $2M and only tradable through subnet pools, so few people can buy it.",
+   "wrongIf": "Trading falls back near normal within two weeks with no announcement.",
+   "vsScanner": "Spike is on a $1.7M token; the scanner's score jump reflects activity, not a catalyst."
+  },
+  "capybobo": {
+   "upside": "Telegram tap-game with live seasons; a Season 2 distribution or new listing could bring volume, but no date is confirmed.",
+   "cheap": "Only 35% of tokens are out, so sellers keep arriving.",
+   "wrongIf": "Price keeps falling while trading spikes, or a large unlock hits before any new season.",
+   "vsScanner": "Spike came with a 15% weekly drop, which reads as selling, not buying."
+  },
+  "researchcoin": {
+   "upside": "ResearchHub is a real science-funding product listed on Coinbase; a 16x trading spike suggests news, but I found none dated.",
+   "cheap": "Small, niche DeSci token with 60% of supply still locked.",
+   "wrongIf": "The spike fades within a week and the price gives back this week's 17% gain.",
+   "vsScanner": "Agree the project is real; disagree that the spike means anything until a reason is found."
+  },
+  "aos-2": {
+   "upside": "Bittensor subnet 79 with code pushed yesterday; no dated event found.",
+   "cheap": "Tiny and only tradable via subnet pools.",
+   "wrongIf": "Trading drops under $100K a day.",
+   "vsScanner": "Agree with the scanner; nothing extra to add."
+  },
+  "paris-saint-germain-fan-token": {
+   "upside": "Real club, Binance listing and promised buybacks; no dated event beyond match results.",
+   "cheap": "Fan tokens have been unwanted since 2021 and tend to sell off on good news.",
+   "wrongIf": "Daily trading drops under $1M or another 'sell the news' drop follows a big match.",
+   "vsScanner": "ATH from 2021 is irrelevant; agree it is liquid, disagree it has a catalyst."
+  },
+  "marinade": {
+   "upside": "Solana staking leader whose Q3 staking grew about 21%; a token value-capture change would matter, none dated.",
+   "cheap": "The token earns little from the protocol, so growth does not flow to holders.",
+   "wrongIf": "Staking share keeps falling or the spike fades with no price gain.",
+   "vsScanner": "12x spike is unexplained again (also spiked in October with no follow-through)."
+  },
+  "kyo": {
+   "upside": "Soneium DEX with real backers; a new incentive program or listing could matter, none dated.",
+   "cheap": "Thin trading base, so a 180x spike moved the price 132% in a week.",
+   "wrongIf": "Price gives back most of the weekly gain within two weeks.",
+   "vsScanner": "Already ran up 230% this month; late, and the spike is off a tiny base."
+  },
+  "superform": {
+   "upside": "Working onchain savings app listed on Upbit, Bitget, KuCoin and Kraken; deposit growth is the driver, but no dated launch found.",
+   "cheap": "Price is down 80% from the May Upbit spike and only 25% of tokens are out, so unlocks keep weighing on it.",
+   "wrongIf": "Another unlock cliff is announced before deposits grow, or daily trading drops under $1M.",
+   "vsScanner": "Agree on quality; the scanner understates the unlock risk."
+  },
+  "orbs": {
+   "upside": "V5 upgrade (June 2026) and DAO launch (August 2026) show the team is active; no dated event ahead.",
+   "cheap": "Old 2021 coin few people follow anymore.",
+   "wrongIf": "No product or partner news by end of January.",
+   "vsScanner": "Overrule 'zombie': the scanner reads an old GitHub repo, but the project shipped upgrades this year."
+  },
+  "velodrome-finance": {
+   "upside": "Real Optimism DEX, but the scanner now finds no centralized exchange listing.",
+   "cheap": "Hard for most buyers to reach.",
+   "wrongIf": "Remains with no CEX listing through December.",
+   "vsScanner": "Agree the liquidity filter matters."
+  },
+  "bluefin": {
+   "upside": "Sui trading app; no new event found.",
+   "cheap": "Score collapsed from 61 to 24.",
+   "wrongIf": "Keeps sliding under $4M market cap.",
+   "vsScanner": "Agree with the falling score."
+  },
+  "ravencoin": {
+   "upside": "Old mining coin; no new event.",
+   "cheap": "Little reason to own it.",
+   "wrongIf": "Keeps losing value vs the market.",
+   "vsScanner": "Agree with the falling score."
+  },
+  "w-ai-parked": {
+   "upside": "Basilica GPU subnet, used by other subnets; trading spiked 4.8x again with no reason found.",
+   "cheap": "Tiny subnet token.",
+   "wrongIf": "Spike fades within a week.",
+   "vsScanner": "Spike again without a cause."
+  },
+  "cartesi": {
+   "upside": "No dated catalyst found since October.",
+   "cheap": "Down 31% since my call with the score at 22.",
+   "wrongIf": "Already happened: it fell 31% while the market fell about 13%.",
+   "vsScanner": "Agree with the scanner's lower score."
+  },
+  "gamee": {
+   "upside": "No new event.",
+   "cheap": "Score down from 56 to 35.",
+   "wrongIf": "Keeps falling.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "rujira": {
+   "upside": "THORChain app; no dated event.",
+   "cheap": "Small and thin.",
+   "wrongIf": "Volume stays under $100K a day.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "itsai": {
+   "upside": "No dated catalyst.",
+   "cheap": "No verified reason.",
+   "wrongIf": "Daily trading falls below $100K.",
+   "vsScanner": "Spike without a story."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin has a dated, verified catalyst; the spikes that brought coins back have no reason I could find.",
+ "athCheck": {
+  "pla-form": "stretch",
+  "capybobo": "stretch",
+  "researchcoin": "unlikely",
+  "niza-global-2": "unlikely",
+  "delysium": "unlikely",
+  "ready": "unlikely",
+  "herald": "stretch",
+  "beam": "unlikely",
+  "aos-2": "stretch",
+  "united-states-oil-fund-robinhood-tokenized-stock": "realistic",
+  "phoenic-token": "unlikely",
+  "paris-saint-germain-fan-token": "unlikely",
+  "silvertimes-token": "realistic",
+  "marinade": "unlikely",
+  "kyo": "stretch",
+  "polytrade": "unlikely",
+  "superform": "stretch",
+  "orbs": "unlikely"
+ },
+ "lifeCheck": {
+  "pla-form": "alive",
+  "capybobo": "alive",
+  "researchcoin": "alive",
+  "niza-global-2": "quiet",
+  "delysium": "quiet",
+  "ready": "zombie",
+  "herald": "quiet",
+  "beam": "quiet",
+  "aos-2": "alive",
+  "united-states-oil-fund-robinhood-tokenized-stock": "alive",
+  "phoenic-token": "zombie",
+  "paris-saint-germain-fan-token": "alive",
+  "silvertimes-token": "quiet",
+  "marinade": "alive",
+  "kyo": "quiet",
+  "polytrade": "zombie",
+  "superform": "alive",
+  "orbs": "quiet"
+ },
+ "news": {
+  "pla-form": {
+   "text": "No news in the last 30 days"
+  },
+  "capybobo": {
+   "text": "No news in the last 30 days"
+  },
+  "researchcoin": {
+   "text": "Coinbase listed RSC earlier in 2026; no news found explaining this week's 16x trading spike.",
+   "url": "https://stocktwits.com/coins/researchcoin"
+  },
+  "niza-global-2": {
+   "text": "Token went through a 1500-to-1 contract swap; no news in the last 30 days.",
+   "url": "https://www.mexc.com/announcements/article/17827791530190"
+  },
+  "delysium": {
+   "text": "A 34M-token treasury unlock was scheduled for November 9, two days before the spike.",
+   "date": "2026-11-09",
+   "url": "https://defillama.com/unlocks/delysium"
+  },
+  "ready": {
+   "text": "No news in the last 30 days"
+  },
+  "herald": {
+   "text": "No news in the last 30 days"
+  },
+  "beam": {
+   "text": "No news in the last 30 days"
+  },
+  "aos-2": {
+   "text": "No news in the last 30 days"
+  },
+  "united-states-oil-fund-robinhood-tokenized-stock": {
+   "text": "No news in the last 30 days"
+  },
+  "phoenic-token": {
+   "text": "No news in the last 30 days"
+  },
+  "paris-saint-germain-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "silvertimes-token": {
+   "text": "No news in the last 30 days"
+  },
+  "marinade": {
+   "text": "Q3 2026 report: SOL staked through Marinade up about 21% on the quarter (published October).",
+   "url": "https://www.kucoin.com/news/flash/marinade-q3-2026-sol-staking-volume-rises-to-7-94m"
+  },
+  "kyo": {
+   "text": "No news in the last 30 days"
+  },
+  "polytrade": {
+   "text": "No news in the last 30 days"
+  },
+  "superform": {
+   "text": "Nothing in the last 30 days; last big event was the Upbit listing on May 13, 2026, which spiked the price.",
+   "url": "https://www.cryptotimes.io/2026/05/13/upbit-listing-sends-superform-up-surging-nearly-80-within-hours/"
+  },
+  "orbs": {
+   "text": "Nothing in the last 30 days; last news was the DAO framework vote in July-August 2026.",
+   "url": "https://altfins.com/crypto-news/article/orbs-launches-community-governance-vote-to-establish-its-dao-framework"
+  },
+  "quantixai": {
+   "text": "No news; the scanner shows a price near $999 vs about $17 in late October after a MEXC delisting, which looks like a data glitch or an illiquid squeeze."
+  },
+  "velodrome-finance": {
+   "text": "No news in the last 30 days"
+  },
+  "bluefin": {
+   "text": "No news in the last 30 days"
+  },
+  "vulcan-forged": {
+   "text": "No news found for the 98% one-day jump on a $1M market cap."
+  },
+  "ravencoin": {
+   "text": "No news in the last 30 days"
+  },
+  "w-ai-parked": {
+   "text": "No news in the last 30 days"
+  },
+  "cartesi": {
+   "text": "No news in the last 30 days"
+  },
+  "gamee": {
+   "text": "No news in the last 30 days"
+  },
+  "rujira": {
+   "text": "No news in the last 30 days"
+  },
+  "rei-network": {
+   "text": "No news in the last 30 days"
+  },
+  "itsai": {
+   "text": "No news in the last 30 days"
+  },
+  "stablecorp-qcad": {
+   "text": "No news in the last 30 days"
+  },
+  "argus-2": {
+   "text": "No news in the last 30 days"
+  },
+  "gang": {
+   "text": "No news in the last 30 days"
+  },
+  "quickswap": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "I found no dated AI-token news for this week; the latest coverage is older swings tied to Bittensor and tariffs. Four of today's coins are AI (three are Bittensor subnet tokens), and subnet tokens move as a group with TAO, so tiny ones get little help without their own news.",
+  "DeFi": "No dated DeFi news found for this week; 2026 has seen large exploits (KelpDAO in April) and TVL falling, which pushes money toward the biggest protocols. That hurts small DeFi tokens like the four on today's list.",
+  "RWA": "Tokenized real-world assets reached about $39B in October, mostly treasuries and tokenized stocks, which is money that does not flow into small RWA protocol tokens. Two of today's four RWA entries are a tokenized fund and a silver token, not real coins.",
+  "Gaming": "Gaming tokens remain deeply out of favor in 2026, with many studios shut and funding down; hopes of a lift around the GTA VI release are speculation. That hurts small game tokens like the two on today's list."
+ },
+ "athMcap": {}
+}
