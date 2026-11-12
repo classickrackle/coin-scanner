@@ -1,0 +1,180 @@
+{
+ "date": "2026-11-12",
+ "ratings": {
+  "safe-scan": "skip",
+  "atlas-navi": "skip",
+  "supra": "caution",
+  "meteor-coin": "skip",
+  "ika": "caution",
+  "kyrgyz-som-stablecoin": "skip",
+  "quantoz-eurq": "skip",
+  "konet": "skip",
+  "vvs-finance": "caution",
+  "swash": "skip",
+  "ancient8": "skip",
+  "iron-fish": "skip",
+  "blast": "skip",
+  "hyperwave": "skip",
+  "athenax9": "skip",
+  "ozone-chain": "caution",
+  "althea": "skip",
+  "maverick-protocol": "caution",
+  "oasis-network": "caution",
+  "sixpack-token-sixp": "skip",
+  "credefi": "skip",
+  "arena-z": "skip",
+  "metacene": "skip",
+  "taoillium": "skip"
+ },
+ "conviction": {
+  "supra": "low",
+  "ika": "low",
+  "vvs-finance": "low",
+  "ozone-chain": "low",
+  "maverick-protocol": "low",
+  "oasis-network": "low"
+ },
+ "cases": {
+  "supra": {
+   "upside": "A real layer-1 with oracle and automation products and big-name backers; a fresh product launch or exchange push could re-rate a $7M chain, but I found nothing dated after mid-2026.",
+   "cheap": "It is down about 99.8% from its 2024 high after the team raised the max supply to 100B, so the market sees endless dilution, not a bargain.",
+   "wrongIf": "No dated product or listing news by end of December and the 39% weekly gain fades back.",
+   "vsScanner": "The scanner sees a cheap L1 with a trading jump; I see a supply-expansion story with no news behind this week's move."
+  },
+  "ika": {
+   "upside": "Active code and Sui backing; a big wallet or protocol integration could matter, but nothing is dated.",
+   "cheap": "Only 30% of tokens are out and holders keep selling; it is not ignored, it is being sold.",
+   "wrongIf": "Price keeps making new lows through November or daily trading falls under $300K.",
+   "vsScanner": "Disagree that the trading spike is a positive; it came with a 28% one-day drop, which looks like selling, not buying."
+  },
+  "vvs-finance": {
+   "upside": "A working DEX tied to Crypto.com and Cronos; a Cronos revival or new Crypto.com tie-in would help, but nothing is scheduled.",
+   "cheap": "Little real use and 54% of tokens still to be released, so there is a reason the price sits where it does.",
+   "wrongIf": "Daily trading stays under $200K and Cronos activity keeps shrinking.",
+   "vsScanner": "Agree it is real, but the scanner's own flags (thin trading, unlocks) outweigh its score."
+  },
+  "ozone-chain": {
+   "upside": "Nothing dated found behind the 71% one-day jump.",
+   "cheap": "Thin following and no team news found; the jump is unexplained.",
+   "wrongIf": "The 71% gain gives back more than half within a week.",
+   "vsScanner": "The rank climb is real on the chart but I found no story; treat it as a spike."
+  },
+  "maverick-protocol": {
+   "upside": "Working DeFi product, but no dated catalyst found.",
+   "cheap": "Sector has cooled and the score has fallen from 53 to 21.",
+   "wrongIf": "It keeps sliding with the score below 25.",
+   "vsScanner": "Agree with the scanner's falling score."
+  },
+  "oasis-network": {
+   "upside": "Established privacy chain, but no dated catalyst found.",
+   "cheap": "Old project the market has moved past; down about 40% since first pick.",
+   "wrongIf": "It keeps falling with the score below 20.",
+   "vsScanner": "Agree with the scanner's falling score."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin on today's short list has a dated, verified catalyst; the spikes came with no news, two coins are stablecoins, and the rest look dead or diluted.",
+ "athCheck": {
+  "safe-scan": "unlikely",
+  "atlas-navi": "unlikely",
+  "supra": "unlikely",
+  "meteor-coin": "unlikely",
+  "ika": "unlikely",
+  "kyrgyz-som-stablecoin": "unlikely",
+  "quantoz-eurq": "unlikely",
+  "konet": "unlikely",
+  "vvs-finance": "unlikely"
+ },
+ "lifeCheck": {
+  "safe-scan": "zombie",
+  "atlas-navi": "quiet",
+  "supra": "quiet",
+  "meteor-coin": "quiet",
+  "ika": "alive",
+  "kyrgyz-som-stablecoin": "alive",
+  "quantoz-eurq": "alive",
+  "konet": "quiet",
+  "vvs-finance": "quiet"
+ },
+ "news": {
+  "safe-scan": {
+   "text": "No news in the last 30 days; older coverage of a DSV Fund OTC investment and its skin-cancer AI competition is undated."
+  },
+  "atlas-navi": {
+   "text": "No news in the last 30 days"
+  },
+  "supra": {
+   "text": "Nothing in the last 30 days; the most recent items are a SupraOS alpha in April and roadmap notes in June 2026, plus the earlier max-supply increase to 100B."
+  },
+  "meteor-coin": {
+   "text": "No news in the last 30 days"
+  },
+  "ika": {
+   "text": "No news in the last 30 days"
+  },
+  "kyrgyz-som-stablecoin": {
+   "text": "No news in the last 30 days"
+  },
+  "quantoz-eurq": {
+   "text": "No news in the last 30 days"
+  },
+  "konet": {
+   "text": "No news in the last 30 days"
+  },
+  "vvs-finance": {
+   "text": "No news in the last 30 days"
+  },
+  "swash": {
+   "text": "No news in the last 30 days"
+  },
+  "ancient8": {
+   "text": "No news found on the HTX removal the scanner reports; no other news in the last 30 days."
+  },
+  "iron-fish": {
+   "text": "No news in the last 30 days"
+  },
+  "blast": {
+   "text": "Bithumb ended BLAST trading on Oct 26 as the Blast Foundation shut down its mainnet, saying costs exceeded revenue; Korean exchanges had already put it on warning lists.",
+   "date": "2026-10-14",
+   "url": "https://www.onesafe.io/blog/bithumb-delists-blast-token-network-shutdown"
+  },
+  "hyperwave": {
+   "text": "No news in the last 30 days"
+  },
+  "athenax9": {
+   "text": "No news in the last 30 days"
+  },
+  "ozone-chain": {
+   "text": "No news in the last 30 days"
+  },
+  "althea": {
+   "text": "No news in the last 30 days"
+  },
+  "maverick-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "oasis-network": {
+   "text": "No news in the last 30 days"
+  },
+  "sixpack-token-sixp": {
+   "text": "No news in the last 30 days"
+  },
+  "credefi": {
+   "text": "No news in the last 30 days"
+  },
+  "arena-z": {
+   "text": "No news in the last 30 days"
+  },
+  "metacene": {
+   "text": "No news in the last 30 days"
+  },
+  "taoillium": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "I found no dated AI-sector coverage for this week; the latest recap found says AI tokens gave back an earlier rally and most top names were red for the week. Small AI coins on today's list (a Bittensor subnet and a drive-to-earn app) are falling on their own and get no lift from the sector.",
+  "Infrastructure": "No dated layer-1/layer-2 news for this week turned up. The small infrastructure coins on today's list (Supra, Ika, KONET) moved on spikes with no announcements, and the Blast network shutdown last month is a reminder that small chains are being wound down, not funded."
+ },
+ "athMcap": {}
+}
