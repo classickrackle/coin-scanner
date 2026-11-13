@@ -6,11 +6,11 @@
 - 2026-10-17: A verified catalyst that has already moved the price (Puffer +70%) is not a buy signal.
 - 2026-10-22: A volume spike alone is not a catalyst (HASH, Arkham, META, PolySwarm, Zignaly, and again most 'back' spikes through November).
 - 2026-10-18: Unverifiable scanner "back" triggers (e.g. Pons-Bithumb) count as unconfirmed, not catalysts.
-- 2026-10-20: Inkbox email needs re-authorization (still unauthorized 2026-11-12); delivery falls back to push/chat.
+- 2026-10-20: Inkbox email needs re-authorization (still unauthorized 2026-11-13); delivery falls back to push/chat.
 - 2026-10-27: Check what the token actually is first: regulated fiat stablecoins (AUDM, QCAD), tokenized silver, and tokenized funds/stocks (Ondo, Robinhood USO) are not coins to rate; skip them.
 - 2026-11-05: Spiking tokens that rebrand, migrate or contract-swap (Niza 1500:1) have unreliable ATH numbers; check the migration before using athX.
 - 2026-11-06 (updated 2026-11-12): Network shutdowns (Blast, mainnet off Oct 26, -99.6%), exploited projects (Harmony, Avici, Rhea) and exchange delistings (Enzyme/Binance) outweigh any volume spike; skip.
 - 2026-11-10: Worth-a-look record is poor: about 80% of the 10-01 to 10-11 worth-a-look calls fell by 30 days (scorecard: -19.1% vs market -8.9%), with single outliers (Umbra, Bubblemaps, NextPlace) lifting averages. Keep the bar strict and caution as default.
 - 2026-11-10: Web search returns almost nothing dated for tiny coins; no verifiable dated catalyst means caution or skip, and 'No top picks' is the correct default, not a failure (23 days running on 2026-11-11).
 - 2026-11-09: Thin 'news' without a dated catalyst is not enough (Kaia worth a look 10-11, later -46%).
-- 2026-11-12: The 10-12 and 10-13 batches lost 23-32% at 30 days on caution vs market -13%; skip medians lose about as much (one or two moonshots like Vericore lift skip averages). Ratings only add value through rare, verified catalysts.
+- 2026-11-12 (updated 2026-11-13): The 10-12 to 10-14 batches lost 23-32% at 30 days on caution vs market -13% to -17%; skip medians lose about as much (one or two moonshots like Vericore lift skip averages). Ratings only add value through rare, verified catalysts.

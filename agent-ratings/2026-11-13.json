@@ -1,0 +1,265 @@
+{
+ "date": "2026-11-13",
+ "ratings": {
+  "sanctum-2": "caution",
+  "gitlawb": "caution",
+  "dynex": "skip",
+  "vidaio": "caution",
+  "finetuning": "caution",
+  "mysterium": "caution",
+  "dtravel": "skip",
+  "for-sale": "skip",
+  "lumia": "caution",
+  "dodo": "caution",
+  "stargate-finance": "skip",
+  "higher-fun": "skip",
+  "payai-network-2": "caution",
+  "hash-2": "caution",
+  "nkyc-token": "skip",
+  "bit2me": "skip",
+  "lombard-protocol": "skip",
+  "metya": "skip",
+  "ithaca-protocol": "skip",
+  "ix-swap": "skip",
+  "plume": "caution",
+  "aventus": "skip",
+  "magic": "skip",
+  "chromaway": "skip",
+  "checkmate-2": "skip",
+  "logicnet": "skip",
+  "gaia-2": "skip",
+  "embercurve": "skip",
+  "float": "skip",
+  "hookr-fun": "caution",
+  "staynex": "skip"
+ },
+ "conviction": {
+  "sanctum-2": "medium",
+  "gitlawb": "low",
+  "vidaio": "low",
+  "finetuning": "low",
+  "mysterium": "low",
+  "lumia": "low",
+  "dodo": "low",
+  "payai-network-2": "low",
+  "hash-2": "low",
+  "plume": "low",
+  "hookr-fun": "low"
+ },
+ "cases": {
+  "sanctum-2": {
+   "upside": "Upbit opened KRW, BTC and USDT trading for SANC today (Nov 13), which brings Korean retail buyers to a real Solana liquid-staking business that burned 259M tokens in September.",
+   "cheap": "It was ignored at a $20M-ish value until today; the listing is exactly what made people notice, so most of the re-rating already happened in one day.",
+   "wrongIf": "SANC gives back more than half of today's jump (falls under about $0.065) by Nov 20, as Upbit listing pumps usually do.",
+   "vsScanner": "The scanner calls it a trading spike; it is a confirmed Upbit listing, but the +113% day means the easy money is gone, so I won't chase it.",
+   "catalystDate": "2026-11-13"
+  },
+  "gitlawb": {
+   "upside": "A working alpha of a git network for AI agents with a staking token; a real developer uptake number or a bigger exchange would matter, but nothing is dated.",
+   "cheap": "A sub-$1M token traded only on KCEX, with several look-alike contracts on Base; it is obscure rather than mispriced.",
+   "wrongIf": "No mid-tier exchange listing or published usage numbers by end of December, or the +39% day fully reverses within a week.",
+   "vsScanner": "Agree it is cheap for an AI coin, but the scanner can't see that several fake GITLAWB contracts exist and the only exchange is KCEX."
+  },
+  "vidaio": {
+   "upside": "A Bittensor video-upscaling subnet with a real product; a TAO sector bounce would lift it, but nothing dated is specific to Vidaio.",
+   "cheap": "Subnet tokens have been sold all year as TAO fell; it isn't overlooked, it's out of favor.",
+   "wrongIf": "Price makes a new low under $0.80 or the team stays silent through December.",
+   "vsScanner": "The 3.6x trading jump came with a +0.4% week; nothing changed, so I disagree it is a reason to look again (was skip on Nov 4)."
+  },
+  "finetuning": {
+   "upside": "Aurelius runs Bittensor subnet 37 for AI alignment data, with code pushed this week; a named lab using its data would be a real catalyst, but none is dated.",
+   "cheap": "A $2.8M subnet token in a sector that's been dumping; nothing specific makes it mispriced.",
+   "wrongIf": "No named customer or dataset release by end of January, or price falls under $0.45.",
+   "vsScanner": "Agree it is alive; the 31x trading jump with a -6% week looks like one large trade, not demand."
+  },
+  "mysterium": {
+   "upside": "A decentralized VPN that has run since 2018 with steady code pushes; a privacy-coin wave could lift it, but nothing is dated.",
+   "cheap": "Tiny value and only MEXC as a big exchange; it is ignored because users of the VPN don't need to hold MYST.",
+   "wrongIf": "Trading falls back under $30K a day or the 22% day gain reverses by Nov 20.",
+   "vsScanner": "Agree it is alive; the spike has no news, same as when I rated it caution on Oct 30 (price since +27%)."
+  },
+  "lumia": {
+   "upside": "Real RWA layer-2 with Binance listing; the late-2026 privacy and node-liquidity roadmap could matter if it ships, but no date is set.",
+   "cheap": "Down 97% from its 2024 high with heavy supply growth; it's unwanted, not missed.",
+   "wrongIf": "No roadmap release by end of December or daily trading falls under $500K.",
+   "vsScanner": "Disagree that KCEX is meaningful; it is a minor exchange and the token already trades on Binance."
+  },
+  "dodo": {
+   "upside": "A long-running DEX with real volume; a Binance decision to drop its monitoring tag would help, but nothing is dated.",
+   "cheap": "Binance has had it on a delisting-risk watch tag since May 2026; that's why it's cheap.",
+   "wrongIf": "Binance announces a delisting, or the +31% week fully reverses by Nov 20.",
+   "vsScanner": "The scanner sees a trading spike; $43M of trading on a $29M coin with no news looks like speculation on a watch-tagged token."
+  },
+  "payai-network-2": {
+   "upside": "PayAI is a working x402 payment facilitator for AI agents and launched batch settlement on Solana in public preview; an SDK launch could help but has no date.",
+   "cheap": "The x402 hype faded and the token is not needed to use the service (payments settle in USDC).",
+   "wrongIf": "No SDK launch or usage numbers by end of January, or price falls under $0.004.",
+   "vsScanner": "Disagree with the scanner's 'zombie' label; the product is shipping, the Telegram is just unused."
+  },
+  "hash-2": {
+   "upside": "Provenance is Figure's lending chain with a planned fee model; network fees going live would give HASH real value, but no date is set.",
+   "cheap": "It isn't cheap at $391M with only $37K of daily trading; almost nobody can buy or sell it.",
+   "wrongIf": "No fee-model launch by end of Q1 2027 or daily trading stays under $100K.",
+   "vsScanner": "The trading spike is from a tiny base; the scanner's own 'very little trading' flag matters more than the score."
+  },
+  "plume": {
+   "upside": "RWA chain in the DTCC tokenization working group; no product from that tie-up yet.",
+   "cheap": "Heavy supply and a sector where big names take the flows.",
+   "wrongIf": "No DTCC-linked product by year end or daily trading under $10M.",
+   "vsScanner": "Agree with the downgrade to quiet."
+  },
+  "hookr-fun": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Unknown; no news behind the moves.",
+   "wrongIf": "Falls below its first-picked price ($0.0138).",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "The only coin with a verified, dated catalyst (Sanctum's Upbit listing) already doubled on the news today; everything else has no dated catalyst.",
+ "athCheck": {
+  "sanctum-2": "stretch",
+  "gitlawb": "unlikely",
+  "dynex": "unlikely",
+  "vidaio": "unlikely",
+  "finetuning": "stretch",
+  "mysterium": "unlikely",
+  "dtravel": "unlikely",
+  "for-sale": "unlikely",
+  "lumia": "unlikely",
+  "dodo": "unlikely",
+  "stargate-finance": "unlikely",
+  "higher-fun": "unlikely",
+  "payai-network-2": "stretch",
+  "hash-2": "unlikely",
+  "nkyc-token": "unlikely",
+  "bit2me": "unlikely"
+ },
+ "lifeCheck": {
+  "sanctum-2": "alive",
+  "gitlawb": "alive",
+  "dynex": "quiet",
+  "vidaio": "quiet",
+  "finetuning": "alive",
+  "mysterium": "alive",
+  "dtravel": "zombie",
+  "for-sale": "dead",
+  "lumia": "quiet",
+  "dodo": "alive",
+  "stargate-finance": "alive",
+  "higher-fun": "quiet",
+  "payai-network-2": "alive",
+  "hash-2": "alive",
+  "nkyc-token": "quiet",
+  "bit2me": "quiet"
+ },
+ "news": {
+  "sanctum-2": {
+   "text": "Upbit listed SANC against the Korean won, Bitcoin and USDT, with trading opening Nov 13; the price roughly doubled on the news.",
+   "date": "2026-11-13",
+   "url": "https://www.coininsider.org/news/upbit-lists-sanctum-sanc-on-krw-btc-and-usdt-markets/"
+  },
+  "gitlawb": {
+   "text": "No dated news in the last 30 days; the 39% one-day jump came with no announcement I could find."
+  },
+  "dynex": {
+   "text": "No news in the last 30 days; last dated posts are from spring 2026."
+  },
+  "vidaio": {
+   "text": "No news in the last 30 days."
+  },
+  "finetuning": {
+   "text": "No news in the last 30 days; coverage is older explainer pieces about the alignment subnet."
+  },
+  "mysterium": {
+   "text": "No news in the last 30 days."
+  },
+  "dtravel": {
+   "text": "No news in the last 30 days; Telegram silent for over two years."
+  },
+  "for-sale": {
+   "text": "No news in the last 30 days; the subnet name 'For Sale' suggests the owner is trying to sell it."
+  },
+  "lumia": {
+   "text": "No news in the last 30 days besides a minor KCEX listing."
+  },
+  "dodo": {
+   "text": "No news in the last 30 days; Binance put DODO on its monitoring (delisting-risk) list in May 2026."
+  },
+  "stargate-finance": {
+   "text": "STG is being folded into LayerZero's ZRO at a fixed 0.08634 ZRO per STG, with the conversion window closing Dec 15, 2026.",
+   "date": "2026-11-04",
+   "url": "https://cryptoticker.io/en/stg-zro-token-merge-deadline/"
+  },
+  "higher-fun": {
+   "text": "No news found; the token hit its all-time high on Nov 5 and is down 68% this week."
+  },
+  "payai-network-2": {
+   "text": "PayAI put x402 batch settlement on Solana into public preview (date not confirmed, recent)."
+  },
+  "hash-2": {
+   "text": "No news in the last 30 days; Figure took over the foundation's work in January 2026."
+  },
+  "nkyc-token": {
+   "text": "No news in the last 30 days."
+  },
+  "bit2me": {
+   "text": "No news in the last 30 days."
+  },
+  "lombard-protocol": {
+   "text": "BARD jumped 84% in a day with $168M traded on a $63M coin, and the scanner now flags fake-looking volume; about 13.75M tokens unlock on Nov 18.",
+   "date": "2026-11-11",
+   "url": "https://chaincatcher.com/en/article/2303608"
+  },
+  "metya": {
+   "text": "Price up 73% in a day with no news found; ongoing MET to MY swap still clouds the supply."
+  },
+  "ithaca-protocol": {
+   "text": "No news found; trading still tiny."
+  },
+  "ix-swap": {
+   "text": "No centralized exchange listing left and no market cap data; the price is down 78% since first picked."
+  },
+  "plume": {
+   "text": "No new news; the scanner moved it from alive to quiet."
+  },
+  "aventus": {
+   "text": "No news found."
+  },
+  "magic": {
+   "text": "No news found."
+  },
+  "chromaway": {
+   "text": "No news found."
+  },
+  "checkmate-2": {
+   "text": "No news found."
+  },
+  "logicnet": {
+   "text": "Up 1975% in a week on a $63K market cap with no news; fails the scanner's safety filter."
+  },
+  "gaia-2": {
+   "text": "No news; now fails the scanner's minimum-trading filter."
+  },
+  "embercurve": {
+   "text": "Up 46% today but down 66% since first picked; no news found."
+  },
+  "float": {
+   "text": "Down 32% today and 77% since first picked; no news found."
+  },
+  "hookr-fun": {
+   "text": "Down 31% today, still up 19% since first picked; no news found."
+  },
+  "staynex": {
+   "text": "Now fails the scanner's fake-volume filter."
+  }
+ },
+ "sectorNews": {
+  "AI": "I found no reliable dated AI-sector news for this week; recent recaps show the sector swinging between sharp slides and short bounces, with Bittensor subnet tokens weak as TAO sits near multi-year lows. That backdrop hurts tiny AI and subnet tokens, which fall hardest when the sector sells off.",
+  "DeFi": "DeFi value locked is far below January after a record run of hacks in 2026 (Drift and KelpDAO in April), and I found nothing dated for this week. Money is concentrating in big names; small DeFi tokens need their own catalyst, like Sanctum's Upbit listing, to move.",
+  "RWA": "Tokenized real-world assets keep growing on-chain, but the money goes to big issuers and tokenized funds, not small RWA chain tokens. No dated sector news this week; the trend does little for Lumia or Dtravel.",
+  "DePIN": "DePIN revenue is growing but most older tokens sit 94-99% below their highs, and I found no dated sector news this week. Rising revenue has not been reaching small token prices.",
+  "Governance": "Sanctum and Lumia are tagged governance; no separate governance news, and governance tokens without revenue share remain out of favor."
+ },
+ "athMcap": {}
+}
