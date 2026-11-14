@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-14",
+ "ratings": {
+  "radix": "caution",
+  "numinous": "caution",
+  "cumulus-encrypted-storage-system": "caution",
+  "arbitrum": "caution",
+  "ondo-8-targeted-income-tr-portfolio": "skip",
+  "roaland-core": "skip",
+  "ondo-ai-leaders-portfolio": "skip",
+  "fireverse": "skip",
+  "tac": "skip",
+  "kava": "skip",
+  "as-monaco-fan-token": "skip",
+  "sturdy-subnet": "skip",
+  "roobee": "skip",
+  "safecoin": "skip",
+  "america-s-official-launchpad": "skip",
+  "myshell": "skip",
+  "kyo": "skip",
+  "truefi": "skip",
+  "elizaos": "skip",
+  "iexec-rlc": "caution",
+  "sophon": "skip",
+  "nervos-network": "caution",
+  "wormhole": "caution",
+  "starknet": "caution",
+  "graphlinq-protocol": "skip",
+  "gunz": "skip",
+  "sonic-3": "caution",
+  "for-sale": "skip"
+ },
+ "conviction": {
+  "radix": "low",
+  "numinous": "low",
+  "cumulus-encrypted-storage-system": "low",
+  "arbitrum": "medium",
+  "iexec-rlc": "low",
+  "nervos-network": "low",
+  "wormhole": "low",
+  "starknet": "low",
+  "sonic-3": "low"
+ },
+ "cases": {
+  "radix": {
+   "upside": "Only a speculative one: community groups taking over the network before the Foundation's paid-for services run out at the end of December 2026 could restore confidence.",
+   "cheap": "Not mispriced so much as abandoned: the Foundation went into maintenance mode in April 2026 and the price is up about 140% since my first look with no news behind it.",
+   "wrongIf": "No community body announces it will run the gateway and wallet services before 2026-12-31, or the price gives back this week's 53% jump.",
+   "vsScanner": "The scanner sees a live code repo and a trading spike; I see a project whose backer is winding down, so the spike is speculation, not a signal.",
+   "catalystDate": "2026-12"
+  },
+  "numinous": {
+   "upside": "A real working product (AI forecasting agents competing on Bittensor, plus the Eversight tool) that could win more subnet rewards if it keeps beating benchmarks.",
+   "cheap": "Subnet tokens are thinly traded and the whole Bittensor area has been shaken by governance drama, so small subnets get ignored.",
+   "wrongIf": "Its share of Bittensor rewards falls or daily trading drops back under about $30K.",
+   "vsScanner": "Agree it is alive, but a 6.7x trading spike with the price still falling 9% this week is not a reason to look."
+  },
+  "cumulus-encrypted-storage-system": {
+   "upside": "A mainnet launch and token move to its own chain would be the real event, but it was promised for early 2026 and I can't find a new date.",
+   "cheap": "Storage coins are out of favour and only about a quarter of tokens are released, so buyers expect selling from future unlocks.",
+   "wrongIf": "No dated mainnet announcement by end of 2026, or a big unlock lands first.",
+   "vsScanner": "Scanner says alive and I agree, but it underweights the 74% of tokens still to come."
+  },
+  "arbitrum": {
+   "upside": "Offchain Labs is buying ARB under an approved plan and the network keeps growing (Robinhood Chain over $1B locked), but there is no single dated event that should move the price.",
+   "cheap": "Large Layer 2 coins have been sold steadily all year as supply keeps unlocking, so the market is not missing it so much as tired of it.",
+   "wrongIf": "Price keeps making new lows after the 93M ARB unlock around 2026-11-15/16 even with the buybacks running.",
+   "vsScanner": "Agree on the health numbers, but the scanner ignores the monthly unlock landing tomorrow, which is a headwind not a catalyst.",
+   "catalystDate": "2026-11-16"
+  },
+  "iexec-rlc": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No clear reason; score has collapsed from 75 to 22.",
+   "wrongIf": "Price keeps sliding with no announcement.",
+   "vsScanner": "Scanner's own score now agrees the earlier interest is gone."
+  },
+  "nervos-network": {
+   "upside": "No dated catalyst found.",
+   "cheap": "No clear reason.",
+   "wrongIf": "Price keeps sliding with no announcement.",
+   "vsScanner": "Score fell from 56 to 18; agree with the scanner."
+  },
+  "wormhole": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Market-wide sell-off; nothing project-specific.",
+   "wrongIf": "Price makes new lows on its own news rather than the market.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "starknet": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Layer 2 coins are out of favour and keep unlocking supply.",
+   "wrongIf": "Price makes new lows.",
+   "vsScanner": "Agree with the scanner."
+  },
+  "sonic-3": {
+   "upside": "No dated catalyst found.",
+   "cheap": "Market-wide sell-off.",
+   "wrongIf": "Daily trading falls under $50M.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing on today's short list has a verifiable, dated catalyst: most are tokenized funds, stale-listing pumps, abandoned or exploited projects, and the market fell about 12% this week.",
+ "athCheck": {
+  "radix": "unlikely",
+  "numinous": "stretch",
+  "cumulus-encrypted-storage-system": "unlikely",
+  "arbitrum": "unlikely",
+  "ondo-8-targeted-income-tr-portfolio": "realistic",
+  "roaland-core": "unlikely",
+  "ondo-ai-leaders-portfolio": "realistic",
+  "fireverse": "unlikely",
+  "tac": "unlikely",
+  "kava": "unlikely",
+  "as-monaco-fan-token": "unlikely",
+  "sturdy-subnet": "unlikely",
+  "roobee": "unlikely"
+ },
+ "lifeCheck": {
+  "radix": "quiet",
+  "numinous": "alive",
+  "cumulus-encrypted-storage-system": "alive",
+  "arbitrum": "alive",
+  "ondo-8-targeted-income-tr-portfolio": "alive",
+  "roaland-core": "quiet",
+  "ondo-ai-leaders-portfolio": "alive",
+  "fireverse": "quiet",
+  "tac": "quiet",
+  "kava": "zombie",
+  "as-monaco-fan-token": "quiet",
+  "sturdy-subnet": "zombie",
+  "roobee": "zombie"
+ },
+ "news": {
+  "radix": {
+   "text": "Radix Foundation moved to maintenance mode; its core services are only paid for until the end of December 2026.",
+   "date": "2026-04-28",
+   "url": "https://www.radixdlt.com/blog/foundation-update-moving-to-maintenance-mode"
+  },
+  "numinous": {
+   "text": "No news in the last 30 days; earlier coverage of its Eversight forecasting tool launch.",
+   "url": "https://taodaily.io/numinous-labs-just-launched-eversight-the-most-accurate-ai-forecasting-tool-and-its-free-right-now"
+  },
+  "cumulus-encrypted-storage-system": {
+   "text": "No news in the last 30 days; mainnet still pending as of the last update in February 2026."
+  },
+  "arbitrum": {
+   "text": "About 93 million ARB unlock around November 15-16 while Offchain Labs keeps buying ARB; DAO vote on adding 100M ARB to the USDG fund closed November 12.",
+   "date": "2026-11-15",
+   "url": "https://en.coinotag.com/arbitrum-to-unlock-93-14-million-arb-november-15"
+  },
+  "ondo-8-targeted-income-tr-portfolio": {
+   "text": "No news in the last 30 days; Ondo launched these BlackRock-strategy portfolio tokens in September.",
+   "date": "2026-09-24",
+   "url": "https://www.theblock.co/news/markets/2026-09-24-ondo-luanches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260"
+  },
+  "ondo-ai-leaders-portfolio": {
+   "text": "No news in the last 30 days; it is an Ondo tokenized stock-basket, not a crypto project."
+  },
+  "roaland-core": {
+   "text": "The 'new' Coinone listing dates from July 2025, not this week.",
+   "date": "2025-07-25",
+   "url": "https://coinmarketcap.com/cmc-ai/roa-core/latest-updates"
+  },
+  "fireverse": {
+   "text": "No news in the last 30 days; last item was a KuCoin Alpha listing in January 2026."
+  },
+  "tac": {
+   "text": "No news in the last 30 days; earlier in 2026 a $2.8M bridge exploit and a 90% crash when 18 wallets dumped after its Binance listing.",
+   "date": "2026-07"
+  },
+  "kava": {
+   "text": "No news found for today's 33% one-day drop; Bitvavo delisted KAVA on September 18 and Bitfinex in July.",
+   "date": "2026-09-18",
+   "url": "https://support.bitvavo.com/hc/en-us/articles/50649961445905-What-should-I-know-about-the-Kava-KAVA-Nano-XNO-and-Ravencoin-RVN-delistings"
+  },
+  "as-monaco-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "sturdy-subnet": {
+   "text": "No news in the last 30 days"
+  },
+  "roobee": {
+   "text": "No news in the last 30 days"
+  },
+  "sophon": {
+   "text": "Sophon is shutting down its chain on November 30 (withdrawals by November 25) and Upbit ends trading November 16.",
+   "date": "2026-11-16",
+   "url": "https://crypto.news/sophon-is-shutting-its-chain-what-users-should-know-before-november-25/"
+  },
+  "elizaos": {
+   "text": "Dropped from MEXC today and flagged for fake-looking volume; no announcement found."
+  },
+  "kyo": {
+   "text": "No news found for today's 55% drop on 220x normal trading."
+  },
+  "safecoin": {
+   "text": "No news found for today's 67% drop."
+  },
+  "america-s-official-launchpad": {
+   "text": "No news found; +66% day on fake-looking volume."
+  },
+  "myshell": {
+   "text": "No news found; +58% day on fake-looking volume."
+  },
+  "truefi": {
+   "text": "No news in the last 30 days"
+  },
+  "iexec-rlc": {
+   "text": "No news in the last 30 days"
+  },
+  "nervos-network": {
+   "text": "No news in the last 30 days"
+  },
+  "wormhole": {
+   "text": "No news in the last 30 days"
+  },
+  "starknet": {
+   "text": "No news in the last 30 days"
+  },
+  "graphlinq-protocol": {
+   "text": "Dropped from Gate today; no announcement found."
+  },
+  "gunz": {
+   "text": "No news found; volume spike flagged as fake-looking."
+  },
+  "sonic-3": {
+   "text": "No news in the last 30 days"
+  },
+  "for-sale": {
+   "text": "No news found; +1,700% day on fake-looking volume."
+  }
+ },
+ "sectorNews": {
+  "AI": "I could not find dated AI-sector coverage for this week; recent recaps describe Bittensor shaken by a governance fight and a large holder exiting, with the AI sector range-bound. That backdrop hurts small subnet and AI-app tokens, which trade thinly and fall hardest when the leader wobbles.",
+  "RWA": "Tokenization keeps growing (on-chain real-world assets near $40B by September, Ondo's stock platform past $1B), but both RWA names today are Ondo stock-basket tokens, not projects. Sector growth flows to the issuers and big tokens, not to these baskets.",
+  "Infrastructure": "No sector-wide story found for this week, but the whole market fell about 12% from November 7 to 14 and chain tokens fell hardest (Arbitrum -15%, Starknet -13%, Wormhole -15%). Unlocks and shrinking teams (Radix, Sophon shutting down) make small chain tokens a hard sell right now."
+ }
+}
