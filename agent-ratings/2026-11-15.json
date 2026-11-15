@@ -1,0 +1,260 @@
+{
+ "date": "2026-11-15",
+ "ratings": {
+  "bob-build-on-bitcoin": "caution",
+  "skale": "caution",
+  "kyve-network": "caution",
+  "stablecorp-qcad": "skip",
+  "h2o-2": "skip",
+  "jagent": "skip",
+  "avc": "skip",
+  "star-atlas-dao": "skip",
+  "theoriq": "caution",
+  "nextplace": "caution",
+  "infinitehash": "skip",
+  "common-2": "skip",
+  "cratos": "skip",
+  "debox": "caution",
+  "mirrored-ether": "skip",
+  "ethereum-classic": "caution",
+  "hydradx": "caution",
+  "worldcoin-wld": "caution",
+  "azit": "skip",
+  "swash": "skip",
+  "athenax9": "skip",
+  "numbers-protocol": "skip",
+  "autonolas": "skip",
+  "creator-2": "skip",
+  "moonwell-artemis": "skip",
+  "archai": "skip",
+  "boson-protocol": "skip",
+  "airswap": "skip",
+  "eywa": "skip",
+  "top-network": "skip",
+  "higher-fun": "skip",
+  "metis-token": "skip",
+  "cf-large-cap-index": "skip"
+ },
+ "conviction": {
+  "bob-build-on-bitcoin": "low",
+  "skale": "low",
+  "kyve-network": "low",
+  "theoriq": "low",
+  "nextplace": "low",
+  "debox": "low",
+  "ethereum-classic": "low",
+  "hydradx": "low",
+  "worldcoin-wld": "low"
+ },
+ "cases": {
+  "bob-build-on-bitcoin": {
+   "upside": "A real Bitcoin layer-2 with Coinbase, Kraken and KuCoin listings and code pushed this week; the only possible lift is renewed interest in Bitcoin DeFi, with no dated event.",
+   "cheap": "Down 87% since its December 2025 launch, and only 48% of tokens are out, so steady unlocks keep selling pressure on it.",
+   "wrongIf": "Trading falls back under $2M a day within a week, or no project news by mid-December.",
+   "vsScanner": "The 15.5x trading spike has no news behind it that I can find; the score jump comes from the spike, not from anything new."
+  },
+  "skale": {
+   "upside": "An existing gas-free chain with ongoing work; no dated catalyst found.",
+   "cheap": "Down 99.7% from its 2021 high; not mispriced, just out of favour.",
+   "wrongIf": "Trading under $3M a day, or the price makes a new low under $0.0028.",
+   "vsScanner": "The 'new Gemini listing' that brought it back is old: Gemini listed SKL in March 2021. That is not a catalyst."
+  },
+  "kyve-network": {
+   "upside": "A data-validation chain backed by known funds; I found no dated event to explain the 77% weekly jump.",
+   "cheap": "At a $3.5M value with only $80K traded a day, almost nobody is watching it.",
+   "wrongIf": "The weekly gain reverses within 7 days, or daily trading stays under $100K.",
+   "vsScanner": "The scanner likes the weekly move, but it happened on very thin trading, so it can reverse just as easily."
+  },
+  "theoriq": {
+   "upside": "Its 2026 plans promised staking and opening the platform to outside builders in the second half of the year; I found nothing showing either has shipped.",
+   "cheap": "It fell 95% from its December 2025 high, and it has shown no activity in months, so people have stopped paying attention.",
+   "wrongIf": "No shipped product news by the end of December 2026.",
+   "vsScanner": "I agree with the scanner's zombie flag; the Coinbase and Bithumb listings are the only thing that keeps it alive."
+  },
+  "nextplace": {
+   "upside": "It now runs a working quantum-computing marketplace (OpenQuantum) with a paid tier and a university research tie-up; no dated launch is ahead.",
+   "cheap": "It trades only inside the Bittensor subnet market, and the Bittensor sector is falling, so few outside buyers can reach it.",
+   "wrongIf": "Subnet trading drops back under $150K a day, or the paid tier shows no users by January.",
+   "vsScanner": "The product is more real than most coins on today's list, but the 8.7x trading spike has no news behind it."
+  },
+  "debox": {
+   "upside": "A working social app that kept announcing partnerships through April 2026; nothing is dated ahead.",
+   "cheap": "Trading is thin ($130K a day) and the top 10 wallets reportedly hold most of the supply.",
+   "wrongIf": "The price breaks below $0.015, or trading stays under $100K a day.",
+   "vsScanner": "The top-10 wallet concentration (89% in a 2025 report) is a red flag that the scanner doesn't show."
+  },
+  "ethereum-classic": {
+   "upside": "Its block reward was cut in August 2026 and treasury voting is being tested, but there is no dated event ahead.",
+   "cheap": "It is a large, old coin that moves with the market; it isn't mispriced, just tied to the market's direction.",
+   "wrongIf": "It loses the $5.50 area, or Bitcoin's share of the market goes above 60%.",
+   "vsScanner": "Agree with the scanner's low score."
+  },
+  "hydradx": {
+   "upside": "A working Polkadot exchange that cut its maximum supply to 6.5B and runs buybacks; no dated launch found.",
+   "cheap": "It trades only on its own exchange, so outside buyers can't easily get in.",
+   "wrongIf": "Daily trading stays under $50K, or Polkadot money keeps leaving.",
+   "vsScanner": "Agree with the scanner's warning about thin trading."
+  },
+  "worldcoin-wld": {
+   "upside": "A real product (over 18 million people verified, plus Tinder, Zoom and DocuSign deals); no dated catalyst ahead.",
+   "cheap": "Only 38% of tokens are out and about 2.9M new tokens come out every day, so supply grows and the price keeps getting diluted.",
+   "wrongIf": "The price falls under its May 2026 low of $0.231.",
+   "vsScanner": "Agree with the scanner's low score; the product is real, but the token keeps getting diluted."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin today has a dated, verified catalyst: the two 'back' triggers I could check (the SKALE Gemini listing, the BOB spike) are old or have no news behind them, and the market is in a risk-off week.",
+ "athCheck": {
+  "bob-build-on-bitcoin": "stretch",
+  "skale": "unlikely",
+  "kyve-network": "unlikely",
+  "stablecorp-qcad": "unlikely",
+  "h2o-2": "unlikely",
+  "jagent": "unlikely",
+  "avc": "unlikely",
+  "star-atlas-dao": "unlikely",
+  "theoriq": "unlikely",
+  "nextplace": "stretch",
+  "infinitehash": "unlikely",
+  "common-2": "unlikely",
+  "cratos": "unlikely",
+  "debox": "stretch",
+  "mirrored-ether": "unlikely",
+  "ethereum-classic": "unlikely",
+  "hydradx": "stretch",
+  "worldcoin-wld": "unlikely"
+ },
+ "lifeCheck": {
+  "bob-build-on-bitcoin": "alive",
+  "skale": "alive",
+  "kyve-network": "quiet",
+  "stablecorp-qcad": "alive",
+  "h2o-2": "quiet",
+  "jagent": "quiet",
+  "avc": "quiet",
+  "star-atlas-dao": "alive",
+  "theoriq": "zombie",
+  "nextplace": "alive",
+  "infinitehash": "zombie",
+  "common-2": "quiet",
+  "cratos": "zombie",
+  "debox": "alive",
+  "mirrored-ether": "dead",
+  "ethereum-classic": "alive",
+  "hydradx": "alive",
+  "worldcoin-wld": "alive"
+ },
+ "news": {
+  "bob-build-on-bitcoin": {
+   "text": "No news in the last 30 days; the latest item I found was a May 2026 rally."
+  },
+  "skale": {
+   "text": "No news in the last 30 days; the Gemini listing behind the scanner's 'back' flag dates from March 2021.",
+   "url": "https://www.gemini.com/blog/gemini-supports-new-defi-gaming-nft-and-infrastructure-tokens"
+  },
+  "kyve-network": {
+   "text": "No news in the last 30 days"
+  },
+  "stablecorp-qcad": {
+   "text": "No news in the last 30 days; it is a Canadian-dollar stablecoin, not a coin to rate."
+  },
+  "h2o-2": {
+   "text": "No news in the last 30 days."
+  },
+  "jagent": {
+   "text": "Exchange explainers from November 2026 describe it as a fair-mint BNB Chain meme token with no product behind it, launched in October 2026.",
+   "url": "https://www.bitrue.com/blog/what-is-jagent-crypto"
+  },
+  "avc": {
+   "text": "No news in the last 30 days."
+  },
+  "star-atlas-dao": {
+   "text": "No news in the last 30 days; the newest dated item was a price snapshot in August 2026."
+  },
+  "theoriq": {
+   "text": "No news in the last 30 days."
+  },
+  "nextplace": {
+   "text": "TAO Daily coverage describes a paid private tier and a Colorado School of Mines research tie-up; I couldn't confirm the dates.",
+   "url": "https://taodaily.io/tag/sn48"
+  },
+  "infinitehash": {
+   "text": "No news in the last 30 days."
+  },
+  "common-2": {
+   "text": "No news in the last 30 days; the 423% weekly jump came on a $0.2M market value."
+  },
+  "cratos": {
+   "text": "No news in the last 30 days."
+  },
+  "debox": {
+   "text": "No news in the last 30 days; the last items were partnerships in January\u2013April 2026."
+  },
+  "mirrored-ether": {
+   "text": "No news in the last 30 days; it is a leftover synthetic token from Mirror Protocol, which died with Terra in 2022."
+  },
+  "ethereum-classic": {
+   "text": "No ETC-specific news in the last 30 days; price commentary blames the money moving out of altcoins."
+  },
+  "hydradx": {
+   "text": "No news in the last 30 days."
+  },
+  "worldcoin-wld": {
+   "text": "No new news in the last 30 days; an October 2026 report says over 18 million people are verified."
+  },
+  "azit": {
+   "text": "Now fails the fake-volume filter; no news found."
+  },
+  "swash": {
+   "text": "Price down 32% in a day on a trading spike; no news found."
+  },
+  "athenax9": {
+   "text": "Down 90% since first pick; the spike had no news behind it."
+  },
+  "numbers-protocol": {
+   "text": "No news in the last 30 days."
+  },
+  "autonolas": {
+   "text": "No news in the last 30 days."
+  },
+  "creator-2": {
+   "text": "Trading spike with no news; still fails a safety filter."
+  },
+  "moonwell-artemis": {
+   "text": "No news in the last 30 days."
+  },
+  "archai": {
+   "text": "No centralized exchange listing; a 377x trading spike with no news."
+  },
+  "boson-protocol": {
+   "text": "Now fails the too-little-trading filter."
+  },
+  "airswap": {
+   "text": "No news in the last 30 days."
+  },
+  "eywa": {
+   "text": "Down 96%; no exchange listing."
+  },
+  "top-network": {
+   "text": "Community under the minimum; the spike had no news."
+  },
+  "higher-fun": {
+   "text": "Up 517% since first pick on a $2.8M market value; no news found."
+  },
+  "metis-token": {
+   "text": "No news in the last 30 days."
+  },
+  "cf-large-cap-index": {
+   "text": "No news in the last 30 days; it is an index token, not a coin to rate."
+  }
+ },
+ "sectorNews": {
+  "AI": "Most AI tokens fell this week, and the sector shrank by about 7% in a risk-off market. Bittensor subnet tokens followed TAO lower. That hurts the small AI coins on today's list (JAGENT, Theoriq, Quantum Compute, InfiniteHash).",
+  "DeFi": "There was no big DeFi news this week; crypto indexes traded lower across the board. Small DeFi tokens that only trade on their own exchange (Hydration, H2O) get no help from that.",
+  "Gaming": "One weekly recap had gaming as the best sector by valuation change, but I couldn't confirm the date, and none of today's gaming coins (SKALE, AVC, Star Atlas) has news of its own.",
+  "Social": "I found no SocialFi news this week. The sector is still down 90\u201399% from its creator-coin peaks, and that hurts DeBox, Common and Cratos.",
+  "Governance": "I found no governance-token news this week. Worldcoin is still being diluted by new supply, and the other governance coins on the list (Cratos, Star Atlas) are near-dead.",
+  "Infrastructure": "Fear is back, and Bitcoin's share of the market is near 60%, which means money is moving out of altcoins. Old chains (ETC, SKALE, KYVE, BOB) are moving with the market and have no news of their own."
+ },
+ "athMcap": {}
+}
