@@ -1,0 +1,197 @@
+{
+ "date": "2026-11-16",
+ "ratings": {
+  "sanctum-2": "caution",
+  "smooth-love-potion": "caution",
+  "radicle": "caution",
+  "nimiq-2": "caution",
+  "resolv": "caution",
+  "kan": "skip",
+  "juventus-fan-token": "skip",
+  "hooked-protocol": "skip",
+  "manadia": "skip",
+  "hashflow": "skip",
+  "swisscheese": "skip",
+  "bluzelle": "skip",
+  "xend-finance": "skip",
+  "thetadrop": "skip",
+  "goldzip-gold": "skip",
+  "loosh": "skip",
+  "mina-protocol": "skip",
+  "aventus": "skip",
+  "flow": "skip",
+  "hyperlane": "skip",
+  "kled-ai": "skip",
+  "bitagent-rizzo": "skip",
+  "moonbeam": "skip",
+  "kyve-network": "skip",
+  "dar-open-network": "skip",
+  "palladium-network": "skip",
+  "liquidlaunch": "skip"
+ },
+ "conviction": {
+  "sanctum-2": "medium",
+  "smooth-love-potion": "low",
+  "radicle": "low",
+  "nimiq-2": "low",
+  "resolv": "low"
+ },
+ "cases": {
+  "sanctum-2": {
+   "upside": "Upbit opened Korean-won trading on Nov 13 and MEXC added it. That is new demand for a real Solana liquid-staking business with record staked SOL (18.6M SOL in Q3).",
+   "cheap": "It isn't cheap any more: the listing already lifted it about 60% this week. Before that it was ignored because holders get no share of protocol revenue and profit fell 16% in Q3.",
+   "wrongIf": "Price falls back under $0.045 (the pre-Upbit level) or daily trading drops under $500K within two weeks.",
+   "vsScanner": "The listing is real, but the scanner scores the spike as a plus when the move has already happened.",
+   "catalystDate": "2026-11-13"
+  },
+  "smooth-love-potion": {
+   "upside": "No dated catalyst found. The 9x trading spike has no news behind it.",
+   "cheap": "It's an in-game reward token that keeps being issued. It isn't overlooked, it's unwanted.",
+   "wrongIf": "Trading falls back to normal within a week and the price makes a new low.",
+   "vsScanner": "The spike is unexplained and the ATH is a 2021 bubble price; the score oversells it."
+  },
+  "radicle": {
+   "upside": "No dated catalyst. The code is active (git hosting product) but no token news since June.",
+   "cheap": "The token has little use beyond governance, so there's no reason for buyers to show up.",
+   "wrongIf": "Volume (now 90% of its value per day, mostly Korean exchanges) collapses back within a week and the price drifts below $0.20.",
+   "vsScanner": "A turnover of 90% a day on Korean exchanges looks like a short-term pump, not new interest."
+  },
+  "nimiq-2": {
+   "upside": "A real payments product, and the code was pushed today. The treasury buyback ended in August with no follow-up, and I found no dated catalyst.",
+   "cheap": "Tiny and only on Gate and KuCoin, so few people can buy it.",
+   "wrongIf": "Daily trading falls back under $30K and the 19% daily jump fades.",
+   "vsScanner": "A 14.5x spike on only $87K of trading is noise."
+  },
+  "resolv": {
+   "upside": "A working stablecoin protocol with past buybacks. No dated event in the last 30 days.",
+   "cheap": "Investor tokens have been unlocking month by month since mid-2026 and the price sits near its all-time low; sellers keep arriving.",
+   "wrongIf": "Price makes a new all-time low under about $0.012, or the stablecoin loses its peg.",
+   "vsScanner": "Trading of nearly 2x its market cap in a day looks like futures churn, not buying."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "The only real catalyst (Sanctum's Upbit listing) already pushed the price up about 60% this week; everything else is an unexplained volume spike, a delisted coin or a dead project.",
+ "athCheck": {
+  "sanctum-2": "stretch",
+  "smooth-love-potion": "unlikely",
+  "radicle": "unlikely",
+  "nimiq-2": "unlikely",
+  "kan": "unlikely",
+  "resolv": "unlikely",
+  "juventus-fan-token": "unlikely",
+  "hooked-protocol": "unlikely",
+  "manadia": "unlikely",
+  "hashflow": "unlikely",
+  "swisscheese": "unlikely",
+  "bluzelle": "unlikely"
+ },
+ "lifeCheck": {
+  "sanctum-2": "alive",
+  "smooth-love-potion": "alive",
+  "radicle": "alive",
+  "nimiq-2": "alive",
+  "kan": "quiet",
+  "resolv": "alive",
+  "juventus-fan-token": "alive",
+  "hooked-protocol": "zombie",
+  "manadia": "quiet",
+  "hashflow": "zombie",
+  "swisscheese": "dead",
+  "bluzelle": "zombie"
+ },
+ "news": {
+  "sanctum-2": {
+   "text": "Upbit listed SANC for Korean-won, Bitcoin and USDT trading starting Nov 13; the price roughly doubled that day.",
+   "date": "2026-11-13",
+   "url": "https://www.coininsider.org/news/upbit-lists-sanctum-sanc-on-krw-btc-and-usdt-ma"
+  },
+  "smooth-love-potion": {
+   "text": "No news in the last 30 days"
+  },
+  "radicle": {
+   "text": "No news in the last 30 days"
+  },
+  "nimiq-2": {
+   "text": "No news in the last 30 days"
+  },
+  "kan": {
+   "text": "No news in the last 30 days"
+  },
+  "resolv": {
+   "text": "No news in the last 30 days; Messari's Oct 27 update notes the foundation's $500K buyback run that began Aug 26.",
+   "date": "2026-10-27",
+   "url": "https://messari.io/asset/resolv"
+  },
+  "juventus-fan-token": {
+   "text": "No news in the last 30 days; the token hit a new low around Nov 8."
+  },
+  "hooked-protocol": {
+   "text": "No news in the last 30 days; it was delisted by Binance (Apr 1), Bybit and Bitvavo earlier in 2026."
+  },
+  "manadia": {
+   "text": "No news in the last 30 days"
+  },
+  "hashflow": {
+   "text": "No news in the last 30 days; Binance delisted it on Aug 17, 2026.",
+   "date": "2026-08-03",
+   "url": "https://bingx.com/en/news/post/why-is-hashflow-up-today-august-extreme-turnover-meets-a-binance-delisting-risk"
+  },
+  "swisscheese": {
+   "text": "No news in the last 30 days"
+  },
+  "bluzelle": {
+   "text": "No news in the last 30 days; Binance delisted it in December 2024."
+  },
+  "xend-finance": {
+   "text": "No news in the last 30 days"
+  },
+  "thetadrop": {
+   "text": "No news in the last 30 days"
+  },
+  "goldzip-gold": {
+   "text": "No news in the last 30 days"
+  },
+  "loosh": {
+   "text": "No news in the last 30 days"
+  },
+  "mina-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "aventus": {
+   "text": "No news in the last 30 days"
+  },
+  "flow": {
+   "text": "No news in the last 30 days"
+  },
+  "hyperlane": {
+   "text": "No news in the last 30 days"
+  },
+  "kled-ai": {
+   "text": "No news in the last 30 days"
+  },
+  "bitagent-rizzo": {
+   "text": "No news in the last 30 days"
+  },
+  "moonbeam": {
+   "text": "No news found on the Upbit removal the scanner reports; Bitget dropped it and did a 1:1 contract swap in April 2026."
+  },
+  "kyve-network": {
+   "text": "No news in the last 30 days"
+  },
+  "dar-open-network": {
+   "text": "No news in the last 30 days"
+  },
+  "palladium-network": {
+   "text": "No news in the last 30 days"
+  },
+  "liquidlaunch": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "DeFi": "I found no DeFi headlines from this week; search only surfaced older coverage. The one fresh DeFi story on today's list is Sanctum's Upbit listing. Without a sector wave, small DeFi tokens are moving only on their own listings.",
+  "Gaming": "Nothing dated this week; gaming tokens lost most of their value through 2025 and many game projects shut down in 2026. Some traders hope the GTA VI launch revives interest, but that's a forecast, not news, and small gaming coins remain unwanted.",
+  "Infrastructure": "No sector-wide news found for this week. Both coins here (Radworks, Manadia) are moving on unexplained trading spikes, not sector flows.",
+  "DePIN": "No fresh DePIN headlines; the 2026 theme is that only projects with real revenue get attention. That hurts old coins tagged DePIN, like Bluzelle and Radworks, which earn nothing."
+ }
+}

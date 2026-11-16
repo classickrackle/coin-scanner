@@ -1,16 +1,16 @@
 # Lessons (max 15 bullets)
 - 2026-10-12: Skip means not researchable or not tradeable, not "will fall": skip calls averaged +17% at 7 days from tiny illiquid spikers. Never treat skip as a short signal.
 - 2026-10-12: Require a dated, verified catalyst; a sector story, a known name or low price vs ATH is never enough.
-- 2026-10-15 (updated 2026-11-15): Scanner "new listing" badges are usually old (Walrus, OriginTrail, FLOCK, Grass, Berachain, Axelar, Nillion, Falcon, WalletConnect, Prometeus, BAT, Obol/HTX; SKALE/Gemini dates from 2021). Treat them as old until an announcement within 30 days is found.
-- 2026-10-14: Listing catalysts can reverse (Centrifuge, Dolomite lost listings); re-check them every few days.
-- 2026-10-17: A verified catalyst that has already moved the price (Puffer +70%) is not a buy signal.
+- 2026-10-15 (updated 2026-11-16): Scanner "new listing" badges are usually old (Walrus, OriginTrail, FLOCK, Grass, Berachain, Axelar, Nillion, Falcon, WalletConnect, Prometeus, BAT, Obol/HTX; SKALE/Gemini dates from 2021), and real listings can reverse (Centrifuge, Dolomite). Treat them as old until an announcement within 30 days is found, and re-check them every few days.
+- 2026-10-17 (updated 2026-11-16): A verified catalyst that has already moved the price (Puffer +70%, Sanctum/Upbit +60% in a week) is not a buy signal.
 - 2026-10-22: A volume spike alone is not a catalyst (HASH, Arkham, META, PolySwarm, Zignaly, and again most 'back' spikes through November).
 - 2026-10-18: Unverifiable scanner "back" triggers (e.g. Pons-Bithumb) count as unconfirmed, not catalysts.
-- 2026-10-20: Inkbox email needs re-authorization (still unauthorized 2026-11-15); delivery falls back to push/chat.
+- 2026-10-20: Inkbox email needs re-authorization (still unauthorized 2026-11-16); delivery falls back to push/chat.
 - 2026-10-27: Check what the token actually is first: regulated fiat stablecoins (AUDM, QCAD), tokenized silver, and tokenized funds/stocks (Ondo, Robinhood USO) are not coins to rate; skip them.
 - 2026-11-05: Spiking tokens that rebrand, migrate or contract-swap (Niza 1500:1) have unreliable ATH numbers; check the migration before using athX.
-- 2026-11-06 (updated 2026-11-12): Network shutdowns (Blast, mainnet off Oct 26, -99.6%), exploited projects (Harmony, Avici, Rhea) and exchange delistings (Enzyme/Binance) outweigh any volume spike; skip.
+- 2026-11-06 (updated 2026-11-16): Network shutdowns (Blast), exploited projects (Harmony, Avici, Rhea) and exchange delistings (Enzyme, Hooked, Hashflow on Binance) outweigh any volume spike; skip. Hooked (skip 10-17) went on to lose 83% in 30 days.
 - 2026-11-10: Worth-a-look record is poor: about 80% of the 10-01 to 10-11 worth-a-look calls fell by 30 days (scorecard: -19.1% vs market -8.9%), with single outliers (Umbra, Bubblemaps, NextPlace) lifting averages. Keep the bar strict and caution as default.
-- 2026-11-10: Web search returns almost nothing dated for tiny coins; no verifiable dated catalyst means caution or skip, and 'No top picks' is the correct default, not a failure (35 days running on 2026-11-15).
+- 2026-11-10: Web search returns almost nothing dated for tiny coins; no verifiable dated catalyst means caution or skip, and 'No top picks' is the correct default, not a failure (36 days running on 2026-11-16).
 - 2026-11-09: Thin 'news' without a dated catalyst is not enough (Kaia worth a look 10-11, later -46%).
-- 2026-11-12 (updated 2026-11-15): The 10-12 to 10-16 batches lost 23-32% at 30 days on caution vs market -13% to -21% (10-16: caution -32%, skip median -40%, market -21%); skip medians lose about as much (one or two moonshots like Vericore lift skip averages). Ratings only add value through rare, verified catalysts.
+- 2026-11-12 (updated 2026-11-16): Caution calls lose about as much as skips at 30 days (10-17: caution -29% vs skip -36% vs market -21%); ratings only add value through rare, verified catalysts.
+- 2026-11-16: Established networks with no catalyst are not even caution: Mina (-44%), Flow (-52%) and Hyperlane (-47%), all caution on 10-12, hit their 'wrong if' within 5 weeks. A known name with no dated event should be skip.
