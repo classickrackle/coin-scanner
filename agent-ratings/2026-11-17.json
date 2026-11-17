@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-17",
+ "ratings": {
+  "hash-2": "caution",
+  "elsa": "caution",
+  "nodecoin": "caution",
+  "netx": "caution",
+  "alexgo": "caution",
+  "sweatcoin": "skip",
+  "nem": "skip",
+  "blackcardcoin": "skip",
+  "logicnet": "skip",
+  "zeus-5": "skip",
+  "soli-coin-2": "skip",
+  "mxnb": "skip",
+  "playnance": "skip",
+  "nkn": "skip",
+  "palladium-network": "skip",
+  "bitscrunch-token": "skip",
+  "dtravel": "skip",
+  "backpack": "skip",
+  "story-2": "skip",
+  "streetvision-by-natix": "skip",
+  "404-gen": "skip",
+  "nockchain": "skip",
+  "pha": "skip",
+  "pancakeswap-token": "skip",
+  "tezos": "skip",
+  "sushi": "skip",
+  "claus-2": "skip",
+  "storb": "skip",
+  "numinous": "caution",
+  "clearpool": "caution"
+ },
+ "conviction": {
+  "hash-2": "low",
+  "elsa": "low",
+  "nodecoin": "low",
+  "netx": "low",
+  "alexgo": "low",
+  "numinous": "low",
+  "clearpool": "low"
+ },
+ "cases": {
+  "hash-2": {
+   "upside": "Figure has promised a fee model that would make HASH pay for network use, and Provenance's locked value grew strongly this year; no launch date is set.",
+   "cheap": "It isn't cheap at about $450M with only about $116K traded a day; few people can trade it, which is why it's ignored.",
+   "wrongIf": "No fee-model launch date announced by end of Q1 2027, or daily trading stays under $100K.",
+   "vsScanner": "The 34x trading spike comes from a tiny base on one exchange (Figure Markets); not a catalyst."
+  },
+  "elsa": {
+   "upside": "A working AI trading-assistant app with many exchange listings; the only dated event is a token unlock, which is a headwind, not upside.",
+   "cheap": "Down about 85% from its January high because only 29% of tokens are out and more keep unlocking every week.",
+   "wrongIf": "Price falls below about $0.05 after the unlock around Nov 19-20, or the app goes quiet into December.",
+   "vsScanner": "The scanner's 'healthy trading' hides that this is mostly unlock-driven selling and speculative spikes (+46% on Nov 5 with no news)."
+  },
+  "nodecoin": {
+   "upside": "Nodepay claims over 2 million users of its bandwidth-sharing app; nothing dated is coming.",
+   "cheap": "It fell about 99.8% from its 2025 launch as airdrop farmers sold; the market sees it as a farmed-out airdrop token.",
+   "wrongIf": "Daily trading drops under $50K or no product news by end of December.",
+   "vsScanner": "The scanner can't see its life status; I couldn't find any news newer than a May 2026 partnership, so it's weaker than the score suggests."
+  },
+  "netx": {
+   "upside": "A small payments/RWA chain with an AI angle; I found no dated upgrade or listing coming.",
+   "cheap": "Little known and only on Gate and MEXC; no clear reason the market is missing it.",
+   "wrongIf": "No dated upgrade or new exchange listing announced by end of December, or the price falls another 30% to under $0.085.",
+   "vsScanner": "Agree the trading is decent, but I could not confirm the team or any real usage."
+  },
+  "alexgo": {
+   "upside": "The DAO ended token emissions in late October and moved to buybacks and burns, which removes steady selling; effect should show over the next 1-3 months.",
+   "cheap": "It was hacked (about $8M stolen) and lost trust; few are watching a small Stacks DeFi app.",
+   "wrongIf": "Buybacks don't show up on-chain by end of January, or trading volume on its DEX keeps shrinking.",
+   "vsScanner": "The scanner calls it a zombie because its GitHub is old; the October governance change shows the project is still being run, so I'd call it quiet rather than dead."
+  },
+  "numinous": {
+   "upside": "A working AI forecasting subnet that could win a bigger share of Bittensor rewards; no dated event.",
+   "cheap": "Subnet tokens are thin and ignored after Bittensor's governance changes.",
+   "wrongIf": "Its share of subnet rewards falls or daily trading stays under $30K.",
+   "vsScanner": "The 3x trading jump with price only up 2% is noise."
+  },
+  "clearpool": {
+   "upside": "Moving its lending business to the XRP Ledger with a new CLEAR token; the swap window opened 2026-11-17 and runs to 2027-02-17.",
+   "cheap": "Migrations confuse holders and data sites; trackers dropped CPOOL, so it's temporarily invisible.",
+   "wrongIf": "CLEAR doesn't get exchange support (price data on CoinGecko) by mid-December, or XRPL lending volume doesn't appear by end of Q1 2027.",
+   "vsScanner": "The scanner shows it as gone; it was migrated 1:1 to CLEAR, not delisted. Supply rises 12.5% in the swap.",
+   "catalystDate": "2026-11-17"
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing on today's short list has a dated, verified catalyst; the only real projects (Provenance, HeyElsa, ALEX) either have no date or face unlock selling.",
+ "athCheck": {
+  "hash-2": "stretch",
+  "elsa": "unlikely",
+  "nodecoin": "unlikely",
+  "netx": "unlikely",
+  "alexgo": "unlikely",
+  "sweatcoin": "unlikely",
+  "nem": "unlikely",
+  "blackcardcoin": "unlikely",
+  "logicnet": "unlikely",
+  "zeus-5": "unlikely",
+  "soli-coin-2": "unlikely",
+  "mxnb": "unlikely",
+  "playnance": "unlikely",
+  "nkn": "unlikely",
+  "palladium-network": "unlikely"
+ },
+ "lifeCheck": {
+  "hash-2": "alive",
+  "elsa": "quiet",
+  "nodecoin": "quiet",
+  "netx": "quiet",
+  "alexgo": "quiet",
+  "sweatcoin": "alive",
+  "nem": "zombie",
+  "blackcardcoin": "zombie",
+  "logicnet": "zombie",
+  "zeus-5": "quiet",
+  "soli-coin-2": "quiet",
+  "mxnb": "alive",
+  "playnance": "zombie",
+  "nkn": "zombie",
+  "palladium-network": "zombie"
+ },
+ "news": {
+  "hash-2": {
+   "text": "No news in the last 30 days; Figure took over the foundation's work in January 2026 and pledged a network-fee model.",
+   "date": "2026-01-14",
+   "url": "https://www.nasdaq.com/press-release/figure-technology-solutions-announces-community-approved-update-provenance-blockchain"
+  },
+  "elsa": {
+   "text": "Rose about 46% in a day on Nov 5 with no project news; a token unlock of about 18M ELSA is due around Nov 19-20.",
+   "date": "2026-11-05",
+   "url": "https://www.interactivecrypto.com/elsa-s-46-surge-defies-quiet-news-faces-looming-unlocks-and-75-drop-from-peak"
+  },
+  "nodecoin": {
+   "text": "No news in the last 30 days; last item found was a May 2026 partnership with Orca on AI prediction-market tools.",
+   "url": "https://solanacompass.com/projects/nodepay"
+  },
+  "netx": {
+   "text": "No news in the last 30 days found."
+  },
+  "alexgo": {
+   "text": "DAO-approved plan took staking and mining emissions to zero from late October, shifting to buybacks and burns.",
+   "date": "2026-10-30",
+   "url": "https://www.rootdata.com/projects/detail/ALEX?k=NzYz"
+  },
+  "sweatcoin": {
+   "text": "No news in the last 30 days found."
+  },
+  "nem": {
+   "text": "No news found behind the 159% one-day jump; thin trading on one exchange."
+  },
+  "blackcardcoin": {
+   "text": "No news in the last 30 days; price trackers show it fell from about $0.037 in July to $0.0045."
+  },
+  "logicnet": {
+   "text": "No news in the last 30 days; the subnet was repurposed from LogicNet to Cartha/0xMarkets and trades on a $45K market cap."
+  },
+  "zeus-5": {
+   "text": "No news in the last 30 days."
+  },
+  "soli-coin-2": {
+   "text": "No news in the last 30 days; coverage is paid press releases."
+  },
+  "mxnb": {
+   "text": "MXNB is Bitso/Juno's Mexican-peso stablecoin; it is meant to stay at one peso, so it is not a coin to rate.",
+   "url": "https://bitso.com/business/products/mxnb-stablecoin"
+  },
+  "playnance": {
+   "text": "No news in the last 30 days; last found were sponsored listing press releases from June 2026."
+  },
+  "nkn": {
+   "text": "No news in the last 30 days; Binance delisted NKN in February 2026 and Upbit dropped its BTC pair in June."
+  },
+  "palladium-network": {
+   "text": "No news in the last 30 days; coverage is promotional blog posts promising arbitrage-funded buybacks."
+  },
+  "bitscrunch-token": {
+   "text": "No news found behind the 119% one-day jump; still down 80% since first picked."
+  },
+  "dtravel": {
+   "text": "No news found behind the 38% one-day drop."
+  },
+  "backpack": {
+   "text": "No new announcement found; it trended on CoinGecko and rose 27% in a day. Background: a token-for-equity plan tied to a possible US IPO."
+  },
+  "story-2": {
+   "text": "No news in the last 30 days."
+  },
+  "streetvision-by-natix": {
+   "text": "No news in the last 30 days."
+  },
+  "404-gen": {
+   "text": "No news in the last 30 days."
+  },
+  "nockchain": {
+   "text": "No news found behind the 30% one-day jump; the original builder Zorp reportedly wound down and handed the project to a community company."
+  },
+  "pha": {
+   "text": "No Coinone delisting or Poloniex listing announcement found; the scanner now flags its trading as fake-looking."
+  },
+  "pancakeswap-token": {
+   "text": "No news in the last 30 days found."
+  },
+  "tezos": {
+   "text": "No news in the last 30 days found."
+  },
+  "sushi": {
+   "text": "No news in the last 30 days found."
+  },
+  "claus-2": {
+   "text": "No news found; no centralized exchange listing and too little trading to sell."
+  },
+  "storb": {
+   "text": "No news found behind a 1251% jump this week in a thinly traded Bittensor storage subnet token."
+  },
+  "numinous": {
+   "text": "No news in the last 30 days found."
+  },
+  "clearpool": {
+   "text": "The 1:1 CPOOL-to-CLEAR swap opened on Nov 17 and runs to Feb 17, 2027, as Clearpool moves to the XRP Ledger.",
+   "date": "2026-11-17",
+   "url": "https://cryptobriefing.com/clearpool-cpool-clear-migration-guide/"
+  }
+ },
+ "sectorNews": {
+  "AI": "No fresh AI-sector news for the last 7 days; the latest Bittensor reporting (late Oct) said only 5 of 41 tracked subnet tokens rose in a week after a change let subnet owners take bigger cuts of rewards. Small AI and subnet tokens are trading on isolated spikes (Storb, 0xMarkets) rather than a sector wave, which hurts small coins.",
+  "DePIN": "No DePIN news found for the last 7 days; the sector's market cap was about 83% below its 2024 peak by July even as leading networks' revenue grows. Money is going to the few revenue leaders, not to small airdrop-era tokens like Nodepay or NKN."
+ },
+ "athMcap": {
+  "nem": {
+   "value": 16800000000,
+   "date": "2018-01-06",
+   "url": "https://coinmarketcap.com/currencies/nem/",
+   "note": "Fixed 9B supply since launch, so the scanner's estimate matches the real peak; peak date approximate."
+  }
+ }
+}
