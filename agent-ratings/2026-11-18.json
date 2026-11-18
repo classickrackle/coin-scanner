@@ -1,0 +1,245 @@
+{
+ "date": "2026-11-18",
+ "ratings": {
+  "stafi": "skip",
+  "nfprompt-token": "skip",
+  "data-universe": "caution",
+  "poker44": "skip",
+  "aeon-3": "caution",
+  "boundless": "skip",
+  "wayfinder": "caution",
+  "satoshi-cash-network": "skip",
+  "terra-luna": "skip",
+  "openai-ondo-private-market-note": "skip",
+  "bitmind": "caution",
+  "digimaaya": "skip",
+  "nookplot": "skip",
+  "kommunitas-2": "skip",
+  "alethea-artificial-liquid-intelligence-token": "skip",
+  "swarm-bzz": "skip",
+  "boson-protocol": "skip",
+  "airswap": "skip",
+  "w-ai-parked": "skip",
+  "lukso-token-2": "skip",
+  "ethereum-name-service": "skip",
+  "brevis": "skip",
+  "creator-2": "skip",
+  "lumiwave-protocol": "skip",
+  "xswap-2": "caution",
+  "radix": "caution",
+  "impossible-cloud-network-token": "skip",
+  "logicnet": "skip",
+  "pieverse": "caution",
+  "hooked-protocol": "skip"
+ },
+ "conviction": {
+  "data-universe": "low",
+  "aeon-3": "low",
+  "wayfinder": "low",
+  "bitmind": "low",
+  "xswap-2": "low",
+  "radix": "low",
+  "pieverse": "low"
+ },
+ "cases": {
+  "data-universe": {
+   "upside": "Macrocosmos keeps the subnet running (code pushed 16 days ago), but I found no dated launch or event; the 57x trading spike has no reason I could find.",
+   "cheap": "No reason found; small subnet tokens have bled since mid-2025 and this one is down 27% since my October look.",
+   "wrongIf": "The trading spike fades to normal within a week with no announcement.",
+   "vsScanner": "The spike is the only thing new; it is the same coin I rated caution on 10-29 and it has fallen since."
+  },
+  "aeon-3": {
+   "upside": "A real payments app with big backers (YZi Labs, IDG) and listings on OKX, Bitget and Bithumb, but no dated launch or listing ahead.",
+   "cheap": "Only 25% of tokens are out, so future unlocks explain much of the discount; down 88% from its July high.",
+   "wrongIf": "A large unlock lands before any new product news, or daily trading falls under $500K.",
+   "vsScanner": "Agree it is a real business; the unlock overhang is a bigger issue than the scanner's score shows."
+  },
+  "wayfinder": {
+   "upside": "The v2 agent product is live, but there is no dated launch or listing ahead.",
+   "cheap": "Only 38% of tokens are out and the price is down 25% this week; unlocks and a cooling AI-agent trade explain it.",
+   "wrongIf": "It makes a new low under $0.0166 (the October 23 low).",
+   "vsScanner": "The scanner sees a live project; I see an unlock-heavy token in a downtrend with a small October security incident."
+  },
+  "bitmind": {
+   "upside": "A working deepfake-detection subnet with recent code, but no dated event; the 10.9x spike has no reason found.",
+   "cheap": "No reason found; it is down 26% since my 10-20 caution call.",
+   "wrongIf": "The spike fades within a week, or the price makes a new low under $2.",
+   "vsScanner": "The spike is the only new thing; nothing changed in the story since October."
+  },
+  "xswap-2": {
+   "upside": "No dated catalyst; another 5.2x trading spike with no news.",
+   "cheap": "No reason found; likely unwanted.",
+   "wrongIf": "Trading falls back to normal within a week, or no project news appears by 2026-12-09.",
+   "vsScanner": "Score went up on trading, not on anything I can verify."
+  },
+  "radix": {
+   "upside": "Only speculative: a community group taking over the gateway and wallet services before the Foundation's funding ends on 2026-12-31.",
+   "cheap": "Abandoned rather than mispriced; up 386% since first pick with no news behind it.",
+   "wrongIf": "No community body announces it will run the services by 2026-12-31, or the price gives back this month's gain.",
+   "vsScanner": "The rally is unexplained; I would not chase it.",
+   "catalystDate": "2026-12-31"
+  },
+  "pieverse": {
+   "upside": "No dated catalyst found; up 104% since first pick and 32% today on no news.",
+   "cheap": "Not cheap: it has doubled and sits near $680M.",
+   "wrongIf": "It gives back today's gain within a week.",
+   "vsScanner": "The move is real but unexplained."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin has a dated, verified catalyst: the one dated event (Boundless's January AI program) comes after it shut down its main product, and every other move is a trading spike with no reason found.",
+ "athCheck": {
+  "terra-luna": "unlikely",
+  "stafi": "unlikely",
+  "nfprompt-token": "unlikely",
+  "data-universe": "unlikely",
+  "poker44": "stretch",
+  "aeon-3": "unlikely",
+  "boundless": "unlikely",
+  "wayfinder": "unlikely",
+  "satoshi-cash-network": "unlikely",
+  "openai-ondo-private-market-note": "realistic",
+  "bitmind": "unlikely",
+  "digimaaya": "unlikely",
+  "nookplot": "unlikely",
+  "kommunitas-2": "stretch",
+  "alethea-artificial-liquid-intelligence-token": "unlikely"
+ },
+ "lifeCheck": {
+  "stafi": "quiet",
+  "nfprompt-token": "zombie",
+  "data-universe": "alive",
+  "poker44": "quiet",
+  "aeon-3": "alive",
+  "boundless": "quiet",
+  "wayfinder": "alive",
+  "satoshi-cash-network": "quiet",
+  "terra-luna": "alive",
+  "openai-ondo-private-market-note": "alive",
+  "bitmind": "alive",
+  "digimaaya": "quiet",
+  "nookplot": "zombie",
+  "kommunitas-2": "zombie",
+  "alethea-artificial-liquid-intelligence-token": "zombie"
+ },
+ "news": {
+  "stafi": {
+   "text": "The team sunset the original StaFi chain and asked holders to migrate earlier in 2026, and Binance delisted FIS; nothing newer found.",
+   "url": "https://coinmarketcap.com/cmc-ai/stafi/latest-updates/"
+  },
+  "nfprompt-token": {
+   "text": "No news in the last 30 days"
+  },
+  "data-universe": {
+   "text": "No news in the last 30 days"
+  },
+  "poker44": {
+   "text": "No news in the last 30 days; nothing explains the 28.8x trading spike."
+  },
+  "aeon-3": {
+   "text": "No dated news in the last 30 days; an undated report of a 72% one-day jump to about $9M market cap.",
+   "url": "https://www.kucoin.com/news/flash/base-ecosystem-token-aeon-surpasses-9-2m-market-cap-with-72-24-hour-surge"
+  },
+  "boundless": {
+   "text": "Boundless shut its ZK proof service to new requests on 2026-11-05 and is turning ZKC into an 'AI access coin' paying model credits from a $1,000 pool from 2027-01-02.",
+   "date": "2026-11-05",
+   "url": "https://coinalertnews.com/news/2026/11/05/zkc-ai-zeta-solana-migration"
+  },
+  "wayfinder": {
+   "text": "A backend flaw cost about 36 accounts around $5,800 on 2026-10-05; the team says it is paying users back in full (one non-English source).",
+   "date": "2026-10-05",
+   "url": "https://coinpost.jp/?p=608779"
+  },
+  "satoshi-cash-network": {
+   "text": "No news in the last 30 days; only aggregator price pages exist."
+  },
+  "terra-luna": {
+   "text": "Binance skipped its monthly LUNC burn in November for the first time since 2023; on-chain value locked is only about $817K.",
+   "date": "2026-11-03",
+   "url": "https://www.rootdata.com/news/813801"
+  },
+  "openai-ondo-private-market-note": {
+   "text": "No news in the last 30 days; it is a tokenized private-market note, not a project coin."
+  },
+  "bitmind": {
+   "text": "No news in the last 30 days"
+  },
+  "digimaaya": {
+   "text": "Hit its all-time high on 2026-11-08 and is down about 93% since; trades only on MEXC, and presale details could not be confirmed.",
+   "date": "2026-11-08",
+   "url": "https://www.coingabbar.com/en/crypto-ido/digimaaya-ido"
+  },
+  "nookplot": {
+   "text": "No news in the last 30 days"
+  },
+  "kommunitas-2": {
+   "text": "No news in the last 30 days"
+  },
+  "alethea-artificial-liquid-intelligence-token": {
+   "text": "No 2026 project news found; only price pages."
+  },
+  "swarm-bzz": {
+   "text": "Price up 74% in a day and 90% since first pick with no announcement found; last dev update I can find is from mid-2026.",
+   "url": "https://blog.ethswarm.org/foundation/2026/monthly-development-update-may-2026/"
+  },
+  "boson-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "airswap": {
+   "text": "No news in the last 30 days"
+  },
+  "w-ai-parked": {
+   "text": "No news; status went from alive to quiet and the 9.4x spike has no reason."
+  },
+  "lukso-token-2": {
+   "text": "Fell 61% in a day to new lows with no news found."
+  },
+  "ethereum-name-service": {
+   "text": "No news in the last 30 days"
+  },
+  "brevis": {
+   "text": "Up 64% in a day on 48.8x normal trading, which the scanner now flags as fake-looking; no announcement found and the Q4 mainnet is still unconfirmed."
+  },
+  "creator-2": {
+   "text": "No news in the last 30 days"
+  },
+  "lumiwave-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "xswap-2": {
+   "text": "No news in the last 30 days"
+  },
+  "radix": {
+   "text": "Up 43% today with no news found; the last real news is the Foundation's move to maintenance mode.",
+   "date": "2026-04-28",
+   "url": "https://www.radixdlt.com/blog/foundation-update-moving-to-maintenance-mode"
+  },
+  "impossible-cloud-network-token": {
+   "text": "Up 42% today with no news found; last dated item is the Bithumb listing on 2026-07-07.",
+   "url": "https://coinmarketcap.com/ko/cmc-ai/impossible-cloud-network/latest-updates/"
+  },
+  "logicnet": {
+   "text": "No news in the last 30 days"
+  },
+  "pieverse": {
+   "text": "No news in the last 30 days"
+  },
+  "hooked-protocol": {
+   "text": "Now fails the too-little-trading filter; it was delisted by Binance, Bybit and Bitvavo earlier in 2026."
+  }
+ },
+ "sectorNews": {
+  "AI": "I found no dated AI-sector news for this week; the latest weekly recap says most AI tokens gave back gains after an earlier run, and TAO slipped from about $235 on Nov 5 to about $215 on Nov 10. That backdrop has not helped small subnet and agent tokens, most of which on today's list are down 10-25% this week.",
+  "DeFi": "DeFi had several mid-November exploits (Arcus Perps lost about $2.2M and Initia about $615K on Nov 10, and Across's website was hijacked the same day), on top of a year in which locked value fell sharply. That hurts small DeFi tokens, which have little money flowing in.",
+  "Infrastructure": "I found no dated infrastructure or ZK news for this week. For today's three coins the story is their own: Boundless shut down its proof service, Terra Classic lost its Binance burn and Satoshi Cash has no coverage.",
+  "Governance": "I didn't run a separate search for this sector; both coins (NFPrompt and Boundless) are governance tokens of projects that are winding down or changing direction, which says more than any sector trend."
+ },
+ "athMcap": {
+  "terra-luna": {
+   "value": 41000000000,
+   "date": "2022-04-05",
+   "url": "https://coinmarketcap.com/currencies/terra-luna/historical-data/",
+   "note": "Peak was about $41B on roughly 350M coins; supply then grew to trillions in the May 2022 collapse, so the old price is out of reach."
+  }
+ }
+}

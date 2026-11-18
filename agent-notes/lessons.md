@@ -1,10 +1,10 @@
 # Lessons (max 15 bullets)
-- 2026-10-12: Skip means not researchable or not tradeable, not "will fall": skip calls averaged +17% at 7 days from tiny illiquid spikers. Never treat skip as a short signal.
+- 2026-10-12 (updated 2026-11-18): Skip means not researchable or not tradeable, not a direction call: skips swing both ways (+17% at 7 days on 10-12, but -44% at 30 days on 10-19, Zip coin -98%). Never treat skip as a short signal or caution as a hold.
 - 2026-10-12: Require a dated, verified catalyst; a sector story, a known name or low price vs ATH is never enough.
 - 2026-10-15 (updated 2026-11-16): Scanner "new listing" badges are usually old (Walrus, OriginTrail, FLOCK, Grass, Berachain, Axelar, Nillion, Falcon, WalletConnect, Prometeus, BAT, Obol/HTX; SKALE/Gemini dates from 2021), and real listings can reverse (Centrifuge, Dolomite). Treat them as old until an announcement within 30 days is found, and re-check them every few days.
 - 2026-10-17 (updated 2026-11-16): A verified catalyst that has already moved the price (Puffer +70%, Sanctum/Upbit +60% in a week) is not a buy signal.
 - 2026-10-22 (merged 2026-11-17): A volume spike alone is not a catalyst, and unverifiable 'back' triggers count as unconfirmed (HASH, Arkham, META, PolySwarm, Zignaly, Pons-Bithumb, NEM and most November 'back' spikes).
-- 2026-10-20: Inkbox email needs re-authorization (still refused 2026-11-17); delivery falls back to push/chat.
+- 2026-10-20: Inkbox email needs re-authorization (still refused 2026-11-18); delivery falls back to push/chat.
 - 2026-10-27: Check what the token actually is first: regulated fiat stablecoins (AUDM, QCAD), tokenized silver, and tokenized funds/stocks (Ondo, Robinhood USO) are not coins to rate; skip them.
 - 2026-11-05: Spiking tokens that rebrand, migrate or contract-swap (Niza 1500:1) have unreliable ATH numbers; check the migration before using athX.
 - 2026-11-06 (updated 2026-11-16): Network shutdowns (Blast), exploited projects (Harmony, Avici, Rhea) and exchange delistings (Enzyme, Hooked, Hashflow on Binance) outweigh any volume spike; skip. Hooked (skip 10-17) went on to lose 83% in 30 days.
