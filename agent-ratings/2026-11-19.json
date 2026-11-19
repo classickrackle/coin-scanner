@@ -1,0 +1,210 @@
+{
+ "date": "2026-11-19",
+ "ratings": {
+  "pieverse": "caution",
+  "readyai": "caution",
+  "nakamoto-games": "caution",
+  "ondo-big-5-core-allocation-portfolio": "skip",
+  "superwalk": "skip",
+  "xraders": "skip",
+  "perpetual-protocol": "skip",
+  "velvet": "skip",
+  "syscoin": "skip",
+  "azuro-protocol": "skip",
+  "republic-protocol": "skip",
+  "nexora": "skip",
+  "songbird": "skip",
+  "tina": "skip",
+  "kyve-network": "skip",
+  "alkimi-2": "skip",
+  "for-sale": "skip",
+  "ix-swap": "skip",
+  "dynex": "skip",
+  "shuffle-2": "skip",
+  "marblex": "skip",
+  "shopinx-2": "skip",
+  "the-root-network": "skip",
+  "port3-network": "skip",
+  "alpha-trader-exchange-atx": "skip",
+  "portal-2": "skip",
+  "alien-worlds": "skip",
+  "dimo": "caution",
+  "itsai": "caution"
+ },
+ "conviction": {
+  "pieverse": "low",
+  "readyai": "low",
+  "nakamoto-games": "low",
+  "dimo": "low",
+  "itsai": "low"
+ },
+ "cases": {
+  "pieverse": {
+   "upside": "Its agent-payments tooling (x402 invoices, pieUSD) sits in a theme traders are chasing, and a Binance listing or new Binance Alpha campaign could extend the run, but nothing is dated.",
+   "cheap": "It is not cheap: it hit a new high yesterday, is up about 150% this month and only about 27% of tokens are out, so most of the dilution is still ahead.",
+   "wrongIf": "It gives back this week's gain, or an unlock or exchange inflow shows up before any new product or listing news.",
+   "vsScanner": "The scanner likes the volume and ranking jump, but a coin at its all-time high with 73% of supply still locked is late, not early."
+  },
+  "readyai": {
+   "upside": "A real data-labelling subnet with an x402 revenue-to-buyback loop and enterprise data deals; buybacks funded by revenue would be a genuine driver if they start.",
+   "cheap": "Bittensor subnet tokens as a group are out of favour and this one is down about 95% from its July 2025 peak, so nobody is paying for the product story.",
+   "wrongIf": "No buyback or named enterprise customer is announced by the end of December 2026, or daily trading falls back under $50K.",
+   "vsScanner": "Today's 21x trading jump came with no news I could find, so the spike itself is not a reason; the product is the only reason to keep watching."
+  },
+  "nakamoto-games": {
+   "upside": "The studio keeps shipping (a Roblox title, Bigger Bite, a promised tournament), so a working tournament season could bring players back.",
+   "cheap": "Web3 gaming tokens are deeply out of favour and NAKA trades near its all-time low with roughly a third of the max supply out.",
+   "wrongIf": "The teased tournament has no date by the end of December 2026, or daily trading drops under $200K.",
+   "vsScanner": "Agree it is alive, but the scanner has no dated reason either; this is a watch, not a buy."
+  },
+  "dimo": {
+   "upside": "A real connected-car data network with actual users; a new automaker or insurer partnership would matter.",
+   "cheap": "DePIN tokens are out of favour and nothing new has been announced.",
+   "wrongIf": "Trading falls back to normal and the price breaks below its October low.",
+   "vsScanner": "The score fell from 60 to 32; today's 8x trading came with no news I could find."
+  },
+  "itsai": {
+   "upside": "Still nothing dated; it stays on watch only.",
+   "cheap": "Small and unknown.",
+   "wrongIf": "Daily trading falls below $100K.",
+   "vsScanner": "Agree with the scanner."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin on today's short list has a dated, verified catalyst: the one strong mover (Pieverse) already ran 150% this month with most tokens still locked, and the rest are spikes with no news, delisted names or dead projects.",
+ "athCheck": {
+  "pieverse": "realistic",
+  "readyai": "unlikely",
+  "nakamoto-games": "unlikely",
+  "ondo-big-5-core-allocation-portfolio": "unlikely",
+  "superwalk": "unlikely",
+  "xraders": "unlikely",
+  "perpetual-protocol": "unlikely",
+  "velvet": "unlikely",
+  "syscoin": "unlikely",
+  "azuro-protocol": "unlikely",
+  "republic-protocol": "unlikely",
+  "nexora": "unlikely",
+  "songbird": "unlikely",
+  "tina": "unlikely"
+ },
+ "lifeCheck": {
+  "pieverse": "alive",
+  "readyai": "alive",
+  "nakamoto-games": "alive",
+  "ondo-big-5-core-allocation-portfolio": "alive",
+  "superwalk": "quiet",
+  "xraders": "zombie",
+  "perpetual-protocol": "zombie",
+  "velvet": "zombie",
+  "syscoin": "quiet",
+  "azuro-protocol": "quiet",
+  "republic-protocol": "dead",
+  "nexora": "zombie",
+  "songbird": "quiet",
+  "tina": "zombie"
+ },
+ "news": {
+  "pieverse": {
+   "text": "No news in the last 30 days"
+  },
+  "readyai": {
+   "text": "ReadyAI coverage describes an x402 rollout that ties revenue to token buybacks and enterprise real-estate data work; I could not pin a date within 30 days.",
+   "url": "https://taodaily.io/readyais-x402-rollout-creates-a-direct-revenue-to-buyback-loop/"
+  },
+  "nakamoto-games": {
+   "text": "eGamers reported Bigger Bite going live on the platform with a tournament teased, no firm date.",
+   "url": "https://egamers.io/bigger-bite-goes-live-on-nakamoto-games-as-studio-teases-a-coming-tournament/"
+  },
+  "ondo-big-5-core-allocation-portfolio": {
+   "text": "No news in the last 30 days; this is a tokenized investment basket from Ondo, not a project token."
+  },
+  "superwalk": {
+   "text": "No news in the last 30 days"
+  },
+  "xraders": {
+   "text": "No news in the last 30 days"
+  },
+  "perpetual-protocol": {
+   "text": "No news in the last 30 days; Binance delisted PERP in Nov 2025 and KuCoin in March 2026, with no recent roadmap.",
+   "date": "2026-03-17",
+   "url": "https://coinmarketcap.com/cmc-ai/perpetual-protocol/latest-updates"
+  },
+  "velvet": {
+   "text": "No news in the last 30 days"
+  },
+  "syscoin": {
+   "text": "No news in the last 30 days; Binance delisted SYS in May 2026 and a June 2026 bridge exploit was followed by burning 5 billion recovered SYS.",
+   "date": "2026-05-27",
+   "url": "https://syscoin.org/news"
+  },
+  "azuro-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "republic-protocol": {
+   "text": "No news in the last 30 days"
+  },
+  "nexora": {
+   "text": "No news in the last 30 days"
+  },
+  "songbird": {
+   "text": "No news in the last 30 days; the last item found was Flare's June 2026 plan to test Confidential Compute on Songbird.",
+   "date": "2026-06-29",
+   "url": "https://ourcryptotalk.com/news/flare-confidential-compute-songbird-stp13"
+  },
+  "tina": {
+   "text": "No news in the last 30 days"
+  },
+  "kyve-network": {
+   "text": "No news in the last 30 days"
+  },
+  "alkimi-2": {
+   "text": "No news in the last 30 days"
+  },
+  "for-sale": {
+   "text": "No news in the last 30 days"
+  },
+  "ix-swap": {
+   "text": "No news in the last 30 days"
+  },
+  "dynex": {
+   "text": "No news in the last 30 days"
+  },
+  "shuffle-2": {
+   "text": "No news in the last 30 days"
+  },
+  "marblex": {
+   "text": "No news in the last 30 days"
+  },
+  "shopinx-2": {
+   "text": "No news in the last 30 days"
+  },
+  "the-root-network": {
+   "text": "No news in the last 30 days"
+  },
+  "port3-network": {
+   "text": "No news in the last 30 days"
+  },
+  "alpha-trader-exchange-atx": {
+   "text": "No news in the last 30 days"
+  },
+  "portal-2": {
+   "text": "No news in the last 30 days"
+  },
+  "alien-worlds": {
+   "text": "No news in the last 30 days"
+  },
+  "dimo": {
+   "text": "No news in the last 30 days"
+  },
+  "itsai": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "AI": "AI tokens swung hard this month: a sell-off in early November, then a rebound led by Bittensor and agent coins, plus a Fetch.ai lawsuit against Ocean Protocol. Rebounds like this lift whatever is trending (Pieverse) but have not helped forgotten small AI coins.",
+  "DeFi": "DeFi is still bleeding after a year of record hacks; Kava Lend was exploited on Nov 14 and total locked value is down about 39% this year. That is a headwind for old, delisted DeFi tokens like Perp, Ren and Nexora.",
+  "Gaming": "No clear dated gaming news this week; web3 gaming token values are down about two-thirds from a year ago and studios keep closing. Small gaming coins have no sector wave behind them."
+ },
+ "athMcap": {}
+}
