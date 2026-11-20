@@ -1,6 +1,6 @@
 # Lessons (max 15 bullets)
 - 2026-10-12 (updated 2026-11-18): Skip means not researchable or not tradeable, not a direction call: skips swing both ways (+17% at 7 days on 10-12, but -44% at 30 days on 10-19, Zip coin -98%). Never treat skip as a short signal or caution as a hold.
-- 2026-10-12: Require a dated, verified catalyst; a sector story, a known name or low price vs ATH is never enough.
+- 2026-10-12 (merged 2026-11-20): Require a dated, verified catalyst; a sector story, a known name, thin 'news' or a low price vs ATH is never enough (Kaia worth a look 10-11, later -46%).
 - 2026-10-15 (updated 2026-11-16): Scanner "new listing" badges are usually old (Walrus, OriginTrail, FLOCK, Grass, Berachain, Axelar, Nillion, Falcon, WalletConnect, Prometeus, BAT, Obol/HTX; SKALE/Gemini dates from 2021), and real listings can reverse (Centrifuge, Dolomite). Treat them as old until an announcement within 30 days is found, and re-check them every few days.
 - 2026-10-17 (updated 2026-11-16): A verified catalyst that has already moved the price (Puffer +70%, Sanctum/Upbit +60% in a week) is not a buy signal.
 - 2026-10-22 (merged 2026-11-17): A volume spike alone is not a catalyst, and unverifiable 'back' triggers count as unconfirmed (HASH, Arkham, META, PolySwarm, Zignaly, Pons-Bithumb, NEM and most November 'back' spikes).
@@ -10,7 +10,6 @@
 - 2026-11-06 (updated 2026-11-16): Network shutdowns (Blast), exploited projects (Harmony, Avici, Rhea) and exchange delistings (Enzyme, Hooked, Hashflow on Binance) outweigh any volume spike; skip. Hooked (skip 10-17) went on to lose 83% in 30 days.
 - 2026-11-10: Worth-a-look record is poor: about 80% of the 10-01 to 10-11 worth-a-look calls fell by 30 days (scorecard: -19.1% vs market -8.9%), with single outliers (Umbra, Bubblemaps, NextPlace) lifting averages. Keep the bar strict and caution as default.
 - 2026-11-10: Web search returns almost nothing dated for tiny coins; no verifiable dated catalyst means caution or skip, and 'No top picks' is the correct default, not a failure (40 days running on 2026-11-20).
-- 2026-11-09: Thin 'news' without a dated catalyst is not enough (Kaia worth a look 10-11, later -46%).
 - 2026-11-12 (updated 2026-11-19): Caution calls trail the market in every window checked (10-17: -29% vs market -21%; 10-18: -26% vs -21%; 10-20: -25% vs -21%; 11-10 at 7 days: -24% vs -12%; 11-12 at 7 days: -24% vs -11%; 10-21 at 30 days: -31% vs -24%; 11-13 at 7 days: -12% vs -8%); caution is not a hold signal, and ratings only add value through rare, verified catalysts.
 - 2026-11-16: Established networks with no catalyst are not even caution: Mina (-44%), Flow (-52%) and Hyperlane (-47%), all caution on 10-12, hit their 'wrong if' within 5 weeks. A known name with no dated event should be skip.
 - 2026-11-20: Token-unlock dates are red flags to check on the day: Sapien (unlock 11-20) and CYBER (unlock mid-November) both came on the list with most supply still locked; a scheduled unlock within 2 weeks rules out worth a look.
