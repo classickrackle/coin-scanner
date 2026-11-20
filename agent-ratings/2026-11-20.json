@@ -1,0 +1,168 @@
+{
+ "date": "2026-11-20",
+ "ratings": {
+  "orbiter-finance": "skip",
+  "stablecorp-qcad": "skip",
+  "cyberconnect": "skip",
+  "avail": "skip",
+  "argentine-football-association-fan-token": "skip",
+  "sapien-2": "skip",
+  "iron-fish": "skip",
+  "tottenham-hotspur-fc-fan-token": "skip",
+  "assemble-protocol": "skip",
+  "my-lovely-coin": "skip",
+  "xmoney-2": "skip",
+  "clearpool": "caution",
+  "contentos": "skip",
+  "index-cooperative": "skip",
+  "omron": "skip",
+  "vulcan-forged": "skip",
+  "kyo": "skip",
+  "nimiq-2": "skip",
+  "yield-basis": "skip",
+  "safe": "skip",
+  "basic-attention-token": "skip",
+  "dusk-network": "skip",
+  "zeus-5": "skip",
+  "revuto": "skip",
+  "streamflow": "caution"
+ },
+ "conviction": {
+  "clearpool": "low",
+  "streamflow": "low"
+ },
+ "cases": {
+  "clearpool": {
+   "upside": "The CPOOL-to-CLEAR one-for-one swap opened on 17 November and runs to 17 February 2027; new listings of the CLEAR ticker could bring the token back into normal market data and trading.",
+   "cheap": "Prices and data are muddled during a migration, so many traders are staying away until the swap settles.",
+   "wrongIf": "Major exchanges do not list CLEAR by the end of December, or trading in the new token stays under about $200K a day.",
+   "vsScanner": "The scanner's 'no market cap data' failure is a side effect of the migration, not a sign the project died.",
+   "catalystDate": "2026-11-17"
+  },
+  "streamflow": {
+   "upside": "Nothing dated; the token-vesting app is still used and the project shows signs of life again.",
+   "cheap": "Small, quiet token with little news; it is unwanted rather than mispriced.",
+   "wrongIf": "It goes quiet again or daily trading falls under $50K.",
+   "vsScanner": "Agree with the scanner that it is alive, but there is still no catalyst."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin today has a dated, verified catalyst. The list is thin (10 coins), and the real projects on it (Avail, CYBER, Sapien) face unlocks instead.",
+ "athCheck": {
+  "orbiter-finance": "unlikely",
+  "stablecorp-qcad": "unlikely",
+  "cyberconnect": "unlikely",
+  "avail": "unlikely",
+  "argentine-football-association-fan-token": "unlikely",
+  "sapien-2": "unlikely",
+  "iron-fish": "unlikely",
+  "tottenham-hotspur-fc-fan-token": "unlikely",
+  "assemble-protocol": "unlikely",
+  "my-lovely-coin": "unlikely"
+ },
+ "lifeCheck": {
+  "orbiter-finance": "quiet",
+  "stablecorp-qcad": "alive",
+  "cyberconnect": "alive",
+  "avail": "alive",
+  "argentine-football-association-fan-token": "quiet",
+  "sapien-2": "quiet",
+  "iron-fish": "dead",
+  "tottenham-hotspur-fc-fan-token": "quiet",
+  "assemble-protocol": "zombie",
+  "my-lovely-coin": "zombie"
+ },
+ "news": {
+  "orbiter-finance": {
+   "text": "No news in the last 30 days; the trading spike has no explanation I could find."
+  },
+  "stablecorp-qcad": {
+   "text": "No news in the last 30 days; it is a Canadian-dollar stablecoin, so the trading spike means nothing for price."
+  },
+  "cyberconnect": {
+   "text": "A token unlock landed around 13 to 15 November, after the team had already shut its wallets in August to pivot to an AI product called Surf.",
+   "date": "2026-11-06",
+   "url": "https://www.bittime.com/en/blog/harga-cyber-naik-token-unlock"
+  },
+  "avail": {
+   "text": "No news in the last 30 days; the last big product step was the Nexus mainnet in November 2025, and large unlocks are still ahead."
+  },
+  "argentine-football-association-fan-token": {
+   "text": "No news in the last 30 days; CoinEx delisted ARG in July 2026, and fan tokens in general trade below their spring highs.",
+   "url": "https://frontofficesports.com/article/blockchain-fan-token-adoption-heating-up/"
+  },
+  "sapien-2": {
+   "text": "A token unlock of roughly 27 million SAPIEN is scheduled for today, 20 November.",
+   "date": "2026-11-20",
+   "url": "https://coinlaunch.space/projects/sapien/vesting/"
+  },
+  "iron-fish": {
+   "text": "Iron Fish ended support for its network after a 2019 bug was exploited to double-spend.",
+   "date": "2026-10-30",
+   "url": "https://crypto.news/iron-fish-shutdown-inflation-bug-chainport/"
+  },
+  "tottenham-hotspur-fc-fan-token": {
+   "text": "No news in the last 30 days."
+  },
+  "assemble-protocol": {
+   "text": "No news in the last 30 days; the 2026 roadmap for its AI news agent shows no confirmed delivery."
+  },
+  "my-lovely-coin": {
+   "text": "No news in the last 30 days."
+  },
+  "xmoney-2": {
+   "text": "Dropped by Bitkub per the scanner (no announcement found) and now fails the liquidity filter after a one-day 51% jump."
+  },
+  "clearpool": {
+   "text": "The CPOOL-to-CLEAR swap opened on 17 November with a deadline of 17 February 2027.",
+   "date": "2026-11-17",
+   "url": "https://www.coingabbar.com/en/cpool-to-clear-swap-opens-17-nov"
+  },
+  "contentos": {
+   "text": "No news found; only a trading bump."
+  },
+  "index-cooperative": {
+   "text": "No news found; only a trading bump."
+  },
+  "omron": {
+   "text": "No news found; activity went quiet."
+  },
+  "vulcan-forged": {
+   "text": "No news found; the scanner's deep re-check finds the website down and no code or posts in months."
+  },
+  "kyo": {
+   "text": "No news found behind the 30% one-day jump."
+  },
+  "nimiq-2": {
+   "text": "No news found behind the trading jump."
+  },
+  "yield-basis": {
+   "text": "Dropped from CoinEx, Bitkub and Bithumb per the scanner (no announcements found) and flagged for fake-looking volume."
+  },
+  "safe": {
+   "text": "No news found; score collapsed from 55 to 18."
+  },
+  "basic-attention-token": {
+   "text": "No news found; score collapsed from 56 to 14."
+  },
+  "dusk-network": {
+   "text": "No news found; score collapsed from 45 to 20."
+  },
+  "zeus-5": {
+   "text": "No news found; only a trading bump."
+  },
+  "revuto": {
+   "text": "No news found; score collapsed from 52 to 19."
+  },
+  "streamflow": {
+   "text": "No news found; the scanner sees signs of life again."
+  }
+ },
+ "sectorNews": {
+  "AI": "I found no dated AI-sector news for this week, only older roundups showing big swings both ways, led by large names like Bittensor. Today's three AI coins (CYBER, Sapien, Assemble AI) get nothing from that, since small AI tokens with unlocks or no product have kept lagging.",
+  "Sports & fan tokens": "Socios fan tokens have grown overall since June but team tokens trade below their spring World Cup highs (Front Office Sports, 13 Nov), and US college tokens are only planned. That hurts small, thinly traded club and national-team tokens like ARG and SPURS, whose spikes come and go.",
+  "Infrastructure": "There is no fresh data-availability or infrastructure news this month; the sector is in a quiet, oversupplied phase. That is a headwind for Avail and Sapien, which both still have most of their tokens locked.",
+  "Governance": "Governance is a label here, not a market theme; there is no sector news, and it does nothing for CYBER or Sapien."
+ },
+ "athMcap": {}
+}
