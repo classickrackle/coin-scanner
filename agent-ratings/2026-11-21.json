@@ -1,0 +1,202 @@
+{
+ "date": "2026-11-21",
+ "ratings": {
+  "prometeus": "caution",
+  "lumiwave-protocol": "skip",
+  "bora": "skip",
+  "goldfinch": "skip",
+  "ridges-ai": "caution",
+  "creditcoin-2": "skip",
+  "umbra": "caution",
+  "matrix-ai-network": "skip",
+  "uchain-2": "skip",
+  "rice-ai": "skip",
+  "clearpool-2": "caution",
+  "pump-fun": "caution",
+  "safecoin": "skip",
+  "agent-hustle-2": "skip",
+  "smardex": "skip",
+  "dtravel": "skip",
+  "rei-network": "skip",
+  "kernel-2": "skip",
+  "stader": "skip",
+  "amp-token": "skip",
+  "solidus-aitech": "skip",
+  "ithaca-protocol": "skip",
+  "chainflip": "skip",
+  "leisuremeta": "skip",
+  "claus-2": "skip",
+  "top-network": "skip",
+  "portugal-national-team-fan-token": "skip"
+ },
+ "conviction": {
+  "prometeus": "low",
+  "ridges-ai": "low",
+  "umbra": "low",
+  "clearpool-2": "low",
+  "pump-fun": "low"
+ },
+ "cases": {
+  "prometeus": {
+   "upside": "The team is still shipping code (an agent-to-agent verification network pushed yesterday), so an AI-agent relaunch announcement could re-rate it; no date found.",
+   "cheap": "Old 2019 token that has rebranded several times; the market has stopped believing its pivots, and on-chain use (TVL under $1M) is tiny.",
+   "wrongIf": "No product launch or announcement explains the 10x volume spike by mid-December and the price gives the spike back.",
+   "vsScanner": "The spike is unexplained and PROM has had several similar pump-and-fade volume bursts this year; the scanner treats it as fresh interest, I treat it as noise."
+  },
+  "ridges-ai": {
+   "upside": "Real product: a Bittensor subnet paying miners to build coding agents, with strong benchmark claims; a talked-about major exchange listing has never been confirmed.",
+   "cheap": "Subnet tokens across Bittensor have bled for a year and new tokens are emitted daily, so the market discounts every subnet, good or bad.",
+   "wrongIf": "Price makes a new low below $1.20 or daily trading falls back under $100K by early December.",
+   "vsScanner": "The score jump comes from a volume spike, not news; agree the project is alive, but nothing dated is coming."
+  },
+  "umbra": {
+   "upside": "Working Solana privacy wallet (public since March 2026) and a vesting product with Streamflow; a centralized exchange listing would be the obvious next step, none announced.",
+   "cheap": "Only trades on MetaDAO's own pool, so most buyers cannot reach it; it fell 53% this week.",
+   "wrongIf": "Price breaks below $0.20 or no exchange listing or product news by end of December.",
+   "vsScanner": "Spike came during a 53% weekly fall, which looks like selling, not discovery; scanner calls it a radar signal."
+  },
+  "clearpool-2": {
+   "upside": "New CLEAR token after the CPOOL swap opened on 2026-11-17 (deadline 2027-02-17); more exchanges re-listing the new token over the coming weeks could add buyers.",
+   "cheap": "Market data is half-broken during the swap (CLEAR shows on MEXC only), so the token looks small and new; that is a data gap, not mispricing.",
+   "wrongIf": "Big exchanges have not switched to CLEAR by mid-December, or the price keeps sliding below $0.015.",
+   "vsScanner": "The scanner's 'ATH yesterday' is meaningless for a 4-day-old token, and supply rises from 1.125B to 1.428B over 3 years of unlocks.",
+   "catalystDate": "2026-11-17"
+  },
+  "pump-fun": {
+   "upside": "Pump.fun earns real fees and spends half of revenue on buybacks; a memecoin rebound would lift it first.",
+   "cheap": "Team and early-investor unlocks are being sent to exchanges, staff were laid off, and only 43% of tokens are out, so sellers outweigh the buybacks.",
+   "wrongIf": "Price stays under its November low and more team-linked unlocks hit exchanges in December.",
+   "vsScanner": "Scanner rates it healthy on volume; I think the unlock overhang and 31% weekly fall matter more."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin on today's list has a verified, dated catalyst; most 'back' triggers are unexplained volume spikes on zombie or wound-down projects.",
+ "athCheck": {
+  "prometeus": "unlikely",
+  "lumiwave-protocol": "unlikely",
+  "bora": "unlikely",
+  "goldfinch": "unlikely",
+  "ridges-ai": "unlikely",
+  "creditcoin-2": "unlikely",
+  "umbra": "stretch",
+  "matrix-ai-network": "unlikely",
+  "uchain-2": "unlikely",
+  "rice-ai": "unlikely",
+  "clearpool-2": "stretch",
+  "pump-fun": "stretch"
+ },
+ "lifeCheck": {
+  "prometeus": "alive",
+  "lumiwave-protocol": "quiet",
+  "bora": "quiet",
+  "goldfinch": "dead",
+  "ridges-ai": "alive",
+  "creditcoin-2": "quiet",
+  "umbra": "alive",
+  "matrix-ai-network": "zombie",
+  "uchain-2": "zombie",
+  "rice-ai": "zombie",
+  "clearpool-2": "alive",
+  "pump-fun": "alive"
+ },
+ "news": {
+  "prometeus": {
+   "text": "No news in the last 30 days; the volume spike has no announcement behind it."
+  },
+  "lumiwave-protocol": {
+   "text": "Undated report of a 1:1 migration from LWA to LWP with mandatory KYC; nothing in the last 30 days.",
+   "url": "https://devbytes.co.in/news/lumiwave-to-transition-to-a-new-sovereign-mainnet"
+  },
+  "bora": {
+   "text": "The Zaif listing announcement appears to date from June 2024 (the Korean post says 2026, likely a typo); no news in the last 30 days.",
+   "url": "https://medium.com/boraecosystem/bora-token-listing-on-zaif-f86c249ed7e6"
+  },
+  "goldfinch": {
+   "text": "Token holders voted unanimously to wind the protocol down; it now only collects what borrowers still owe.",
+   "date": "2026-06-23",
+   "url": "https://coinpaprika.com/education/goldfinch-gfi-goldfinch-prime/"
+  },
+  "ridges-ai": {
+   "text": "No news in the last 30 days; last coverage was a July 2026 roundup."
+  },
+  "creditcoin-2": {
+   "text": "No confirmation of a new Upbit Indonesia listing found; known listings date from 2023-2024."
+  },
+  "umbra": {
+   "text": "No news in the last 30 days; last news was the Streamflow private-vesting launch in May 2026.",
+   "url": "https://theblock.co/news/ecosystems/2026-05-26-solana-privacy-layer-umbra-launches-confidential-vesting-with-streamflow-targeting-97b-token-unlock-market-402549"
+  },
+  "matrix-ai-network": {
+   "text": "No news in the last 30 days"
+  },
+  "uchain-2": {
+   "text": "No news in the last 30 days; BingX's own page says UCN is not listed there while aggregators say it is."
+  },
+  "rice-ai": {
+   "text": "No news in the last 30 days; last real news is from 2025."
+  },
+  "clearpool-2": {
+   "text": "The CPOOL-to-CLEAR swap opened, running until 2027-02-17, with exchanges restricting CPOOL transfers.",
+   "date": "2026-11-17",
+   "url": "https://www.coingabbar.com/en/cpool-to-clear-swap-opens-17-nov"
+  },
+  "pump-fun": {
+   "text": "Price fell about 9% in a day on team-linked token unlocks sent to Coinbase and continued treasury SOL selling.",
+   "date": "2026-11-15",
+   "url": "https://coinmarketcap.com/cmc-ai/pump-fun/latest-updates/"
+  },
+  "safecoin": {
+   "text": "No news found behind the 140% weekly rise."
+  },
+  "agent-hustle-2": {
+   "text": "No news found; scanner's deep re-check found no centralized exchange listing."
+  },
+  "smardex": {
+   "text": "No news found; score fell from 42 to 24."
+  },
+  "dtravel": {
+   "text": "No news found behind the volume jump."
+  },
+  "rei-network": {
+   "text": "No news found behind the 9x volume jump."
+  },
+  "kernel-2": {
+   "text": "Dropped from six exchanges in the scanner's data and now flagged for fake-looking volume; no announcement found."
+  },
+  "stader": {
+   "text": "No news found."
+  },
+  "amp-token": {
+   "text": "No news found; score fell from 56 to 5."
+  },
+  "solidus-aitech": {
+   "text": "No news found; score fell from 63 to 35."
+  },
+  "ithaca-protocol": {
+   "text": "No news found behind the 20% one-day drop."
+  },
+  "chainflip": {
+   "text": "No news found behind the 40% one-day drop."
+  },
+  "leisuremeta": {
+   "text": "No news found behind the 37% one-day rise."
+  },
+  "claus-2": {
+   "text": "No news found; down 97% since first picked."
+  },
+  "top-network": {
+   "text": "No news found behind the 34% one-day rise."
+  },
+  "portugal-national-team-fan-token": {
+   "text": "No news found; now flagged for fake-looking volume."
+  }
+ },
+ "sectorNews": {
+  "AI": "AI tokens swung hard this month: a roughly 7% sector drop in mid-November on macro selling, then a rebound led by larger infrastructure names while AI-agent tokens lagged. Bittensor subnet tokens keep diluting; this mood does not lift tiny AI coins without their own news.",
+  "RWA": "Tokenization keeps drawing big institutions, but no dated RWA news this week reached small tokens; the money goes to funds and stablecoins, not to old lending tokens like Goldfinch or Creditcoin. Neutral to negative for small RWA coins.",
+  "Gaming": "No dated gaming-token news found for this week; the sector has been one of crypto's weakest for a year. Hurts small gaming coins like BORA and LumiWave.",
+  "DeFi": "DeFi locked value has fallen about 25-39% this year, and the Kava Lend exploit on 2026-11-14 (about $3.8M) added to a long hack list. Risk-off for small DeFi tokens.",
+  "Infrastructure": "Old smart-contract chains on today's list (Prom, BORA, Creditcoin, Matrix, UCHAIN, LumiWave) have no shared catalyst; their spikes look like isolated volume bursts in a weak market."
+ },
+ "athMcap": {}
+}
