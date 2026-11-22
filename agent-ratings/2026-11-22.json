@@ -1,0 +1,222 @@
+{
+ "date": "2026-11-22",
+ "ratings": {
+  "euler": "caution",
+  "logicnet": "caution",
+  "puffer-finance": "skip",
+  "boson-protocol": "skip",
+  "pocket-network": "skip",
+  "storb": "skip",
+  "acala": "skip",
+  "cjournal-2": "skip",
+  "rings": "skip",
+  "atletico-madrid": "skip",
+  "firmachain": "skip",
+  "world3": "skip",
+  "aston-martin-cognizant-fan-token": "skip",
+  "fuse-network-token": "skip",
+  "suins-token": "skip",
+  "meet48": "skip",
+  "bitcoin-cash-sv": "skip",
+  "uquid-coin": "skip",
+  "silvertimes-token": "skip",
+  "zip-coin": "skip",
+  "pieverse": "skip",
+  "flamengo-fan-token": "skip",
+  "belgium-fan-token": "skip",
+  "safepal": "skip",
+  "airswap": "skip",
+  "standard": "skip",
+  "banana-gun": "skip",
+  "ondo-high-income-powered-by-blackrock": "skip",
+  "metacene": "skip",
+  "hooked": "skip",
+  "jagent": "skip",
+  "argus-2": "skip",
+  "embercurve": "skip"
+ },
+ "conviction": {
+  "euler": "low",
+  "logicnet": "low"
+ },
+ "cases": {
+  "euler": {
+   "upside": "A working lending protocol with roughly $238M deposited and $284M lent, worth only $19M as a token; a confirmed Crypto.com listing or a restart of the paused buybacks would be the trigger, but neither is dated.",
+   "cheap": "Lending tokens are out of favour, deposits are shrinking, buybacks stopped in April and the CEO left in January, so the market sees no reason for the token to capture value.",
+   "wrongIf": "Deposits fall under $200M on DefiLlama or no Crypto.com announcement appears by early December.",
+   "vsScanner": "The 'new Crypto.com listing' badge is unconfirmed (only an undated aggregator page), so I don't count it as a catalyst."
+  },
+  "logicnet": {
+   "upside": "Subnet 35 now powers the liquidity side of 0xMarkets, a perpetuals exchange; a real mainnet launch of the exchange (vaguely 'late Q4') could restart interest.",
+   "cheap": "It already ran about 20x to Nov 12 and has crashed 95% since, so it's not ignored; it's a blown-off spike in a $125K token.",
+   "wrongIf": "The 0xMarkets exchange is not live on mainnet by end of December.",
+   "vsScanner": "Scanner calls it zombie from old code, but the subnet was repurposed and has a real story; still, the spike is over."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin has a dated, verified catalyst: the two listings the scanner cites are unconfirmed or old, the spikes have no news behind them, and the market is in extreme fear.",
+ "athCheck": {
+  "euler": "stretch",
+  "logicnet": "unlikely",
+  "puffer-finance": "unlikely",
+  "boson-protocol": "unlikely",
+  "pocket-network": "unlikely",
+  "storb": "unlikely",
+  "acala": "unlikely",
+  "cjournal-2": "unlikely",
+  "rings": "unlikely",
+  "atletico-madrid": "unlikely",
+  "firmachain": "unlikely",
+  "world3": "unlikely",
+  "aston-martin-cognizant-fan-token": "unlikely",
+  "fuse-network-token": "unlikely",
+  "suins-token": "unlikely",
+  "meet48": "unlikely",
+  "bitcoin-cash-sv": "unlikely",
+  "uquid-coin": "unlikely"
+ },
+ "lifeCheck": {
+  "euler": "alive",
+  "logicnet": "quiet",
+  "puffer-finance": "quiet",
+  "boson-protocol": "quiet",
+  "pocket-network": "alive",
+  "storb": "zombie",
+  "acala": "dead",
+  "cjournal-2": "zombie",
+  "rings": "quiet",
+  "atletico-madrid": "quiet",
+  "firmachain": "quiet",
+  "world3": "zombie",
+  "aston-martin-cognizant-fan-token": "zombie",
+  "fuse-network-token": "alive",
+  "suins-token": "quiet",
+  "meet48": "quiet",
+  "bitcoin-cash-sv": "quiet",
+  "uquid-coin": "zombie"
+ },
+ "news": {
+  "euler": {
+   "text": "No dated Euler news in the last 30 days; the Crypto.com listing shown by the scanner could not be confirmed."
+  },
+  "logicnet": {
+   "text": "Repurposed as Cartha, the liquidity engine for the 0xMarkets perps exchange; no dated launch found.",
+   "url": "https://taodaily.io/how-cartha-subnet-35-serves-as-the-liquidity-engine-behind-0xmarkets"
+  },
+  "puffer-finance": {
+   "text": "About 19M PUFFER unlocked on Nov 8 and more unlock monthly (next about Dec 8); no news behind the latest trading spike.",
+   "date": "2026-11-08",
+   "url": "https://www.rootdata.com/Projects/detail/Puffer%20Finance?k=NzkwNA%3D%3D"
+  },
+  "boson-protocol": {
+   "text": "No news in the last 30 days; zero protocol income in October and HTX delisted it in April."
+  },
+  "pocket-network": {
+   "text": "No news in the last 30 days; the spike is Korean-exchange trading with nothing behind it."
+  },
+  "storb": {
+   "text": "No news in the last 30 days; +610% week in an $88K subnet token with no known team."
+  },
+  "acala": {
+   "text": "Acala and Karura shutdown referendums were filed around Nov 11; chains would stop on Feb 10, 2027 and ACA can't be bridged out.",
+   "date": "2026-11-11",
+   "url": "https://crypto.news/acala-karura-shutdown-february-2027/"
+  },
+  "cjournal-2": {
+   "text": "No news in the last 30 days; market cap down over 99% since January, one exchange."
+  },
+  "rings": {
+   "text": "No real news; an anonymous Solana privacy-launchpad token up over 1,000% this week, possibly riding the name of Helius's unrelated 'Privacy Rings'."
+  },
+  "atletico-madrid": {
+   "text": "No news in the last 30 days."
+  },
+  "firmachain": {
+   "text": "No news in the last 30 days; the planned 2026 rebrand to Baseline and token swap is unconfirmed."
+  },
+  "world3": {
+   "text": "No news in the last 30 days; monthly unlocks continue with only about 35% of supply out."
+  },
+  "aston-martin-cognizant-fan-token": {
+   "text": "No news in the last 30 days; Cognizant left as title sponsor in 2024, so the token's name is out of date."
+  },
+  "fuse-network-token": {
+   "text": "No news in the last 30 days; last real update was a May 2026 pivot to AI-agent payments."
+  },
+  "suins-token": {
+   "text": "No news in the last 30 days; price is below its July low while supply keeps vesting."
+  },
+  "meet48": {
+   "text": "New price highs on Nov 7 and Nov 21 with no news behind them; daily trading exceeds the market cap."
+  },
+  "bitcoin-cash-sv": {
+   "text": "A Teranode test produced a 504GB block on a test chain (Nov 4); the ChangeNOW 'listing' isn't new.",
+   "date": "2026-11-04",
+   "url": "https://coingeek.com/teranode-test-mines-504gb-block-with-2-8b-transactions/"
+  },
+  "uquid-coin": {
+   "text": "No news in the last 30 days; $22K daily trading against a $27M market cap on one exchange."
+  },
+  "silvertimes-token": {
+   "text": "No news; an 86% one-day drop on very thin trading, possibly a data glitch."
+  },
+  "zip-coin": {
+   "text": "No news; a bounce after a 98% fall."
+  },
+  "pieverse": {
+   "text": "No news found behind a 150% week; now above $1B and outside the size bands, with most supply still locked."
+  },
+  "flamengo-fan-token": {
+   "text": "No news; scanner flags fake-looking volume."
+  },
+  "belgium-fan-token": {
+   "text": "No news; thin trading."
+  },
+  "safepal": {
+   "text": "Reports around Nov 12 of phishing letters to hardware-wallet buyers after a customer-data leak.",
+   "date": "2026-11-12",
+   "url": "https://www.binance.com/square/hashtag/Safepal"
+  },
+  "airswap": {
+   "text": "No news found."
+  },
+  "standard": {
+   "text": "No news found; supply shrinks with ETH outflows by design."
+  },
+  "banana-gun": {
+   "text": "No news found."
+  },
+  "ondo-high-income-powered-by-blackrock": {
+   "text": "No news; a tokenized fund, not a coin."
+  },
+  "metacene": {
+   "text": "No news found."
+  },
+  "hooked": {
+   "text": "No news; was delisted by Binance, Bitget and Bybit earlier this year."
+  },
+  "jagent": {
+   "text": "No news found; look-alike contracts exist."
+  },
+  "argus-2": {
+   "text": "No news found."
+  },
+  "embercurve": {
+   "text": "No news found."
+  }
+ },
+ "sectorNews": {
+  "AI": "No subnet-specific news this week; TAO-linked tokens trade as high-beta bets on TAO and are being sold with the market. Hurts small AI coins.",
+  "DeFi": "Collateral prices fell sharply (BTC about -14% on the week), which usually means liquidations and shrinking deposits for lending and restaking protocols. Hurts small DeFi tokens.",
+  "Sports & fan tokens": "No sector news; the latest items are from July (US regulators calling fan tokens collectibles). Pumps in Flamengo and Belgium have no news behind them and look like thin-book moves.",
+  "Infrastructure": "No notable news; in a risk-off week small chain and network tokens usually lag. Acala's shutdown vote is a reminder that small chains are being wound down."
+ },
+ "athMcap": {
+  "euler": {
+   "value": 300000000,
+   "date": "2025-07-10",
+   "url": "https://thedefiant.io/news/defi/euler-token-new-all-time-high-led-by-protocol-growth",
+   "note": "reported as approaching $300M on the ATH day; scanner estimate was $380M, so supply grew about 25%"
+  }
+ }
+}
