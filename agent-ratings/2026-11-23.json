@@ -1,0 +1,228 @@
+{
+ "date": "2026-11-23",
+ "ratings": {
+  "sanctum-2": "caution",
+  "sky": "caution",
+  "mori-finance-2": "caution",
+  "world-of-dypians": "caution",
+  "elsa": "caution",
+  "bugscoin": "skip",
+  "verge": "skip",
+  "skey-network": "skip",
+  "wilder-world": "skip",
+  "harvest-finance": "skip",
+  "sharering": "skip",
+  "argentine-football-association-fan-token": "skip",
+  "handl-pay": "skip",
+  "portugal-national-team-fan-token": "skip",
+  "aleph-zero": "skip",
+  "aston-villa-fan-token": "skip",
+  "tcy": "skip",
+  "nullmask": "skip",
+  "camp-network": "skip",
+  "shopinx-2": "skip",
+  "spacehood": "skip",
+  "endurance": "skip",
+  "kyo": "skip",
+  "nexira-daep": "skip",
+  "zero-gravity": "skip",
+  "zar-supercoin": "skip",
+  "loosh": "skip",
+  "rings": "skip",
+  "nesa": "skip",
+  "pirate-chain": "skip",
+  "taraxa": "skip"
+ },
+ "conviction": {
+  "sanctum-2": "low",
+  "sky": "low",
+  "mori-finance-2": "low",
+  "world-of-dypians": "low",
+  "elsa": "low"
+ },
+ "cases": {
+  "sanctum-2": {
+   "upside": "Real Solana liquid-staking business; the only fresh event is a KCEX listing, a small exchange that won't bring the kind of buying Upbit did on Nov 13.",
+   "cheap": "Not cheap: it already ran on the Upbit listing and is now giving that back (-13% this week). Holders get no share of revenue and profit fell in Q3.",
+   "wrongIf": "Price falls under $0.045 (pre-Upbit level) or daily trading falls under $500K.",
+   "vsScanner": "The scanner scores the KCEX listing and 17x volume as big news; KCEX is minor and the spike looks like churn on a fading move.",
+   "catalystDate": "2026-11-13"
+  },
+  "sky": {
+   "upside": "A big, revenue-earning stablecoin protocol that buys back its own token; if the illicit-flows story and the stUSDS withdrawal stress fade, the drop could reverse.",
+   "cheap": "It fell about 24% on Nov 19-20 after a report tied $518M of flows through its swap module to illicit wallets, and lenders hit withdrawal limits in its stUSDS pool. That is a real reason, not a mispricing.",
+   "wrongIf": "USDS supply keeps shrinking below $5B, or any regulator or exchange acts on the illicit-flows report.",
+   "vsScanner": "Scanner score is only 6; I agree it's weak, and add that the news is a fresh negative, not an overlooked bargain.",
+   "catalystDate": "2026-11-20"
+  },
+  "mori-finance-2": {
+   "upside": "A small working Solana options product ($1.7M options volume in October) that just finished its MetaDAO token sale on Nov 9-13.",
+   "cheap": "It isn't: sale price was $0.025 and it now trades near $0.095, about 3.8x in ten days, on a single DEX pool.",
+   "wrongIf": "Options volume doesn't grow past October's $1.7M, or the price falls back under $0.05.",
+   "vsScanner": "Scanner rates the +42% week as momentum; I see a fresh sale that has already multiplied, with no centralized exchange and about $120K a day of trading.",
+   "catalystDate": "2026-11-13"
+  },
+  "world-of-dypians": {
+   "upside": "Still no dated event found; the price is up 136% since first picked and 28% today with no news I could find.",
+   "cheap": "No verified reason it is mispriced.",
+   "wrongIf": "Volume fades or it fails the scanner safety filters again.",
+   "vsScanner": "Agree with the scanner that it's moving; I can't explain why."
+  },
+  "elsa": {
+   "upside": "A working AI trading-assistant app; the price rose 83% this week right through the Nov 20 unlock, so there is real buying.",
+   "cheap": "Still far below its January high because most tokens are locked and unlock monthly.",
+   "wrongIf": "Price falls below $0.05, or the next monthly unlock knocks it back below where it was before the run.",
+   "vsScanner": "The rally has no announced cause, same as the Nov 5 spike; I'd treat it as speculative."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "Nothing on today's list has a fresh, dated catalyst that hasn't already moved the price; most of the list is fan tokens, zombies and unexplained volume spikes.",
+ "athCheck": {
+  "sanctum-2": "stretch",
+  "sky": "stretch",
+  "mori-finance-2": "stretch",
+  "bugscoin": "unlikely",
+  "verge": "unlikely",
+  "skey-network": "unlikely",
+  "wilder-world": "unlikely",
+  "harvest-finance": "unlikely",
+  "sharering": "unlikely",
+  "argentine-football-association-fan-token": "unlikely",
+  "handl-pay": "unlikely",
+  "portugal-national-team-fan-token": "unlikely",
+  "aleph-zero": "unlikely",
+  "aston-villa-fan-token": "unlikely",
+  "tcy": "stretch",
+  "nullmask": "unlikely"
+ },
+ "lifeCheck": {
+  "sanctum-2": "alive",
+  "sky": "alive",
+  "mori-finance-2": "alive",
+  "bugscoin": "quiet",
+  "verge": "quiet",
+  "skey-network": "quiet",
+  "wilder-world": "quiet",
+  "harvest-finance": "zombie",
+  "sharering": "zombie",
+  "argentine-football-association-fan-token": "alive",
+  "handl-pay": "quiet",
+  "portugal-national-team-fan-token": "alive",
+  "aleph-zero": "zombie",
+  "aston-villa-fan-token": "alive",
+  "tcy": "alive",
+  "nullmask": "zombie"
+ },
+ "news": {
+  "sanctum-2": {
+   "text": "Upbit listed SANC for Korean-won trading on Nov 13; the new KCEX listing is minor and I found no coverage of it.",
+   "date": "2026-11-13",
+   "url": "https://www.coingabbar.com/en/sanctum-sanc-upbit-listing-and-token-burn-solana-lst-impact"
+  },
+  "sky": {
+   "text": "SKY fell about 24% after a report flagged $518M of illicit-linked flows through its swap module, alongside withdrawal limits in the stUSDS pool.",
+   "date": "2026-11-20",
+   "url": "https://www.cryptotimes.io/2026/11/20/sky-token-falls-24-after-report-flags-518m-in-illicit-psm-flows/"
+  },
+  "mori-finance-2": {
+   "text": "Mori finished its MetaDAO token sale (Nov 9-13) at $0.025 a token, raising about $250K.",
+   "date": "2026-11-13",
+   "url": "https://coinlaunch.space/events-rounds/mori-finance-metadao-ico-round/"
+  },
+  "bugscoin": {
+   "text": "No news in the last 30 days explains the 28x volume spike; a late-October note says a Gate Ventures deal for its ADEN exchange was under discussion.",
+   "date": "2026-10-30",
+   "url": "https://www.rootdata.com/projects/detail/BugsCoin?k=MTY4MTE%3D"
+  },
+  "verge": {
+   "text": "No news found for the spike; Binance stopped XVG trading for Brazilian users on Oct 27.",
+   "date": "2026-10-27",
+   "url": "https://coinmarketcap.com/cmc-ai/verge/latest-updates/"
+  },
+  "argentine-football-association-fan-token": {
+   "text": "No news found behind the 40x volume and +139% week; World Cup demand ended in July."
+  },
+  "nullmask": {
+   "text": "No news in the last 30 days; price keeps falling from its October peak."
+  },
+  "handl-pay": {
+   "text": "No news in the last 30 days; most coverage found is sponsored."
+  },
+  "wilder-world": {
+   "text": "No news in the last 30 days; last product update found was July 2026."
+  },
+  "aleph-zero": {
+   "text": "No news in the last 30 days; delisted by Giottus in February."
+  },
+  "world-of-dypians": {
+   "text": "No news in the last 30 days"
+  },
+  "elsa": {
+   "text": "Up 83% this week through the scheduled Nov 20 unlock, with no project announcement found."
+  },
+  "skey-network": {
+   "text": "No news in the last 30 days"
+  },
+  "harvest-finance": {
+   "text": "No news in the last 30 days"
+  },
+  "sharering": {
+   "text": "No news in the last 30 days"
+  },
+  "portugal-national-team-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "aston-villa-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "tcy": {
+   "text": "No news in the last 30 days"
+  },
+  "camp-network": {
+   "text": "Price down 67% in a day and now flagged for fake-looking volume; I could not confirm a Bithumb delisting."
+  },
+  "shopinx-2": {
+   "text": "No news in the last 30 days"
+  },
+  "spacehood": {
+   "text": "No news in the last 30 days"
+  },
+  "endurance": {
+   "text": "No news in the last 30 days"
+  },
+  "kyo": {
+   "text": "No news in the last 30 days"
+  },
+  "nexira-daep": {
+   "text": "No news in the last 30 days"
+  },
+  "zero-gravity": {
+   "text": "No news in the last 30 days"
+  },
+  "zar-supercoin": {
+   "text": "No news in the last 30 days"
+  },
+  "loosh": {
+   "text": "No news in the last 30 days"
+  },
+  "rings": {
+   "text": "No news in the last 30 days"
+  },
+  "nesa": {
+   "text": "Fell 46% in a day with no news found; earlier an August exploit forced a token migration and OrangeX delisted it in October.",
+   "date": "2026-10-02",
+   "url": "https://coinstats.app/news/4f09c60eeb108db0ebcc11ac5a9d31a19c9ee6ce638d5bfee7b04e51d8fbf180_Nesa-Exploit-News-NES-Token-Drain-Exposes-Cosmos-EVM-Security-Flaw"
+  },
+  "pirate-chain": {
+   "text": "No news in the last 30 days"
+  },
+  "taraxa": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "DeFi": "DeFi is under pressure: total value locked has fallen sharply through 2026, and November brought a string of hacks (Mercado Bitcoin $40M on Nov 2, Arcus Perps, Initia, Ankr bridge). Sky, the biggest name on today's list, fell about 24% on an illicit-flows report. This hurts small DeFi coins: money is leaving, not rotating in.",
+  "Governance": "Governance tokens on today's list (Sanctum, Harvest, Sky) all overlap with DeFi and share its weakness. Sky's governance and buyback story didn't stop a 38% four-week slide, so a governance role alone isn't drawing buyers.",
+  "Sports & fan tokens": "No Chiliz or Socios news in the last 7 days; the last real drivers were the World Cup (ended July 19) and US college launches earlier this year. The spikes in ARG and POR have no news behind them, which looks like short-lived pumps on thin tokens. Not helpful for small fan tokens."
+ }
+}
