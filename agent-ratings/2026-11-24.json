@@ -1,0 +1,267 @@
+{
+ "date": "2026-11-24",
+ "ratings": {
+  "lista": "caution",
+  "secret": "skip",
+  "readyai": "caution",
+  "byteleap": "caution",
+  "aelf": "skip",
+  "creator-2": "skip",
+  "xraders": "skip",
+  "data-universe": "caution",
+  "immortal-token": "skip",
+  "coldint": "skip",
+  "gradients": "caution",
+  "uchain-2": "skip",
+  "panther": "skip",
+  "hash-2": "caution",
+  "beldex": "skip",
+  "sun-token": "caution",
+  "hermes-3": "skip",
+  "digitalbits": "skip",
+  "avici": "skip",
+  "openkaito": "skip",
+  "alpha-trader-exchange-atx": "skip",
+  "compute-horde": "caution",
+  "the-root-network": "skip",
+  "okzoo": "skip",
+  "priors-agent": "skip",
+  "iron-fish": "skip",
+  "dynex": "skip",
+  "chainflip": "skip",
+  "nem": "skip",
+  "layerzero": "caution",
+  "claus-2": "skip"
+ },
+ "conviction": {
+  "lista": "low",
+  "readyai": "low",
+  "byteleap": "low",
+  "data-universe": "low",
+  "gradients": "low",
+  "hash-2": "low",
+  "sun-token": "low",
+  "compute-horde": "low",
+  "layerzero": "medium"
+ },
+ "cases": {
+  "lista": {
+   "upside": "Revenue now funds LISTA buybacks and max supply was cut to 800M, so a real lending business sits under the token; today's 40% jump came with no announcement.",
+   "cheap": "It isn't obviously cheap: the move is led by futures (about $125M futures vs $9M spot), which usually unwinds.",
+   "wrongIf": "Price gives back today's jump within a week, or the December unlock of about 30M tokens lands before any news.",
+   "vsScanner": "Scanner reads the 40x trading spike as strength; it looks like leverage, not new buyers."
+  },
+  "readyai": {
+   "upside": "Paying data-labelling customers, with 75% of API revenue routed to token buybacks; a published revenue figure would be a real driver.",
+   "cheap": "Bittensor subnet tokens are out of favour and TAO has fallen six weeks running, so nobody is paying for subnet revenue yet.",
+   "wrongIf": "No revenue or buyback figures published by the end of December, or price breaks its November low.",
+   "vsScanner": "The 29x trading spike has no cause I could find; agree it's a real project."
+  },
+  "byteleap": {
+   "upside": "GPU compute subnet with working code; the 11-23 change raising the subnet limit from 128 to 160 lowers its risk of being dropped from the network.",
+   "cheap": "Almost no coverage at all; unknown rather than mispriced.",
+   "wrongIf": "It loses its subnet slot or trading stays under about $50K a day.",
+   "vsScanner": "Scanner can't see its life signs; I found little either, so caution only."
+  },
+  "data-universe": {
+   "upside": "Credible team (Macrocosmos) running a live data-scraping product and marketplace; no dated event.",
+   "cheap": "Down about 95% with the whole subnet group; no specific reason the market is missing it.",
+   "wrongIf": "Macrocosmos stops shipping updates, or price makes a new low by mid-December.",
+   "vsScanner": "The 10x trading spike has no cause I could find."
+  },
+  "gradients": {
+   "upside": "Real AutoML fine-tuning marketplace from Rayon Labs; no dated catalyst.",
+   "cheap": "Its share of network rewards fell from 6.7% in March to 1.3% in September, so the market is right to mark it down.",
+   "wrongIf": "Reward share keeps falling or price makes a new low.",
+   "vsScanner": "Scanner's 8x spike is on only about $130K a day; falling rewards are the bigger story."
+  },
+  "hash-2": {
+   "upside": "Figure runs the chain and has promised a network-fee model that would make HASH pay for usage; still no date.",
+   "cheap": "Not cheap at $450M with about $50K traded a day on one exchange; it's ignored because almost nobody can trade it.",
+   "wrongIf": "No fee-model date by year end, or a token migration is confirmed.",
+   "vsScanner": "The 10.8x spike is noise on tiny volume."
+  },
+  "sun-token": {
+   "upside": "SUN.io and SunPump revenue funds quarterly buybacks and burns (52nd burn about 10-27, 7.2M SUN); the next would be around late January.",
+   "cheap": "Burns are small (3.5% of supply in total), and it trades on Justin Sun news more than on revenue.",
+   "wrongIf": "The next quarterly burn is skipped or shrinks, or the HashKey listing turns out not to exist.",
+   "vsScanner": "Scanner calls it a zombie; it's alive with real revenue. Its ATH is meaningless because of the 1,000-to-1 swap in 2021."
+  },
+  "compute-horde": {
+   "upside": "Real GPU compute subnet; no dated catalyst, and the 50x spike today has no cause beyond the 11-23 subnet-limit change.",
+   "cheap": "Down 44% since first picked with the subnet group; not mispriced, just unwanted.",
+   "wrongIf": "Trading falls back within a week and price makes a new low.",
+   "vsScanner": "Spike unexplained; agree with nothing beyond 'real project'."
+  },
+  "layerzero": {
+   "upside": "Staking opened 11-23 (staked tokens locked until 31 March 2027) and the Zero mainnet launches 11-30, both dated.",
+   "cheap": "Monthly unlocks (about 23M ZRO on 11-20) keep selling pressure on it, and it's down 42% since first picked.",
+   "wrongIf": "The Zero mainnet slips past 11-30, or the share of supply staked stays small by mid-December.",
+   "vsScanner": "Scanner flags only the trending search; the real story is the staking lock-up against the monthly unlocks.",
+   "catalystDate": "2026-11-30"
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin on today's list has a verified, dated catalyst: the moves are unexplained trading spikes, old listings or dead projects.",
+ "athCheck": {
+  "lista": "unlikely",
+  "secret": "unlikely",
+  "readyai": "unlikely",
+  "byteleap": "stretch",
+  "aelf": "unlikely",
+  "creator-2": "unlikely",
+  "xraders": "unlikely",
+  "data-universe": "unlikely",
+  "immortal-token": "unlikely",
+  "coldint": "unlikely",
+  "gradients": "unlikely",
+  "uchain-2": "unlikely",
+  "panther": "unlikely",
+  "hash-2": "unlikely",
+  "beldex": "unlikely",
+  "sun-token": "stretch"
+ },
+ "lifeCheck": {
+  "lista": "alive",
+  "secret": "quiet",
+  "readyai": "alive",
+  "byteleap": "quiet",
+  "aelf": "quiet",
+  "creator-2": "quiet",
+  "xraders": "zombie",
+  "data-universe": "alive",
+  "immortal-token": "zombie",
+  "coldint": "zombie",
+  "gradients": "alive",
+  "uchain-2": "zombie",
+  "panther": "zombie",
+  "hash-2": "alive",
+  "beldex": "alive",
+  "sun-token": "alive"
+ },
+ "news": {
+  "lista": {
+   "text": "Price rose about 40% in a day on $40M volume, driven by futures rather than any announcement.",
+   "date": "2026-11-24",
+   "url": "https://coingabbar.com/en/lista-dao-price-prediction-today-ema-breakout-rally"
+  },
+  "secret": {
+   "text": "No news in the last 30 days; since August the company behind it left, supply was roughly quadrupled by a community mint, and Binance delisted it (9-03)."
+  },
+  "readyai": {
+   "text": "No news in the last 30 days"
+  },
+  "byteleap": {
+   "text": "No news in the last 30 days"
+  },
+  "aelf": {
+   "text": "Topped Upbit's daily gainers with a 27% jump and no announcement.",
+   "date": "2026-11-11",
+   "url": "https://en.coinotag.com/elf-tops-upbit-daily-gainers-26-56"
+  },
+  "creator-2": {
+   "text": "No news in the last 30 days; one subnet directory suggests it may have switched to a different product."
+  },
+  "xraders": {
+   "text": "No news in the last 30 days"
+  },
+  "data-universe": {
+   "text": "No news in the last 30 days"
+  },
+  "immortal-token": {
+   "text": "No news in the last 30 days"
+  },
+  "coldint": {
+   "text": "No news in the last 30 days; subnet now listed under a new name (AI-ASSeSS), suggesting new owners."
+  },
+  "gradients": {
+   "text": "No news in the last 30 days; its share of network rewards had fallen to 1.3% by September."
+  },
+  "uchain-2": {
+   "text": "No news in the last 30 days; only paid articles exist."
+  },
+  "panther": {
+   "text": "No news in the last 30 days; a governance attack drained 5.12M ZKP on 2026-08-06.",
+   "date": "2026-08-07",
+   "url": "https://www.cryptotimes.io/2026/08/07/panther-protocol-hit-by-governance-attack-5-12m-zkp-drained-on-base/"
+  },
+  "hash-2": {
+   "text": "No news in the last 30 days"
+  },
+  "beldex": {
+   "text": "Beldex Browser 1.4.2 released; the Pionex listing the scanner flagged dates from February 2026.",
+   "date": "2026-11-06",
+   "url": "https://beldex.io/blog/"
+  },
+  "sun-token": {
+   "text": "52nd quarterly buyback and burn removed 7.23M SUN; no announcement found for the HashKey listing.",
+   "date": "2026-10-27",
+   "url": "https://thecurrencyanalytics.com/altcoins/sun-io-executes-52nd-burn-removing-7-23-million-sun-tokens-306610"
+  },
+  "hermes-3": {
+   "text": "No news found; the 11-23 Bittensor change raising the subnet limit to 160 may explain the subnet-wide volume.",
+   "date": "2026-11-23",
+   "url": "https://x.com/opentensor/status/2124946574153519165"
+  },
+  "digitalbits": {
+   "text": "No news found for today."
+  },
+  "avici": {
+   "text": "Card exploit was on 2026-08-28 (about $0.5M), with full refunds promised; nothing new since.",
+   "date": "2026-08-28",
+   "url": "https://tech-insider.org/avici-solana-neobank-hack-reimbursement-2026/"
+  },
+  "openkaito": {
+   "text": "No news found; the subnet was relaunched as Hone."
+  },
+  "alpha-trader-exchange-atx": {
+   "text": "No news found for today."
+  },
+  "compute-horde": {
+   "text": "No news found beyond the 11-23 subnet-limit change.",
+   "date": "2026-11-23",
+   "url": "https://x.com/opentensor/status/2124946574153519165"
+  },
+  "the-root-network": {
+   "text": "No cause found for the 70% drop; the parent company Futureverse is being liquidated and KuCoin delisted ROOT in May.",
+   "date": "2026-04-29",
+   "url": "https://www.kucoin.com/uk-au/announcement/en-st-kucoin-will-delist-certain-projects-their-associated-tokens-au-20260429"
+  },
+  "okzoo": {
+   "text": "No news found."
+  },
+  "priors-agent": {
+   "text": "No news found behind the 69% weekly fall; token is unaudited."
+  },
+  "iron-fish": {
+   "text": "Team ended all network support after an old inflation bug was exploited.",
+   "date": "2026-10-31",
+   "url": "https://crypto.news/iron-fish-shutdown-inflation-bug-chainport/"
+  },
+  "dynex": {
+   "text": "No news found."
+  },
+  "chainflip": {
+   "text": "Second exploit in 10 weeks: about $4.9M drained from its Ethereum vault, total losses about $12M, services offline.",
+   "date": "2026-11-21",
+   "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804"
+  },
+  "nem": {
+   "text": "No news found behind the 11-17 spike or this week's 55% fall; delisted earlier by KuCoin and CoinEx."
+  },
+  "layerzero": {
+   "text": "ZRO staking opened with tokens locked until 31 March 2027; a 23M ZRO unlock landed 11-20 and the Zero mainnet is due 11-30.",
+   "date": "2026-11-23",
+   "url": "https://www.kucoin.com/news/flash/layerzero-opens-zro-staking-foundation-to-stake-100m-zro"
+  },
+  "claus-2": {
+   "text": "No news found; small token whose trading rules can be changed after launch."
+  }
+ },
+ "sectorNews": {
+  "AI": "AI tokens fell 8-18% in the week to about 11-17 on an AI-bubble scare, then bounced slightly on 11-23 as Bitcoin recovered above $60K. TAO has fallen six weeks in a row; the one structural change was the 11-23 increase in subnet slots from 128 to 160, which adds competition for rewards. That is a headwind for small subnet tokens, which make up six of today's seven AI coins.",
+  "DeFi": "Total value locked in DeFi fell 9% in the week to 11-20, with all 12 top chains down. Money is leaving, which hurts small DeFi tokens unless they have their own revenue story.",
+  "Infrastructure": "No notable small-cap layer-1 news in the last week; the market is risk-off. Privacy coins (Zcash, Monero) fell about 11-12% in the week, and EU rules are pushing them off exchanges, a mild headwind for privacy chains like Beldex and Secret."
+ },
+ "athMcap": {}
+}
