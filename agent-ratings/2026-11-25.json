@@ -1,0 +1,203 @@
+{
+ "date": "2026-11-25",
+ "ratings": {
+  "mantra": "skip",
+  "lazio-fan-token": "skip",
+  "voxies": "skip",
+  "wax": "skip",
+  "firmachain": "skip",
+  "farcana": "caution",
+  "natix-network": "caution",
+  "league-of-traders": "skip",
+  "fc-porto": "skip",
+  "oobit-2": "caution",
+  "milk-alliance": "skip",
+  "revuto": "skip",
+  "brazilian-real": "skip",
+  "flare-networks": "skip",
+  "hivemapper": "skip",
+  "big-time": "skip",
+  "claus-2": "skip",
+  "heurist": "skip",
+  "kinesis-gold": "skip",
+  "guild-of-guardians": "skip",
+  "athenax9": "skip",
+  "openai-ondo-private-market-note": "skip",
+  "hyperwave": "skip",
+  "the-root-network": "skip",
+  "kyo": "skip",
+  "iron-fish": "skip",
+  "rei-network": "skip",
+  "jagent": "skip",
+  "float": "skip"
+ },
+ "conviction": {
+  "farcana": "low",
+  "natix-network": "low",
+  "oobit-2": "low"
+ },
+ "cases": {
+  "farcana": {
+   "upside": "The rebrand from a shooter game to an AI-compute and gaming ecosystem (March 2026) and a promised public beta of the game on the Epic Games Store in the second half of 2026 could bring new attention if it actually ships.",
+   "cheap": "The token lost over 99% since its 2024 high and moved chains (Polygon to BNB Chain), so most old holders left; nobody is paying attention until the beta is real.",
+   "wrongIf": "No dated public beta or working AI product by the end of December 2026, or daily trading stays under $300K.",
+   "vsScanner": "The scanner's 659x 'back to ATH' is distorted by the chain migration and rebrand; treat the old high as meaningless.",
+   "catalystDate": "2026-12"
+  },
+  "natix-network": {
+   "upside": "A real product: a driving-camera data network with about 269K drivers, a Valeo partnership and quarterly token burns (110.7M burned in April 2026); another burn or a new data-buyer deal could move it.",
+   "cheap": "Small DePIN tokens are out of favour even as their revenue grows, and the project's public updates went quiet after May 2026.",
+   "wrongIf": "No progress update or burn announcement by mid-December 2026, or the price gives back this week's 13% gain as trading falls back to normal.",
+   "vsScanner": "The scanner calls it a zombie (no code since May); the business looks alive but I can't confirm any update after May, so I sit between the two."
+  },
+  "oobit-2": {
+   "upside": "Oobit is a real, Tether-backed crypto payments app with launches all year (Phantom support in January, bank transfers in February, Colombia in May); stablecoin card spending is growing fast industry-wide.",
+   "cheap": "The company is real but the token barely trades ($30K a day) and has fallen 99% since its November 2025 launch, so the market doesn't believe the token captures any of the app's value.",
+   "wrongIf": "Trading stays under $100K a day, or the company announces no token use (fees, rewards, buybacks) by end of January 2027.",
+   "vsScanner": "The scanner likes the 'alive' signs, but the token trades far too thinly to buy and sell safely; the company's success does not flow to the token."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin had a dated, checkable catalyst; most 'back' coins came back on unexplained trading spikes and the 'new listings' (Flare on Indodax, Lazio on LBank) are years old.",
+ "athCheck": {
+  "mantra": "unlikely",
+  "lazio-fan-token": "unlikely",
+  "voxies": "unlikely",
+  "wax": "unlikely",
+  "firmachain": "unlikely",
+  "farcana": "unlikely",
+  "natix-network": "stretch",
+  "league-of-traders": "stretch",
+  "fc-porto": "unlikely",
+  "oobit-2": "unlikely",
+  "milk-alliance": "unlikely",
+  "revuto": "unlikely",
+  "brazilian-real": "unlikely",
+  "flare-networks": "unlikely"
+ },
+ "lifeCheck": {
+  "mantra": "alive",
+  "lazio-fan-token": "quiet",
+  "voxies": "dead",
+  "wax": "alive",
+  "firmachain": "quiet",
+  "farcana": "quiet",
+  "natix-network": "quiet",
+  "league-of-traders": "quiet",
+  "fc-porto": "quiet",
+  "oobit-2": "alive",
+  "milk-alliance": "quiet",
+  "revuto": "zombie",
+  "brazilian-real": "alive",
+  "flare-networks": "alive"
+ },
+ "news": {
+  "mantra": {
+   "text": "No news in the last 30 days; the last big event was the 1-to-4 token swap and rebrand to MANTRA completed in March 2026.",
+   "date": "2026-03-04",
+   "url": "https://beincrypto.com/mantra-launches-rally-following-om-token-swap"
+  },
+  "lazio-fan-token": {
+   "text": "The 'new' LBank listing is old: LBank has listed LAZIO since about January 2022.",
+   "url": "https://coinranking.com/coin/Lw-FY2E5F+laziofantoken-lazio?tab=all-exchanges"
+  },
+  "voxies": {
+   "text": "No news in the last 30 days"
+  },
+  "wax": {
+   "text": "No news in the last 30 days"
+  },
+  "firmachain": {
+   "text": "No news in the last 30 days"
+  },
+  "farcana": {
+   "text": "Farcana rebranded to FAR Labs in March 2026 and is moving its token from Polygon to BNB Chain; nothing newer found.",
+   "date": "2026-03-31",
+   "url": "https://games.gg/id/news/farcana-rebrands-to-far-labs/"
+  },
+  "natix-network": {
+   "text": "Last update found is the spring 2026 progress report with a 110.7M token burn; nothing in the last 30 days.",
+   "date": "2026-04-30",
+   "url": "https://natix.network/blog/natix-network-progress-update-april-2026"
+  },
+  "league-of-traders": {
+   "text": "No news in the last 30 days; seed-round tokens have been unlocking monthly since August 2026 (about 35.7M a month)."
+  },
+  "fc-porto": {
+   "text": "No news in the last 30 days"
+  },
+  "oobit-2": {
+   "text": "Latest company news found is the Colombia launch (ninth market); nothing about the token in the last 30 days.",
+   "date": "2026-05-14",
+   "url": "https://invezz.com/news/2026/05/14/oobits-colombia-launch-signals-a-bigger-shift-in-crypto-payments/"
+  },
+  "milk-alliance": {
+   "text": "No news in the last 30 days"
+  },
+  "revuto": {
+   "text": "No news in the last 30 days"
+  },
+  "brazilian-real": {
+   "text": "No news in the last 30 days"
+  },
+  "flare-networks": {
+   "text": "The 'new' Indodax listing is old: Flare has traded on Indodax since May 2023.",
+   "date": "2023-05-25",
+   "url": "https://indodax.com/academy/en/flare-token-flr/"
+  },
+  "hivemapper": {
+   "text": "Price fell 98% in a day and the coin left Mercado Bitcoin; I found no announcement of a migration or redenomination explaining it."
+  },
+  "big-time": {
+   "text": "Price up 73% in a day, but the scanner flags fake-looking volume and the coin is no longer on Upbit, Bithumb or HTX; no news found."
+  },
+  "claus-2": {
+   "text": "No news in the last 30 days"
+  },
+  "heurist": {
+   "text": "No longer has a centralized exchange listing per the scanner's deep re-check; no news found."
+  },
+  "kinesis-gold": {
+   "text": "No news in the last 30 days"
+  },
+  "guild-of-guardians": {
+   "text": "No news in the last 30 days"
+  },
+  "athenax9": {
+   "text": "No news in the last 30 days"
+  },
+  "openai-ondo-private-market-note": {
+   "text": "No news in the last 30 days"
+  },
+  "hyperwave": {
+   "text": "No news in the last 30 days"
+  },
+  "the-root-network": {
+   "text": "No news in the last 30 days"
+  },
+  "kyo": {
+   "text": "No news in the last 30 days"
+  },
+  "iron-fish": {
+   "text": "No news in the last 30 days"
+  },
+  "rei-network": {
+   "text": "No news in the last 30 days"
+  },
+  "jagent": {
+   "text": "No news in the last 30 days"
+  },
+  "float": {
+   "text": "No news in the last 30 days"
+  }
+ },
+ "sectorNews": {
+  "Gaming": "I found no dated gaming-token news from the last 7 days; recent coverage is old roundups. With no sector wave visible, small gaming coins (Voxies, WAX, FAR Labs) have nothing lifting them.",
+  "NFT": "No November 2026 NFT market data turned up; the last clear figures show NFT sales still far below their 2025 levels. That is a headwind for NFT-linked small coins.",
+  "AI": "No dated AI-token news in the last week; the background story is that AI-linked infrastructure projects have growing revenue while their tokens lag badly. That doesn't help tiny AI tokens without proven revenue.",
+  "DePIN": "Same picture as AI: DePIN revenues are rising but tokens sit up to 99% below their highs. Investors are only rewarding projects with real, reported revenue, which neither DePIN coin here has shown recently.",
+  "Sports & fan tokens": "No November fan-token news found; Chiliz's last big news was Belgium's national-team token in June 2026. Club fan tokens keep bleeding with most supply still unreleased.",
+  "Payments": "Stablecoin payments are booming (about $482B in the first nine months of 2026, Visa and Mastercard expanding card programs, DCS DeCard going to 70 markets on Nov 12). That helps payment companies, but small payment tokens like Oobit and Revuto aren't capturing it."
+ },
+ "athMcap": {}
+}
