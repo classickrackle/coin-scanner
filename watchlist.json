@@ -1,5 +1,5 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "count": 62,
  "items": [
   {
@@ -13,10 +13,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-16",
    "daysListed": 17,
-   "price": 6.07,
-   "marketCap": 606627608,
+   "price": 5.75,
+   "marketCap": 574984231,
    "band": "Large",
-   "changePct": -26.24544349939247,
+   "changePct": -30.13365735115432,
    "onListToday": false
   },
   {
@@ -30,10 +30,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-31",
    "daysListed": 14,
-   "price": 0.117855,
-   "marketCap": 14100872,
+   "price": 0.113208,
+   "marketCap": 13546184,
    "band": "Small",
-   "changePct": -26.140280510885784,
+   "changePct": -29.052555055588286,
    "onListToday": false
   },
   {
@@ -47,10 +47,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-16",
    "daysListed": 11,
-   "price": 1.045,
-   "marketCap": 51928036,
+   "price": 1.015,
+   "marketCap": 50434391,
    "band": "Mid",
-   "changePct": -37.79761904761905,
+   "changePct": -39.583333333333336,
    "onListToday": false
   },
   {
@@ -64,10 +64,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-16",
    "daysListed": 14,
-   "price": 0.235214,
-   "marketCap": 193550022,
+   "price": 0.223918,
+   "marketCap": 184205561,
    "band": "Mid",
-   "changePct": -52.214323879023304,
+   "changePct": -54.509200023566365,
    "onListToday": false
   },
   {
@@ -81,10 +81,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-10",
    "daysListed": 8,
-   "price": 1.19,
-   "marketCap": 72447421,
+   "price": 1.13,
+   "marketCap": 68995516,
    "band": "Mid",
-   "changePct": -35.32608695652175,
+   "changePct": -38.58695652173914,
    "onListToday": false
   },
   {
@@ -98,10 +98,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-11",
    "daysListed": 9,
-   "price": 0.0179261,
-   "marketCap": 9272615,
+   "price": 0.01711223,
+   "marketCap": 8856676,
    "band": "Micro",
-   "changePct": -44.089072727777435,
+   "changePct": -46.627506987267445,
    "onListToday": false
   },
   {
@@ -115,10 +115,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-15",
    "daysListed": 18,
-   "price": 0.360064,
-   "marketCap": 236883904,
+   "price": 0.349864,
+   "marketCap": 230345081,
    "band": "Mid",
-   "changePct": -55.01617880389291,
+   "changePct": -56.290493859550494,
    "onListToday": false
   },
   {
@@ -132,10 +132,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-05",
    "daysListed": 8,
-   "price": 0.04775244,
-   "marketCap": 18177386,
+   "price": 0.046099,
+   "marketCap": 17536687,
    "band": "Small",
-   "changePct": -70.87466682931291,
+   "changePct": -71.8831386660974,
    "onListToday": false
   },
   {
@@ -149,10 +149,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-04",
    "daysListed": 4,
-   "price": 1637.42,
-   "marketCap": 58734823,
+   "price": 1583.43,
+   "marketCap": 56798913,
    "band": "Mid",
-   "changePct": -33.48066477898252,
+   "changePct": -35.67398042712578,
    "onListToday": false
   },
   {
@@ -166,10 +166,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-04",
    "daysListed": 4,
-   "price": 0.078622,
-   "marketCap": 91773010,
+   "price": 0.068591,
+   "marketCap": 80140566,
    "band": "Mid",
-   "changePct": -68.38414180529921,
+   "changePct": -72.41785595084427,
    "onListToday": false
   },
   {
@@ -183,10 +183,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-07",
    "daysListed": 8,
-   "price": 0.00654358,
-   "marketCap": 2350353,
+   "price": 0.00637639,
+   "marketCap": 2285009,
    "band": "Micro",
-   "changePct": -46.079290943310404,
+   "changePct": -47.45697767552548,
    "onListToday": false
   },
   {
@@ -200,10 +200,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-08",
    "daysListed": 12,
-   "price": 2.33,
-   "marketCap": 152650008,
+   "price": 2.24,
+   "marketCap": 146800915,
    "band": "Mid",
-   "changePct": -51.05042016806722,
+   "changePct": -52.941176470588225,
    "onListToday": false
   },
   {
@@ -215,13 +215,13 @@
    "firstPrice": 1.25,
    "lastDate": "2026-10-07",
    "lastRating": "caution",
-   "lastRatingDate": "2026-11-19",
+   "lastRatingDate": "2026-11-24",
    "daysListed": 6,
-   "price": 0.535162,
-   "marketCap": 2782972,
+   "price": 0.504773,
+   "marketCap": 2633443,
    "band": "Micro",
-   "changePct": -57.18704,
-   "onListToday": true
+   "changePct": -59.618159999999996,
+   "onListToday": false
   },
   {
    "id": "blockstack",
@@ -234,10 +234,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-07",
    "daysListed": 3,
-   "price": 0.258868,
-   "marketCap": 487938265,
+   "price": 0.254799,
+   "marketCap": 480378375,
    "band": "Large",
-   "changePct": -32.48430568125211,
+   "changePct": -33.54554677780705,
    "onListToday": false
   },
   {
@@ -251,10 +251,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-30",
    "daysListed": 7,
-   "price": 0.105608,
-   "marketCap": 61879575,
+   "price": 0.101123,
+   "marketCap": 59355034,
    "band": "Mid",
-   "changePct": -39.38134625208792,
+   "changePct": -41.955721887071874,
    "onListToday": false
   },
   {
@@ -268,10 +268,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-15",
    "daysListed": 5,
-   "price": 0.03340454,
-   "marketCap": 224830440,
+   "price": 0.03179922,
+   "marketCap": 214209471,
    "band": "Mid",
-   "changePct": -54.598591932151784,
+   "changePct": -56.78044471023159,
    "onListToday": false
   },
   {
@@ -285,10 +285,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-13",
    "daysListed": 5,
-   "price": 0.078068,
-   "marketCap": 116912344,
+   "price": 0.074505,
+   "marketCap": 111456087,
    "band": "Mid",
-   "changePct": -25.650231902553312,
+   "changePct": -29.043532918734105,
    "onListToday": false
   },
   {
@@ -302,10 +302,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-10",
    "daysListed": 2,
-   "price": 1.29,
-   "marketCap": 717575183,
+   "price": 1.24,
+   "marketCap": 689267667,
    "band": "Large",
-   "changePct": -32.81249999999999,
+   "changePct": -35.416666666666664,
    "onListToday": false
   },
   {
@@ -319,10 +319,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-17",
    "daysListed": 5,
-   "price": 0.238874,
-   "marketCap": 130713098,
+   "price": 0.226028,
+   "marketCap": 123831029,
    "band": "Mid",
-   "changePct": -57.629475640948314,
+   "changePct": -59.908048260473166,
    "onListToday": false
   },
   {
@@ -336,10 +336,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-20",
    "daysListed": 6,
-   "price": 0.01907089,
-   "marketCap": 14759315,
+   "price": 0.01762991,
+   "marketCap": 13656392,
    "band": "Small",
-   "changePct": -2.097037996075855,
+   "changePct": -9.49450136503319,
    "onListToday": false
   },
   {
@@ -353,10 +353,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-09",
    "daysListed": 6,
-   "price": 1.063,
-   "marketCap": 425300279,
+   "price": 0.9964,
+   "marketCap": 398530809,
    "band": "Large",
-   "changePct": -42.22826086956522,
+   "changePct": -45.84782608695653,
    "onListToday": false
   },
   {
@@ -370,10 +370,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-15",
    "daysListed": 5,
-   "price": 0.02830474,
-   "marketCap": 13804344,
+   "price": 0.02730382,
+   "marketCap": 13316921,
    "band": "Small",
-   "changePct": -33.70326804550145,
+   "changePct": -36.04767131321904,
    "onListToday": false
   },
   {
@@ -387,10 +387,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-11-05",
    "daysListed": 3,
-   "price": 0.48262,
-   "marketCap": 144860540,
+   "price": 0.460689,
+   "marketCap": 138290940,
    "band": "Mid",
-   "changePct": -35.63521911925529,
+   "changePct": -38.560054413059135,
    "onListToday": false
   },
   {
@@ -404,10 +404,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-18",
    "daysListed": 5,
-   "price": 0.07649,
-   "marketCap": 6287987,
+   "price": 0.074128,
+   "marketCap": 6094629,
    "band": "Micro",
-   "changePct": -44.63545097244439,
+   "changePct": -46.34510013969614,
    "onListToday": false
   },
   {
@@ -421,10 +421,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-14",
    "daysListed": 4,
-   "price": 0.26249,
-   "marketCap": 117507757,
+   "price": 0.255014,
+   "marketCap": 114045511,
    "band": "Mid",
-   "changePct": -40.25546597959732,
+   "changePct": -41.957055130942244,
    "onListToday": false
   },
   {
@@ -438,10 +438,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-09-30",
    "daysListed": 2,
-   "price": 0.054837,
-   "marketCap": 33451571,
+   "price": 0.053476,
+   "marketCap": 32617441,
    "band": "Small",
-   "changePct": -53.251834991432446,
+   "changePct": -54.412078122469154,
    "onListToday": false
   },
   {
@@ -455,10 +455,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-11",
    "daysListed": 5,
-   "price": 0.02624074,
-   "marketCap": 523402854,
+   "price": 0.02567087,
+   "marketCap": 512039055,
    "band": "Large",
-   "changePct": -25.123817573206964,
+   "changePct": -26.749903197299744,
    "onListToday": false
   },
   {
@@ -472,10 +472,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-12",
    "daysListed": 10,
-   "price": 0.01073275,
-   "marketCap": 75455243,
+   "price": 0.01011807,
+   "marketCap": 71137471,
    "band": "Mid",
-   "changePct": -43.34399122452783,
+   "changePct": -46.58876218016428,
    "onListToday": false
   },
   {
@@ -489,10 +489,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-11",
    "daysListed": 1,
-   "price": 0.02029616,
-   "marketCap": 19293803,
+   "price": 0.01969996,
+   "marketCap": 18731900,
    "band": "Small",
-   "changePct": -43.10711844984378,
+   "changePct": -44.778347686320195,
    "onListToday": false
   },
   {
@@ -506,10 +506,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-12",
    "daysListed": 3,
-   "price": 0.00077969,
-   "marketCap": 38952325,
+   "price": 0.00077512,
+   "marketCap": 38728620,
    "band": "Small",
-   "changePct": -48.59943700597933,
+   "changePct": -48.90071132382703,
    "onListToday": false
   },
   {
@@ -523,10 +523,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-11",
    "daysListed": 2,
-   "price": 0.055067,
-   "marketCap": 16485665,
+   "price": 0.053326,
+   "marketCap": 16018463,
    "band": "Small",
-   "changePct": -32.9032179454375,
+   "changePct": -35.024551912368565,
    "onListToday": false
   },
   {
@@ -540,10 +540,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-11",
    "daysListed": 3,
-   "price": 0.0285319,
-   "marketCap": 184740141,
+   "price": 0.02779895,
+   "marketCap": 179967154,
    "band": "Mid",
-   "changePct": -46.52842069753931,
+   "changePct": -47.90204089282033,
    "onListToday": false
   },
   {
@@ -557,10 +557,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-11-15",
    "daysListed": 4,
-   "price": 1.61,
-   "marketCap": 9175972,
+   "price": 1.54,
+   "marketCap": 8777568,
    "band": "Micro",
-   "changePct": 22.90076335877863,
+   "changePct": 17.557251908396946,
    "onListToday": false
   },
   {
@@ -574,10 +574,10 @@
    "lastRating": "skip",
    "lastRatingDate": "2026-11-10",
    "daysListed": 6,
-   "price": 4.79,
-   "marketCap": 21173245,
+   "price": 4.7,
+   "marketCap": 20743268,
    "band": "Small",
-   "changePct": -15.371024734982333,
+   "changePct": -16.96113074204947,
    "onListToday": false
   },
   {
@@ -591,10 +591,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-20",
    "daysListed": 4,
-   "price": 4.5,
-   "marketCap": 30451278,
+   "price": 4.48,
+   "marketCap": 30270192,
    "band": "Small",
-   "changePct": -13.79310344827586,
+   "changePct": -14.176245210727956,
    "onListToday": false
   },
   {
@@ -608,10 +608,10 @@
    "lastRating": "skip",
    "lastRatingDate": "2026-10-21",
    "daysListed": 5,
-   "price": 4.93,
-   "marketCap": 7253092,
+   "price": 4.94,
+   "marketCap": 7261534,
    "band": "Micro",
-   "changePct": -1.9880715705765513,
+   "changePct": -1.7892644135188838,
    "onListToday": false
   },
   {
@@ -625,10 +625,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-27",
    "daysListed": 13,
-   "price": 0.04582069,
-   "marketCap": 25601467,
+   "price": 0.0428803,
+   "marketCap": 24114042,
    "band": "Small",
-   "changePct": -46.56105383467065,
+   "changePct": -49.99032002239223,
    "onListToday": false
   },
   {
@@ -642,10 +642,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-17",
    "daysListed": 2,
-   "price": 7.47,
-   "marketCap": 5352902,
+   "price": 7.49,
+   "marketCap": 5363457,
    "band": "Micro",
-   "changePct": -29.990627928772263,
+   "changePct": -29.80318650421743,
    "onListToday": false
   },
   {
@@ -659,10 +659,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-10",
    "daysListed": 2,
-   "price": 0.051262,
-   "marketCap": 21764032,
+   "price": 0.04998023,
+   "marketCap": 21233339,
    "band": "Small",
-   "changePct": -38.43437740199847,
+   "changePct": -39.9737821867794,
    "onListToday": false
   },
   {
@@ -676,10 +676,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-16",
    "daysListed": 6,
-   "price": 0.332775,
-   "marketCap": 330680598,
+   "price": 0.315904,
+   "marketCap": 314038895,
    "band": "Large",
-   "changePct": -31.269685547580945,
+   "changePct": -34.75416946352042,
    "onListToday": false
   },
   {
@@ -693,10 +693,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-11",
    "daysListed": 4,
-   "price": 0.378025,
-   "marketCap": 335968464,
+   "price": 0.358493,
+   "marketCap": 318756191,
    "band": "Large",
-   "changePct": -51.43251750497848,
+   "changePct": -53.941928438363206,
    "onListToday": false
   },
   {
@@ -710,10 +710,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-09",
    "daysListed": 4,
-   "price": 0.175093,
-   "marketCap": 28931082,
+   "price": 0.169389,
+   "marketCap": 27964583,
    "band": "Small",
-   "changePct": -44.938096121612745,
+   "changePct": -46.73184629850343,
    "onListToday": false
   },
   {
@@ -727,10 +727,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-10-07",
    "daysListed": 5,
-   "price": 0.01509779,
-   "marketCap": 32352799,
+   "price": 0.0144505,
+   "marketCap": 30998544,
    "band": "Small",
-   "changePct": -47.25952148650712,
+   "changePct": -49.520672577958166,
    "onListToday": false
   },
   {
@@ -744,10 +744,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-11-21",
    "daysListed": 3,
-   "price": 0.254169,
-   "marketCap": 3518751,
+   "price": 0.267958,
+   "marketCap": 3709699,
    "band": "Micro",
-   "changePct": -13.451696274427693,
+   "changePct": -8.756337831533727,
    "onListToday": false
   },
   {
@@ -761,10 +761,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-24",
    "daysListed": 2,
-   "price": 0.02956378,
-   "marketCap": 10227359,
-   "band": "Small",
-   "changePct": -59.30208419371713,
+   "price": 0.02787148,
+   "marketCap": 9659841,
+   "band": "Micro",
+   "changePct": -61.63172820131604,
    "onListToday": false
   },
   {
@@ -778,10 +778,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-13",
    "daysListed": 2,
-   "price": 0.870719,
-   "marketCap": 4255267,
+   "price": 0.838739,
+   "marketCap": 4102406,
    "band": "Micro",
-   "changePct": -43.82458064516129,
+   "changePct": -45.8878064516129,
    "onListToday": false
   },
   {
@@ -795,10 +795,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-11-04",
    "daysListed": 6,
-   "price": 0.04821461,
-   "marketCap": 800774979,
+   "price": 0.04694383,
+   "marketCap": 779714170,
    "band": "Large",
-   "changePct": 7.975396235846241,
+   "changePct": 5.129516656428537,
    "onListToday": false
   },
   {
@@ -812,10 +812,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-09-30",
    "daysListed": 1,
-   "price": 0.472624,
-   "marketCap": 471843744,
+   "price": 0.452664,
+   "marketCap": 451998335,
    "band": "Large",
-   "changePct": -38.24265770451017,
+   "changePct": -40.85081250032667,
    "onListToday": false
   },
   {
@@ -829,10 +829,10 @@
    "lastRating": "skip",
    "lastRatingDate": "2026-11-17",
    "daysListed": 3,
-   "price": 0.575714,
-   "marketCap": 3387988,
+   "price": 0.524321,
+   "marketCap": 3096580,
    "band": "Micro",
-   "changePct": -52.4203305785124,
+   "changePct": -56.667685950413215,
    "onListToday": false
   },
   {
@@ -846,10 +846,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-11-08",
    "daysListed": 4,
-   "price": 0.598882,
-   "marketCap": 2977628,
+   "price": 0.572945,
+   "marketCap": 2856968,
    "band": "Micro",
-   "changePct": -42.909246901811244,
+   "changePct": -45.38179218303145,
    "onListToday": false
   },
   {
@@ -863,10 +863,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-11-01",
    "daysListed": 4,
-   "price": 0.01402384,
-   "marketCap": 6201380,
+   "price": 0.0139003,
+   "marketCap": 6146834,
    "band": "Micro",
-   "changePct": -9.89501981831021,
+   "changePct": -10.688780247097606,
    "onListToday": false
   },
   {
@@ -880,10 +880,10 @@
    "lastRating": "worth a look",
    "lastRatingDate": "2026-09-29",
    "daysListed": 1,
-   "price": 0.00780264,
-   "marketCap": 1237835,
+   "price": 0.00777259,
+   "marketCap": 1234888,
    "band": "Micro",
-   "changePct": -21.17207768591034,
+   "changePct": -21.47566455721779,
    "onListToday": false
   },
   {
@@ -897,10 +897,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-09-30",
    "daysListed": 2,
-   "price": 7.42,
-   "marketCap": 53326056,
+   "price": 7.18,
+   "marketCap": 51559607,
    "band": "Mid",
-   "changePct": -29.867674858223065,
+   "changePct": -32.136105860113425,
    "onListToday": false
   },
   {
@@ -914,10 +914,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-25",
    "daysListed": 3,
-   "price": 0.00645447,
-   "marketCap": 9705417,
+   "price": 0.0065083,
+   "marketCap": 9791581,
    "band": "Micro",
-   "changePct": -32.87920384351406,
+   "changePct": -32.319419313242236,
    "onListToday": false
   },
   {
@@ -931,10 +931,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-14",
    "daysListed": 2,
-   "price": 0.0232615,
-   "marketCap": 140944793,
+   "price": 0.02237967,
+   "marketCap": 135770081,
    "band": "Mid",
-   "changePct": -50.66105887775358,
+   "changePct": -52.53146957568065,
    "onListToday": false
   },
   {
@@ -948,10 +948,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-11-04",
    "daysListed": 4,
-   "price": 10.23,
-   "marketCap": 10101927,
-   "band": "Small",
-   "changePct": -30.122950819672127,
+   "price": 9.65,
+   "marketCap": 9528170,
+   "band": "Micro",
+   "changePct": -34.08469945355191,
    "onListToday": false
   },
   {
@@ -965,10 +965,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-01",
    "daysListed": 2,
-   "price": 0.01281881,
-   "marketCap": 11932618,
+   "price": 0.01228662,
+   "marketCap": 11473827,
    "band": "Small",
-   "changePct": -44.05073611537268,
+   "changePct": -46.37354445302335,
    "onListToday": false
   },
   {
@@ -982,10 +982,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-14",
    "daysListed": 12,
-   "price": 0.374577,
-   "marketCap": 270394617,
+   "price": 0.352946,
+   "marketCap": 254740343,
    "band": "Large",
-   "changePct": -40.33393385357182,
+   "changePct": -43.77951827763788,
    "onListToday": false
   },
   {
@@ -999,10 +999,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-11",
    "daysListed": 2,
-   "price": 0.410132,
-   "marketCap": 96505224,
+   "price": 0.388935,
+   "marketCap": 91346239,
    "band": "Mid",
-   "changePct": -55.145800318690405,
+   "changePct": -57.46401608981952,
    "onListToday": false
   },
   {
@@ -1016,10 +1016,10 @@
    "lastRating": "skip",
    "lastRatingDate": "2026-10-17",
    "daysListed": 2,
-   "price": 0.00000284,
-   "marketCap": 271346,
+   "price": 0.00000277,
+   "marketCap": 264468,
    "band": "Micro",
-   "changePct": -62.631578947368425,
+   "changePct": -63.55263157894736,
    "onListToday": false
   },
   {
@@ -1033,10 +1033,10 @@
    "lastRating": "skip",
    "lastRatingDate": "2026-10-12",
    "daysListed": 4,
-   "price": 0.01242385,
-   "marketCap": 12109561,
+   "price": 0.01220541,
+   "marketCap": 11899938,
    "band": "Small",
-   "changePct": -43.342142526513086,
+   "changePct": -44.33831862220874,
    "onListToday": false
   },
   {
@@ -1050,10 +1050,10 @@
    "lastRating": "caution",
    "lastRatingDate": "2026-10-15",
    "daysListed": 7,
-   "price": 0.112081,
-   "marketCap": 114669670,
+   "price": 0.106215,
+   "marketCap": 108707225,
    "band": "Mid",
-   "changePct": -57.54008993480295,
+   "changePct": -59.76232057552212,
    "onListToday": false
   }
  ]
