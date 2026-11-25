@@ -33682,6 +33682,11 @@
     "ret": -15.962186375081666,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -38.79689873048362,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -33704,6 +33709,11 @@
     "ret": 0.8660356290181692,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -29.3215439823281,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -33726,6 +33736,11 @@
     "ret": -66.12121885944362,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -87.16218899151055,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -33748,6 +33763,11 @@
     "ret": 16.463414634146332,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -6.097560975609751,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -33770,6 +33790,11 @@
     "ret": -16.198064289255676,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -36.722711734671684,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -33792,6 +33817,11 @@
     "ret": -4.914463838337069,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": 71.73036058308459,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -33814,6 +33844,11 @@
     "ret": -17.000657030223387,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -40.90115801576872,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -33836,6 +33871,11 @@
     "ret": -22.804831288343564,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -46.60899156441718,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -33858,6 +33898,11 @@
     "ret": -5.176746523705811,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -50.77902496230524,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -33880,6 +33925,11 @@
     "ret": -11.534708136406424,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -28.851099784811286,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -33902,6 +33952,11 @@
     "ret": -12.839801198573609,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -25.050560465667704,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -33924,6 +33979,11 @@
     "ret": 1.3355592654423987,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -23.157643691867403,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -33946,6 +34006,11 @@
     "ret": -2.904214595916488,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": 10.376839505937419,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -33968,6 +34033,11 @@
     "ret": 1.2434730580837439,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -47.35014074695049,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -33990,6 +34060,11 @@
     "ret": -33.73079692156671,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -75.34396159455036,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -34012,6 +34087,11 @@
     "ret": -8.786610878661083,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -0.4184100418410108,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -34034,6 +34114,11 @@
     "ret": -17.41833981423714,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -20.150212298133276,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -34056,6 +34141,11 @@
     "ret": -8.007658487926172,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -22.720534575844496,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -34078,6 +34168,11 @@
     "ret": -4.232353908350584,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -31.290984002940203,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -34100,6 +34195,11 @@
     "ret": 0.8098769982033405,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -20.630211452526837,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -34122,6 +34222,11 @@
     "ret": -7.8370922222931405,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -25.856934963098666,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -34144,6 +34249,11 @@
     "ret": 6.8846117156119435,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -41.94647241453266,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -34166,6 +34276,11 @@
     "ret": -5.5408581517604745,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -33.14863806160798,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -34188,6 +34303,11 @@
     "ret": 4.330336388063705,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -21.15210350886869,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -34210,6 +34330,11 @@
     "ret": -1.0904017660734788,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -22.551753265925846,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -34232,6 +34357,11 @@
     "ret": -1.2712755841031487,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -62.840941348820856,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "caution"
@@ -34254,6 +34384,11 @@
     "ret": -8.795022945332697,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -43.131034172223195,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -34276,6 +34411,11 @@
     "ret": -0.2490039840637559,
     "mkt": -3.053354022036292,
     "on": "2026-11-02"
+   },
+   "30": {
+    "ret": -0.27390438247012483,
+    "mkt": -25.013646958573243,
+    "on": "2026-11-25"
    }
   },
   "agent": "skip"
@@ -44715,7 +44855,13 @@
   "life": "unknown",
   "back": "trading spike (3.7x normal)",
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -21.74952675102122,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44731,7 +44877,13 @@
   "life": "zombie",
   "back": "trading spike (4.5x normal); score up 15 since first picked (38 → 53)",
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -26.282748393475043,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44747,7 +44899,13 @@
   "life": "alive",
   "back": "trading spike (57.0x normal)",
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -11.63802691395287,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -44763,7 +44921,13 @@
   "life": "unknown",
   "back": "trading spike (28.8x normal)",
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -20.25042968256898,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44779,7 +44943,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -21.480465695964433,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -44795,7 +44965,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -33.33404379761548,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44811,7 +44987,13 @@
   "life": "alive",
   "back": null,
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -21.289256389939702,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -44827,7 +45009,13 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -12.204463255995812,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44843,7 +45031,13 @@
   "life": "alive",
   "back": "score up 16 since first picked (25 → 41)",
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 17.02833801378607,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44859,7 +45053,13 @@
   "life": "unknown",
   "back": "trading spike (500.5x normal)",
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": 1.9915203952833638,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44875,7 +45075,13 @@
   "life": "alive",
   "back": "trading spike (10.9x normal)",
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -10.256410256410241,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "caution"
  },
  {
@@ -44891,7 +45097,13 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -46.55846920341967,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44907,7 +45119,13 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -37.20434782608696,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44923,7 +45141,13 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -9.035952911231304,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -44939,7 +45163,13 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2184960260315.49,
-  "results": {},
+  "results": {
+   "7": {
+    "ret": -20.458190812993994,
+    "mkt": -7.876961206844923,
+    "on": "2026-11-25"
+   }
+  },
   "agent": "skip"
  },
  {
@@ -46075,7 +46305,8 @@
   "life": "alive",
   "back": "trading spike (39.8x normal); score up 43 since first picked (34 → 77)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-11-24",
@@ -46090,7 +46321,8 @@
   "life": "quiet",
   "back": null,
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-11-24",
@@ -46105,7 +46337,8 @@
   "life": "alive",
   "back": "trading spike (29.0x normal)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-11-24",
@@ -46120,7 +46353,8 @@
   "life": "unknown",
   "back": null,
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-11-24",
@@ -46135,7 +46369,8 @@
   "life": "quiet",
   "back": "trading spike (11.3x normal)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-11-24",
@@ -46150,7 +46385,8 @@
   "life": "unknown",
   "back": "trading spike (7.3x normal)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-11-24",
@@ -46165,7 +46401,8 @@
   "life": "unknown",
   "back": "trading spike (6.5x normal)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-11-24",
@@ -46180,7 +46417,8 @@
   "life": "alive",
   "back": "trading spike (10.2x normal)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-11-24",
@@ -46195,7 +46433,8 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-11-24",
@@ -46210,7 +46449,8 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-11-24",
@@ -46225,7 +46465,8 @@
   "life": "alive",
   "back": "trading spike (7.9x normal)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-11-24",
@@ -46240,7 +46481,8 @@
   "life": "zombie",
   "back": "trading spike (205.2x normal); score up 16 since first picked (16 → 32)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-11-24",
@@ -46255,7 +46497,8 @@
   "life": "zombie",
   "back": null,
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-11-24",
@@ -46270,7 +46513,8 @@
   "life": "alive",
   "back": "trading spike (10.8x normal)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "caution"
  },
  {
   "d": "2026-11-24",
@@ -46285,7 +46529,8 @@
   "life": "alive",
   "back": "new exchange listing (Pionex)",
   "globalMcap": 2039869227015.2678,
-  "results": {}
+  "results": {},
+  "agent": "skip"
  },
  {
   "d": "2026-11-24",
@@ -46300,6 +46545,217 @@
   "life": "zombie",
   "back": "new exchange listing (HashKey Exchange)",
   "globalMcap": 2039869227015.2678,
+  "results": {},
+  "agent": "caution"
+ },
+ {
+  "d": "2026-11-25",
+  "id": "mantra",
+  "name": "MANTRA",
+  "symbol": "mantra",
+  "price": 0.00203844,
+  "mcap": 14041224,
+  "score": 63,
+  "athX": 32.2,
+  "band": "Small",
+  "life": "alive",
+  "back": "trading spike (6.3x normal); score up 27 since first picked (36 → 63)",
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "lazio-fan-token",
+  "name": "Lazio Fan Token",
+  "symbol": "lazio",
+  "price": 0.285482,
+  "mcap": 3764853,
+  "score": 56,
+  "athX": 234.3,
+  "band": "Micro",
+  "life": "unknown",
+  "back": "new exchange listing (LBank); trading spike (7.0x normal); score up 18 since first picked (38 → 56)",
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "voxies",
+  "name": "Voxies",
+  "symbol": "voxel",
+  "price": 0.00179049,
+  "mcap": 535844,
+  "score": 54,
+  "athX": 6562.4,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "wax",
+  "name": "WAX",
+  "symbol": "waxp",
+  "price": 0.00365484,
+  "mcap": 17174564,
+  "score": 53,
+  "athX": 1894.7,
+  "band": "Small",
+  "life": "alive",
+  "back": "trading spike (29.8x normal)",
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "firmachain",
+  "name": "Firmachain",
+  "symbol": "fct",
+  "price": 0.00671035,
+  "mcap": 8572027,
+  "score": 49,
+  "athX": 164.4,
+  "band": "Micro",
+  "life": "alive",
+  "back": "trading spike (111.3x normal)",
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "farcana",
+  "name": "FAR Labs",
+  "symbol": "far",
+  "price": 0.00032629,
+  "mcap": 1602870,
+  "score": 48,
+  "athX": 1648.1,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "natix-network",
+  "name": "NATIX Network",
+  "symbol": "natix",
+  "price": 0.00010054,
+  "mcap": 6379856,
+  "score": 38,
+  "athX": 49.1,
+  "band": "Micro",
+  "life": "zombie",
+  "back": "trading spike (6.4x normal)",
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "league-of-traders",
+  "name": "League of Traders",
+  "symbol": "lot",
+  "price": 0.00418776,
+  "mcap": 2456174,
+  "score": 38,
+  "athX": 27.7,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "fc-porto",
+  "name": "FC Porto",
+  "symbol": "porto",
+  "price": 0.314921,
+  "mcap": 3568128,
+  "score": 38,
+  "athX": 116.2,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "oobit-2",
+  "name": "Oobit",
+  "symbol": "oob",
+  "price": 0.00418608,
+  "mcap": 2427087,
+  "score": 36,
+  "athX": 439.8,
+  "band": "Micro",
+  "life": "alive",
+  "back": null,
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "milk-alliance",
+  "name": "MiL.k",
+  "symbol": "mlk",
+  "price": 0.03054562,
+  "mcap": 17932983,
+  "score": 36,
+  "athX": 293.8,
+  "band": "Small",
+  "life": "quiet",
+  "back": "trading spike (6.9x normal)",
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "revuto",
+  "name": "Revuto",
+  "symbol": "revu",
+  "price": 0.00129291,
+  "mcap": 235453,
+  "score": 32,
+  "athX": 464.4,
+  "band": "Micro",
+  "life": "unknown",
+  "back": "trading spike (3.7x normal)",
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "brazilian-real",
+  "name": "Brazilian real",
+  "symbol": "wbrl",
+  "price": 0.16817,
+  "mcap": 3866090,
+  "score": 31,
+  "athX": 3.4,
+  "band": "Micro",
+  "life": "unknown",
+  "back": null,
+  "globalMcap": 2012851788225.461,
+  "results": {}
+ },
+ {
+  "d": "2026-11-25",
+  "id": "flare-networks",
+  "name": "Flare",
+  "symbol": "flr",
+  "price": 0.00499573,
+  "mcap": 439283123,
+  "score": 15,
+  "athX": 75.1,
+  "band": "Large",
+  "life": "unknown",
+  "back": "new exchange listing (Indodax); score up 15 since first picked (0 → 15)",
+  "globalMcap": 2012851788225.461,
   "results": {}
  }
 ]
