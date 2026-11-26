@@ -1,0 +1,193 @@
+{
+ "date": "2026-11-26",
+ "ratings": {
+  "centrifuge-2": "caution",
+  "logicnet": "caution",
+  "apex-5": "caution",
+  "bitmind": "caution",
+  "storb": "skip",
+  "solstice": "skip",
+  "antimatter": "skip",
+  "goztepe-s-k-fan-token": "skip",
+  "creditcoin-2": "skip",
+  "ithaca-protocol": "skip",
+  "songbird": "skip",
+  "monad": "skip",
+  "acala": "skip",
+  "pieverse": "skip",
+  "radiant-capital": "skip",
+  "subsquid": "skip",
+  "grass": "skip",
+  "kamino": "skip",
+  "optimism": "skip",
+  "taohash": "skip",
+  "flamewire": "skip",
+  "origintrail": "skip",
+  "archai": "skip",
+  "stablecorp-qcad": "skip",
+  "punkvism": "skip",
+  "orbio-so": "skip",
+  "kyo": "skip"
+ },
+ "conviction": {
+  "centrifuge-2": "medium",
+  "logicnet": "low",
+  "apex-5": "low",
+  "bitmind": "low"
+ },
+ "cases": {
+  "centrifuge-2": {
+   "upside": "A real tokenization business (Janus Henderson and Grove funds, Coinbase stake reported in 2026) that could re-rate if the token migration wraps up cleanly and onchain fund growth shows up in the token.",
+   "cheap": "The listed market cap (about $19M) looks far below what the business size suggests, likely because data sites only count migrated tokens and the token is in a long downtrend (-68% since my first pick); the market may not have repriced the post-migration supply.",
+   "wrongIf": "The GroveX listing and the trading spike fade within a week with price making a new low under $0.045, or the migration ends with a large supply jump.",
+   "vsScanner": "The 'new listing on GroveX' trigger is unverified (I found no announcement), and the low market cap may be a supply-counting artifact rather than real cheapness.",
+   "catalystDate": "2026-11-30"
+  },
+  "logicnet": {
+   "upside": "Subnet 35 is now the liquidity engine for 0xMarkets, a perps exchange whose trading front end is still on testnet; a mainnet launch is the only real event.",
+   "cheap": "It is not cheap or ignored: up about 1500% this month and 11x below a 2-week-old peak, in a $300K token on one exchange.",
+   "wrongIf": "The 0xMarkets exchange is not live on mainnet by the end of December 2026.",
+   "vsScanner": "Scanner marks it zombie on code activity, but the project was repurposed and is active; still, the price action is a blown-off spike, not an entry."
+  },
+  "apex-5": {
+   "upside": "Macrocosmos runs a working AI competition arena on subnet 1 with code pushed this month, but there is no dated launch or event.",
+   "cheap": "No reason found; the 7.8x trading spike has no news behind it and the token is still down about 46% since my first pick.",
+   "wrongIf": "The trading spike fades this week and price falls under $0.90.",
+   "vsScanner": "The trading spike is not a catalyst; otherwise agree it is alive."
+  },
+  "bitmind": {
+   "upside": "A working deepfake-detection subnet, but no dated launch, deal or listing found.",
+   "cheap": "No reason found; the 10.5x spike has no news and the token is down 32% since my first pick.",
+   "wrongIf": "Price makes a new low under $2 or the spike fades within a week.",
+   "vsScanner": "Agree it is quiet; the volume spike adds nothing without news."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin had a verified, dated catalyst: today's list is mostly unexplained trading spikes in tiny or dead coins, and the one real business (Centrifuge) rests on an unconfirmed listing.",
+ "athCheck": {
+  "centrifuge-2": "stretch",
+  "logicnet": "unlikely",
+  "storb": "unlikely",
+  "solstice": "unlikely",
+  "antimatter": "unlikely",
+  "apex-5": "unlikely",
+  "goztepe-s-k-fan-token": "unlikely",
+  "creditcoin-2": "unlikely",
+  "ithaca-protocol": "unlikely",
+  "bitmind": "unlikely",
+  "songbird": "unlikely",
+  "monad": "unlikely"
+ },
+ "lifeCheck": {
+  "centrifuge-2": "alive",
+  "logicnet": "alive",
+  "storb": "zombie",
+  "solstice": "zombie",
+  "antimatter": "dead",
+  "apex-5": "alive",
+  "goztepe-s-k-fan-token": "quiet",
+  "creditcoin-2": "quiet",
+  "ithaca-protocol": "zombie",
+  "bitmind": "quiet",
+  "songbird": "quiet",
+  "monad": "alive"
+ },
+ "news": {
+  "centrifuge-2": {
+   "text": "No dated item in the last 30 days; the GroveX listing could not be confirmed, and a token-migration deadline of November 30 appears in exchange news (year unclear)."
+  },
+  "logicnet": {
+   "text": "No new item in the last 30 days; the 0xMarkets exchange front end is still described as testnet with a vague late-Q4 launch.",
+   "url": "https://taodaily.io/how-cartha-subnet-35-serves-as-the-liquidity-engine-behind-0xmarkets"
+  },
+  "storb": {
+   "text": "No news in the last 30 days"
+  },
+  "solstice": {
+   "text": "No news in the last 30 days; DefiLlama shows deposits fell from about $523M in July to about $201M by Nov 16 with almost no fees.",
+   "date": "2026-11-16",
+   "url": "https://defillama.com/protocol/solstice-usx"
+  },
+  "antimatter": {
+   "text": "No news in the last 30 days"
+  },
+  "apex-5": {
+   "text": "No news in the last 30 days"
+  },
+  "goztepe-s-k-fan-token": {
+   "text": "No news in the last 30 days"
+  },
+  "creditcoin-2": {
+   "text": "No dated news in the last 30 days; an undated 'BUIDL CTC 2026 Fall' hackathon announcement is the only recent item."
+  },
+  "ithaca-protocol": {
+   "text": "No news in the last 30 days; RootData shows deposits shrank to about $15K by Oct 19.",
+   "url": "https://www.rootdata.com/projects/detail/Ithaca%20Protocol?k=MTExNjY%3D"
+  },
+  "bitmind": {
+   "text": "No news in the last 30 days"
+  },
+  "songbird": {
+   "text": "No news in the last 30 days"
+  },
+  "monad": {
+   "text": "The one-year team and investor lock ended on Nov 24, releasing about 16.6B MON; price is down 23% this week and about 57% below the $0.025 public sale price.",
+   "date": "2026-11-24",
+   "url": "https://coinranking.com/news/monad-token-unlock-releases-16-6-billion-mon-november-24"
+  },
+  "acala": {
+   "text": "Acala governance backed shutting the chain down on Feb 10, 2027; native ACA stays on a chain that will stop, so the token is heading to zero.",
+   "date": "2026-11-14",
+   "url": "https://coinranking.com/news/acala-shutdown-referendum-proposes-ending-network-february-10-2027"
+  },
+  "pieverse": {
+   "text": "No clear news behind the 35% jump; it is now above $1B and outside the scanner's size bands."
+  },
+  "radiant-capital": {
+   "text": "No new news; the DAO has been winding down since June 2026 after its 2024 hack, deposits at an all-time low.",
+   "url": "https://cointelegraph.com/news/defi-protocol-radiant-to-wind-down-after-failing-to-recover-from-2024-hack"
+  },
+  "subsquid": {
+   "text": "No dated news found behind the 64x trading spike; scanner now flags the volume as fake-looking."
+  },
+  "grass": {
+   "text": "No news in the last 30 days"
+  },
+  "kamino": {
+   "text": "No news in the last 30 days"
+  },
+  "optimism": {
+   "text": "No news in the last 30 days"
+  },
+  "taohash": {
+   "text": "No news in the last 30 days"
+  },
+  "flamewire": {
+   "text": "No news in the last 30 days"
+  },
+  "origintrail": {
+   "text": "No news in the last 30 days"
+  },
+  "archai": {
+   "text": "No news in the last 30 days"
+  },
+  "stablecorp-qcad": {
+   "text": "No news; it is a regulated Canadian-dollar stablecoin, not a coin to rate."
+  },
+  "punkvism": {
+   "text": "No news in the last 30 days behind the 78% weekly drop."
+  },
+  "orbio-so": {
+   "text": "No news found behind the 54% one-day jump."
+  },
+  "kyo": {
+   "text": "No news in the last 30 days behind the 61% weekly drop."
+  }
+ },
+ "sectorNews": {
+  "AI": "No dated AI-sector news found for the last 7 days; the most recent roundups talk of Bittensor adding EVM support and subnet tokens swinging hard. Five of today's AI coins are Bittensor subnet tokens or tiny AI tags with unexplained trading spikes, which looks like rotation inside thin subnet pools rather than new money.",
+  "DeFi": "DeFi deposits are down about 39% this year, and the Kava Lend exploit on Nov 14 plus Spark's falling deposits kept the mood cautious. That environment hurts small DeFi tokens with shrinking deposits, which describes all three on today's list.",
+  "RWA": "No dated RWA news found this week; the latest roundups (August) had onchain real-world assets flat above $38B. The trend helps real operators like Centrifuge more than old layer-1s that carry an RWA tag, such as Creditcoin.",
+  "Infrastructure": "Layer-1 tokens are weak; Monad's year-one unlock on Nov 24 put about 16.6B tokens in insiders' hands and the price fell 23% this week. That kind of supply overhang weighs on all small base-layer coins competing for the same money."
+ }
+}
