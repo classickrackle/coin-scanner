@@ -1,0 +1,222 @@
+{
+ "date": "2026-11-27",
+ "ratings": {
+  "reppo": "caution",
+  "portal-2": "skip",
+  "compute-horde": "caution",
+  "aergo-2": "caution",
+  "aurora-near": "caution",
+  "star-atlas": "skip",
+  "xraders": "skip",
+  "nexira-daep": "skip",
+  "sodax": "caution",
+  "send-3": "skip",
+  "soil": "caution",
+  "arcs": "skip",
+  "argus-2": "skip",
+  "certik": "skip",
+  "safecoin": "skip",
+  "rei-network": "skip",
+  "neural3d": "caution",
+  "gt-protocol": "skip",
+  "nextplace": "caution",
+  "walrus-2": "caution",
+  "fc-barcelona-fan-token": "caution",
+  "rss3": "skip",
+  "blocklords": "skip",
+  "eywa": "skip",
+  "404-gen": "skip"
+ },
+ "conviction": {
+  "reppo": "low",
+  "compute-horde": "low",
+  "aergo-2": "low",
+  "aurora-near": "low",
+  "sodax": "low",
+  "soil": "low",
+  "neural3d": "low",
+  "nextplace": "low",
+  "walrus-2": "low",
+  "fc-barcelona-fan-token": "low"
+ },
+ "cases": {
+  "reppo": {
+   "upside": "Funded AI data network on Base with a Kraken listing and a small revenue buyback earlier in the year; no dated event ahead that I could find.",
+   "cheap": "Down 84% from its January high with 55% of supply still to unlock, so the market is pricing in future selling, not missing anything.",
+   "wrongIf": "The 34% weekly jump gives back within 7 days, or no project news appears by end of December.",
+   "vsScanner": "Scanner reads 16.8x volume as strength; with no news behind it and a quiet 35-day project, it looks like a one-off spike."
+  },
+  "compute-horde": {
+   "upside": "Real GPU compute subnet with daily code pushes; nothing dated coming.",
+   "cheap": "Bittensor subnet tokens as a group have been sold all year; it trades only on subnet venues, not normal exchanges.",
+   "wrongIf": "Price makes a new low under about $0.90 in the next two weeks.",
+   "vsScanner": "Second volume-spike return in a week with no cause; the spike is not a reason to look again."
+  },
+  "aergo-2": {
+   "upside": "Rebranded Aergo layer-2; swap finished mid-2026; no dated catalyst found.",
+   "cheap": "Only 42% of tokens released, so unlocks weigh on price; not mispriced.",
+   "wrongIf": "Trading drops back to normal within a week with no announcement.",
+   "vsScanner": "Volume spike unexplained; agree only that the project is alive."
+  },
+  "aurora-near": {
+   "upside": "Long-running NEAR-linked chain with a Revolut listing and new CEO at some point this year (date not confirmed); nothing dated ahead.",
+   "cheap": "No reason found it is overlooked; the 36% one-day jump has no news I could find.",
+   "wrongIf": "Price falls back under $0.03 within 7 days.",
+   "vsScanner": "Scanner treats the spike and score jump as news; I find no story, and my 11-09 case was flat (-5%)."
+  },
+  "sodax": {
+   "upside": "The ICON network shuts down on 2026-12-31, which is the last day to swap ICX into SODA; the final swap push could bring attention.",
+   "cheap": "Hardly anyone tracks the new ticker after the migration; but holders forced to migrate may also sell.",
+   "wrongIf": "The 80% weekly jump reverses by mid-December, or the final migration date slips.",
+   "vsScanner": "ATH numbers mix in old ICX history (scanner's January 2026 high vs CoinMarketCap's $0.026 SODA-only high), so the 30x to ATH is wrong; real distance is about 8x.",
+   "catalystDate": "2026-12-31"
+  },
+  "soil": {
+   "upside": "Licensed private-credit lending protocol that expanded to the XRP Ledger in February 2026; no dated token event.",
+   "cheap": "Almost no trading ($47K a day for a $10M coin), so few buyers can even find it.",
+   "wrongIf": "Daily trading stays under $50K through December.",
+   "vsScanner": "Agree with the scanner's low-trading flag; that alone rules out more than caution."
+  },
+  "neural3d": {
+   "upside": "No new catalyst.",
+   "cheap": "Unchanged.",
+   "wrongIf": "Unchanged.",
+   "vsScanner": "No change worth acting on."
+  },
+  "nextplace": {
+   "upside": "No new catalyst.",
+   "cheap": "Unchanged.",
+   "wrongIf": "Price falls below its first-picked level.",
+   "vsScanner": "No change worth acting on."
+  },
+  "walrus-2": {
+   "upside": "No new catalyst.",
+   "cheap": "Unchanged.",
+   "wrongIf": "Unchanged.",
+   "vsScanner": "Small daily move only."
+  },
+  "fc-barcelona-fan-token": {
+   "upside": "No new catalyst.",
+   "cheap": "Unchanged.",
+   "wrongIf": "Unchanged.",
+   "vsScanner": "Small daily move only."
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin on today's list has a verified, dated catalyst plus a believable reason it is mispriced; most are unexplained one-day volume spikes.",
+ "athCheck": {
+  "reppo": "stretch",
+  "portal-2": "unlikely",
+  "compute-horde": "unlikely",
+  "aergo-2": "unlikely",
+  "aurora-near": "unlikely",
+  "star-atlas": "unlikely",
+  "xraders": "unlikely",
+  "nexira-daep": "unlikely",
+  "sodax": "stretch",
+  "send-3": "stretch",
+  "soil": "unlikely"
+ },
+ "lifeCheck": {
+  "reppo": "quiet",
+  "portal-2": "alive",
+  "compute-horde": "alive",
+  "aergo-2": "alive",
+  "aurora-near": "alive",
+  "star-atlas": "quiet",
+  "xraders": "zombie",
+  "nexira-daep": "quiet",
+  "sodax": "alive",
+  "send-3": "quiet",
+  "soil": "quiet"
+ },
+ "news": {
+  "reppo": {
+   "text": "No news in the last 30 days; last items were a $20M funding commitment (April) and a small revenue buyback (July)."
+  },
+  "portal-2": {
+   "text": "No news in the last 30 days for today's 67% jump; similar unexplained pump in June 2026."
+  },
+  "compute-horde": {
+   "text": "No news in the last 30 days specific to the subnet."
+  },
+  "aergo-2": {
+   "text": "No news in the last 30 days; Upbit finished the AERGO-to-HPP swap on 2026-08-03.",
+   "date": "2026-08-03",
+   "url": "https://coinmarketcap.com/cmc-ai/house-party-protocol/latest-updates/"
+  },
+  "aurora-near": {
+   "text": "No dated news in the last 30 days; a Revolut listing and new CEO were reported, date not confirmed.",
+   "url": "https://www.kucoin.com/news/flash/aurora-s-aurora-listed-on-revolut-declan-hannon-appointed-ceo"
+  },
+  "star-atlas": {
+   "text": "No news in the last 30 days."
+  },
+  "xraders": {
+   "text": "No news in the last 30 days."
+  },
+  "nexira-daep": {
+   "text": "No news since its March 2026 launch on KuCoin."
+  },
+  "sodax": {
+   "text": "ICON network shuts down 2026-12-31, the final deadline to swap ICX into SODA; Kraken listed SODA on 2026-08-14.",
+   "date": "2026-08-14",
+   "url": "https://blog.kraken.com/product/asset-listings/soda-is-available-for-trading"
+  },
+  "send-3": {
+   "text": "No news in the last 30 days; could not confirm what the token is."
+  },
+  "soil": {
+   "text": "No news in the last 30 days; expanded to the XRP Ledger in February 2026.",
+   "url": "https://thedefiant.io/news/press-releases/soil-launches-first-compliant-rwa-backed-yield-protocol-on-xrpl-to-unlock-utility-for-rlusd-holders"
+  },
+  "arcs": {
+   "text": "No news found for today's 93% one-day crash."
+  },
+  "argus-2": {
+   "text": "No news found for today's 63% jump."
+  },
+  "certik": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "safecoin": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "rei-network": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "neural3d": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "gt-protocol": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "nextplace": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "walrus-2": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "fc-barcelona-fan-token": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "rss3": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "blocklords": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "eywa": {
+   "text": "No news in the last 30 days that I could find"
+  },
+  "404-gen": {
+   "text": "No news in the last 30 days that I could find"
+  }
+ },
+ "sectorNews": {
+  "AI": "No AI-wide event found this week; small AI and Bittensor subnet tokens keep drifting lower, and today's AI names (REPPO, Compute Horde, HPP) moved on volume spikes without news, which does not help small AI coins.",
+  "Gaming": "No sector-wide news found; small gaming tokens remain far below their highs and rally only in short unexplained pumps (Portal), so the backdrop still hurts small gaming coins.",
+  "DeFi": "No sector-wide news found in one search; the one dated item is ICON's 2026-12-31 shutdown and SODA migration deadline."
+ },
+ "athMcap": {}
+}
