@@ -1,0 +1,238 @@
+{
+ "date": "2026-11-28",
+ "ratings": {
+  "ssv-network": "caution",
+  "tagger": "caution",
+  "bora": "skip",
+  "mintlayer": "skip",
+  "aelf": "skip",
+  "credefi": "skip",
+  "alchemix": "skip",
+  "sturdy-subnet": "skip",
+  "mori-finance-2": "caution",
+  "cookie": "skip",
+  "world-liberty-financial": "skip",
+  "pluton": "skip",
+  "ceek": "skip",
+  "openai-ondo-private-market-note": "skip",
+  "zano": "caution",
+  "buying": "skip",
+  "ast-fun": "skip",
+  "endurance": "skip",
+  "spacehood": "skip",
+  "stonkbroker": "skip",
+  "alien-worlds": "skip",
+  "neartrade-lol": "skip",
+  "heima": "skip",
+  "saros-finance": "skip",
+  "quickswap": "skip",
+  "digitalbits": "skip",
+  "nodecoin": "skip",
+  "astra-nova": "skip",
+  "phoenic-token": "skip",
+  "netx": "caution",
+  "logicnet": "caution"
+ },
+ "conviction": {
+  "ssv-network": "low",
+  "tagger": "low",
+  "mori-finance-2": "low",
+  "zano": "low",
+  "netx": "low",
+  "logicnet": "low"
+ },
+ "cases": {
+  "ssv-network": {
+   "upside": "SSV runs Ethereum's largest distributed-validator network and has real staking use; a DAO partner-program vote around Nov 29 is the only dated item, and it is minor.",
+   "cheap": "It isn't ignored now: up 76% in a week, and SSV Labs proposed cutting new development in October, which explains much of the long slide.",
+   "wrongIf": "The weekly gain fully reverses (back under about $1.60) or the development-cut proposal passes with no new product plan.",
+   "vsScanner": "The scanner's TokoCrypto 'new listing' could not be confirmed, and a 76% week on 4x volume is a spike, not an entry."
+  },
+  "tagger": {
+   "upside": "An AI data-labeling business that says it settles B2B deals in USD1 and buys back TAG with revenue; nothing dated is coming.",
+   "cheap": "Only 27% of tokens are released and a large treasury could sell, so the market discounts it for supply.",
+   "wrongIf": "Trading falls back under $5M a day or the price gives back this week's 42% gain.",
+   "vsScanner": "A 20x volume spike with no news I could find; the score jump is momentum, not a story."
+  },
+  "mori-finance-2": {
+   "upside": "A small working covered-call options product on Solana, fresh out of its MetaDAO sale; a first centralized exchange listing would be the event, but none is announced.",
+   "cheap": "It isn't cheap: it trades near 3.9x its $0.025 sale price and close to its Nov 14 high, on one DEX pool.",
+   "wrongIf": "Price falls back under $0.05, or options volume does not grow past October's level.",
+   "vsScanner": "Scanner sees a +59% week; I see a freshly sold token already far above its sale price with about $120K a day of trading."
+  },
+  "zano": {
+   "upside": "Active privacy chain with a roadmap (mobile wallet and execution layer in Q4 2026, pure proof-of-stake 'Zenith' in Q2 2027), but the dates are soft.",
+   "cheap": "In October a bug let an attacker mint about 36.9M ZANO and the chain was rolled back a month, which hurts trust; privacy coins also face exchange pressure.",
+   "wrongIf": "Any further exploit or rollback, or the Q4 2026 wallet and execution-layer releases slip into 2027.",
+   "vsScanner": "The new listings (XT.COM, Hotcoin, Nonkyc) are tiny venues; the scanner has no flag for the October exploit and rollback, which is the bigger fact."
+  },
+  "netx": {
+   "upside": "Small payments/RWA chain; still no dated upgrade or listing found.",
+   "cheap": "Barely known, two exchanges; no clear reason it is mispriced.",
+   "wrongIf": "No dated upgrade or new listing by end of December, or price falls back under $0.12 (my first-pick level).",
+   "vsScanner": "Up 35% in a day with no news found; my 11-17 'wrong if' has not triggered, but nothing new supports it either."
+  },
+  "logicnet": {
+   "upside": "Subnet 35 (Cartha) powers liquidity for 0xMarkets, whose trading front end is still on testnet; a mainnet launch is the event.",
+   "cheap": "Not cheap: about 7.5x since first picked, in a $390K token with $73K a day of trading.",
+   "wrongIf": "The 0xMarkets exchange is not live on mainnet by end of December 2026.",
+   "vsScanner": "Another +30% day with no new announcement; still a blown-out spike.",
+   "catalystDate": "2026-12"
+  }
+ },
+ "topPicks": [],
+ "topPicksNote": "No coin has a verified, dated catalyst: the strongest names (SSV, Tagger, Mori) already jumped 40-76% this week on unexplained volume, and the rest are zombies, delisted, exploited or not real coins.",
+ "athCheck": {
+  "ssv-network": "unlikely",
+  "tagger": "stretch",
+  "bora": "unlikely",
+  "mintlayer": "unlikely",
+  "aelf": "unlikely",
+  "credefi": "unlikely",
+  "alchemix": "unlikely",
+  "sturdy-subnet": "unlikely",
+  "mori-finance-2": "realistic",
+  "cookie": "unlikely",
+  "world-liberty-financial": "unlikely",
+  "pluton": "unlikely",
+  "ceek": "unlikely",
+  "openai-ondo-private-market-note": "realistic",
+  "zano": "stretch",
+  "buying": "unlikely"
+ },
+ "lifeCheck": {
+  "ssv-network": "alive",
+  "tagger": "alive",
+  "bora": "quiet",
+  "mintlayer": "quiet",
+  "aelf": "quiet",
+  "credefi": "quiet",
+  "alchemix": "alive",
+  "sturdy-subnet": "zombie",
+  "mori-finance-2": "alive",
+  "cookie": "quiet",
+  "world-liberty-financial": "alive",
+  "pluton": "quiet",
+  "ceek": "zombie",
+  "openai-ondo-private-market-note": "alive",
+  "zano": "alive",
+  "buying": "zombie"
+ },
+ "news": {
+  "ssv-network": {
+   "text": "SSV Labs proposed cutting new development to focus on security and maintenance; a DAO partner-program vote was due around Nov 29.",
+   "date": "2026-10",
+   "url": "https://www.hokanews.com/2026/10/ssv-labs-proposes-development-cuts-as.html"
+  },
+  "tagger": {
+   "text": "No news in the last 30 days"
+  },
+  "bora": {
+   "text": "No news in the last 30 days; no announcement of an Upbit Indonesia listing found."
+  },
+  "mintlayer": {
+   "text": "No news in the last 30 days; last updates were the January 2026 hard fork and token migration."
+  },
+  "aelf": {
+   "text": "aelf's public full-node service and block explorer were attacked thousands of times and suspended.",
+   "date": "2026-11-19",
+   "url": "https://www.rootdata.com/news/836918"
+  },
+  "credefi": {
+   "text": "No news in the last 30 days; last item was joining Starknet's privacy cohort in August 2026.",
+   "url": "https://cryptobriefing.com/credi-private-credit-markets-starknet-encrypted/"
+  },
+  "alchemix": {
+   "text": "No news in the last 30 days; price set a new all-time low around Nov 21 after Binance delisted it in June 2026.",
+   "url": "https://defillama.com/token/alcx"
+  },
+  "sturdy-subnet": {
+   "text": "No news in the last 30 days"
+  },
+  "mori-finance-2": {
+   "text": "No news since its MetaDAO sale closed Nov 13 at $0.025 a token.",
+   "date": "2026-11-13",
+   "url": "https://www.bitrue.com/blog/mori-finance-token-sale"
+  },
+  "cookie": {
+   "text": "About 13M COOKIE (1.3% of supply, mostly team and ecosystem) unlocks on Nov 30; project pivoted after shutting its Snaps platform in January.",
+   "date": "2026-11-30",
+   "url": "https://www.coinglass.com/currencies/COOKIE/vesting"
+  },
+  "world-liberty-financial": {
+   "text": "WLFI fell more than 50% to record lows after its reserve wallet sold about $20M of ETH at a loss and Justin Sun called it investor fraud.",
+   "date": "2026-11-28",
+   "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50"
+  },
+  "pluton": {
+   "text": "No news in the last 30 days"
+  },
+  "ceek": {
+   "text": "No news in the last 30 days"
+  },
+  "openai-ondo-private-market-note": {
+   "text": "No news in the last 30 days"
+  },
+  "zano": {
+   "text": "A bug let an attacker mint about 36.9M ZANO and the network rolled back a month of history to remove them.",
+   "date": "2026-10-03",
+   "url": "https://www.fxempire.com/crypto/zano/news"
+  },
+  "buying": {
+   "text": "No news in the last 30 days"
+  },
+  "ast-fun": {
+   "text": "No news found; +58% in a day on a token with no exchange listing."
+  },
+  "endurance": {
+   "text": "No news found; dropped from about 10 exchanges and now flagged for fake-looking volume."
+  },
+  "spacehood": {
+   "text": "No news found"
+  },
+  "stonkbroker": {
+   "text": "No news found"
+  },
+  "alien-worlds": {
+   "text": "No news found; dropped from DigiFinex and Alcor and flagged for fake-looking volume."
+  },
+  "neartrade-lol": {
+   "text": "No news found; trading has stopped."
+  },
+  "heima": {
+   "text": "No news found; volume jumped 16x and is flagged as fake-looking."
+  },
+  "saros-finance": {
+   "text": "No news found"
+  },
+  "quickswap": {
+   "text": "No news found"
+  },
+  "digitalbits": {
+   "text": "No news found; dropped from MEXC."
+  },
+  "nodecoin": {
+   "text": "No news found for a 59% one-day crash."
+  },
+  "astra-nova": {
+   "text": "No news found for a 58% one-day crash."
+  },
+  "phoenic-token": {
+   "text": "No news found for a 46% one-day crash."
+  },
+  "netx": {
+   "text": "No news found for a 35% one-day rise."
+  },
+  "logicnet": {
+   "text": "No new announcement; 0xMarkets trading front end still described as testnet.",
+   "url": "https://taodaily.io/how-cartha-subnet-35-serves-as-the-liquidity-engine-behind-0xmarkets"
+  }
+ },
+ "sectorNews": {
+  "DeFi": "DeFi locked value is down about 39% this year to roughly $70B, and mid-November brought another lending exploit (Kava Lend, about $3.8M) and outflows from Spark. That backdrop hurts small DeFi tokens; money is not rotating into them.",
+  "AI": "I found no clearly dated AI-sector story for the past week; recent recaps describe choppy, mixed weeks with small AI tokens hit hardest in sell-offs. No sector wave is lifting small AI names right now.",
+  "RWA": "Tokenized real-world assets keep growing (about $40B on chain by Nov 18, led by Ondo and Securitize), but the growth goes to large issuers and tokenized funds, not to small RWA tokens like Credefi or Mintlayer.",
+  "Governance": "No sector-specific news; governance tokens move with their underlying projects. Both of today's names (Alchemix, Cookie DAO) are near all-time lows with no governance catalyst."
+ },
+ "athMcap": {}
+}
